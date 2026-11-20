@@ -1,0 +1,7 @@
+PASS: zero initial width waits, then paints when the viewport opens
+PASS: zero initial height waits, then paints when the viewport opens
+PASS: a visible viewport can close and reopen without an empty source or lost painting
+PASS: non-finite and subpixel viewports wait and can recover
+PASS: an ordinary initial viewport retains full-resolution pigment and scenery drawing
+
+Static viewport: 5 passed, 0 failed.

@@ -1,0 +1,118 @@
+PASS: English content tree, fixed rules, route guard, and independent empty progress.
+✔ scripts/check-content.mjs (646.94075ms)
+PASS: fresh gift routes and the real parcel component require the correct code before revealing
+PASS: a saved unlock is explicitly a revisit and never reveals automatically on mounting
+PASS: replaying a saved lock focuses a blank form and wrong codes cannot use the permanent unlock to reveal
+PASS: a correct replay uses the real unlock hook while preserving all questions, envelope and chosen song
+PASS: closing a replay does not reset saved progress or leave a delayed reveal behind
+PASS: reduced-motion replay still validates the code and reveals only after the accepted submission
+PASS: actual App world and gift-entry callbacks always visit the parcel before any saved reveal
+
+Gift entry and replay: 7 passed, 0 failed.
+✔ scripts/check-gift-entry.mjs (1662.870667ms)
+PASS: a fresh or partially answered visit exposes no complete password note
+PASS: solved or packed flags alone cannot reveal answers
+PASS: all four earned digits remain ordered strings, with both zeroes intact
+PASS: packing changes presentation only; it never changes the earned digits
+PASS: a mismatched input, wrong digit or missing submitted digit is not a complete note
+PASS: the note needs exactly four valid questions and rejects malformed records safely
+PASS: independent gift access and song draws cannot award a note
+PASS: reading a note neither mutates progress nor returns a writable reference into it
+
+Gift note lookup: 8 passed, 0 failed.
+✔ scripts/check-gift-note.mjs (767.819291ms)
+PASS: progress chooses desk, packing, music, gift, then quiet without granting any progress
+PASS: closing a music panel at the desk routes from the desk rather than assuming arrival at music
+PASS: music directions work in both directions and end at the existing flower landmark
+PASS: side-path approaches join their nearby trail instead of teleporting or forcing the main centreline
+PASS: the gift journey from music keeps the pond, hollow, arch and hill in order
+PASS: early steps on main trails continue forward rather than turning back to a shortcut
+PASS: the pond bank and stone arch keep the onward main trail instead of skipping the hill
+PASS: a walker deep in a chosen side path continues to its forward end then rejoins the main trail
+PASS: advised trail segments never cut through the pond, even though its graph node is the water centre
+PASS: advice remains finite at all map corners and reachable hints do not precede arrival
+PASS: a shore arrow itself points along dry ground rather than cutting across the curved route
+
+Main route: 11 passed.
+✔ scripts/check-main-route.mjs (1241.296833ms)
+PASS: the next puzzle desk is a clue, not an unvisited return destination
+PASS: the current route reaches the clue, while future destinations remain hidden
+PASS: the first route, lantern marker and label stay inside the map when the player wanders
+PASS: visiting the desk replaces its clue marker with a genuine return button
+PASS: the desk remains current until packed, then music becomes the clue without unseen returns
+PASS: a drawn song points to the gift from the actual position; opened gifts end the main-line clue
+PASS: all return actions correspond exactly to visited areas and never change supplied progress
+PASS: closing the map only closes it and never moves the player
+
+Map guidance component: 8 passed, 0 failed.
+✔ scripts/check-map-guidance.mjs (1325.38875ms)
+PASS: a real approach greets the nearest cap on either side, rather than a fixed first index
+PASS: continued stillness spreads a visible response by spatial distance
+PASS: tiny real-position corrections do not continually cancel stillness
+PASS: crossing a nearest-cap bisector by a few pixels does not flicker the focus
+PASS: walking to a clearly closer cap transfers attention without resetting poses
+PASS: a fast pass creates only local greetings, not the full stationary response
+PASS: departing releases the response, and discovery does not disable a later visit
+PASS: a long rest settles, and movement afterwards still receives a fresh greeting
+PASS: reading freezes everything and returning resumes from the same point
+PASS: rendering or teleporting into the patch cannot accidentally start a full response
+PASS: a replay pulse acts once, remains local, and does not pin the encounter at its start
+PASS: the encounter has comparable pacing at 30, 60, and 120 FPS
+PASS: a suspended or invalid frame cannot skip the quiet period or corrupt state
+PASS: invalid optional speed measurements cannot poison the animation
+PASS: all response phases keep planted feet, fixed height, and bounded subtle lean
+15/15 mushroom listening checks passed.
+✔ scripts/check-mushroom-listening.mjs (1214.627958ms)
+PASS: a real step greets the nearest bird, and choosing one leaves the others at home
+PASS: initial rendering, motionless arrival, and a map teleport cannot fake a real greeting
+PASS: the first quiet invitation completes just one short hop for every possible leader
+PASS: waiting alone cannot carry the guide or the visitor to the door
+PASS: following with continuous steps reaches each resting place in order
+PASS: ordinary uninterrupted 200-unit walking along the actual path does not strand the guide
+PASS: stopping during a later hop gently lands and waits instead of continuing by time
+PASS: leaving keeps the same bird waiting, and returning continues its pending hop
+PASS: reading freezes the complete flight state and resumes without replaying
+PASS: a long frame preserves a half-finished greeting rather than skipping or cancelling it
+PASS: switching back from static mode retains the exact bird position and pending destination
+PASS: a map jump during flight does not move the bird to the visitor or restart its route
+PASS: the final landing stays before the door and produces no puzzle or gift state
+PASS: every landing follows the painted route and remains visible near the door
+PASS: flight timing and complete followability agree at 30, 60, and 120 FPS
+PASS: world position, terrain height, and landing motion remain continuous and finite
+PASS: the invitation and final arrival brake before landing instead of stopping abruptly in mid-air
+PASS: invalid optional speed samples cannot poison the next animation frame
+18/18 paper guide checks passed.
+✔ scripts/check-paper-guide.mjs (1274.809542ms)
+PASS: all four banks respond at the local shore instead of the centre or a fixed corner
+PASS: oblique shore contacts are nearest ellipse points rather than radial shortcuts
+PASS: a stationary mount or map jump cannot create discovery or a ripple
+PASS: following the shore moves new ripple origins while old waves remain anchored
+PASS: rings stay sparse and finite even during quick repeated shoreline travel
+PASS: a quiet pause settles water and petals without repeatedly launching ripples
+PASS: small stopped-position corrections retain stillness rather than turning into a cursor trail
+PASS: reflection presence fades continuously and is independent of the business state
+PASS: nearby petals yield locally, remain inside the water, and move continuously
+PASS: leaving settles off screen and a real return responds at the new bank
+PASS: reading freezes every field and does not consume incoming movement
+PASS: long frames preserve an ongoing response without skipping its lifetime
+PASS: renderer switching preserves the snapshot and cannot replay a greeting while stationary
+PASS: 30, 60 and 120 FPS produce the same spatial encounter and comparable timing
+PASS: invalid input cannot poison the model or mutate earlier snapshots
+15/15 pond listening checks passed.
+✔ scripts/check-pond-listening.mjs (1148.851459ms)
+PASS: points outside the pond remain exactly unchanged in every direction
+PASS: approaching from all four sides stops on the correct bank
+PASS: diagonal and interior destinations use the Euclidean nearest rim
+PASS: diagonal walking slides along the curved bank with both axes free
+PASS: walking directly into the bank stops, reversing leaves immediately, release does not drift
+PASS: saved submerged positions recover to a deterministic rim and preserve approach-side ties
+PASS: near-axis numerical cases stay finite and nonfinite input delegates to existing bounds guards
+✔ scripts/check-walkable-ground.mjs (848.388458ms)
+ℹ tests 9
+ℹ suites 0
+ℹ pass 9
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 1731.354834

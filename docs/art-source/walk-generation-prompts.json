@@ -1,0 +1,46 @@
+{
+  "date": "2026-10-30",
+  "tool": "built-in image_gen",
+  "type": "original generation",
+  "asset": "walk-meadow",
+  "source": "walk-meadow.png",
+  "runtime": "../../public/assets/garden/walk-meadow.webp",
+  "prompt": "Use case: illustration-story.\nAsset type: one original watercolor meadow GROUND MAP for a calm desktop interactive garden, large landscape 4:3 composition.\nPrimary request: a continuous gentle meadow seen in an oblique overhead view about 55 degrees, suitable for free exploration across roughly three screens wide by two screens tall. This is entirely terrain, not a website screenshot.\nScene: quiet pale sage-green grassland and soft blue-gray patches, with a few broad meandering cream footpaths and open clearings. Small low grass tufts, tiny sparse blush-pink wildflower dots, a handful of small pale pebbles, arranged irregularly. Keep the object/detail scale consistent throughout the whole map; no strong perspective convergence and no diminishing scale toward a horizon. Approximately 60% calm softly washed open ground.\nStyle/medium: delicate hand-painted transparent watercolor and subtle matte gouache, visible warm ivory cold-press paper grain throughout the pigment, softly feathered edges between natural ground patches, refined picture-book atmosphere. Restrained muted powder blue, light sage, cream ivory, sparse dusty pink. Airy luminous and gentle, not washed out to blank white.\nComposition: terrain continues to all four image edges. Paths branch and wander but do not dictate a single straight route. A few distinct clearings separated by low grass patches make the landscape navigable. Everything is low to the ground so game sprites can be placed on top later.\nConstraints: NO sky, NO horizon, NO sun or moon, NO characters or rabbits, NO trees or tall objects, NO buildings or doors, NO lanterns, NO UI, NO text, NO borders, NO torn-paper outside frame, NO black vignette. No photorealism, no polished 3D render, no dense flower carpet, no high contrast, no busy little ornaments. Make a new original landscape, do not reproduce any existing game or illustrator's work.",
+  "additionalAssets": [
+    {
+      "asset": "walk-tree",
+      "tool": "built-in image_gen",
+      "type": "original generation",
+      "source": "walk-tree.png",
+      "runtime": "../../public/assets/garden/walk-tree.webp",
+      "prompt": "Use case: illustration-story.\nAsset type: one original transparent watercolor TREE SPRITE for a quiet painterly garden exploration game.\nSubject: ONE small graceful young birch-like tree, a slender softly bending gray-brown trunk with a few fine delicate branches, topped by a loose airy canopy of sparse small leaves. A gentle natural irregular silhouette, no geometric or conical canopy. Beautiful refined soft picture-book watercolor, subtle cold-press paper grain inside the painted marks, pale muted gray sage green with a little powder blue. Light cream daylight, very low contrast. No black outlines.\nComposition: isolated full tree from crown through entire bottom root tip, approximately portrait 2:3 framing, generous transparent padding all four sides. Single upright sprite suitable for a slightly overhead 2.5D ground-view game; trunk base clearly visible and centered near the lower part of the canvas, soft but readable grounding point. The canopy should be sparse and translucent in parts, not a dense giant round blob.\nBackground: genuinely transparent alpha everywhere outside painted tree, including between open branches and leaves. Preserve interior paper-grain texture in painted regions only.\nConstraints: exactly one tree, NO terrain, NO ground wash, NO grass tuft, NO stones, NO mushrooms, NO flowers, NO pot, NO cast shadow, NO backdrop, NO rectangle or white matte, NO glow halo, NO sky, NO text, NO watermark, NO character, no other trees. Original tree design; do not copy the tree shape or visual motifs from any existing game or illustrator.",
+      "alpha": {
+        "mode": "RGBA",
+        "bboxThreshold200": [
+          70,
+          47,
+          965,
+          1486
+        ],
+        "footInsetRatio": 0.032552083333333336,
+        "qaComposite": "walk-tree-alpha-check.jpg"
+      }
+    },
+    {
+      "asset": "walk-meadow-v2",
+      "tool": "built-in image_gen",
+      "type": "edit of original walk-meadow.png",
+      "source": "walk-meadow-v2.png",
+      "runtime": "../../public/assets/garden/walk-meadow-v2.webp",
+      "requestedResolution": [
+        3072,
+        2304
+      ],
+      "actualResolution": [
+        1448,
+        1086
+      ],
+      "prompt": "Use case: precise-object-edit / illustration-story.\nEdit target: the supplied original watercolor meadow ground map.\nProduce a less busy, more distant-view version at as high resolution as possible: ideally 3072 x 2304 pixels, landscape 4:3.\nKeep the same continuous ground-map concept, branching gently curving cream paths, warm ivory paper texture and pale muted sage / powder-blue color family. Preserve terrain continuing to every edge, no sky and no horizon.\nCHANGE: greatly simplify the whole landscape. About 75 percent of the surface should become broad, quiet, softly blended flat fields of pale gray-sage and powder blue with only very fine paper texture, not many visible brush strokes. Reduce the number of separate grass blades, flowers and stones to approximately ONE QUARTER of the current image. Reduce each remaining grass tuft, flower and pebble to approximately ONE THIRD of its current physical size, as if viewing this same area from much farther overhead. Low sparse tiny grass marks can remain in a few short groups along the paths, not continuously outlining every clearing.\nMake the paths softly defined and narrower, with generous quiet clearings. Remove dense vegetation belts, oversized blue-green leaf shapes, yellow-lime greens, saturated outlines and contrasty individual strokes. The main impression should be spacious, dreamy, airy watercolor washes with huge calm unoccupied surfaces, suitable to place large interactive characters and trees above. Let microscopic cold-press texture carry the painted feel, not dense foliage.\nNo new subjects. NO sky, horizon, character, rabbit, tall tree, building, lamp, text, UI, outer border, black vignette or white margin. Do not add ornament. Preserve watercolor softness while decisively reducing density and detail scale."
+    }
+  ]
+}

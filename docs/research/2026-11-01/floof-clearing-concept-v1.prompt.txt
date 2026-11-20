@@ -1,0 +1,23 @@
+Tool: built-in image_gen
+Status: new candidate, not user-approved; not a runtime screenshot
+References: Wayfinder saved gameplay screenshot; beco+81 official PARCO sample 07
+Official sample source: https://publishing.parco.jp/img/pubparco/store/storage/w1008/sirimimi_07.jpg
+
+Create ONE revised concept image for a desktop interactive exploration website, landscape 16:9.
+
+Two reference images are supplied:
+1. Wayfinder gameplay screenshot: use its elevated oblique view of a continuous ground plane, tiny traveller scale, graphic simplified forms and off-frame world. Do not copy its character, interface or actual layout.
+2. beco+81 official illustration sample sheet: use the relationship of a tiny simple character to a large painterly colour field, flat naive drawing, quiet surreal playfulness and restrained matte pigment. Do not copy the rabbit character.
+These are the visual guides. This new concept REPLACES the rejected detailed watercolor countryside illustrations.
+
+Compose an exceptionally restrained, hand-painted, slightly surreal explorable clearing.
+Camera looks downward at a broad softly painted ground. NO horizon line, NO sky, NO mountains. The world extends in every direction.
+Most of the frame is one luminous muted celadon/silver-sage painted surface, with broad uneven dry-gouache brush marks that gently indicate a slope. Another cool desaturated periwinkle ground shape overlaps diagonally, implying a shallow bank. Quiet colour relationships and intentional asymmetry, NOT a smooth computer gradient.
+At the lower left, a close cropped abstract indigo-blue leafy silhouette occupies a small corner; at the upper right a simple deeper sage landform partially occludes what lies beyond. Those overlaps create a navigable space rather than a frame of plants.
+A single little muted pink wildflower on a long crooked stem peeks from the edge of that upper-right bank, providing a distant invitation. Its shape is naive and minimal. Do not add flower beds, gardens of blooms, lamps, structures, trees or other landmarks.
+
+The only character is a SMALL FLOATY FLOOF at roughly 44 percent across and 61 percent down the frame, about 6 percent of frame height: a round irregular cream-white soft furry puff, like a tuft of cotton holding a little moonlight. It is almost a fuzzy warm-white spot, softly frayed painterly edge, dense opaque cream centre, very subtle warm translucency at the edge. Tiny tufts may hint at rabbit-ness but there are NO long ears, NO face, NO eyes, NO paws, NO realistic rabbit anatomy. The user specifically wants a fluffy round light-like companion. A subtle soft blue-grey contact shadow beneath, and a few irregular tiny cotton flecks behind suggest movement. It should be charming and tactile through its SIMPLE silhouette, not through detailed fur or glossy shading.
+
+A soft diagonal wash of warm light crosses the clearing and fades beyond the bank. Only four or five barely visible dust specks catch that light near the character. One small flat brush patch of grass leans toward the floof. The ground remains largely quiet with a limited handful of selective strokes. Air and depth come from overlapping shapes, pigment density, shadow softness and the partly hidden flower. Give it a subtle sense that something waits just out of view.
+Style: original 2D painted game art; matte gouache/pastel with broad visible understated strokes; graphic simple shapes; earthy celadon, faint lilac-blue, small cream-white focal point and one dusty-pink accent. Gentle bright-overcast entry atmosphere, not night.
+No text, no UI, no borders, no panels, no map symbols. No photographic or 3D rendering, no watercolour postcard landscape, no long winding beige road, no sky full of clouds, no detailed grass carpet, no lush garden, no decorative floral borders, no countless sparkles, no photorealistic fur, no toy bunny. Do not turn the blank space into a scenic vista.

@@ -1,0 +1,15 @@
+{
+  "mushroom_real_approach_activates": true,
+  "mushroom_first_visit_has_four_replies": true,
+  "mushroom_caps_open_separately": true,
+  "mushroom_returns_toward_rest": true,
+  "pond_wave_reaches_petals": true,
+  "pond_petals_move": true,
+  "map_stops_environment": true,
+  "mushroom_static_frozen": true,
+  "pond_static_frozen": true,
+  "reading_stops_environment": true,
+  "reading_restores_pose": true,
+  "no_business_progress_changed": true,
+  "no_horizontal_overflow": true
+}

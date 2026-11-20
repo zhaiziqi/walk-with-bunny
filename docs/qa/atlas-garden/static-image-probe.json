@@ -1,0 +1,1202 @@
+[
+  {
+    "opacity": "0.80755",
+    "rect": {
+      "bottom": 534.25,
+      "height": 442.0625,
+      "left": 294.9296875,
+      "right": 535.546875,
+      "top": 92.1875,
+      "width": 240.6171875,
+      "x": 294.9296875,
+      "y": 92.1875
+    },
+    "src": "/assets/garden/walk-tree.webp",
+    "style": "position: absolute; max-width: none; width: 240.62px; height: 442.069px; left: 294.931px; top: 92.1919px; opacity: 0.80755; z-index: 13050; transform: scaleX(-1);",
+    "transform": "matrix(-1, 0, 0, 1, 0, 0)"
+  },
+  {
+    "opacity": "0.691156",
+    "rect": {
+      "bottom": 469.734375,
+      "height": 360.4609375,
+      "left": 627.046875,
+      "right": 812.1484375,
+      "top": 109.2734375,
+      "width": 185.1015625,
+      "x": 627.046875,
+      "y": 109.2734375
+    },
+    "src": "/assets/garden/walk-tree.webp",
+    "style": "position: absolute; max-width: none; width: 185.105px; height: 360.467px; left: 627.049px; top: 109.275px; opacity: 0.691156; z-index: 12700; transform: scaleX(-1);",
+    "transform": "matrix(-1, 0, 0, 1, 0, 0)"
+  },
+  {
+    "opacity": "0.700754",
+    "rect": {
+      "bottom": 458.8125,
+      "height": 339.734375,
+      "left": 84.3046875,
+      "right": 266.4765625,
+      "top": 119.078125,
+      "width": 182.171875,
+      "x": 84.3046875,
+      "y": 119.078125
+    },
+    "src": "/assets/garden/walk-tree.webp",
+    "style": "position: absolute; max-width: none; width: 182.179px; height: 339.739px; left: 84.3049px; top: 119.083px; opacity: 0.700754; z-index: 12720; transform: scaleX(-1);",
+    "transform": "matrix(-1, 0, 0, 1, 0, 0)"
+  },
+  {
+    "opacity": "1",
+    "rect": {
+      "bottom": 974.3984375,
+      "height": 772.203125,
+      "left": -475.71875,
+      "right": -12.3984375,
+      "top": 202.1953125,
+      "width": 463.3203125,
+      "x": -475.71875,
+      "y": 202.1953125
+    },
+    "src": "/assets/garden/atlas-blossom.webp",
+    "style": "position: absolute; max-width: none; width: 463.323px; height: 772.205px; left: -475.721px; top: 202.199px; opacity: 1; z-index: 14270; transform: scaleX(-1);",
+    "transform": "matrix(-1, 0, 0, 1, 0, 0)"
+  },
+  {
+    "opacity": "1",
+    "rect": {
+      "bottom": 846.140625,
+      "height": 611.3515625,
+      "left": 99.578125,
+      "right": 450.3515625,
+      "top": 234.7890625,
+      "width": 350.7734375,
+      "x": 99.578125,
+      "y": 234.7890625
+    },
+    "src": "/assets/garden/atlas-blossom.webp",
+    "style": "position: absolute; max-width: none; width: 350.777px; height: 611.355px; left: 99.5811px; top: 234.795px; opacity: 1; z-index: 14070;",
+    "transform": "none"
+  },
+  {
+    "opacity": "0.23",
+    "rect": {
+      "bottom": 862.0703125,
+      "height": 852.0078125,
+      "left": 683.359375,
+      "right": 1183.203125,
+      "top": 10.0625,
+      "width": 499.84375,
+      "x": 683.359375,
+      "y": 10.0625
+    },
+    "src": "/assets/garden/atlas-blossom.webp",
+    "style": "position: absolute; max-width: none; width: 499.846px; height: 852.011px; left: 683.367px; top: 10.0654px; opacity: 0.23; z-index: 14200; transform: scaleX(-1);",
+    "transform": "matrix(-1, 0, 0, 1, 0, 0)"
+  },
+  {
+    "opacity": "1",
+    "rect": {
+      "bottom": 683.2734375,
+      "height": 652.109375,
+      "left": 1142.828125,
+      "right": 1530.7890625,
+      "top": 31.1640625,
+      "width": 387.9609375,
+      "x": 1142.828125,
+      "y": 31.1640625
+    },
+    "src": "/assets/garden/atlas-blossom.webp",
+    "style": "position: absolute; max-width: none; width: 387.967px; height: 652.115px; left: 1142.83px; top: 31.1662px; opacity: 1; z-index: 13780; transform: scaleX(-1);",
+    "transform": "matrix(-1, 0, 0, 1, 0, 0)"
+  },
+  {
+    "opacity": "0.892838",
+    "rect": {
+      "bottom": 595.2578125,
+      "height": 439.625,
+      "left": 1391.140625,
+      "right": 1642.3515625,
+      "top": 155.6328125,
+      "width": 251.2109375,
+      "x": 1391.140625,
+      "y": 155.6328125
+    },
+    "src": "/assets/garden/atlas-blossom.webp",
+    "style": "position: absolute; max-width: none; width: 251.216px; height: 439.628px; left: 1391.14px; top: 155.639px; opacity: 0.892838; z-index: 13310;",
+    "transform": "none"
+  },
+  {
+    "opacity": "0.764693",
+    "rect": {
+      "bottom": 518.0234375,
+      "height": 328.921875,
+      "left": 1058.9296875,
+      "right": 1239.3046875,
+      "top": 189.1015625,
+      "width": 180.375,
+      "x": 1058.9296875,
+      "y": 189.1015625
+    },
+    "src": "/assets/garden/atlas-blossom.webp",
+    "style": "position: absolute; max-width: none; width: 180.377px; height: 328.923px; left: 1058.94px; top: 189.105px; opacity: 0.764693; z-index: 12930;",
+    "transform": "none"
+  },
+  {
+    "opacity": "1",
+    "rect": {
+      "bottom": 716.734375,
+      "height": 494.1015625,
+      "left": -409.9140625,
+      "right": -129.921875,
+      "top": 222.6328125,
+      "width": 279.9921875,
+      "x": -409.9140625,
+      "y": 222.6328125
+    },
+    "src": "/assets/garden/atlas-blossom.webp",
+    "style": "position: absolute; max-width: none; width: 279.993px; height: 494.105px; left: -409.915px; top: 222.637px; opacity: 1; z-index: 13790; transform: scaleX(-1);",
+    "transform": "matrix(-1, 0, 0, 1, 0, 0)"
+  },
+  {
+    "opacity": "0.702842",
+    "rect": {
+      "bottom": 496.6875,
+      "height": 350.40625,
+      "left": -137.375,
+      "right": 99.515625,
+      "top": 146.28125,
+      "width": 236.890625,
+      "x": -137.375,
+      "y": 146.28125
+    },
+    "src": "/assets/garden/atlas-willow.webp",
+    "style": "position: absolute; max-width: none; width: 236.896px; height: 350.409px; left: -137.379px; top: 146.287px; opacity: 0.702842; z-index: 12750;",
+    "transform": "none"
+  },
+  {
+    "opacity": "0.572144",
+    "rect": {
+      "bottom": 457.4296875,
+      "height": 314.015625,
+      "left": -101.8515625,
+      "right": 108.921875,
+      "top": 143.4140625,
+      "width": 210.7734375,
+      "x": -101.8515625,
+      "y": 143.4140625
+    },
+    "src": "/assets/garden/atlas-willow.webp",
+    "style": "position: absolute; max-width: none; width: 210.779px; height: 314.017px; left: -101.857px; top: 143.419px; opacity: 0.572144; z-index: 12370; transform: scaleX(-1);",
+    "transform": "matrix(-1, 0, 0, 1, 0, 0)"
+  },
+  {
+    "opacity": "0.801278",
+    "rect": {
+      "bottom": 541.3671875,
+      "height": 360.828125,
+      "left": -293.765625,
+      "right": -66.1640625,
+      "top": 180.5390625,
+      "width": 227.6015625,
+      "x": -293.765625,
+      "y": 180.5390625
+    },
+    "src": "/assets/garden/atlas-willow.webp",
+    "style": "position: absolute; max-width: none; width: 227.604px; height: 360.835px; left: -293.769px; top: 180.543px; opacity: 0.801278; z-index: 13040; transform: scaleX(-1);",
+    "transform": "matrix(-1, 0, 0, 1, 0, 0)"
+  },
+  {
+    "opacity": "0.449346",
+    "rect": {
+      "bottom": 440.9296875,
+      "height": 307.078125,
+      "left": 716.8203125,
+      "right": 878.03125,
+      "top": 133.8515625,
+      "width": 161.2109375,
+      "x": 716.8203125,
+      "y": 133.8515625
+    },
+    "src": "/assets/garden/walk-tree.webp",
+    "style": "position: absolute; max-width: none; width: 161.217px; height: 307.081px; left: 716.826px; top: 133.855px; opacity: 0.449346; z-index: 12020;",
+    "transform": "none"
+  },
+  {
+    "opacity": "0.317379",
+    "rect": {
+      "bottom": 419.6875,
+      "height": 292.4375,
+      "left": 664.625,
+      "right": 812.5625,
+      "top": 127.25,
+      "width": 147.9375,
+      "x": 664.625,
+      "y": 127.25
+    },
+    "src": "/assets/garden/walk-tree.webp",
+    "style": "position: absolute; max-width: none; width: 147.94px; height: 292.439px; left: 664.632px; top: 127.255px; opacity: 0.317379; z-index: 11640;",
+    "transform": "none"
+  },
+  {
+    "opacity": "0.463952",
+    "rect": {
+      "bottom": 415.9609375,
+      "height": 349.9453125,
+      "left": 1273.5859375,
+      "right": 1452.4453125,
+      "top": 66.015625,
+      "width": 178.859375,
+      "x": 1273.5859375,
+      "y": 66.015625
+    },
+    "src": "/assets/garden/walk-tree.webp",
+    "style": "position: absolute; max-width: none; width: 178.862px; height: 349.947px; left: 1273.59px; top: 66.0166px; opacity: 0.463952; z-index: 12040;",
+    "transform": "none"
+  },
+  {
+    "opacity": "0.16083",
+    "rect": {
+      "bottom": 390.2421875,
+      "height": 284.90625,
+      "left": 1253.0234375,
+      "right": 1406.1953125,
+      "top": 105.3359375,
+      "width": 153.171875,
+      "x": 1253.0234375,
+      "y": 105.3359375
+    },
+    "src": "/assets/garden/walk-tree.webp",
+    "style": "position: absolute; max-width: none; width: 153.18px; height: 284.914px; left: 1253.03px; top: 105.342px; opacity: 0.16083; z-index: 11180;",
+    "transform": "none"
+  },
+  {
+    "opacity": "0.07",
+    "rect": {
+      "bottom": 367.5,
+      "height": 228.4921875,
+      "left": 1023.2578125,
+      "right": 1140.359375,
+      "top": 139.0078125,
+      "width": 117.1015625,
+      "x": 1023.2578125,
+      "y": 139.0078125
+    },
+    "src": "/assets/garden/walk-tree.webp",
+    "style": "position: absolute; max-width: none; width: 117.103px; height: 228.493px; left: 1023.26px; top: 139.015px; opacity: 0.07; z-index: 10870; transform: scaleX(-1);",
+    "transform": "matrix(-1, 0, 0, 1, 0, 0)"
+  },
+  {
+    "opacity": "0.145535",
+    "rect": {
+      "bottom": 379.484375,
+      "height": 257.640625,
+      "left": -214.1171875,
+      "right": -62.5625,
+      "top": 121.84375,
+      "width": 151.5546875,
+      "x": -214.1171875,
+      "y": 121.84375
+    },
+    "src": "/assets/garden/atlas-willow.webp",
+    "style": "position: absolute; max-width: none; width: 151.558px; height: 257.648px; left: -214.12px; top: 121.849px; opacity: 0.145535; z-index: 11130;",
+    "transform": "none"
+  },
+  {
+    "opacity": "0.72",
+    "rect": {
+      "bottom": 885.0546875,
+      "height": 52.2734375,
+      "left": 149.5625,
+      "right": 184.40625,
+      "top": 832.78125,
+      "width": 34.84375,
+      "x": 149.5625,
+      "y": 832.78125
+    },
+    "src": "/assets/garden/quiet-flower.webp",
+    "style": "position: absolute; max-width: none; width: 34.8491px; height: 52.2736px; left: 149.566px; top: 832.784px; opacity: 0.72; z-index: 14154;",
+    "transform": "none"
+  },
+  {
+    "opacity": "0.72",
+    "rect": {
+      "bottom": 893.7890625,
+      "height": 87.9765625,
+      "left": 8.09375,
+      "right": 66.7421875,
+      "top": 805.8125,
+      "width": 58.6484375,
+      "x": 8.09375,
+      "y": 805.8125
+    },
+    "src": "/assets/garden/quiet-flower.webp",
+    "style": "position: absolute; max-width: none; width: 58.6541px; height: 87.9812px; left: 8.10003px; top: 805.819px; opacity: 0.72; z-index: 14158;",
+    "transform": "none"
+  },
+  {
+    "opacity": "0.72",
+    "rect": {
+      "bottom": 847.9375,
+      "height": 92.5,
+      "left": 160.3125,
+      "right": 221.9765625,
+      "top": 755.4375,
+      "width": 61.6640625,
+      "x": 160.3125,
+      "y": 755.4375
+    },
+    "src": "/assets/garden/quiet-flower.webp",
+    "style": "position: absolute; max-width: none; width: 61.6687px; height: 92.5031px; left: 160.316px; top: 755.438px; opacity: 0.72; z-index: 14081;",
+    "transform": "none"
+  },
+  {
+    "opacity": "0.72",
+    "rect": {
+      "bottom": 938.2265625,
+      "height": 78.5703125,
+      "left": -71.0390625,
+      "right": -18.6640625,
+      "top": 859.65625,
+      "width": 52.375,
+      "x": -71.0390625,
+      "y": 859.65625
+    },
+    "src": "/assets/garden/quiet-flower.webp",
+    "style": "position: absolute; max-width: none; width: 52.3808px; height: 78.5712px; left: -71.0452px; top: 859.656px; opacity: 0.72; z-index: 14236;",
+    "transform": "none"
+  },
+  {
+    "opacity": "0.72",
+    "rect": {
+      "bottom": 858.8125,
+      "height": 79.296875,
+      "left": 32.34375,
+      "right": 85.203125,
+      "top": 779.515625,
+      "width": 52.859375,
+      "x": 32.34375,
+      "y": 779.515625
+    },
+    "src": "/assets/garden/quiet-flower.webp",
+    "style": "position: absolute; max-width: none; width: 52.8659px; height: 79.2988px; left: 32.3453px; top: 779.52px; opacity: 0.72; z-index: 14092;",
+    "transform": "none"
+  },
+  {
+    "opacity": "0.72",
+    "rect": {
+      "bottom": 969.0546875,
+      "height": 66.2734375,
+      "left": 14.453125,
+      "right": 58.6328125,
+      "top": 902.78125,
+      "width": 44.1796875,
+      "x": 14.453125,
+      "y": 902.78125
+    },
+    "src": "/assets/garden/quiet-flower.webp",
+    "style": "position: absolute; max-width: none; width: 44.1827px; height: 66.274px; left: 14.4583px; top: 902.785px; opacity: 0.72; z-index: 14291;",
+    "transform": "none"
+  },
+  {
+    "opacity": "0.72",
+    "rect": {
+      "bottom": 834.9453125,
+      "height": 87.9453125,
+      "left": 261.8046875,
+      "right": 320.4296875,
+      "top": 747,
+      "width": 58.625,
+      "x": 261.8046875,
+      "y": 747
+    },
+    "src": "/assets/garden/quiet-flower.webp",
+    "style": "position: absolute; max-width: none; width: 58.6326px; height: 87.949px; left: 261.812px; top: 747px; opacity: 0.72; z-index: 14070;",
+    "transform": "none"
+  },
+  {
+    "opacity": "0.72",
+    "rect": {
+      "bottom": 825.03125,
+      "height": 71.8359375,
+      "left": 138.828125,
+      "right": 186.71875,
+      "top": 753.1953125,
+      "width": 47.890625,
+      "x": 138.828125,
+      "y": 753.1953125
+    },
+    "src": "/assets/garden/quiet-flower.webp",
+    "style": "position: absolute; max-width: none; width: 47.8919px; height: 71.8378px; left: 138.831px; top: 753.201px; opacity: 0.72; z-index: 14030;",
+    "transform": "none"
+  },
+  {
+    "opacity": "0.72",
+    "rect": {
+      "bottom": 678.546875,
+      "height": 43.5703125,
+      "left": 883.65625,
+      "right": 912.703125,
+      "top": 634.9765625,
+      "width": 29.046875,
+      "x": 883.65625,
+      "y": 634.9765625
+    },
+    "src": "/assets/garden/quiet-flower.webp",
+    "style": "position: absolute; max-width: none; width: 29.0494px; height: 43.5741px; left: 883.659px; top: 634.98px; opacity: 0.72; z-index: 13887;",
+    "transform": "none"
+  },
+  {
+    "opacity": "0.72",
+    "rect": {
+      "bottom": 709.4453125,
+      "height": 78,
+      "left": 888.78125,
+      "right": 940.78125,
+      "top": 631.4453125,
+      "width": 52,
+      "x": 888.78125,
+      "y": 631.4453125
+    },
+    "src": "/assets/garden/quiet-flower.webp",
+    "style": "position: absolute; max-width: none; width: 52.0022px; height: 78.0033px; left: 888.789px; top: 631.447px; opacity: 0.72; z-index: 13974;",
+    "transform": "none"
+  },
+  {
+    "opacity": "0.72",
+    "rect": {
+      "bottom": 664.234375,
+      "height": 51.15625,
+      "left": 970.6484375,
+      "right": 1004.75,
+      "top": 613.078125,
+      "width": 34.1015625,
+      "x": 970.6484375,
+      "y": 613.078125
+    },
+    "src": "/assets/garden/quiet-flower.webp",
+    "style": "position: absolute; max-width: none; width: 34.109px; height: 51.1635px; left: 970.653px; top: 613.082px; opacity: 0.72; z-index: 13855;",
+    "transform": "none"
+  },
+  {
+    "opacity": "0.72",
+    "rect": {
+      "bottom": 698.171875,
+      "height": 83.2734375,
+      "left": 782.84375,
+      "right": 838.359375,
+      "top": 614.8984375,
+      "width": 55.515625,
+      "x": 782.84375,
+      "y": 614.8984375
+    },
+    "src": "/assets/garden/quiet-flower.webp",
+    "style": "position: absolute; max-width: none; width: 55.5182px; height: 83.2773px; left: 782.846px; top: 614.905px; opacity: 0.72; z-index: 13914;",
+    "transform": "none"
+  },
+  {
+    "opacity": "0.72",
+    "rect": {
+      "bottom": 704.046875,
+      "height": 65.0546875,
+      "left": 994.21875,
+      "right": 1037.5859375,
+      "top": 638.9921875,
+      "width": 43.3671875,
+      "x": 994.21875,
+      "y": 638.9921875
+    },
+    "src": "/assets/garden/quiet-flower.webp",
+    "style": "position: absolute; max-width: none; width: 43.3724px; height: 65.0586px; left: 994.223px; top: 639px; opacity: 0.72; z-index: 13974;",
+    "transform": "none"
+  },
+  {
+    "opacity": "0.72",
+    "rect": {
+      "bottom": 730.3828125,
+      "height": 75.7734375,
+      "left": 806.1796875,
+      "right": 856.6953125,
+      "top": 654.609375,
+      "width": 50.515625,
+      "x": 806.1796875,
+      "y": 654.609375
+    },
+    "src": "/assets/garden/quiet-flower.webp",
+    "style": "position: absolute; max-width: none; width: 50.5164px; height: 75.7745px; left: 806.186px; top: 654.612px; opacity: 0.72; z-index: 14004;",
+    "transform": "none"
+  },
+  {
+    "opacity": "0.72",
+    "rect": {
+      "bottom": 671.6328125,
+      "height": 48.7578125,
+      "left": 1047.6953125,
+      "right": 1080.203125,
+      "top": 622.875,
+      "width": 32.5078125,
+      "x": 1047.6953125,
+      "y": 622.875
+    },
+    "src": "/assets/garden/quiet-flower.webp",
+    "style": "position: absolute; max-width: none; width: 32.5093px; height: 48.764px; left: 1047.7px; top: 622.875px; opacity: 0.72; z-index: 13884;",
+    "transform": "none"
+  },
+  {
+    "opacity": "0.72",
+    "rect": {
+      "bottom": 735.4453125,
+      "height": 64.3046875,
+      "left": 949.109375,
+      "right": 991.9765625,
+      "top": 671.140625,
+      "width": 42.8671875,
+      "x": 949.109375,
+      "y": 671.140625
+    },
+    "src": "/assets/garden/quiet-flower.webp",
+    "style": "position: absolute; max-width: none; width: 42.8745px; height: 64.3117px; left: 949.111px; top: 671.147px; opacity: 0.72; z-index: 14037;",
+    "transform": "none"
+  },
+  {
+    "opacity": "0.72",
+    "rect": {
+      "bottom": 649.7109375,
+      "height": 81.1953125,
+      "left": 962.9375,
+      "right": 1017.0703125,
+      "top": 568.515625,
+      "width": 54.1328125,
+      "x": 962.9375,
+      "y": 568.515625
+    },
+    "src": "/assets/garden/quiet-flower.webp",
+    "style": "position: absolute; max-width: none; width: 54.1344px; height: 81.2015px; left: 962.938px; top: 568.519px; opacity: 0.72; z-index: 13784;",
+    "transform": "none"
+  },
+  {
+    "opacity": "0.72",
+    "rect": {
+      "bottom": 724.8046875,
+      "height": 69.7421875,
+      "left": 726.0625,
+      "right": 772.5546875,
+      "top": 655.0625,
+      "width": 46.4921875,
+      "x": 726.0625,
+      "y": 655.0625
+    },
+    "src": "/assets/garden/quiet-flower.webp",
+    "style": "position: absolute; max-width: none; width: 46.4996px; height: 69.7494px; left: 726.065px; top: 655.064px; opacity: 0.72; z-index: 13965;",
+    "transform": "none"
+  },
+  {
+    "opacity": "0.72",
+    "rect": {
+      "bottom": 699.2421875,
+      "height": 47.875,
+      "left": 1082.1796875,
+      "right": 1114.09375,
+      "top": 651.3671875,
+      "width": 31.9140625,
+      "x": 1082.1796875,
+      "y": 651.3671875
+    },
+    "src": "/assets/garden/quiet-flower.webp",
+    "style": "position: absolute; max-width: none; width: 31.917px; height: 47.8755px; left: 1082.18px; top: 651.375px; opacity: 0.72; z-index: 13961;",
+    "transform": "none"
+  },
+  {
+    "opacity": "0.624425",
+    "rect": {
+      "bottom": 580.109375,
+      "height": 18.40625,
+      "left": 1207.5625,
+      "right": 1227.5,
+      "top": 561.703125,
+      "width": 19.9375,
+      "x": 1207.5625,
+      "y": 561.703125
+    },
+    "src": "/assets/garden/root-grass.svg",
+    "style": "position: absolute; max-width: none; width: 19.9453px; height: 18.411px; left: 1207.57px; top: 561.705px; opacity: 0.624425; z-index: 13262;",
+    "transform": "none"
+  },
+  {
+    "opacity": "0.616845",
+    "rect": {
+      "bottom": 576.40625,
+      "height": 24.8203125,
+      "left": 1271.234375,
+      "right": 1304.28125,
+      "top": 551.5859375,
+      "width": 33.046875,
+      "x": 1271.234375,
+      "y": 551.5859375
+    },
+    "src": "/assets/garden/root-grass.svg",
+    "style": "position: absolute; max-width: none; width: 33.0544px; height: 24.8211px; left: 1271.24px; top: 551.587px; opacity: 0.616845; z-index: 13233;",
+    "transform": "none"
+  },
+  {
+    "opacity": "0.604451",
+    "rect": {
+      "bottom": 570.34375,
+      "height": 30.796875,
+      "left": 1157.046875,
+      "right": 1180.140625,
+      "top": 539.546875,
+      "width": 23.09375,
+      "x": 1157.046875,
+      "y": 539.546875
+    },
+    "src": "/assets/garden/root-grass.svg",
+    "style": "position: absolute; max-width: none; width: 23.099px; height: 30.7987px; left: 1157.05px; top: 539.547px; opacity: 0.604451; z-index: 13187;",
+    "transform": "none"
+  },
+  {
+    "opacity": "0.593668",
+    "rect": {
+      "bottom": 558.9765625,
+      "height": 22.0859375,
+      "left": 1252.890625,
+      "right": 1279.3359375,
+      "top": 536.890625,
+      "width": 26.4453125,
+      "x": 1252.890625,
+      "y": 536.890625
+    },
+    "src": "/assets/garden/root-grass.svg",
+    "style": "position: absolute; max-width: none; width: 26.4505px; height: 22.0905px; left: 1252.9px; top: 536.893px; opacity: 0.593668; z-index: 13146;",
+    "transform": "none"
+  },
+  {
+    "opacity": "0.627118",
+    "rect": {
+      "bottom": 585.28125,
+      "height": 30.2109375,
+      "left": 1117.140625,
+      "right": 1158.828125,
+      "top": 555.0703125,
+      "width": 41.6875,
+      "x": 1117.140625,
+      "y": 555.0703125
+    },
+    "src": "/assets/garden/root-grass.svg",
+    "style": "position: absolute; max-width: none; width: 41.6894px; height: 30.2187px; left: 1117.15px; top: 555.076px; opacity: 0.627118; z-index: 13272;",
+    "transform": "none"
+  },
+  {
+    "opacity": "0.584358",
+    "rect": {
+      "bottom": 552.953125,
+      "height": 20.0234375,
+      "left": 1167.859375,
+      "right": 1188.6796875,
+      "top": 532.9296875,
+      "width": 20.8203125,
+      "x": 1167.859375,
+      "y": 532.9296875
+    },
+    "src": "/assets/garden/root-grass.svg",
+    "style": "position: absolute; max-width: none; width: 20.8278px; height: 20.0267px; left: 1167.87px; top: 532.931px; opacity: 0.584358; z-index: 13111;",
+    "transform": "none"
+  },
+  {
+    "opacity": "0.654936",
+    "rect": {
+      "bottom": 601.765625,
+      "height": 29.875,
+      "left": 1183.03125,
+      "right": 1221.03125,
+      "top": 571.890625,
+      "width": 38,
+      "x": 1183.03125,
+      "y": 571.890625
+    },
+    "src": "/assets/garden/root-grass.svg",
+    "style": "position: absolute; max-width: none; width: 38.0007px; height: 29.8809px; left: 1183.04px; top: 571.898px; opacity: 0.654936; z-index: 13375;",
+    "transform": "none"
+  },
+  {
+    "opacity": "0.402381",
+    "rect": {
+      "bottom": 457.2421875,
+      "height": 13.125,
+      "left": -15.1484375,
+      "right": -0.9296875,
+      "top": 444.1171875,
+      "width": 14.21875,
+      "x": -15.1484375,
+      "y": 444.1171875
+    },
+    "src": "/assets/garden/root-grass.svg",
+    "style": "position: absolute; max-width: none; width: 14.2262px; height: 13.1319px; left: -15.1535px; top: 444.119px; opacity: 0.402381; z-index: 12421;",
+    "transform": "none"
+  },
+  {
+    "opacity": "0.421507",
+    "rect": {
+      "bottom": 463.7265625,
+      "height": 18.3984375,
+      "left": -6.8203125,
+      "right": 17.6796875,
+      "top": 445.328125,
+      "width": 24.5,
+      "x": -6.8203125,
+      "y": 445.328125
+    },
+    "src": "/assets/garden/root-grass.svg",
+    "style": "position: absolute; max-width: none; width: 24.5053px; height: 18.4014px; left: -6.82171px; top: 445.336px; opacity: 0.421507; z-index: 12492;",
+    "transform": "none"
+  },
+  {
+    "opacity": "0.382182",
+    "rect": {
+      "bottom": 452.7421875,
+      "height": 22.1796875,
+      "left": 35.9765625,
+      "right": 52.609375,
+      "top": 430.5625,
+      "width": 16.6328125,
+      "x": 35.9765625,
+      "y": 430.5625
+    },
+    "src": "/assets/garden/root-grass.svg",
+    "style": "position: absolute; max-width: none; width: 16.6374px; height: 22.1833px; left: 35.9809px; top: 430.568px; opacity: 0.382182; z-index: 12345;",
+    "transform": "none"
+  },
+  {
+    "opacity": "0.410057",
+    "rect": {
+      "bottom": 455.328125,
+      "height": 16.796875,
+      "left": 54.9453125,
+      "right": 75.0546875,
+      "top": 438.53125,
+      "width": 20.109375,
+      "x": 54.9453125,
+      "y": 438.53125
+    },
+    "src": "/assets/garden/root-grass.svg",
+    "style": "position: absolute; max-width: none; width: 20.1161px; height: 16.8002px; left: 54.9466px; top: 438.538px; opacity: 0.410057; z-index: 12446;",
+    "transform": "none"
+  },
+  {
+    "opacity": "0.379588",
+    "rect": {
+      "bottom": 453.28125,
+      "height": 20.828125,
+      "left": -22.6953125,
+      "right": 6.046875,
+      "top": 432.453125,
+      "width": 28.7421875,
+      "x": -22.6953125,
+      "y": 432.453125
+    },
+    "src": "/assets/garden/root-grass.svg",
+    "style": "position: absolute; max-width: none; width: 28.7444px; height: 20.8355px; left: -22.698px; top: 432.453px; opacity: 0.379588; z-index: 12336;",
+    "transform": "none"
+  },
+  {
+    "opacity": "0.379497",
+    "rect": {
+      "bottom": 448.359375,
+      "height": 14.875,
+      "left": 84.84375,
+      "right": 100.3125,
+      "top": 433.484375,
+      "width": 15.46875,
+      "x": 84.84375,
+      "y": 433.484375
+    },
+    "src": "/assets/garden/root-grass.svg",
+    "style": "position: absolute; max-width: none; width: 15.476px; height: 14.8808px; left: 84.8504px; top: 433.492px; opacity: 0.379497; z-index: 12334;",
+    "transform": "none"
+  },
+  {
+    "opacity": "0.108785",
+    "rect": {
+      "bottom": 392.0546875,
+      "height": 26.1796875,
+      "left": 645.8125,
+      "right": 663.265625,
+      "top": 365.875,
+      "width": 17.453125,
+      "x": 645.8125,
+      "y": 365.875
+    },
+    "src": "/assets/garden/atlas-fern.webp",
+    "style": "position: absolute; max-width: none; width: 17.4566px; height: 26.1849px; left: 645.82px; top: 365.88px; opacity: 0.108785; z-index: 11327;",
+    "transform": "none"
+  },
+  {
+    "opacity": "0.116337",
+    "rect": {
+      "bottom": 394.1640625,
+      "height": 44.296875,
+      "left": 677.5703125,
+      "right": 707.1015625,
+      "top": 349.8671875,
+      "width": 29.53125,
+      "x": 677.5703125,
+      "y": 349.8671875
+    },
+    "src": "/assets/garden/atlas-fern.webp",
+    "style": "position: absolute; max-width: none; width: 29.536px; height: 44.304px; left: 677.571px; top: 349.871px; opacity: 0.116337; z-index: 11355;",
+    "transform": "none"
+  },
+  {
+    "opacity": "0.132106",
+    "rect": {
+      "bottom": 398.8828125,
+      "height": 50.3203125,
+      "left": 625.1015625,
+      "right": 658.6484375,
+      "top": 348.5625,
+      "width": 33.546875,
+      "x": 625.1015625,
+      "y": 348.5625
+    },
+    "src": "/assets/garden/atlas-fern.webp",
+    "style": "position: absolute; max-width: none; width: 33.5511px; height: 50.3266px; left: 625.103px; top: 348.568px; opacity: 0.132106; z-index: 11415;",
+    "transform": "none"
+  },
+  {
+    "opacity": "0.0961271",
+    "rect": {
+      "bottom": 391.15625,
+      "height": 53.8203125,
+      "left": 601.7578125,
+      "right": 637.640625,
+      "top": 337.3359375,
+      "width": 35.8828125,
+      "x": 601.7578125,
+      "y": 337.3359375
+    },
+    "src": "/assets/garden/atlas-fern.webp",
+    "style": "position: absolute; max-width: none; width: 35.8845px; height: 53.8267px; left: 601.758px; top: 337.344px; opacity: 0.0961271; z-index: 11279;",
+    "transform": "none"
+  },
+  {
+    "opacity": "0.138369",
+    "rect": {
+      "bottom": 399.3515625,
+      "height": 43.0859375,
+      "left": 672.8671875,
+      "right": 701.5859375,
+      "top": 356.265625,
+      "width": 28.71875,
+      "x": 672.8671875,
+      "y": 356.265625
+    },
+    "src": "/assets/garden/atlas-fern.webp",
+    "style": "position: absolute; max-width: none; width: 28.7264px; height: 43.0895px; left: 672.868px; top: 356.269px; opacity: 0.138369; z-index: 11439;",
+    "transform": "none"
+  },
+  {
+    "opacity": "0.129058",
+    "rect": {
+      "bottom": 398.3984375,
+      "height": 48.0390625,
+      "left": 590.046875,
+      "right": 622.0703125,
+      "top": 350.359375,
+      "width": 32.0234375,
+      "x": 590.046875,
+      "y": 350.359375
+    },
+    "src": "/assets/garden/atlas-fern.webp",
+    "style": "position: absolute; max-width: none; width: 32.0299px; height: 48.0449px; left: 590.05px; top: 350.36px; opacity: 0.129058; z-index: 11404;",
+    "transform": "none"
+  },
+  {
+    "opacity": "0",
+    "rect": {
+      "bottom": 315.4296875,
+      "height": 22.796875,
+      "left": 176.1640625,
+      "right": 191.359375,
+      "top": 292.6328125,
+      "width": 15.1953125,
+      "x": 176.1640625,
+      "y": 292.6328125
+    },
+    "src": "/assets/garden/atlas-fern.webp",
+    "style": "position: absolute; max-width: none; width: 15.1999px; height: 22.7999px; left: 176.169px; top: 292.636px; opacity: 0; z-index: 10678;",
+    "transform": "none"
+  },
+  {
+    "opacity": "0",
+    "rect": {
+      "bottom": 311.3984375,
+      "height": 37.6015625,
+      "left": 189.984375,
+      "right": 215.046875,
+      "top": 273.796875,
+      "width": 25.0625,
+      "x": 189.984375,
+      "y": 273.796875
+    },
+    "src": "/assets/garden/atlas-fern.webp",
+    "style": "position: absolute; max-width: none; width: 25.0681px; height: 37.6022px; left: 189.988px; top: 273.799px; opacity: 0; z-index: 10589;",
+    "transform": "none"
+  },
+  {
+    "opacity": "0",
+    "rect": {
+      "bottom": 321.3125,
+      "height": 27.375,
+      "left": 143.2734375,
+      "right": 161.5234375,
+      "top": 293.9375,
+      "width": 18.25,
+      "x": 143.2734375,
+      "y": 293.9375
+    },
+    "src": "/assets/garden/atlas-fern.webp",
+    "style": "position: absolute; max-width: none; width: 18.2503px; height: 27.3755px; left: 143.274px; top: 293.945px; opacity: 0; z-index: 10686;",
+    "transform": "none"
+  },
+  {
+    "opacity": "0",
+    "rect": {
+      "bottom": 312.59375,
+      "height": 42.875,
+      "left": 198.09375,
+      "right": 226.6796875,
+      "top": 269.71875,
+      "width": 28.5859375,
+      "x": 198.09375,
+      "y": 269.71875
+    },
+    "src": "/assets/garden/atlas-fern.webp",
+    "style": "position: absolute; max-width: none; width: 28.5869px; height: 42.8804px; left: 198.094px; top: 269.726px; opacity: 0; z-index: 10675;",
+    "transform": "none"
+  },
+  {
+    "opacity": "0",
+    "rect": {
+      "bottom": 314.7734375,
+      "height": 31.1328125,
+      "left": 169.0546875,
+      "right": 189.8046875,
+      "top": 283.640625,
+      "width": 20.75,
+      "x": 169.0546875,
+      "y": 283.640625
+    },
+    "src": "/assets/garden/atlas-fern.webp",
+    "style": "position: absolute; max-width: none; width: 20.7574px; height: 31.136px; left: 169.058px; top: 283.641px; opacity: 0; z-index: 10564;",
+    "transform": "none"
+  },
+  {
+    "opacity": "0",
+    "rect": {
+      "bottom": 323.78125,
+      "height": 48.2109375,
+      "left": 142.8203125,
+      "right": 174.9609375,
+      "top": 275.5703125,
+      "width": 32.140625,
+      "x": 142.8203125,
+      "y": 275.5703125
+    },
+    "src": "/assets/garden/atlas-fern.webp",
+    "style": "position: absolute; max-width: none; width: 32.1414px; height: 48.2121px; left: 142.825px; top: 275.574px; opacity: 0; z-index: 10758;",
+    "transform": "none"
+  },
+  {
+    "opacity": "0",
+    "rect": {
+      "bottom": 307.6015625,
+      "height": 35.765625,
+      "left": 217.4140625,
+      "right": 241.2578125,
+      "top": 271.8359375,
+      "width": 23.84375,
+      "x": 217.4140625,
+      "y": 271.8359375
+    },
+    "src": "/assets/garden/atlas-fern.webp",
+    "style": "position: absolute; max-width: none; width: 23.8482px; height: 35.7723px; left: 217.418px; top: 271.84px; opacity: 0; z-index: 10580;",
+    "transform": "none"
+  },
+  {
+    "opacity": "0",
+    "rect": {
+      "bottom": 322.2421875,
+      "height": 25.265625,
+      "left": 133.609375,
+      "right": 150.453125,
+      "top": 296.9765625,
+      "width": 16.84375,
+      "x": 133.609375,
+      "y": 296.9765625
+    },
+    "src": "/assets/garden/atlas-fern.webp",
+    "style": "position: absolute; max-width: none; width: 16.8457px; height: 25.2686px; left: 133.61px; top: 296.982px; opacity: 0; z-index: 10637;",
+    "transform": "none"
+  },
+  {
+    "opacity": "0",
+    "rect": {
+      "bottom": 309.8671875,
+      "height": 29.0625,
+      "left": 197.3359375,
+      "right": 216.7109375,
+      "top": 280.8046875,
+      "width": 19.375,
+      "x": 197.3359375,
+      "y": 280.8046875
+    },
+    "src": "/assets/garden/atlas-fern.webp",
+    "style": "position: absolute; max-width: none; width: 19.3781px; height: 29.0671px; left: 197.337px; top: 280.805px; opacity: 0; z-index: 10513;",
+    "transform": "none"
+  },
+  {
+    "opacity": "0",
+    "rect": {
+      "bottom": 328.296875,
+      "height": 46.265625,
+      "left": 115.65625,
+      "right": 146.5,
+      "top": 282.03125,
+      "width": 30.84375,
+      "x": 115.65625,
+      "y": 282.03125
+    },
+    "src": "/assets/garden/atlas-fern.webp",
+    "style": "position: absolute; max-width: none; width: 30.845px; height: 46.2675px; left: 115.657px; top: 282.032px; opacity: 0; z-index: 10754;",
+    "transform": "none"
+  },
+  {
+    "opacity": "0",
+    "rect": {
+      "bottom": 308.265625,
+      "height": 34.421875,
+      "left": 228.4453125,
+      "right": 251.390625,
+      "top": 273.84375,
+      "width": 22.9453125,
+      "x": 228.4453125,
+      "y": 273.84375
+    },
+    "src": "/assets/garden/atlas-fern.webp",
+    "style": "position: absolute; max-width: none; width: 22.9494px; height: 34.4241px; left: 228.45px; top: 273.848px; opacity: 0; z-index: 10639;",
+    "transform": "none"
+  },
+  {
+    "opacity": "0",
+    "rect": {
+      "bottom": 318.546875,
+      "height": 23.0546875,
+      "left": 149.4921875,
+      "right": 164.859375,
+      "top": 295.4921875,
+      "width": 15.3671875,
+      "x": 149.4921875,
+      "y": 295.4921875
+    },
+    "src": "/assets/garden/atlas-fern.webp",
+    "style": "position: absolute; max-width: none; width: 15.3739px; height: 23.0608px; left: 149.493px; top: 295.494px; opacity: 0; z-index: 10555;",
+    "transform": "none"
+  },
+  {
+    "opacity": "0",
+    "rect": {
+      "bottom": 326.2265625,
+      "height": 15.6640625,
+      "left": 437.59375,
+      "right": 448.03125,
+      "top": 310.5625,
+      "width": 10.4375,
+      "x": 437.59375,
+      "y": 310.5625
+    },
+    "src": "/assets/garden/quiet-flower.webp",
+    "style": "position: absolute; max-width: none; width: 10.4452px; height: 15.6679px; left: 437.599px; top: 310.563px; opacity: 0; z-index: 10548;",
+    "transform": "none"
+  },
+  {
+    "opacity": "0",
+    "rect": {
+      "bottom": 314.875,
+      "height": 18.328125,
+      "left": 382,
+      "right": 394.21875,
+      "top": 296.546875,
+      "width": 12.21875,
+      "x": 382,
+      "y": 296.546875
+    },
+    "src": "/assets/garden/quiet-flower.webp",
+    "style": "position: absolute; max-width: none; width: 12.219px; height: 18.3284px; left: 382.002px; top: 296.55px; opacity: 0; z-index: 10547;",
+    "transform": "none"
+  },
+  {
+    "opacity": "0",
+    "rect": {
+      "bottom": 325.3203125,
+      "height": 14.859375,
+      "left": 411.8046875,
+      "right": 421.7109375,
+      "top": 310.4609375,
+      "width": 9.90625,
+      "x": 411.8046875,
+      "y": 310.4609375
+    },
+    "src": "/assets/garden/quiet-flower.webp",
+    "style": "position: absolute; max-width: none; width: 9.90811px; height: 14.8622px; left: 411.808px; top: 310.468px; opacity: 0; z-index: 10621;",
+    "transform": "none"
+  },
+  {
+    "opacity": "0.07",
+    "rect": {
+      "bottom": 313.2578125,
+      "height": 151.75,
+      "left": 246.75,
+      "right": 347.9140625,
+      "top": 161.5078125,
+      "width": 101.1640625,
+      "x": 246.75,
+      "y": 161.5078125
+    },
+    "src": "/assets/garden/atlas-arch.webp",
+    "style": "position: absolute; max-width: none; width: 101.169px; height: 151.753px; left: 246.756px; top: 161.514px; opacity: 0.07; z-index: 10620;",
+    "transform": "none"
+  },
+  {
+    "opacity": "1",
+    "rect": {
+      "bottom": 739.5,
+      "height": 176.265625,
+      "left": 518.3984375,
+      "right": 635.90625,
+      "top": 563.234375,
+      "width": 117.5078125,
+      "x": 518.3984375,
+      "y": 563.234375
+    },
+    "src": "/assets/garden/quiet-flower.webp",
+    "style": "position: absolute; max-width: none; width: 117.516px; height: 176.273px; left: 518.402px; top: 563.241px; opacity: 1; z-index: 13920;",
+    "transform": "none"
+  },
+  {
+    "opacity": "0.55",
+    "rect": {
+      "bottom": 744.296875,
+      "height": 36.15625,
+      "left": 541.8984375,
+      "right": 612.40625,
+      "top": 708.140625,
+      "width": 70.5078125,
+      "x": 541.8984375,
+      "y": 708.140625
+    },
+    "src": "/assets/garden/root-grass.svg",
+    "style": "position: absolute; max-width: none; width: 70.5093px; height: 36.1586px; left: 541.905px; top: 708.147px; opacity: 0.55; z-index: 13921;",
+    "transform": "none"
+  }
+]

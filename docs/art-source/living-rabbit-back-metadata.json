@@ -1,0 +1,19 @@
+{
+  "width": 1024,
+  "height": 1536,
+  "mode": "RGBA",
+  "alpha_nonzero_bbox": [
+    0,
+    15,
+    1021,
+    1536
+  ],
+  "alpha_200_bbox": [
+    105,
+    37,
+    977,
+    1483
+  ],
+  "fully_transparent_fraction": 0.5909500122070312,
+  "runtime_bytes": 262782
+}

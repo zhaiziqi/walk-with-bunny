@@ -1,0 +1,15 @@
+{
+  "builtFilesMatched": 51,
+  "contentUnchanged": true,
+  "contentSha256": "976aae6cac292789c9c350d99d1264830af0fb6e2ba93cd4cad3a49202d9a84e",
+  "deskOriginalSha256": "6bfeee38d7050277b6b5f9a9a22e494259593e9100daa299579238b8bb68794a",
+  "deskOriginalUnchanged": true,
+  "archiveSha256": "81db7053cfe7e0af006d2cf9cc974f1e8b3a198b01bdf5c205d62aee462a34fc",
+  "browserEvidenceChecks": {
+    "paperCloseRestoresPose": true,
+    "readingAndMapFreezePose": true,
+    "staticCloseRestoresPose": true,
+    "reverseStops": true,
+    "mainProgressUnchanged": true
+  }
+}

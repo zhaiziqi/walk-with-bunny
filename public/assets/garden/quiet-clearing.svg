@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="220" viewBox="0 0 900 220">
+<defs><radialGradient id="wash"><stop offset="0" stop-color="#aab7a5" stop-opacity=".55"/><stop offset=".5" stop-color="#adb9ac" stop-opacity=".22"/><stop offset="1" stop-color="#bbc5b6" stop-opacity="0"/></radialGradient><filter id="blur"><feGaussianBlur stdDeviation="9"/></filter><filter id="paper"><feTurbulence type="fractalNoise" baseFrequency=".06" numOctaves="3" seed="8" result="noise"/><feDisplacementMap in="SourceGraphic" in2="noise" scale="19" xChannelSelector="R" yChannelSelector="G"/></filter></defs>
+<ellipse cx="450" cy="111" rx="440" ry="95" fill="url(#wash)" filter="url(#paper)"/>
+<path d="M200 116Q370 58 690 114Q451 179 200 116Z" fill="#a2b39c" opacity=".12" filter="url(#blur)"/>
+<g fill="none" stroke="#879a83" stroke-width="1.8" opacity=".3" stroke-linecap="round"><path d="M350 112q-9-14-8-27m8 27q5-18 12-24M476 114q-2-15 5-24m-5 24q-11-15-16-16M533 111q0-19 9-27m-9 27q-8-11-12-13M292 125q-4-13-1-21M603 125q7-14 12-15"/></g>
+</svg>

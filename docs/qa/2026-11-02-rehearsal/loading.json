@@ -1,0 +1,39 @@
+{
+  "recordedAt": "2026-11-02T02:08:43.161Z",
+  "renderer": "webgl",
+  "sharedAssetsSettled": true,
+  "domContentLoadedMs": 94.4,
+  "loadEventMs": 384.6,
+  "firstContentfulPaintMs": 424,
+  "resourceCount": 83,
+  "transferredBytes": 21300,
+  "decodedBytes": 10288265,
+  "slowestResources": [
+    {
+      "path": "/art/floof/painted-ground-material-v1.png",
+      "durationMs": 68.1,
+      "transferBytes": 300
+    },
+    {
+      "path": "/src/scene/AtlasEncounters.tsx",
+      "durationMs": 11.6,
+      "transferBytes": 300
+    },
+    {
+      "path": "/src/scene/GardenAir.tsx",
+      "durationMs": 11.3,
+      "transferBytes": 300
+    },
+    {
+      "path": "/src/scene/gardenWind.ts",
+      "durationMs": 11.3,
+      "transferBytes": 300
+    },
+    {
+      "path": "/src/scene/FloofScenery.tsx",
+      "durationMs": 11.2,
+      "transferBytes": 300
+    }
+  ],
+  "externalResourceOrigins": []
+}

@@ -1,0 +1,11 @@
+PASS: fresh gift routes and the real parcel component require the correct code before revealing
+PASS: a saved unlock is explicitly a revisit and never reveals automatically on mounting
+PASS: replaying a saved lock focuses a blank form and wrong codes cannot use the permanent unlock to reveal
+PASS: a correct replay uses the real unlock hook while preserving all questions, envelope and chosen song
+PASS: closing a replay does not reset saved progress or leave a delayed reveal behind
+PASS: reduced-motion replay still validates the code and reveals only after the accepted submission
+PASS: actual App world and welcome shortcuts always visit the parcel before any saved reveal
+
+Gift entry and replay: 7 passed, 0 failed.
+
+--- stderr ---

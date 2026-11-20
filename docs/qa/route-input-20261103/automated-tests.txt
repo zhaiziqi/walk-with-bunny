@@ -1,0 +1,195 @@
+PASS: an old tab drawing before storage events cannot erase completed questions, envelope or unlock
+PASS: a storage event updates the other mounted tab without an echo write
+PASS: newer pending draft, including a clear, survives an unrelated old-tab draw
+PASS: a deliberate new local draft wins after rebasing, without changing a confirmed digit
+PASS: a queued stale event reads current storage instead of restoring its older song
+PASS: current draw wins intentionally even when its clock is earlier than the saved draw
+PASS: a delayed mount rebases instead of replacing another tab progress with its initial snapshot
+PASS: an old-client overwrite is repaired once, and repeated events converge
+PASS: equivalent confirmed answers with different whitespace never cause a write loop
+PASS: unrelated keys, other storage areas, deletion and unknown schema cannot inject progress
+PASS: failed-write draft survives reading an older stored record and is saved on recovery
+PASS: a failed-write draw survives an older remote result, while a newer remote draw takes over
+PASS: blocked read and write keep commands usable in memory
+PASS: unmount removes the storage listener
+
+Cross-tab progress: 14 passed.
+✔ scripts/check-cross-tab-progress.mjs (201.6125ms)
+PASS: resting wherever the flower hint appears actually opens the flower
+PASS: paper and keep-note prompts only appear while the landmark can be clicked
+PASS: static scenes and the returning butterfly use a path hint, not impossible animation instructions
+PASS: solved questions and a stored envelope never restart the first task
+✔ scripts/check-first-route-guide.mjs (164.155334ms)
+PASS: authoritative speed preserves gait with duplicated and batched position samples
+PASS: the same one-second speed and turn produce matching shapes at 30/60/120 fps
+PASS: rest gives one soft settling cycle and returns to a finite neutral shape
+PASS: reported speed is bounded; invalid speed cannot poison the shape; teleports reset it
+PASS: the real anchor follows every live controller frame without React prop commits
+PASS: reading uses the saved scene position, ignores live motion, and freezes body geometry
+PASS: teleporting the real component clears trailing flecks rather than drawing a long trail
+✔ scripts/check-floof-frame.mjs (307.593042ms)
+PASS: the four-character password preserves its leading zero and allows surrounding whitespace
+PASS: non-string inputs cannot be coerced or padded into a password
+PASS: wrong attempts remain retryable and never change business progress
+PASS: knowing the password on a fresh device unlocks only the gift
+PASS: unlocking preserves partial and completed puzzles plus the last chosen song
+PASS: gift routes are guarded without creating progress or requiring a song
+PASS: refresh restores unlock independently and stores no input or opening animation
+PASS: malformed or legacy fields cannot masquerade as the saved unlock flag
+▲ [WARNING] "import.meta" is not available with the "cjs" output format and will be empty [empty-import-meta]
+
+    src/state/useProgress.ts:11:58:
+      11 │ ...tate(() => browserPreviewProgress(import.meta.env?.DEV === true));
+         ╵                                      ~~~~~~~~~~~
+
+  You need to set the output format to "esm" for "import.meta" to work correctly.
+
+PASS: the real hook saves unlock before dispatch returns and before React commits
+PASS: batched puzzle, unlock and song commands preserve each other before a UI commit
+PASS: a delayed mount effect cannot overwrite an unlock with initial locked state
+PASS: storage refusal still unlocks the real hook in memory without solving the puzzle
+PASS: restoring and rerendering an unlocked gift never invents a puzzle card or song
+
+Gift progress: 13 passed, 0 failed.
+✔ scripts/check-gift-progress.mjs (198.99325ms)
+PASS: progress chooses desk, packing, music, gift, then quiet without granting any progress
+PASS: closing a music panel at the desk routes from the desk rather than assuming arrival at music
+PASS: music directions work in both directions and end at the existing flower landmark
+PASS: side-path approaches join their nearby trail instead of teleporting or forcing the main centreline
+PASS: advised trail segments never cut through the pond, even though its graph node is the water centre
+PASS: advice remains finite at all map corners and reachable hints do not precede arrival
+PASS: a shore arrow itself points along dry ground rather than cutting across the curved route
+
+Main route: 7 passed.
+✔ scripts/check-main-route.mjs (180.609ms)
+PASS: the next puzzle desk is a clue, not an unvisited return destination
+PASS: the current route reaches the clue, while future destinations remain hidden
+PASS: the first route, lantern marker and label stay inside the map when the player wanders
+PASS: visiting the desk replaces its clue marker with a genuine return button
+PASS: the desk remains current until packed, then music becomes the clue without unseen returns
+PASS: a drawn song points to the gift from the actual position; opened gifts end the main-line clue
+PASS: all return actions correspond exactly to visited areas and never change supplied progress
+PASS: closing the map only closes it and never moves the player
+
+Map guidance component: 8 passed, 0 failed.
+✔ scripts/check-map-guidance.mjs (228.477125ms)
+PASS: all nine fixed IDs have equally sized selection intervals, including 1 and 9
+PASS: one active draw takes one song sample and accepts consecutive identical songs
+PASS: invalid injected randomness is rejected rather than biased or silently redrawn
+PASS: recording a song leaves puzzle drafts, completion, envelope and gift state independent
+PASS: a repeated song creates a fresh result, while replaying the same event is a no-op
+PASS: malformed draw commands cannot replace a valid result
+PASS: accepted event data is copied, and extra fields cannot become persisted draw data
+PASS: refresh restores the last result without saving drawing phases or changing progress
+PASS: completed puzzle and stored envelope survive independent music draws and restoration
+PASS: request text uses the current ID and title without interpreting replacement metacharacters
+▲ [WARNING] "import.meta" is not available with the "cjs" output format and will be empty [empty-import-meta]
+
+    src/state/useProgress.ts:11:58:
+      11 │ ...tate(() => browserPreviewProgress(import.meta.env?.DEV === true));
+         ╵                                      ~~~~~~~~~~~
+
+  You need to set the output format to "esm" for "import.meta" to work correctly.
+
+PASS: the real hook saves a draw before dispatch returns, before any React commit or animation
+PASS: batched puzzle and draw commands preserve one another before a UI commit
+PASS: a delayed mount effect cannot overwrite an already saved draw with the initial state
+PASS: storage refusal preserves the actual hook result in memory and permits the next draw
+PASS: restore, rerender and repeated event dispatch do not create or overwrite a draw
+
+Music progress: 15 passed, 0 failed.
+✔ scripts/check-music-progress.mjs (214.092958ms)
+PASS: a panel, UI target, pressed mouse or touch cannot arm hover guidance
+PASS: zero movementX/Y still guides from changing client coordinates
+PASS: the invitation starts after deliberate client travel without any mouse press
+PASS: one event or repeated layout coordinates cannot dismiss the invitation
+PASS: fresh coordinate travel guides immediately after the baseline, without pressing
+PASS: entering or restoring the surface without motion does not start a walk
+PASS: same-position events and tiny noise cannot change the chosen direction
+PASS: a deliberately placed pointer remains active without repeated motion events
+PASS: finger lifts of any duration preserve the chosen direction until explicitly cancelled
+PASS: target smoothing reduces small alternating noise without delaying a deliberate reversal
+PASS: smoothed target catches up consistently at ordinary desktop frame rates
+PASS: sparse strokes and a fixed pointer keep steady intent across desktop frame rates
+PASS: a new diagonal or reverse gesture replaces the chosen pointer direction
+PASS: moving into a control cancels the chosen direction and stale events cannot restart it
+PASS: a one-frame timestamp skew stays fresh; invalid input and large clock errors are rejected
+PASS: zero-button direction persists, then an explicit neutral target brings actor and camera to rest
+PASS: first keyboard hold survives invitation entry, return to beginning and motion-preference changes
+PASS: mounted hook survives input after the RAF timestamp and keeps the placed direction
+PASS: mounted mousemove-only stream works, controls cancel it and fresh motion resumes
+PASS: returning to the little light stops, duplicate coordinates do not restart, and fresh motion resumes
+PASS: mounted hook passes through world hitboxes continuously and still stops for their click
+PASS: wheel alone travels identically over a world object and blank ground in both frame drivers
+PASS: wheel over UI controls, dialog content, blocked scenes or zoom gestures never starts walking
+PASS: movement keys resume directly from restored landmark focus in both frame drivers
+PASS: reading shortcuts retain focus until a walking key hands off to the surface in both frame drivers
+PASS: shortcut activation and traversal keys, modifiers and unrelated controls never start walking
+PASS: reading, an open map and a hidden page block shortcut movement without consuming its key
+PASS: blur and hidden-page cancellation require fresh movement after a shortcut handoff
+PASS: landmark activation keys and UI editing keys retain their defaults without walking
+PASS: walking hands landmark focus to the surface before the landmark leaves the view
+PASS: mounted edge pointer continues for eight seconds with no renewed events or finger movement
+PASS: the drawing frame advances a live sample before React commits, with no second RAF owner
+PASS: render-driven stationary pointer stays continuous until deliberately returned to the little light
+PASS: panel cancellation and exact restoration update the live sample immediately
+PASS: changing frame drivers transfers input without a second RAF or a doubled step
+PASS: a near pointer keeps its slow pace instead of being caught by the moving character and camera
+PASS: desktop clicking blank ground never starts or re-arms a walk
+PASS: leaving the canvas, controls, reading and focus loss cancel a persistent direction safely
+✔ scripts/check-pointer-guidance.mjs (463.671167ms)
+PASS: only explicit development preview links select temporary progress
+PASS: fresh hook never reads or writes a completed normal save
+PASS: refresh resumes temporary partial answers and the completed envelope
+PASS: preview still requires the original code and preserves unlock only in its run
+PASS: different runs and different tab stores do not inherit a prior playthrough
+PASS: normal storage events cannot grant answers or unlock a mounted preview
+PASS: session storage getter failures remain isolated and playable in memory
+PASS: session read or quota errors do not fall back to the saved game
+PASS: a failed session read cannot overwrite an unreadable previous temporary save
+PASS: malformed run URLs remain temporary and corrupted data restores blank
+PASS: normal development pages retain the saved game and cross-tab updates
+PASS: production builds ignore preview URL flags and never access session storage
+
+12 preview progress checks passed.
+✔ scripts/check-preview-progress.mjs (206.067625ms)
+PASS: four original topics independently yield 0, 3, 0, 5
+PASS: fresh question inputs and slip digits are genuinely blank and independent
+PASS: only a single ASCII answer digit is accepted; leading zeros cannot pad a wrong answer
+PASS: wrong answer remains editable and does not add a digit or advance
+PASS: future questions and envelope cannot be completed out of order
+PASS: confirmed digits remain on the slip and cannot be edited by duplicate/stale submits
+PASS: only an explicit envelope action packs completed paper; no gift or song side effects
+PASS: question updates are immutable and reject malformed or oversized draft commands
+PASS: valid partial input, completed slip, and stored envelope survive normalization
+PASS: forged completion flags do not award digits or an envelope
+PASS: damaged middle answer keeps the valid prefix but cannot restore later answers
+PASS: malformed arrays and unknown schema versions remain conservative
+PASS: legacy two-card completion migrates only gift and valid song, never new question completion
+PASS: missing v2 reads v1 once while saving leaves the complete original record untouched
+PASS: existing v2 always wins and a corrupted v2 never silently imports older state
+PASS: blocked storage preserves the current in-memory journey and reports failure
+PASS: saving strips transient or foreign fields and normalizes before writing
+PASS: music and gift stay independent of four-question completion and the envelope
+18 four-question progress and storage checks passed.
+✔ scripts/check-puzzle-progress.mjs (100.106958ms)
+PASS: 90° and 180° turns enter gradually and finish without an angular-speed snap
+PASS: small pointer noise around a 180° reversal preserves the chosen turn arc
+  Route endpoints: 30 fps (489.13, 112.34); 60 fps (485.44, 110.62); 120 fps (483.45, 109.84).
+PASS: a changing route stays close at 30, 60 and 120 fps
+PASS: natural braking begins and ends softly, reaches exact zero, and never resumes by itself
+PASS: an explicit neutral target brakes within 420ms at every tested frame rate
+PASS: braking also eases angular motion instead of freezing a mid-turn heading instantly
+  Camera final moving-frame speed (world units/s): 30 fps 1.159; 60 fps 0.189; 120 fps 0.006.
+PASS: camera settles softly after returning the pointer to neutral and stays still
+PASS: fresh guidance cancels a partial brake without resetting velocity or snapping to full pace
+PASS: invalid values and a stalled render frame cannot create an unbounded step
+✔ scripts/check-turn-stop.mjs (96.335625ms)
+ℹ tests 11
+ℹ suites 0
+ℹ pass 11
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 481.410834

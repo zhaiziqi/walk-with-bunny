@@ -1,0 +1,207 @@
+{
+  "imageSize": [
+    1024,
+    1536
+  ],
+  "mode": "RGBA",
+  "alphaRange": [
+    0,
+    254
+  ],
+  "zeroAlphaFraction": 0.47629547119140625,
+  "worldUnitsPerPixel": 0.46,
+  "frames": [
+    {
+      "direction": "front",
+      "stance": "planted",
+      "crop": [
+        49,
+        12,
+        284,
+        392
+      ],
+      "opaqueBounds": [
+        52,
+        15,
+        281,
+        389
+      ]
+    },
+    {
+      "direction": "front",
+      "stance": "crouch",
+      "crop": [
+        391,
+        65,
+        618,
+        393
+      ],
+      "opaqueBounds": [
+        394,
+        68,
+        615,
+        390
+      ]
+    },
+    {
+      "direction": "front",
+      "stance": "airborne",
+      "crop": [
+        721,
+        12,
+        983,
+        388
+      ],
+      "opaqueBounds": [
+        724,
+        15,
+        980,
+        385
+      ]
+    },
+    {
+      "direction": "right",
+      "stance": "planted",
+      "crop": [
+        70,
+        397,
+        324,
+        754
+      ],
+      "opaqueBounds": [
+        73,
+        400,
+        321,
+        751
+      ]
+    },
+    {
+      "direction": "right",
+      "stance": "crouch",
+      "crop": [
+        394,
+        427,
+        677,
+        754
+      ],
+      "opaqueBounds": [
+        397,
+        430,
+        674,
+        751
+      ]
+    },
+    {
+      "direction": "right",
+      "stance": "airborne",
+      "crop": [
+        732,
+        397,
+        1018,
+        756
+      ],
+      "opaqueBounds": [
+        735,
+        400,
+        1015,
+        753
+      ]
+    },
+    {
+      "direction": "back",
+      "stance": "planted",
+      "crop": [
+        81,
+        763,
+        318,
+        1126
+      ],
+      "opaqueBounds": [
+        84,
+        766,
+        315,
+        1123
+      ]
+    },
+    {
+      "direction": "back",
+      "stance": "crouch",
+      "crop": [
+        417,
+        812,
+        660,
+        1126
+      ],
+      "opaqueBounds": [
+        420,
+        815,
+        657,
+        1123
+      ]
+    },
+    {
+      "direction": "back",
+      "stance": "airborne",
+      "crop": [
+        749,
+        762,
+        1004,
+        1125
+      ],
+      "opaqueBounds": [
+        752,
+        765,
+        1001,
+        1122
+      ]
+    },
+    {
+      "direction": "left",
+      "stance": "planted",
+      "crop": [
+        47,
+        1134,
+        301,
+        1496
+      ],
+      "opaqueBounds": [
+        50,
+        1137,
+        298,
+        1493
+      ]
+    },
+    {
+      "direction": "left",
+      "stance": "crouch",
+      "crop": [
+        374,
+        1165,
+        655,
+        1496
+      ],
+      "opaqueBounds": [
+        377,
+        1168,
+        652,
+        1493
+      ]
+    },
+    {
+      "direction": "left",
+      "stance": "airborne",
+      "crop": [
+        717,
+        1134,
+        1003,
+        1493
+      ],
+      "opaqueBounds": [
+        720,
+        1135,
+        1000,
+        1490
+      ]
+    }
+  ]
+}

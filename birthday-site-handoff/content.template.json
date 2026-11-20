@@ -1,0 +1,185 @@
+{
+  "site": {
+    "title": "留给你的一小片世界",
+    "description": "一座会回应你的花园，藏着信号、音乐和一份想当面交给你的礼物。",
+    "locale": "zh-CN",
+    "welcome": {
+      "title": "留给你的一小片世界",
+      "body": "这里藏了一点东西。\n陪我进去看看？",
+      "startLabel": "走进去看看",
+      "continueLabel": "继续旅程",
+      "musicShortcutLabel": "我来点歌"
+    }
+  },
+  "people": {
+    "recipientName": "",
+    "senderName": ""
+  },
+  "garden": {
+    "direction": "walk-in-garden",
+    "overviewHint": "路边有两段信号，等你读懂。",
+    "approachLabel": "走近看看",
+    "returnLabel": "回到花园",
+    "soundOnLabel": "开启声音",
+    "soundOffLabel": "关闭声音",
+    "landmarks": [
+      {
+        "view": "puzzle",
+        "label": "信号花圃",
+        "hint": "两段等待被读懂的信号。"
+      },
+      {
+        "view": "music",
+        "label": "音乐花圃",
+        "hint": "想听的时候，可以来这里。"
+      },
+      {
+        "view": "lock",
+        "label": "礼物之门",
+        "hint": "有一份礼物，等你来打开。"
+      }
+    ]
+  },
+  "puzzle": {
+    "code": "0305",
+    "key": "1001",
+    "signals": [
+      {
+        "id": "A",
+        "bits": "1010"
+      },
+      {
+        "id": "B",
+        "bits": "1100"
+      }
+    ],
+    "weights": [
+      8,
+      4,
+      2,
+      1
+    ],
+    "segmentDigits": 2,
+    "title": "两段等待被读懂的信号",
+    "rule": "把信号卡和解码片按位置比较：相同，记作0；不同，记作1。",
+    "legend": "0是熄灭，1是亮起。",
+    "decimalInstruction": "把亮灯下的数字加起来，这段信号表示多少？答案会自动保存成两位。",
+    "hintLabel": "给我一点提示",
+    "assistLabel": "带我完成这一段",
+    "keyCardTitle": "这四个数字，留到最后",
+    "keyCardBody": "先把它收好。\n花园深处的那扇门，会用到它。",
+    "transitionText": "这张解码片，还有另一个读法：9。\n接下来，是九首我想弹给你听的曲子。",
+    "transitionLabel": "去音乐花圃"
+  },
+  "music": {
+    "mode": "independent-with-replacement",
+    "title": "想听的时候，就来抽一首",
+    "description": "这里有九首我想弹给你听的曲子。\n今天可以抽，以后的某一天想听了，也可以再来。",
+    "ruleText": "每次都从九首里随机抽取，可能再次遇到同一首。",
+    "invitationText": "想听的时候，把这张卡发给我。可以录给你，也可以找一天当面弹。",
+    "copyTextTemplate": "我抽到了 {{id}} 号《{{title}}》。有空的时候，想听你弹这一首。",
+    "songs": [
+      {
+        "id": 1,
+        "title": "第1首（待填写）",
+        "reason": "",
+        "placeholder": true
+      },
+      {
+        "id": 2,
+        "title": "第2首（待填写）",
+        "reason": "",
+        "placeholder": true
+      },
+      {
+        "id": 3,
+        "title": "第3首（待填写）",
+        "reason": "",
+        "placeholder": true
+      },
+      {
+        "id": 4,
+        "title": "第4首（待填写）",
+        "reason": "",
+        "placeholder": true
+      },
+      {
+        "id": 5,
+        "title": "第5首（待填写）",
+        "reason": "",
+        "placeholder": true
+      },
+      {
+        "id": 6,
+        "title": "第6首（待填写）",
+        "reason": "",
+        "placeholder": true
+      },
+      {
+        "id": 7,
+        "title": "第7首（待填写）",
+        "reason": "",
+        "placeholder": true
+      },
+      {
+        "id": 8,
+        "title": "第8首（待填写）",
+        "reason": "",
+        "placeholder": true
+      },
+      {
+        "id": 9,
+        "title": "第9首（待填写）",
+        "reason": "",
+        "placeholder": true
+      }
+    ],
+    "drawLabel": "让花园替你选一首",
+    "redrawLabel": "再抽一首",
+    "giftLabel": "先去看礼物",
+    "copyLabel": "复制点歌文字"
+  },
+  "gift": {
+    "name": "礼物名称（待填写）",
+    "reason": "",
+    "imageSrc": null,
+    "imageAlt": "为你准备的生日礼物",
+    "deliveryText": "这份礼物，想在见面的时候亲手交给你。",
+    "birthdayMessage": "生日快乐。",
+    "codeMeaning": "0305，是我的生日。\n我把它留在这里，作为这份礼物的署名。",
+    "endingText": "想听音乐的时候，记得这里还有九首曲子。",
+    "placeholder": true,
+    "screenToRealText": "接下来这部分，在屏幕外。",
+    "doorTitle": "最后一份礼物",
+    "openLabel": "打开这扇门",
+    "musicReturnLabel": "回到音乐花圃",
+    "lockHintWithKey": "路刚开始的时候，你已经找到打开它的办法。",
+    "lockHintWithoutKey": "这里需要四位密码。\n如果你已经记得，可以直接打开；也可以去信号花圃寻找线索。"
+  },
+  "theme": {
+    "background": "#D8ECF2",
+    "text": "#253B32",
+    "secondaryText": "#526657",
+    "primary": "#385B41",
+    "accent": "#E8A8BC",
+    "border": "#D7DFC8",
+    "moss": "#6E934B",
+    "sky": "#D8ECF2",
+    "cream": "#FFF8E8",
+    "petal": "#E8A8BC",
+    "sun": "#F3D98B",
+    "lavender": "#C7B8E3"
+  },
+  "assets": {
+    "overviewBackground": null,
+    "foregroundPlants": null,
+    "midgroundHills": null,
+    "distantClouds": null,
+    "signalProps": null,
+    "musicFlowers": null,
+    "giftDoor": null,
+    "fallbackPosterSrc": null,
+    "ambientAudio": null,
+    "invitationAudio": null
+  }
+}

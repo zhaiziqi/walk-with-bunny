@@ -1,0 +1,17 @@
+Browser tab: 26, Title: "Walk with Bunny", URL: "https://walk-with-bunny.vercel.app/?walk=7e0563a7-92ef-4350-b4c1-ae603290db6d#lock".
+1 AXWebArea Walk with Bunny, URL: walk-with-bunny.vercel.app/?walk=7e0563a7-92ef-4350-b4c1-ae603290db6d#lock
+	2 container Something for you.
+		3 text 03  /  The gift
+		4 button Close and return to where you were
+		5 heading Something for you., Value: 1, ID: scene-title
+			6 text Something for you.
+		7 text Four digits, from the puzzle desk.
+		8 container
+			9 text Four-digit code
+			10 text field (settable) Four-digit code, ID: gift-code
+			11 text Enter all four digits, in the order on your note.
+			12 button Open the parcel
+		13 button Return to the garden 
+		14 button Visit the puzzle desk 
+
+The focused UI element is 10 text field (settable) Four-digit code, ID: gift-code

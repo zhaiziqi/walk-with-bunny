@@ -1,0 +1,12 @@
+node_modules/
+dist/
+.pnpm-store/
+.DS_Store
+*.tsbuildinfo
+.env*
+
+# Machine-specific deployment links and generated release copies
+.openai/
+.vercel/
+releases/
+.visual-study-20261113/

@@ -1,0 +1,22 @@
+{
+  "emptyEntry": true,
+  "noDevelopmentUI": true,
+  "noHorizontalOverflow": true,
+  "noBrokenImages": true,
+  "wrongAnswerStaysEmpty": true,
+  "fourDigits": true,
+  "envelopeSurvivesReload": true,
+  "deskReturn": true,
+  "musicReturn": true,
+  "mapPauses": true,
+  "wrongCodeLocked": true,
+  "noteDoesNotFill": true,
+  "giftNamesHidden": true,
+  "giftNamesRevealed": true,
+  "doorReturn": true,
+  "progressReload": true,
+  "directGiftProtected": true,
+  "devQueryIgnored": true,
+  "noBrowserErrors": true,
+  "existingProgressUnchanged": true
+}

@@ -1,0 +1,21 @@
+PASS: all four banks respond at the local shore instead of the centre or a fixed corner
+PASS: oblique shore contacts are nearest ellipse points rather than radial shortcuts
+PASS: a stationary mount or map jump cannot create discovery or a ripple
+PASS: following the shore moves new ripple origins while old waves remain anchored
+PASS: rings stay sparse and finite even during quick repeated shoreline travel
+PASS: a quiet pause settles water and petals without repeatedly launching ripples
+PASS: small stopped-position corrections retain stillness rather than turning into a cursor trail
+PASS: reflection presence fades continuously and is independent of the business state
+PASS: nearby petals yield locally, remain inside the water, and move continuously
+PASS: leaving settles off screen and a real return responds at the new bank
+PASS: reading freezes every field and does not consume incoming movement
+PASS: long frames preserve an ongoing response without skipping its lifetime
+PASS: renderer switching preserves the snapshot and cannot replay a greeting while stationary
+PASS: 30, 60 and 120 FPS produce the same spatial encounter and comparable timing
+PASS: a stopped visitor waits for the visible wave to reach a petal before it moves
+PASS: water carries on after departure and the same wave cannot push a petal twice
+PASS: one identical wave transfers and settles consistently across frame rates
+PASS: invalid input cannot poison the model or mutate earlier snapshots
+18/18 pond listening checks passed.
+
+--- stderr ---

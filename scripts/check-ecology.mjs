@@ -1,0 +1,27 @@
+import assert from 'node:assert/strict';
+import { advanceEncounter, emptyEncounter, butterflyFlight } from '../src/scene/ecology.ts';
+
+let state = emptyEncounter();
+state = advanceEncounter(state, 100, 150, .016, true, false);
+assert.equal(state.visits, 1);
+for (let i = 0; i < 600; i++) state = advanceEncounter(state, 100, 150, .016, false, false);
+assert.equal(state.visits, 1, 'staying nearby must not replay a discovery every frame');
+assert.equal(state.dwell, 4, 'idle response is capped');
+const frozen = advanceEncounter(state, 300, 150, 10, true, true);
+assert.equal(frozen, state, 'reading pauses the encounter exactly');
+state = advanceEncounter(state, 170, 150, .016, false, false);
+assert.equal(state.inside, true, 'boundary hysteresis avoids flickering');
+state = advanceEncounter(state, 210, 150, .016, true, false);
+assert.equal(state.inside, false);
+assert.equal(state.dwell, 0);
+state = advanceEncounter(state, 100, 150, .016, true, false);
+assert.equal(state.visits, 2, 'a later real return may cause a new environmental response');
+state = advanceEncounter(state, 100, 150, 100, false, false);
+assert.equal(state.dwell, .05, 'background resumes cannot skip the quiet wait');
+assert.equal(advanceEncounter(state, 100, 150, NaN, false, false).dwell, .05);
+const from = { x: -120, y: 70 }, to = { x: -300, y: 310 };
+assert.deepEqual(butterflyFlight(from, to, 0), { ...from, lift: 0 });
+const end = butterflyFlight(from, to, 1);
+assert.ok(Math.abs(end.x - to.x) < 1e-8 && Math.abs(end.y - to.y) < 1e-8 && end.lift < 1e-8);
+assert.equal(butterflyFlight(from, to, .5).lift, 95);
+console.log('PASS: local encounter entry, hysteresis, stillness, panel pause, return, frame cap and butterfly flight');

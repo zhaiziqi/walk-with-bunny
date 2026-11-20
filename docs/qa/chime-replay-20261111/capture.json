@@ -1,0 +1,704 @@
+[
+  {
+    "ms": 413,
+    "label": "click E badge",
+    "file": "frame-000.jpg",
+    "chime": {
+      "bellAngle": 0.014,
+      "engaged": true,
+      "noteSerial": 0,
+      "paperAngle": 0.427,
+      "quiet": 61.67,
+      "responseAge": 0.21,
+      "responseStrength": 1,
+      "side": 1,
+      "travel": 0
+    },
+    "focus": "journey-surface",
+    "pulse": "arch:1"
+  },
+  {
+    "ms": 514,
+    "label": "first swing",
+    "file": "frame-001.jpg",
+    "chime": {
+      "bellAngle": 0.048,
+      "engaged": true,
+      "noteSerial": 0,
+      "paperAngle": 0.532,
+      "quiet": 61.8,
+      "responseAge": 0.34,
+      "responseStrength": 1,
+      "side": 1,
+      "travel": 0
+    },
+    "focus": "journey-surface",
+    "pulse": "arch:1"
+  },
+  {
+    "ms": 613,
+    "label": "first swing",
+    "file": "frame-002.jpg",
+    "chime": {
+      "bellAngle": 0.156,
+      "engaged": true,
+      "noteSerial": 0,
+      "paperAngle": 0.515,
+      "quiet": 61.94,
+      "responseAge": 0.48,
+      "responseStrength": 1,
+      "side": 1,
+      "travel": 0
+    },
+    "focus": "journey-surface",
+    "pulse": "arch:1"
+  },
+  {
+    "ms": 723,
+    "label": "first swing",
+    "file": "frame-003.jpg",
+    "chime": {
+      "bellAngle": 0.167,
+      "engaged": true,
+      "noteSerial": 0,
+      "paperAngle": 0.391,
+      "quiet": 62.07,
+      "responseAge": 0.61,
+      "responseStrength": 1,
+      "side": 1,
+      "travel": 0
+    },
+    "focus": "journey-surface",
+    "pulse": "arch:1"
+  },
+  {
+    "ms": 832,
+    "label": "first swing",
+    "file": "frame-004.jpg",
+    "chime": {
+      "bellAngle": 0.167,
+      "engaged": true,
+      "noteSerial": 0,
+      "paperAngle": 0.391,
+      "quiet": 62.07,
+      "responseAge": 0.61,
+      "responseStrength": 1,
+      "side": 1,
+      "travel": 0
+    },
+    "focus": "journey-surface",
+    "pulse": "arch:1"
+  },
+  {
+    "ms": 940,
+    "label": "first swing",
+    "file": "frame-005.jpg",
+    "chime": {
+      "bellAngle": 0.135,
+      "engaged": true,
+      "noteSerial": 0,
+      "paperAngle": 0.215,
+      "quiet": 62.2,
+      "responseAge": 0.74,
+      "responseStrength": 1,
+      "side": 1,
+      "travel": 0
+    },
+    "focus": "journey-surface",
+    "pulse": "arch:1"
+  },
+  {
+    "ms": 1053,
+    "label": "first swing",
+    "file": "frame-006.jpg",
+    "chime": {
+      "bellAngle": 0.077,
+      "engaged": true,
+      "noteSerial": 0,
+      "paperAngle": 0.027,
+      "quiet": 62.32,
+      "responseAge": 0.86,
+      "responseStrength": 1,
+      "side": 1,
+      "travel": 0
+    },
+    "focus": "journey-surface",
+    "pulse": "arch:1"
+  },
+  {
+    "ms": 1198,
+    "label": "first swing",
+    "file": "frame-007.jpg",
+    "chime": {
+      "bellAngle": 0.011,
+      "engaged": true,
+      "noteSerial": 1,
+      "paperAngle": -0.136,
+      "quiet": 62.45,
+      "responseAge": 0.98,
+      "responseStrength": 1,
+      "side": 1,
+      "travel": 0
+    },
+    "focus": "journey-surface",
+    "pulse": "arch:1"
+  },
+  {
+    "ms": 1354,
+    "label": "first swing",
+    "file": "frame-008.jpg",
+    "chime": {
+      "bellAngle": -0.075,
+      "engaged": true,
+      "noteSerial": 1,
+      "paperAngle": -0.292,
+      "quiet": 62.71,
+      "responseAge": 1.24,
+      "responseStrength": 1,
+      "side": 1,
+      "travel": 0
+    },
+    "focus": "journey-surface",
+    "pulse": "arch:1"
+  },
+  {
+    "ms": 1469,
+    "label": "first swing",
+    "file": "frame-009.jpg",
+    "chime": {
+      "bellAngle": -0.075,
+      "engaged": true,
+      "noteSerial": 1,
+      "paperAngle": -0.292,
+      "quiet": 62.71,
+      "responseAge": 1.24,
+      "responseStrength": 1,
+      "side": 1,
+      "travel": 0
+    },
+    "focus": "journey-surface",
+    "pulse": "arch:1"
+  },
+  {
+    "ms": 1598,
+    "label": "first swing",
+    "file": "frame-010.jpg",
+    "chime": {
+      "bellAngle": -0.073,
+      "engaged": true,
+      "noteSerial": 1,
+      "paperAngle": -0.261,
+      "quiet": 62.84,
+      "responseAge": 1.38,
+      "responseStrength": 1,
+      "side": 1,
+      "travel": 0
+    },
+    "focus": "journey-surface",
+    "pulse": "arch:1"
+  },
+  {
+    "ms": 2063,
+    "label": "click E again while active",
+    "file": "frame-011.jpg",
+    "chime": {
+      "bellAngle": 0.024,
+      "engaged": true,
+      "noteSerial": 1,
+      "paperAngle": 0.485,
+      "quiet": 63.37,
+      "responseAge": 0.28,
+      "responseStrength": 1,
+      "side": 1,
+      "travel": 0
+    },
+    "focus": "journey-surface",
+    "pulse": "arch:2"
+  },
+  {
+    "ms": 2194,
+    "label": "repeated swing",
+    "file": "frame-012.jpg",
+    "chime": {
+      "bellAngle": 0.124,
+      "engaged": true,
+      "noteSerial": 1,
+      "paperAngle": 0.525,
+      "quiet": 63.5,
+      "responseAge": 0.41,
+      "responseStrength": 1,
+      "side": 1,
+      "travel": 0
+    },
+    "focus": "journey-surface",
+    "pulse": "arch:2"
+  },
+  {
+    "ms": 2347,
+    "label": "repeated swing",
+    "file": "frame-013.jpg",
+    "chime": {
+      "bellAngle": 0.171,
+      "engaged": true,
+      "noteSerial": 1,
+      "paperAngle": 0.443,
+      "quiet": 63.64,
+      "responseAge": 0.55,
+      "responseStrength": 1,
+      "side": 1,
+      "travel": 0
+    },
+    "focus": "journey-surface",
+    "pulse": "arch:2"
+  },
+  {
+    "ms": 2479,
+    "label": "repeated swing",
+    "file": "frame-014.jpg",
+    "chime": {
+      "bellAngle": 0.158,
+      "engaged": true,
+      "noteSerial": 1,
+      "paperAngle": 0.285,
+      "quiet": 63.77,
+      "responseAge": 0.67,
+      "responseStrength": 1,
+      "side": 1,
+      "travel": 0
+    },
+    "focus": "journey-surface",
+    "pulse": "arch:2"
+  },
+  {
+    "ms": 2644,
+    "label": "repeated swing",
+    "file": "frame-015.jpg",
+    "chime": {
+      "bellAngle": 0.104,
+      "engaged": true,
+      "noteSerial": 1,
+      "paperAngle": 0.082,
+      "quiet": 63.9,
+      "responseAge": 0.81,
+      "responseStrength": 1,
+      "side": 1,
+      "travel": 0
+    },
+    "focus": "journey-surface",
+    "pulse": "arch:2"
+  },
+  {
+    "ms": 2761,
+    "label": "repeated swing",
+    "file": "frame-016.jpg",
+    "chime": {
+      "bellAngle": 0.038,
+      "engaged": true,
+      "noteSerial": 1,
+      "paperAngle": -0.098,
+      "quiet": 64.03,
+      "responseAge": 0.93,
+      "responseStrength": 1,
+      "side": 1,
+      "travel": 0
+    },
+    "focus": "journey-surface",
+    "pulse": "arch:2"
+  },
+  {
+    "ms": 2891,
+    "label": "repeated swing",
+    "file": "frame-017.jpg",
+    "chime": {
+      "bellAngle": -0.03,
+      "engaged": true,
+      "noteSerial": 2,
+      "paperAngle": -0.246,
+      "quiet": 64.16,
+      "responseAge": 1.07,
+      "responseStrength": 1,
+      "side": 1,
+      "travel": 0
+    },
+    "focus": "journey-surface",
+    "pulse": "arch:2"
+  },
+  {
+    "ms": 3029,
+    "label": "repeated swing",
+    "file": "frame-018.jpg",
+    "chime": {
+      "bellAngle": -0.07,
+      "engaged": true,
+      "noteSerial": 2,
+      "paperAngle": -0.313,
+      "quiet": 64.29,
+      "responseAge": 1.2,
+      "responseStrength": 1,
+      "side": 1,
+      "travel": 0
+    },
+    "focus": "journey-surface",
+    "pulse": "arch:2"
+  },
+  {
+    "ms": 3133,
+    "label": "repeated swing",
+    "file": "frame-019.jpg",
+    "chime": {
+      "bellAngle": -0.081,
+      "engaged": true,
+      "noteSerial": 2,
+      "paperAngle": -0.307,
+      "quiet": 64.42,
+      "responseAge": 1.33,
+      "responseStrength": 1,
+      "side": 1,
+      "travel": 0
+    },
+    "focus": "journey-surface",
+    "pulse": "arch:2"
+  },
+  {
+    "ms": 3244,
+    "label": "repeated swing",
+    "file": "frame-020.jpg",
+    "chime": {
+      "bellAngle": -0.063,
+      "engaged": true,
+      "noteSerial": 2,
+      "paperAngle": -0.242,
+      "quiet": 64.55,
+      "responseAge": 1.45,
+      "responseStrength": 1,
+      "side": 1,
+      "travel": 0
+    },
+    "focus": "journey-surface",
+    "pulse": "arch:2"
+  },
+  {
+    "ms": 3389,
+    "label": "keyboard E from focused button",
+    "file": "frame-021.jpg",
+    "chime": {
+      "bellAngle": -0.035,
+      "engaged": true,
+      "noteSerial": 2,
+      "paperAngle": -0.152,
+      "quiet": 64.68,
+      "responseAge": 0.04,
+      "responseStrength": 1,
+      "side": 1,
+      "travel": 0
+    },
+    "focus": "journey-surface",
+    "pulse": "arch:3"
+  },
+  {
+    "ms": 3494,
+    "label": "keyboard swing",
+    "file": "frame-022.jpg",
+    "chime": {
+      "bellAngle": -0.009,
+      "engaged": true,
+      "noteSerial": 2,
+      "paperAngle": 0.235,
+      "quiet": 64.8,
+      "responseAge": 0.16,
+      "responseStrength": 1,
+      "side": 1,
+      "travel": 0
+    },
+    "focus": "journey-surface",
+    "pulse": "arch:3"
+  },
+  {
+    "ms": 3600,
+    "label": "keyboard swing",
+    "file": "frame-023.jpg",
+    "chime": {
+      "bellAngle": 0.012,
+      "engaged": true,
+      "noteSerial": 2,
+      "paperAngle": 0.442,
+      "quiet": 64.93,
+      "responseAge": 0.29,
+      "responseStrength": 1,
+      "side": 1,
+      "travel": 0
+    },
+    "focus": "journey-surface",
+    "pulse": "arch:3"
+  },
+  {
+    "ms": 3705,
+    "label": "keyboard swing",
+    "file": "frame-024.jpg",
+    "chime": {
+      "bellAngle": 0.117,
+      "engaged": true,
+      "noteSerial": 2,
+      "paperAngle": 0.499,
+      "quiet": 65.05,
+      "responseAge": 0.41,
+      "responseStrength": 1,
+      "side": 1,
+      "travel": 0
+    },
+    "focus": "journey-surface",
+    "pulse": "arch:3"
+  },
+  {
+    "ms": 3805,
+    "label": "keyboard swing",
+    "file": "frame-025.jpg",
+    "chime": {
+      "bellAngle": 0.117,
+      "engaged": true,
+      "noteSerial": 2,
+      "paperAngle": 0.499,
+      "quiet": 65.05,
+      "responseAge": 0.41,
+      "responseStrength": 1,
+      "side": 1,
+      "travel": 0
+    },
+    "focus": "journey-surface",
+    "pulse": "arch:3"
+  },
+  {
+    "ms": 3922,
+    "label": "keyboard swing",
+    "file": "frame-026.jpg",
+    "chime": {
+      "bellAngle": 0.166,
+      "engaged": true,
+      "noteSerial": 2,
+      "paperAngle": 0.429,
+      "quiet": 65.18,
+      "responseAge": 0.54,
+      "responseStrength": 1,
+      "side": 1,
+      "travel": 0
+    },
+    "focus": "journey-surface",
+    "pulse": "arch:3"
+  },
+  {
+    "ms": 4027,
+    "label": "keyboard swing",
+    "file": "frame-027.jpg",
+    "chime": {
+      "bellAngle": 0.158,
+      "engaged": true,
+      "noteSerial": 2,
+      "paperAngle": 0.288,
+      "quiet": 65.3,
+      "responseAge": 0.66,
+      "responseStrength": 1,
+      "side": 1,
+      "travel": 0
+    },
+    "focus": "journey-surface",
+    "pulse": "arch:3"
+  },
+  {
+    "ms": 4139,
+    "label": "keyboard swing",
+    "file": "frame-028.jpg",
+    "chime": {
+      "bellAngle": 0.112,
+      "engaged": true,
+      "noteSerial": 2,
+      "paperAngle": 0.096,
+      "quiet": 65.43,
+      "responseAge": 0.79,
+      "responseStrength": 1,
+      "side": 1,
+      "travel": 0
+    },
+    "focus": "journey-surface",
+    "pulse": "arch:3"
+  },
+  {
+    "ms": 4270,
+    "label": "keyboard swing",
+    "file": "frame-029.jpg",
+    "chime": {
+      "bellAngle": 0.048,
+      "engaged": true,
+      "noteSerial": 2,
+      "paperAngle": -0.087,
+      "quiet": 65.56,
+      "responseAge": 0.91,
+      "responseStrength": 1,
+      "side": 1,
+      "travel": 0
+    },
+    "focus": "journey-surface",
+    "pulse": "arch:3"
+  },
+  {
+    "ms": 4430,
+    "label": "keyboard swing",
+    "file": "frame-030.jpg",
+    "chime": {
+      "bellAngle": -0.015,
+      "engaged": true,
+      "noteSerial": 3,
+      "paperAngle": -0.23,
+      "quiet": 65.68,
+      "responseAge": 1.04,
+      "responseStrength": 1,
+      "side": 1,
+      "travel": 0
+    },
+    "focus": "journey-surface",
+    "pulse": "arch:3"
+  },
+  {
+    "ms": 4546,
+    "label": "keyboard swing",
+    "file": "frame-031.jpg",
+    "chime": {
+      "bellAngle": -0.061,
+      "engaged": true,
+      "noteSerial": 3,
+      "paperAngle": -0.313,
+      "quiet": 65.82,
+      "responseAge": 1.18,
+      "responseStrength": 1,
+      "side": 1,
+      "travel": 0
+    },
+    "focus": "journey-surface",
+    "pulse": "arch:3"
+  },
+  {
+    "ms": 4660,
+    "label": "keyboard swing",
+    "file": "frame-032.jpg",
+    "chime": {
+      "bellAngle": -0.074,
+      "engaged": true,
+      "noteSerial": 3,
+      "paperAngle": -0.316,
+      "quiet": 65.95,
+      "responseAge": 1.3,
+      "responseStrength": 1,
+      "side": 1,
+      "travel": 0
+    },
+    "focus": "journey-surface",
+    "pulse": "arch:3"
+  },
+  {
+    "ms": 4808,
+    "label": "keyboard swing",
+    "file": "frame-033.jpg",
+    "chime": {
+      "bellAngle": -0.059,
+      "engaged": true,
+      "noteSerial": 3,
+      "paperAngle": -0.26,
+      "quiet": 66.07,
+      "responseAge": 1.42,
+      "responseStrength": 1,
+      "side": 1,
+      "travel": 0
+    },
+    "focus": "journey-surface",
+    "pulse": "arch:3"
+  },
+  {
+    "ms": 4917,
+    "label": "keyboard swing",
+    "file": "frame-034.jpg",
+    "chime": {
+      "bellAngle": -0.02,
+      "engaged": true,
+      "noteSerial": 3,
+      "paperAngle": -0.151,
+      "quiet": 66.2,
+      "responseAge": 1.56,
+      "responseStrength": 1,
+      "side": 1,
+      "travel": 0
+    },
+    "focus": "journey-surface",
+    "pulse": "arch:3"
+  },
+  {
+    "ms": 5023,
+    "label": "keyboard swing",
+    "file": "frame-035.jpg",
+    "chime": {
+      "bellAngle": 0.025,
+      "engaged": true,
+      "noteSerial": 3,
+      "paperAngle": -0.029,
+      "quiet": 66.33,
+      "responseAge": 1.69,
+      "responseStrength": 1,
+      "side": 1,
+      "travel": 0
+    },
+    "focus": "journey-surface",
+    "pulse": "arch:3"
+  },
+  {
+    "ms": 5140,
+    "label": "keyboard swing",
+    "file": "frame-036.jpg",
+    "chime": {
+      "bellAngle": 0.063,
+      "engaged": true,
+      "noteSerial": 3,
+      "paperAngle": 0.079,
+      "quiet": 66.46,
+      "responseAge": 1.82,
+      "responseStrength": 1,
+      "side": 1,
+      "travel": 0
+    },
+    "focus": "journey-surface",
+    "pulse": "arch:3"
+  },
+  {
+    "ms": 5273,
+    "label": "keyboard swing",
+    "file": "frame-037.jpg",
+    "chime": {
+      "bellAngle": 0.088,
+      "engaged": true,
+      "noteSerial": 3,
+      "paperAngle": 0.162,
+      "quiet": 66.59,
+      "responseAge": 1.95,
+      "responseStrength": 1,
+      "side": 1,
+      "travel": 0
+    },
+    "focus": "journey-surface",
+    "pulse": "arch:3"
+  },
+  {
+    "ms": 5373,
+    "label": "keyboard swing",
+    "file": "frame-038.jpg",
+    "chime": {
+      "bellAngle": 0.092,
+      "engaged": true,
+      "noteSerial": 3,
+      "paperAngle": 0.198,
+      "quiet": 66.72,
+      "responseAge": 2.08,
+      "responseStrength": 1,
+      "side": 1,
+      "travel": 0
+    },
+    "focus": "journey-surface",
+    "pulse": "arch:3"
+  }
+]

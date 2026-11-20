@@ -1,0 +1,17 @@
+{
+  "tree_canopy": {
+    "changed_pixels_over_3_levels": 64386,
+    "pixels": 104000,
+    "mean_channel_change": 11.171
+  },
+  "ground_and_air": {
+    "changed_pixels_over_3_levels": 5342,
+    "pixels": 60000,
+    "mean_channel_change": 0.837
+  },
+  "rabbit": {
+    "changed_pixels_over_3_levels": 528,
+    "pixels": 8550,
+    "mean_channel_change": 0.686
+  }
+}

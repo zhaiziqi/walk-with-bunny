@@ -1,0 +1,147 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="生日花园的视觉参考与设计取舍：简约水彩、空气感、小兔子，以及从明亮入口渐入暮色的探索。">
+  <title>让花园安静下来 · 视觉参考与设计说明</title>
+  <style>
+    :root { color-scheme: light; font-family: "PingFang SC", "Microsoft YaHei", sans-serif; color: #454b55; background: #f7f4ed; }
+    * { box-sizing: border-box; }
+    body { margin: 0; font-size: 15px; line-height: 1.85; }
+    main { width: min(100% - 48px, 1060px); margin: 0 auto; padding: 68px 0 48px; }
+    h1, h2, h3 { font-family: "Songti SC", "STSong", SimSun, serif; font-weight: 400; line-height: 1.4; }
+    h1 { font-size: clamp(30px, 5vw, 46px); margin: 12px 0 16px; letter-spacing: .07em; }
+    h2 { font-size: 25px; margin: 0 0 20px; }
+    h3 { font-size: 21px; margin: 0 0 7px; }
+    p { margin: 0 0 12px; }
+    .eyebrow { color: #73797d; font-size: 11px; letter-spacing: .19em; }
+    .lead { max-width: 700px; font-size: 16px; }
+    .note { color: #70757b; font-size: 12px; }
+    a { color: #596f85; text-underline-offset: 4px; text-decoration-thickness: 1px; }
+    a:hover { color: #8c667b; }
+    a:focus-visible { outline: 2px solid #987b96; outline-offset: 5px; }
+    section { margin-top: 48px; }
+    figure { margin: 0; }
+    figcaption { font-size: 12px; color: #70757b; padding-top: 8px; }
+    .art { display: grid; grid-template-columns: 2.15fr 1fr; align-items: start; gap: 24px; margin-top: 30px; }
+    .art img { display: block; width: 100%; height: auto; }
+    .rabbit { background: #eeeae4; }
+    .rabbit img { aspect-ratio: 4 / 4.5; object-fit: contain; }
+    .palette { display: grid; grid-template-columns: repeat(6, 1fr); gap: 12px; margin: 22px 0 12px; }
+    .swatch { height: 40px; border: 1px solid #454b5512; margin-bottom: 5px; }
+    .palette span { display: block; font-size: 11px; color: #70757b; }
+    ol { margin: 0; padding-left: 23px; }
+    ol li { padding-left: 8px; margin-bottom: 19px; }
+    strong { font-weight: 600; }
+    .reference { display: grid; grid-template-columns: 230px 1fr; gap: 30px; border-top: 1px solid #454b5524; padding: 25px 0; }
+    .reference p:last-child { margin-bottom: 0; }
+    .reference .author { font-size: 12px; color: #70757b; }
+    .source-links { display: flex; flex-wrap: wrap; gap: 5px 20px; font-size: 13px; margin-top: 10px; }
+    .captures { display: grid; grid-template-columns: repeat(3, 1fr); gap: 18px; }
+    .captures img { display: block; width: 100%; height: auto; border: 1px solid #454b5518; }
+    footer { border-top: 1px solid #454b5524; margin-top: 42px; padding-top: 20px; font-size: 12px; color: #70757b; }
+    @media (max-width: 640px) {
+      main { width: calc(100% - 36px); padding-top: 38px; }
+      .art { grid-template-columns: 1fr; gap: 20px; }
+      .rabbit { width: min(65%, 260px); margin: 0 auto; }
+      .palette { grid-template-columns: repeat(3, 1fr); }
+      .reference { grid-template-columns: 1fr; gap: 12px; }
+      .captures { grid-template-columns: 1fr; gap: 24px; }
+    }
+    @media print { main { width: 100%; padding: 0; } .reference, figure, li { break-inside: avoid; } a { color: inherit; } }
+  </style>
+</head>
+<body>
+<main>
+  <header>
+    <div class="eyebrow">生日花园 · 视觉研究 · 2026.10.30</div>
+    <h1>让花园安静下来</h1>
+    <p class="lead">梦幻感来自留白、柔软的笔触和一点尚未揭开的心意。小兔子是故事里的陪伴者；花灯、粉花和小门，在散步时逐一遇见。</p>
+    <p class="note">已确认的方向：明亮的水彩入口，探索后渐入暮色；电脑端采用小兔行走、镜头跟随，松手停下，更接近 Wayfinder 的探索方式。入口原背景已获认可，新增探索地面与整体构图仍待确认。以下记录参考来源与设计取舍，不是视觉验收或功能测试结论。</p>
+  </header>
+
+  <div class="art">
+    <figure>
+      <a href="../../art-source/quiet-garden.png"><img src="../../art-source/quiet-garden.png" width="1448" height="1086" alt="浅蓝与灰紫雾气中的水彩花园，稀疏花草和小径留出大片安静空间"></a>
+      <figcaption>入口底景 · 本项目原创生成素材，已获用户认可的美术方向；探索地面为另行新增的待确认素材。</figcaption>
+    </figure>
+    <figure class="rabbit">
+      <a href="../../art-source/quiet-rabbit.png"><img src="../../art-source/quiet-rabbit.png" width="1024" height="1536" alt="抱着一枝粉色小花、轻轻抬头的原创水彩小白兔"></a>
+      <figcaption>抱花小兔 · 本项目原创生成素材；此处以浅色底展示透明图层。</figcaption>
+    </figure>
+  </div>
+
+  <section aria-labelledby="choices">
+    <h2 id="choices">五个设计取舍</h2>
+    <ol>
+      <li><strong>让大部分画面安静。</strong>入口保留大片浅色天空与雾气，探索地面以柔和草地和空地延续留白。不要用密集花丛、星光和边框填满每处空隙。</li>
+      <li><strong>一屏一个主角。</strong>兔子、花灯、粉花或小门各有自己的空间。走近时出现简短回应，点击才展开对应内容，浏览时只保留必要的短提示。</li>
+      <li><strong>从明亮慢慢走进暮色。</strong>暖纸白、粉蓝、灰绿为底，淡粉用于花与耳尖；探索后逐渐加入灰紫，暖光始终只占很小面积。</li>
+      <li><strong>让兔子拥有一个小情节。</strong>抱一枝花等人、抬头看光，已经足够可爱。使用原创耳形与姿态，不把兔子反复铺成装饰图案，也不照搬既有角色。</li>
+      <li><strong>把呼吸感留给节奏。</strong>按住鼠标引导小兔朝任意方向行走，拖动转向，镜头跟随，松手便停留；花叶轻摆，沿途景物逐渐进入视野。阅读时内容稳定，神秘感由门缝微光和未完全显露的远处产生。</li>
+    </ol>
+    <div class="palette" aria-label="建议色彩关系">
+      <div><div class="swatch" style="background:#f4efe5"></div><span>暖纸白 · #F4EFE5</span></div>
+      <div><div class="swatch" style="background:#b9ced9"></div><span>粉蓝 · #B9CED9</span></div>
+      <div><div class="swatch" style="background:#e5c8ca"></div><span>淡粉 · #E5C8CA</span></div>
+      <div><div class="swatch" style="background:#b7c1b4"></div><span>灰绿 · #B7C1B4</span></div>
+      <div><div class="swatch" style="background:#b4adc2"></div><span>灰紫 · #B4ADC2</span></div>
+      <div><div class="swatch" style="background:#7d8395"></div><span>暮色 · #7D8395</span></div>
+    </div>
+    <p class="note">色票是本项目的配色建议，并非从参考作品精确采样。</p>
+  </section>
+
+  <section aria-labelledby="sources">
+    <h2 id="sources">参考与查阅范围</h2>
+    <article class="reference">
+      <div><h3>SIRIMIMI MAGAZINE</h3><p class="author">beco+81 · PARCO 出版</p></div>
+      <div>
+        <p>借鉴小角色与大色面的比例，以及用一个意外动作讲故事的方式。官方第 07 张样张中，草地上的小兔和天空里的兔子让背景承担情绪。作者也有细节繁复的作品，这里只选取适合本项目的构图。</p>
+        <p class="note">实际查看了 PARCO 官方作品集页面及第 03、07 张样张。官方页面链接的作者账号为 @beco_plus81；Instagram 受登录限制，未完整浏览。用户上传的十张图片作为独立参考，不统一归属于 beco+81。</p>
+        <div class="source-links"><a href="https://publishing.parco.jp/books/detail/?id=516">官方作品集</a><a href="https://publishing.parco.jp/img/pubparco/store/storage/w1008/sirimimi_07.jpg">官方样张 07</a><a href="https://www.instagram.com/beco_plus81/">作者 Instagram</a></div>
+      </div>
+    </article>
+    <article class="reference">
+      <div><h3>Bellwoods</h3><p class="author">Matt DesLauriers<br>协作：Mélissa Hernandez</p></div>
+      <div>
+        <p>借鉴少量界面、开放的色彩空间，以及探索本身就可以成为体验的思路。作者过程文章介绍了从复杂概念转向简单风筝的取舍；本项目独立实现小兔行走与镜头跟随，并保留松手停留，不照搬其持续旋转的控制器。</p>
+        <p class="note">实际打开原站、点击 Start，并拖动一次；查看了首屏和探索画面。没有完整体验所有场景，也未核验声音。</p>
+        <div class="source-links"><a href="https://bellwoods.xyz/">作品原站</a><a href="https://mattdesl.svbtle.com/bellwoods">作者制作过程</a><a href="bellwoods-entry.png">本次查阅：入口</a><a href="bellwoods-explore.png">本次查阅：探索</a></div>
+      </div>
+    </article>
+    <article class="reference">
+      <div><h3>Wayfinder</h3><p class="author">Matt DesLauriers<br>National Film Board of Canada</p></div>
+      <div>
+        <p>参考角色行进、连续发现与环境回应形成的探索节奏：景物随移动进入视野，少量交互便能让空间产生变化。保留本项目已认可的水彩与小兔方向，不复制原作场景或人物。</p>
+        <p class="note">本轮实机观察：在电脑端 1440×900 视口打开原站，按住右上位置约 3.5 秒，看到橙色角色行走、镜头跟随，以及草地和树进入画面；随后左右拖动转向，观察到角色朝向改变。已保存操作前、行进和转向截图。未验证完整收集、诗句生成或声音；这些观察也不代表生日花园的新实现已通过验收。</p>
+        <p class="note">官方资料另行说明：玩家寻找并激活散落的诗意标记，唤出文字，带来花草生长、树叶舒展与鸟蝶出现，收集的文字逐步组成诗句。这部分来自 NFB 的作品介绍，尚未在本轮实机操作中完整验证。</p>
+        <div class="source-links"><a href="https://wayfinder.nfb.ca/">作品原站</a><a href="https://www.canada.ca/en/national-film-board/news/2021/06/what-ageless-tale-is-the-landscape-whispering-today-it-may-never-be-whispered-again-wayfinder-an-animated-interactive-journey-across-the-poetry-of-.html">NFB 官方发布与交互说明</a><a href="https://www.mattdesl.com/">作者作品目录</a><a href="../../qa/wayfinder-desktop/reference-before.png">实机：操作前</a><a href="../../qa/wayfinder-desktop/reference-walk.png">实机：行进</a><a href="../../qa/wayfinder-desktop/reference-turn.png">实机：转向</a></div>
+      </div>
+    </article>
+    <article class="reference">
+      <div><h3>ゆきがやんだら</h3><p class="author">酒井驹子 · Gakken</p></div>
+      <div>
+        <p>借鉴低对比的空间、小兔的尺度和柔软的笔触。安静可以来自角色的等待与停顿；不需要不断发生动作，也不必把整个画面涂得很暗。</p>
+        <p class="note">阅读了学研官方书籍介绍，实际查看了官方内页 01 的图片；未阅读整本绘本。这里是局部视觉研究。</p>
+        <div class="source-links"><a href="https://hon.gakken.jp/book/1020606000">学研官方介绍与样张</a><a href="https://hon.gakken.jp/img/books/352x452/1020606000/01.jpg">官方内页 01</a></div>
+      </div>
+    </article>
+  </section>
+
+  <section aria-labelledby="screens">
+    <h2 id="screens">本项目页面记录</h2>
+    <p class="note">以下是当前电脑端小兔行走版本的实际页面截图，方便对照入口、连续草地与走近发现的构图。入口原背景获认可，新增探索地面仍待确认；截图本身不代表视觉或功能验收。</p>
+    <div class="captures">
+      <figure><a href="../../qa/wayfinder-desktop/01-entry.png"><img loading="lazy" src="../../qa/wayfinder-desktop/01-entry.png" alt="电脑端生日花园入口的实际页面截图"></a><figcaption>01 · 水彩入口</figcaption></figure>
+      <figure><a href="../../qa/wayfinder-desktop/02-walking-meadow.png"><img loading="lazy" src="../../qa/wayfinder-desktop/02-walking-meadow.png" alt="小兔在连续水彩草地中行走的实际页面截图"></a><figcaption>02 · 连续草地</figcaption></figure>
+      <figure><a href="../../qa/wayfinder-desktop/03-discovery.png"><img loading="lazy" src="../../qa/wayfinder-desktop/03-discovery.png" alt="小兔走近物件触发环境发现的实际页面截图"></a><figcaption>03 · 走近发现</figcaption></figure>
+    </div>
+  </section>
+
+  <footer>
+    <p>本页的视觉分析是针对生日花园的设计判断，不代表参考作者的自述。所有线上参考保留作者与来源链接；参考作品仅用于研究，不作为网站运行素材。上方花园与兔子是本项目原创生成素材。</p>
+  </footer>
+</main>
+</body>
+</html>

@@ -1,0 +1,43 @@
+{
+  "chime": {
+    "bellAngle": 0.008,
+    "engaged": false,
+    "noteSerial": 0,
+    "paperAngle": 0.383,
+    "quiet": 0,
+    "responseAge": 0.18,
+    "responseStrength": 1,
+    "side": 1,
+    "travel": 0
+  },
+  "main": {
+    "actorX": "-673.275250",
+    "actorY": "4997.199362",
+    "artVersion": "floof-clearing-v1",
+    "atlasPulse": "arch:1",
+    "cameraX": "-655.305027",
+    "cameraY": "5218.074375",
+    "cameraZoom": "1.000000",
+    "discovered": "",
+    "entered": "true",
+    "envelopeStored": "false",
+    "giftUnlocked": "false",
+    "headingX": "-0.999999",
+    "headingY": "0.001530",
+    "lastDrawId": "",
+    "lastSongId": "",
+    "motionVersion": "point-to-walk-v1",
+    "moving": "false",
+    "progressMode": "saved",
+    "puzzleSolved": "false",
+    "puzzleVersion": "computer-knowledge-v1",
+    "questionsSolved": "0",
+    "region": "arch",
+    "renderer": "webgl",
+    "sound": "off",
+    "storageStatus": "saved",
+    "view": "overview",
+    "visited": "entry,arch",
+    "worldEvents": "trail-passage-3,arch-awake"
+  }
+}

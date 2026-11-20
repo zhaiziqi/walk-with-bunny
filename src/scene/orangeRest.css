@@ -1,0 +1,15 @@
+.orange-rest-target {
+  position: absolute; z-index: 5200; transform: translate(-50%, -50%);
+  padding: 0; border: 0; background: transparent; border-radius: 50%;
+  cursor: pointer; touch-action: manipulation; color: #fff9d9;
+}
+.orange-rest-target[hidden] { display: none; }
+.orange-rest-shimmer {
+  position: absolute; inset: -4px; border-radius: 50%; opacity: 0;
+  border: 1px solid #fff6d48c; box-shadow: 0 0 13px #fff1bf42;
+  transition: opacity .25s;
+}
+.orange-rest-target:hover .orange-rest-shimmer,
+.orange-rest-target:focus-visible .orange-rest-shimmer { opacity: 1; }
+.orange-rest-target:focus-visible { outline: 1px solid #526b62; outline-offset: 5px; }
+.orange-rest-target[data-phase="sip"] .orange-rest-shimmer { opacity: 0; }

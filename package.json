@@ -1,0 +1,28 @@
+{
+  "name": "birthday-secret-garden",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 0.0.0.0",
+    "build": "tsc -b && vite build",
+    "preview": "node scripts/serve-dist.mjs",
+    "check": "tsc -b"
+  },
+  "dependencies": {
+    "@react-three/fiber": "^9.4.0",
+    "gsap": "^3.13.0",
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0",
+    "three": "^0.180.0"
+  },
+  "devDependencies": {
+    "@types/react": "^19.2.0",
+    "@types/react-dom": "^19.2.0",
+    "@types/three": "^0.180.0",
+    "@vitejs/plugin-react": "^5.0.4",
+    "typescript": "~5.9.3",
+    "vite": "^7.1.9"
+  },
+  "packageManager": "pnpm@11.25.0"
+}

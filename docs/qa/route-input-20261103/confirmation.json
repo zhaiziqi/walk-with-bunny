@@ -1,0 +1,12 @@
+{
+  "date": "2026-11-03",
+  "contentSha256": "976aae6cac292789c9c350d99d1264830af0fb6e2ba93cd4cad3a49202d9a84e",
+  "browserAssertionsPassed": 20,
+  "consoleWarningsErrors": [],
+  "userTrackpadConfirmation": "能持续走，也能平滑停下",
+  "hudGapHitTest": {
+    "containerPointerEvents": "none",
+    "buttonPointerEvents": "auto",
+    "gapHit": "journey-surface"
+  }
+}

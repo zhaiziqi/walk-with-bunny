@@ -1,0 +1,5194 @@
+{
+  "invalidObservation": {
+    "index": 1,
+    "reason": "Used the music panel camera instead of the pre-open garden camera as a baseline. Superseded by corrected pre-open/close check, which passes."
+  },
+  "checks": [
+    {
+      "check": "reading pauses pond and movement",
+      "pass": true,
+      "before": {
+        "main": {
+          "actorX": "-1287.669697",
+          "actorY": "2910.129782",
+          "artVersion": "floof-clearing-v1",
+          "atlasPulse": "",
+          "cameraX": "1323.512177",
+          "cameraY": "2320.000000",
+          "cameraZoom": "1.180000",
+          "discovered": "",
+          "entered": "true",
+          "envelopeStored": "false",
+          "giftUnlocked": "false",
+          "headingX": "-0.999999",
+          "headingY": "0.001545",
+          "lastDrawId": "",
+          "lastSongId": "",
+          "motionVersion": "point-to-walk-v1",
+          "moving": "false",
+          "progressMode": "saved",
+          "puzzleSolved": "false",
+          "puzzleVersion": "computer-knowledge-v1",
+          "questionsSolved": "0",
+          "region": "pond",
+          "renderer": "webgl",
+          "sound": "off",
+          "storageStatus": "saved",
+          "view": "music",
+          "visited": "entry,pond",
+          "worldEvents": "pond-lilies"
+        },
+        "pond": {
+          "calm": 1,
+          "discovered": true,
+          "dream": {
+            "coastStarted": true,
+            "engaged": true,
+            "phase": "rest",
+            "playfulness": 1,
+            "presence": 1,
+            "quiet": 20,
+            "reflection": {
+              "vx": 0,
+              "vy": 0,
+              "x": -1319.117,
+              "y": 3125.481
+            },
+            "target": {
+              "x": -1319.118,
+              "y": 3125.481
+            },
+            "time": 93.601,
+            "trail": []
+          },
+          "engaged": true,
+          "petals": [
+            {
+              "lift": 0,
+              "rotation": 0.7,
+              "speed": 0,
+              "x": -1305,
+              "y": 3130
+            },
+            {
+              "lift": 0,
+              "rotation": 2.4,
+              "speed": 0,
+              "x": -1020,
+              "y": 3238
+            },
+            {
+              "lift": 0,
+              "rotation": 1.5,
+              "speed": 0,
+              "x": -1104,
+              "y": 3076
+            }
+          ],
+          "presence": 1,
+          "quiet": 12,
+          "ripples": [
+            {
+              "age": 4.8,
+              "opacity": 0,
+              "touched": 7,
+              "x": -1151.24,
+              "y": 2997.53
+            },
+            {
+              "age": 4.8,
+              "opacity": 0,
+              "touched": 7,
+              "x": -1023.29,
+              "y": 3031.15
+            },
+            {
+              "age": 4.8,
+              "opacity": 0,
+              "touched": 7,
+              "x": -1129.77,
+              "y": 3000.27
+            },
+            {
+              "age": 4.8,
+              "opacity": 0,
+              "touched": 0,
+              "x": -1419.36,
+              "y": 3054.4
+            }
+          ],
+          "secretAge": -1,
+          "secretAmount": 0,
+          "secretQuiet": 12,
+          "secretSeen": true,
+          "serial": 5,
+          "source": {
+            "x": -1266.51,
+            "y": 2999.72
+          }
+        }
+      },
+      "after": {
+        "main": {
+          "actorX": "-1287.669697",
+          "actorY": "2910.129782",
+          "artVersion": "floof-clearing-v1",
+          "atlasPulse": "",
+          "cameraX": "1323.512177",
+          "cameraY": "2320.000000",
+          "cameraZoom": "1.180000",
+          "discovered": "",
+          "entered": "true",
+          "envelopeStored": "false",
+          "giftUnlocked": "false",
+          "headingX": "-0.999999",
+          "headingY": "0.001545",
+          "lastDrawId": "",
+          "lastSongId": "",
+          "motionVersion": "point-to-walk-v1",
+          "moving": "false",
+          "progressMode": "saved",
+          "puzzleSolved": "false",
+          "puzzleVersion": "computer-knowledge-v1",
+          "questionsSolved": "0",
+          "region": "pond",
+          "renderer": "webgl",
+          "sound": "off",
+          "storageStatus": "saved",
+          "view": "music",
+          "visited": "entry,pond",
+          "worldEvents": "pond-lilies"
+        },
+        "pond": {
+          "calm": 1,
+          "discovered": true,
+          "dream": {
+            "coastStarted": true,
+            "engaged": true,
+            "phase": "rest",
+            "playfulness": 1,
+            "presence": 1,
+            "quiet": 20,
+            "reflection": {
+              "vx": 0,
+              "vy": 0,
+              "x": -1319.117,
+              "y": 3125.481
+            },
+            "target": {
+              "x": -1319.118,
+              "y": 3125.481
+            },
+            "time": 93.601,
+            "trail": []
+          },
+          "engaged": true,
+          "petals": [
+            {
+              "lift": 0,
+              "rotation": 0.7,
+              "speed": 0,
+              "x": -1305,
+              "y": 3130
+            },
+            {
+              "lift": 0,
+              "rotation": 2.4,
+              "speed": 0,
+              "x": -1020,
+              "y": 3238
+            },
+            {
+              "lift": 0,
+              "rotation": 1.5,
+              "speed": 0,
+              "x": -1104,
+              "y": 3076
+            }
+          ],
+          "presence": 1,
+          "quiet": 12,
+          "ripples": [
+            {
+              "age": 4.8,
+              "opacity": 0,
+              "touched": 7,
+              "x": -1151.24,
+              "y": 2997.53
+            },
+            {
+              "age": 4.8,
+              "opacity": 0,
+              "touched": 7,
+              "x": -1023.29,
+              "y": 3031.15
+            },
+            {
+              "age": 4.8,
+              "opacity": 0,
+              "touched": 7,
+              "x": -1129.77,
+              "y": 3000.27
+            },
+            {
+              "age": 4.8,
+              "opacity": 0,
+              "touched": 0,
+              "x": -1419.36,
+              "y": 3054.4
+            }
+          ],
+          "secretAge": -1,
+          "secretAmount": 0,
+          "secretQuiet": 12,
+          "secretSeen": true,
+          "serial": 5,
+          "source": {
+            "x": -1266.51,
+            "y": 2999.72
+          }
+        }
+      }
+    },
+    {
+      "check": "leaving bank fades reflection and clears stars",
+      "pass": true,
+      "data": {
+        "main": {
+          "actorX": "-1308.766443",
+          "actorY": "2489.924260",
+          "artVersion": "floof-clearing-v1",
+          "atlasPulse": "",
+          "cameraX": "-1307.142870",
+          "cameraY": "2718.628014",
+          "cameraZoom": "1.180000",
+          "discovered": "",
+          "entered": "true",
+          "envelopeStored": "false",
+          "giftUnlocked": "false",
+          "headingX": "-0.001492",
+          "headingY": "-0.999999",
+          "lastDrawId": "",
+          "lastSongId": "",
+          "motionVersion": "point-to-walk-v1",
+          "moving": "false",
+          "progressMode": "saved",
+          "puzzleSolved": "false",
+          "puzzleVersion": "computer-knowledge-v1",
+          "questionsSolved": "0",
+          "region": "pond",
+          "renderer": "webgl",
+          "sound": "off",
+          "storageStatus": "saved",
+          "view": "overview",
+          "visited": "entry,pond",
+          "worldEvents": "pond-lilies"
+        },
+        "pond": {
+          "calm": 1,
+          "discovered": true,
+          "dream": {
+            "coastStarted": false,
+            "engaged": false,
+            "phase": "dormant",
+            "playfulness": 0,
+            "presence": 0,
+            "quiet": 0,
+            "reflection": {
+              "vx": 0,
+              "vy": 0,
+              "x": -1209.157,
+              "y": 3102.732
+            },
+            "target": {
+              "x": -1209.157,
+              "y": 3102.732
+            },
+            "time": 136.189,
+            "trail": []
+          },
+          "engaged": false,
+          "petals": [
+            {
+              "lift": 0,
+              "rotation": 0.7,
+              "speed": 0,
+              "x": -1305,
+              "y": 3130
+            },
+            {
+              "lift": 0,
+              "rotation": 2.4,
+              "speed": 0,
+              "x": -1020,
+              "y": 3238
+            },
+            {
+              "lift": 0,
+              "rotation": 1.5,
+              "speed": 0,
+              "x": -1104,
+              "y": 3076
+            }
+          ],
+          "presence": 0,
+          "quiet": 0,
+          "ripples": [
+            {
+              "age": 4.8,
+              "opacity": 0,
+              "touched": 7,
+              "x": -1269.17,
+              "y": 3000.11
+            },
+            {
+              "age": 4.8,
+              "opacity": 0,
+              "touched": 7,
+              "x": -1023.29,
+              "y": 3031.15
+            },
+            {
+              "age": 4.8,
+              "opacity": 0,
+              "touched": 7,
+              "x": -1129.77,
+              "y": 3000.27
+            },
+            {
+              "age": 4.8,
+              "opacity": 0,
+              "touched": 0,
+              "x": -1419.36,
+              "y": 3054.4
+            }
+          ],
+          "secretAge": -1,
+          "secretAmount": 0,
+          "secretQuiet": 0,
+          "secretSeen": true,
+          "serial": 6,
+          "source": {
+            "x": -1249.22,
+            "y": 2997.57
+          }
+        }
+      }
+    },
+    {
+      "check": "walking back reactivates pond without buttons",
+      "pass": true,
+      "data": {
+        "main": {
+          "actorX": "-1331.480209",
+          "actorY": "2835.920575",
+          "artVersion": "floof-clearing-v1",
+          "atlasPulse": "",
+          "cameraX": "-1330.016877",
+          "cameraY": "3040.807730",
+          "cameraZoom": "1.180000",
+          "discovered": "",
+          "entered": "true",
+          "envelopeStored": "false",
+          "giftUnlocked": "false",
+          "headingX": "-0.001530",
+          "headingY": "0.999999",
+          "lastDrawId": "",
+          "lastSongId": "",
+          "motionVersion": "point-to-walk-v1",
+          "moving": "false",
+          "progressMode": "saved",
+          "puzzleSolved": "false",
+          "puzzleVersion": "computer-knowledge-v1",
+          "questionsSolved": "0",
+          "region": "pond",
+          "renderer": "webgl",
+          "sound": "off",
+          "storageStatus": "saved",
+          "view": "overview",
+          "visited": "entry,pond",
+          "worldEvents": "pond-lilies"
+        },
+        "pond": {
+          "calm": 0.135,
+          "discovered": true,
+          "dream": {
+            "coastStarted": false,
+            "engaged": true,
+            "phase": "mirror",
+            "playfulness": 0,
+            "presence": 0.656,
+            "quiet": 0.291,
+            "reflection": {
+              "vx": -35.199,
+              "vy": -39.903,
+              "x": -1227.969,
+              "y": 3081.237
+            },
+            "target": {
+              "x": -1244.833,
+              "y": 3063.142
+            },
+            "time": 138.814,
+            "trail": []
+          },
+          "engaged": true,
+          "petals": [
+            {
+              "lift": 0,
+              "rotation": 0.7,
+              "speed": 0,
+              "x": -1305,
+              "y": 3130
+            },
+            {
+              "lift": 0,
+              "rotation": 2.4,
+              "speed": 0,
+              "x": -1020,
+              "y": 3238
+            },
+            {
+              "lift": 0,
+              "rotation": 1.5,
+              "speed": 0,
+              "x": -1104,
+              "y": 3076
+            }
+          ],
+          "presence": 0.428,
+          "quiet": 0,
+          "ripples": [
+            {
+              "age": 0.59,
+              "opacity": 0.135,
+              "touched": 0,
+              "x": -1281.25,
+              "y": 3002.09
+            },
+            {
+              "age": 4.8,
+              "opacity": 0,
+              "touched": 7,
+              "x": -1023.29,
+              "y": 3031.15
+            },
+            {
+              "age": 4.8,
+              "opacity": 0,
+              "touched": 7,
+              "x": -1129.77,
+              "y": 3000.27
+            },
+            {
+              "age": 4.8,
+              "opacity": 0,
+              "touched": 0,
+              "x": -1419.36,
+              "y": 3054.4
+            }
+          ],
+          "secretAge": -1,
+          "secretAmount": 0,
+          "secretQuiet": 0,
+          "secretSeen": true,
+          "serial": 7,
+          "source": {
+            "x": -1286.8,
+            "y": 3003.13
+          }
+        }
+      }
+    },
+    {
+      "check": "map freezes pond and actor",
+      "pass": true,
+      "before": {
+        "main": {
+          "actorX": "-1331.480209",
+          "actorY": "2835.920575",
+          "artVersion": "floof-clearing-v1",
+          "atlasPulse": "",
+          "cameraX": "-1330.016877",
+          "cameraY": "3040.807730",
+          "cameraZoom": "1.180000",
+          "discovered": "",
+          "entered": "true",
+          "envelopeStored": "false",
+          "giftUnlocked": "false",
+          "headingX": "-0.001530",
+          "headingY": "0.999999",
+          "lastDrawId": "",
+          "lastSongId": "",
+          "motionVersion": "point-to-walk-v1",
+          "moving": "false",
+          "progressMode": "saved",
+          "puzzleSolved": "false",
+          "puzzleVersion": "computer-knowledge-v1",
+          "questionsSolved": "0",
+          "region": "pond",
+          "renderer": "webgl",
+          "sound": "off",
+          "storageStatus": "saved",
+          "view": "overview",
+          "visited": "entry,pond",
+          "worldEvents": "pond-lilies"
+        },
+        "pond": {
+          "calm": 0.135,
+          "discovered": true,
+          "dream": {
+            "coastStarted": false,
+            "engaged": true,
+            "phase": "mirror",
+            "playfulness": 0,
+            "presence": 0.656,
+            "quiet": 0.291,
+            "reflection": {
+              "vx": -35.199,
+              "vy": -39.903,
+              "x": -1227.969,
+              "y": 3081.237
+            },
+            "target": {
+              "x": -1244.833,
+              "y": 3063.142
+            },
+            "time": 138.814,
+            "trail": []
+          },
+          "engaged": true,
+          "petals": [
+            {
+              "lift": 0,
+              "rotation": 0.7,
+              "speed": 0,
+              "x": -1305,
+              "y": 3130
+            },
+            {
+              "lift": 0,
+              "rotation": 2.4,
+              "speed": 0,
+              "x": -1020,
+              "y": 3238
+            },
+            {
+              "lift": 0,
+              "rotation": 1.5,
+              "speed": 0,
+              "x": -1104,
+              "y": 3076
+            }
+          ],
+          "presence": 0.428,
+          "quiet": 0,
+          "ripples": [
+            {
+              "age": 0.59,
+              "opacity": 0.135,
+              "touched": 0,
+              "x": -1281.25,
+              "y": 3002.09
+            },
+            {
+              "age": 4.8,
+              "opacity": 0,
+              "touched": 7,
+              "x": -1023.29,
+              "y": 3031.15
+            },
+            {
+              "age": 4.8,
+              "opacity": 0,
+              "touched": 7,
+              "x": -1129.77,
+              "y": 3000.27
+            },
+            {
+              "age": 4.8,
+              "opacity": 0,
+              "touched": 0,
+              "x": -1419.36,
+              "y": 3054.4
+            }
+          ],
+          "secretAge": -1,
+          "secretAmount": 0,
+          "secretQuiet": 0,
+          "secretSeen": true,
+          "serial": 7,
+          "source": {
+            "x": -1286.8,
+            "y": 3003.13
+          }
+        }
+      },
+      "after": {
+        "main": {
+          "actorX": "-1331.480209",
+          "actorY": "2835.920575",
+          "artVersion": "floof-clearing-v1",
+          "atlasPulse": "",
+          "cameraX": "-1330.016877",
+          "cameraY": "3040.807730",
+          "cameraZoom": "1.180000",
+          "discovered": "",
+          "entered": "true",
+          "envelopeStored": "false",
+          "giftUnlocked": "false",
+          "headingX": "-0.001530",
+          "headingY": "0.999999",
+          "lastDrawId": "",
+          "lastSongId": "",
+          "motionVersion": "point-to-walk-v1",
+          "moving": "false",
+          "progressMode": "saved",
+          "puzzleSolved": "false",
+          "puzzleVersion": "computer-knowledge-v1",
+          "questionsSolved": "0",
+          "region": "pond",
+          "renderer": "webgl",
+          "sound": "off",
+          "storageStatus": "saved",
+          "view": "overview",
+          "visited": "entry,pond",
+          "worldEvents": "pond-lilies"
+        },
+        "pond": {
+          "calm": 0.135,
+          "discovered": true,
+          "dream": {
+            "coastStarted": false,
+            "engaged": true,
+            "phase": "mirror",
+            "playfulness": 0,
+            "presence": 0.656,
+            "quiet": 0.291,
+            "reflection": {
+              "vx": -35.199,
+              "vy": -39.903,
+              "x": -1227.969,
+              "y": 3081.237
+            },
+            "target": {
+              "x": -1244.833,
+              "y": 3063.142
+            },
+            "time": 138.814,
+            "trail": []
+          },
+          "engaged": true,
+          "petals": [
+            {
+              "lift": 0,
+              "rotation": 0.7,
+              "speed": 0,
+              "x": -1305,
+              "y": 3130
+            },
+            {
+              "lift": 0,
+              "rotation": 2.4,
+              "speed": 0,
+              "x": -1020,
+              "y": 3238
+            },
+            {
+              "lift": 0,
+              "rotation": 1.5,
+              "speed": 0,
+              "x": -1104,
+              "y": 3076
+            }
+          ],
+          "presence": 0.428,
+          "quiet": 0,
+          "ripples": [
+            {
+              "age": 0.59,
+              "opacity": 0.135,
+              "touched": 0,
+              "x": -1281.25,
+              "y": 3002.09
+            },
+            {
+              "age": 4.8,
+              "opacity": 0,
+              "touched": 7,
+              "x": -1023.29,
+              "y": 3031.15
+            },
+            {
+              "age": 4.8,
+              "opacity": 0,
+              "touched": 7,
+              "x": -1129.77,
+              "y": 3000.27
+            },
+            {
+              "age": 4.8,
+              "opacity": 0,
+              "touched": 0,
+              "x": -1419.36,
+              "y": 3054.4
+            }
+          ],
+          "secretAge": -1,
+          "secretAmount": 0,
+          "secretQuiet": 0,
+          "secretSeen": true,
+          "serial": 7,
+          "source": {
+            "x": -1286.8,
+            "y": 3003.13
+          }
+        }
+      }
+    },
+    {
+      "check": "reduced motion keeps active reflection and exact star trail frozen",
+      "pass": true,
+      "before": {
+        "main": {
+          "actorX": "-1361.763605",
+          "actorY": "2931.895012",
+          "artVersion": "floof-clearing-v1",
+          "atlasPulse": "",
+          "cameraX": "-1399.497362",
+          "cameraY": "3138.455037",
+          "cameraZoom": "1.180000",
+          "discovered": "",
+          "entered": "true",
+          "envelopeStored": "false",
+          "giftUnlocked": "false",
+          "headingX": "0.997424",
+          "headingY": "0.071727",
+          "lastDrawId": "",
+          "lastSongId": "",
+          "motionVersion": "point-to-walk-v1",
+          "moving": "false",
+          "progressMode": "saved",
+          "puzzleSolved": "false",
+          "puzzleVersion": "computer-knowledge-v1",
+          "questionsSolved": "0",
+          "region": "pond",
+          "renderer": "static",
+          "sound": "off",
+          "storageStatus": "saved",
+          "view": "overview",
+          "visited": "entry,pond",
+          "worldEvents": "pond-lilies"
+        },
+        "pond": {
+          "calm": 0.17,
+          "discovered": true,
+          "dream": {
+            "coastStarted": true,
+            "engaged": true,
+            "phase": "play",
+            "playfulness": 1,
+            "presence": 1,
+            "quiet": 0.174,
+            "reflection": {
+              "vx": 129.612,
+              "vy": -51.51,
+              "x": -1289.68,
+              "y": 3122.289
+            },
+            "target": {
+              "x": -1186.202,
+              "y": 3082.534
+            },
+            "time": 51.157,
+            "trail": [
+              {
+                "age": 0.432,
+                "strength": 1,
+                "x": -1332.461,
+                "y": 3141.223
+              },
+              {
+                "age": 0.299,
+                "strength": 1,
+                "x": -1321.598,
+                "y": 3135.918
+              },
+              {
+                "age": 0.182,
+                "strength": 1,
+                "x": -1309.801,
+                "y": 3130.599
+              },
+              {
+                "age": 0.075,
+                "strength": 1,
+                "x": -1298.351,
+                "y": 3125.786
+              }
+            ]
+          },
+          "engaged": true,
+          "petals": [
+            {
+              "lift": 0,
+              "rotation": 0.701,
+              "speed": 0.001,
+              "x": -1305,
+              "y": 3130
+            },
+            {
+              "lift": 0,
+              "rotation": 2.4,
+              "speed": 0.001,
+              "x": -1020,
+              "y": 3238
+            },
+            {
+              "lift": 0,
+              "rotation": 1.499,
+              "speed": 0.002,
+              "x": -1104,
+              "y": 3076
+            }
+          ],
+          "presence": 0.993,
+          "quiet": 0,
+          "ripples": [
+            {
+              "age": 0.29,
+              "opacity": 0.314,
+              "touched": 0,
+              "x": -1337.69,
+              "y": 3016.1
+            },
+            {
+              "age": 4.8,
+              "opacity": 0,
+              "touched": 7,
+              "x": -1253.04,
+              "y": 2997.99
+            },
+            {
+              "age": 4.8,
+              "opacity": 0,
+              "touched": 3,
+              "x": -1159.5,
+              "y": 2996.74
+            },
+            {
+              "age": 4.8,
+              "opacity": 0,
+              "touched": 0,
+              "x": -1288.06,
+              "y": 3003.36
+            }
+          ],
+          "secretAge": -1,
+          "secretAmount": 0,
+          "secretQuiet": 0,
+          "secretSeen": true,
+          "serial": 8,
+          "source": {
+            "x": -1331.42,
+            "y": 3014.3
+          }
+        }
+      },
+      "after": {
+        "main": {
+          "actorX": "-1361.763605",
+          "actorY": "2931.895012",
+          "artVersion": "floof-clearing-v1",
+          "atlasPulse": "",
+          "cameraX": "-1399.497362",
+          "cameraY": "3138.455037",
+          "cameraZoom": "1.180000",
+          "discovered": "",
+          "entered": "true",
+          "envelopeStored": "false",
+          "giftUnlocked": "false",
+          "headingX": "0.997424",
+          "headingY": "0.071727",
+          "lastDrawId": "",
+          "lastSongId": "",
+          "motionVersion": "point-to-walk-v1",
+          "moving": "false",
+          "progressMode": "saved",
+          "puzzleSolved": "false",
+          "puzzleVersion": "computer-knowledge-v1",
+          "questionsSolved": "0",
+          "region": "pond",
+          "renderer": "static",
+          "sound": "off",
+          "storageStatus": "saved",
+          "view": "overview",
+          "visited": "entry,pond",
+          "worldEvents": "pond-lilies"
+        },
+        "pond": {
+          "calm": 0.17,
+          "discovered": true,
+          "dream": {
+            "coastStarted": true,
+            "engaged": true,
+            "phase": "play",
+            "playfulness": 1,
+            "presence": 1,
+            "quiet": 0.174,
+            "reflection": {
+              "vx": 129.612,
+              "vy": -51.51,
+              "x": -1289.68,
+              "y": 3122.289
+            },
+            "target": {
+              "x": -1186.202,
+              "y": 3082.534
+            },
+            "time": 51.157,
+            "trail": [
+              {
+                "age": 0.432,
+                "strength": 1,
+                "x": -1332.461,
+                "y": 3141.223
+              },
+              {
+                "age": 0.299,
+                "strength": 1,
+                "x": -1321.598,
+                "y": 3135.918
+              },
+              {
+                "age": 0.182,
+                "strength": 1,
+                "x": -1309.801,
+                "y": 3130.599
+              },
+              {
+                "age": 0.075,
+                "strength": 1,
+                "x": -1298.351,
+                "y": 3125.786
+              }
+            ]
+          },
+          "engaged": true,
+          "petals": [
+            {
+              "lift": 0,
+              "rotation": 0.701,
+              "speed": 0.001,
+              "x": -1305,
+              "y": 3130
+            },
+            {
+              "lift": 0,
+              "rotation": 2.4,
+              "speed": 0.001,
+              "x": -1020,
+              "y": 3238
+            },
+            {
+              "lift": 0,
+              "rotation": 1.499,
+              "speed": 0.002,
+              "x": -1104,
+              "y": 3076
+            }
+          ],
+          "presence": 0.993,
+          "quiet": 0,
+          "ripples": [
+            {
+              "age": 0.29,
+              "opacity": 0.314,
+              "touched": 0,
+              "x": -1337.69,
+              "y": 3016.1
+            },
+            {
+              "age": 4.8,
+              "opacity": 0,
+              "touched": 7,
+              "x": -1253.04,
+              "y": 2997.99
+            },
+            {
+              "age": 4.8,
+              "opacity": 0,
+              "touched": 3,
+              "x": -1159.5,
+              "y": 2996.74
+            },
+            {
+              "age": 4.8,
+              "opacity": 0,
+              "touched": 0,
+              "x": -1288.06,
+              "y": 3003.36
+            }
+          ],
+          "secretAge": -1,
+          "secretAmount": 0,
+          "secretQuiet": 0,
+          "secretSeen": true,
+          "serial": 8,
+          "source": {
+            "x": -1331.42,
+            "y": 3014.3
+          }
+        }
+      }
+    },
+    {
+      "check": "restoring live renderer keeps location and resumes stored reflection",
+      "pass": true,
+      "before": {
+        "main": {
+          "actorX": "-1361.763605",
+          "actorY": "2931.895012",
+          "artVersion": "floof-clearing-v1",
+          "atlasPulse": "",
+          "cameraX": "-1399.497362",
+          "cameraY": "3138.455037",
+          "cameraZoom": "1.180000",
+          "discovered": "",
+          "entered": "true",
+          "envelopeStored": "false",
+          "giftUnlocked": "false",
+          "headingX": "0.997424",
+          "headingY": "0.071727",
+          "lastDrawId": "",
+          "lastSongId": "",
+          "motionVersion": "point-to-walk-v1",
+          "moving": "false",
+          "progressMode": "saved",
+          "puzzleSolved": "false",
+          "puzzleVersion": "computer-knowledge-v1",
+          "questionsSolved": "0",
+          "region": "pond",
+          "renderer": "static",
+          "sound": "off",
+          "storageStatus": "saved",
+          "view": "overview",
+          "visited": "entry,pond",
+          "worldEvents": "pond-lilies"
+        },
+        "pond": {
+          "calm": 0.17,
+          "discovered": true,
+          "dream": {
+            "coastStarted": true,
+            "engaged": true,
+            "phase": "play",
+            "playfulness": 1,
+            "presence": 1,
+            "quiet": 0.174,
+            "reflection": {
+              "vx": 129.612,
+              "vy": -51.51,
+              "x": -1289.68,
+              "y": 3122.289
+            },
+            "target": {
+              "x": -1186.202,
+              "y": 3082.534
+            },
+            "time": 51.157,
+            "trail": [
+              {
+                "age": 0.432,
+                "strength": 1,
+                "x": -1332.461,
+                "y": 3141.223
+              },
+              {
+                "age": 0.299,
+                "strength": 1,
+                "x": -1321.598,
+                "y": 3135.918
+              },
+              {
+                "age": 0.182,
+                "strength": 1,
+                "x": -1309.801,
+                "y": 3130.599
+              },
+              {
+                "age": 0.075,
+                "strength": 1,
+                "x": -1298.351,
+                "y": 3125.786
+              }
+            ]
+          },
+          "engaged": true,
+          "petals": [
+            {
+              "lift": 0,
+              "rotation": 0.701,
+              "speed": 0.001,
+              "x": -1305,
+              "y": 3130
+            },
+            {
+              "lift": 0,
+              "rotation": 2.4,
+              "speed": 0.001,
+              "x": -1020,
+              "y": 3238
+            },
+            {
+              "lift": 0,
+              "rotation": 1.499,
+              "speed": 0.002,
+              "x": -1104,
+              "y": 3076
+            }
+          ],
+          "presence": 0.993,
+          "quiet": 0,
+          "ripples": [
+            {
+              "age": 0.29,
+              "opacity": 0.314,
+              "touched": 0,
+              "x": -1337.69,
+              "y": 3016.1
+            },
+            {
+              "age": 4.8,
+              "opacity": 0,
+              "touched": 7,
+              "x": -1253.04,
+              "y": 2997.99
+            },
+            {
+              "age": 4.8,
+              "opacity": 0,
+              "touched": 3,
+              "x": -1159.5,
+              "y": 2996.74
+            },
+            {
+              "age": 4.8,
+              "opacity": 0,
+              "touched": 0,
+              "x": -1288.06,
+              "y": 3003.36
+            }
+          ],
+          "secretAge": -1,
+          "secretAmount": 0,
+          "secretQuiet": 0,
+          "secretSeen": true,
+          "serial": 8,
+          "source": {
+            "x": -1331.42,
+            "y": 3014.3
+          }
+        }
+      },
+      "after": {
+        "main": {
+          "actorX": "-1361.763605",
+          "actorY": "2931.895012",
+          "artVersion": "floof-clearing-v1",
+          "atlasPulse": "",
+          "cameraX": "-1399.497362",
+          "cameraY": "3138.455037",
+          "cameraZoom": "1.180000",
+          "discovered": "",
+          "entered": "true",
+          "envelopeStored": "false",
+          "giftUnlocked": "false",
+          "headingX": "0.997424",
+          "headingY": "0.071727",
+          "lastDrawId": "",
+          "lastSongId": "",
+          "motionVersion": "point-to-walk-v1",
+          "moving": "false",
+          "progressMode": "saved",
+          "puzzleSolved": "false",
+          "puzzleVersion": "computer-knowledge-v1",
+          "questionsSolved": "0",
+          "region": "pond",
+          "renderer": "webgl",
+          "sound": "off",
+          "storageStatus": "saved",
+          "view": "overview",
+          "visited": "entry,pond",
+          "worldEvents": "pond-lilies"
+        },
+        "pond": {
+          "calm": 0.144,
+          "discovered": true,
+          "dream": {
+            "coastStarted": true,
+            "engaged": true,
+            "phase": "play",
+            "playfulness": 1,
+            "presence": 1,
+            "quiet": 0.224,
+            "reflection": {
+              "vx": 141.22,
+              "vy": -55.455,
+              "x": -1282.877,
+              "y": 3119.602
+            },
+            "target": {
+              "x": -1186.202,
+              "y": 3082.534
+            },
+            "time": 51.207,
+            "trail": [
+              {
+                "age": 0.482,
+                "strength": 1,
+                "x": -1332.461,
+                "y": 3141.223
+              },
+              {
+                "age": 0.349,
+                "strength": 1,
+                "x": -1321.598,
+                "y": 3135.918
+              },
+              {
+                "age": 0.232,
+                "strength": 1,
+                "x": -1309.801,
+                "y": 3130.599
+              },
+              {
+                "age": 0.125,
+                "strength": 1,
+                "x": -1298.351,
+                "y": 3125.786
+              },
+              {
+                "age": 0,
+                "strength": 1,
+                "x": -1282.877,
+                "y": 3119.602
+              }
+            ]
+          },
+          "engaged": true,
+          "petals": [
+            {
+              "lift": 0,
+              "rotation": 0.701,
+              "speed": 0.001,
+              "x": -1305,
+              "y": 3130
+            },
+            {
+              "lift": 0,
+              "rotation": 2.4,
+              "speed": 0.001,
+              "x": -1020,
+              "y": 3238
+            },
+            {
+              "lift": 0,
+              "rotation": 1.5,
+              "speed": 0.001,
+              "x": -1104,
+              "y": 3076
+            }
+          ],
+          "presence": 0.994,
+          "quiet": 0.05,
+          "ripples": [
+            {
+              "age": 0.34,
+              "opacity": 0.331,
+              "touched": 0,
+              "x": -1337.69,
+              "y": 3016.1
+            },
+            {
+              "age": 4.8,
+              "opacity": 0,
+              "touched": 7,
+              "x": -1253.04,
+              "y": 2997.99
+            },
+            {
+              "age": 4.8,
+              "opacity": 0,
+              "touched": 3,
+              "x": -1159.5,
+              "y": 2996.74
+            },
+            {
+              "age": 4.8,
+              "opacity": 0,
+              "touched": 0,
+              "x": -1288.06,
+              "y": 3003.36
+            }
+          ],
+          "secretAge": -1,
+          "secretAmount": 0,
+          "secretQuiet": 0.05,
+          "secretSeen": true,
+          "serial": 8,
+          "source": {
+            "x": -1329.84,
+            "y": 3013.8
+          }
+        }
+      }
+    },
+    {
+      "check": "opening a panel freezes a swimming reflection and its trail",
+      "pass": true,
+      "before": {
+        "main": {
+          "actorX": "-1259.603605",
+          "actorY": "2912.935063",
+          "artVersion": "floof-clearing-v1",
+          "atlasPulse": "",
+          "cameraX": "-1256.779704",
+          "cameraY": "3124.227084",
+          "cameraZoom": "1.180000",
+          "discovered": "",
+          "entered": "true",
+          "envelopeStored": "false",
+          "giftUnlocked": "false",
+          "headingX": "0.999999",
+          "headingY": "0.001471",
+          "lastDrawId": "",
+          "lastSongId": "",
+          "motionVersion": "point-to-walk-v1",
+          "moving": "false",
+          "progressMode": "saved",
+          "puzzleSolved": "false",
+          "puzzleVersion": "computer-knowledge-v1",
+          "questionsSolved": "0",
+          "region": "pond",
+          "renderer": "webgl",
+          "sound": "off",
+          "storageStatus": "saved",
+          "view": "music",
+          "visited": "entry,pond",
+          "worldEvents": "pond-lilies"
+        },
+        "pond": {
+          "calm": 0.005,
+          "discovered": true,
+          "dream": {
+            "coastStarted": true,
+            "engaged": true,
+            "phase": "play",
+            "playfulness": 1,
+            "presence": 1,
+            "quiet": 0.192,
+            "reflection": {
+              "vx": 93.557,
+              "vy": 4.59,
+              "x": -1214.719,
+              "y": 3100.666
+            },
+            "target": {
+              "x": -1106.523,
+              "y": 3108.847
+            },
+            "time": 52.21,
+            "trail": [
+              {
+                "age": 1.485,
+                "strength": 1,
+                "x": -1332.461,
+                "y": 3141.223
+              },
+              {
+                "age": 1.352,
+                "strength": 1,
+                "x": -1321.598,
+                "y": 3135.918
+              },
+              {
+                "age": 1.235,
+                "strength": 1,
+                "x": -1309.801,
+                "y": 3130.599
+              },
+              {
+                "age": 1.128,
+                "strength": 1,
+                "x": -1298.351,
+                "y": 3125.786
+              },
+              {
+                "age": 1.003,
+                "strength": 1,
+                "x": -1282.877,
+                "y": 3119.602
+              },
+              {
+                "age": 0.925,
+                "strength": 1,
+                "x": -1271.602,
+                "y": 3115.201
+              },
+              {
+                "age": 0.843,
+                "strength": 1,
+                "x": -1259.967,
+                "y": 3110.706
+              },
+              {
+                "age": 0.725,
+                "strength": 1,
+                "x": -1248.075,
+                "y": 3106.381
+              },
+              {
+                "age": 0.542,
+                "strength": 1,
+                "x": -1236.102,
+                "y": 3102.918
+              },
+              {
+                "age": 0.233,
+                "strength": 1,
+                "x": -1224.234,
+                "y": 3100.905
+              }
+            ]
+          },
+          "engaged": true,
+          "petals": [
+            {
+              "lift": 0,
+              "rotation": 0.7,
+              "speed": 0,
+              "x": -1305,
+              "y": 3130
+            },
+            {
+              "lift": 0,
+              "rotation": 2.4,
+              "speed": 0,
+              "x": -1020,
+              "y": 3238
+            },
+            {
+              "lift": 0,
+              "rotation": 1.5,
+              "speed": 0,
+              "x": -1104,
+              "y": 3076
+            }
+          ],
+          "presence": 0.999,
+          "quiet": 0,
+          "ripples": [
+            {
+              "age": 1.34,
+              "opacity": 0.331,
+              "touched": 0,
+              "x": -1337.69,
+              "y": 3016.1
+            },
+            {
+              "age": 4.8,
+              "opacity": 0,
+              "touched": 7,
+              "x": -1253.04,
+              "y": 2997.99
+            },
+            {
+              "age": 4.8,
+              "opacity": 0,
+              "touched": 3,
+              "x": -1159.5,
+              "y": 2996.74
+            },
+            {
+              "age": 4.8,
+              "opacity": 0,
+              "touched": 0,
+              "x": -1288.06,
+              "y": 3003.36
+            }
+          ],
+          "secretAge": -1,
+          "secretAmount": 0,
+          "secretQuiet": 0,
+          "secretSeen": true,
+          "serial": 8,
+          "source": {
+            "x": -1257.61,
+            "y": 2999.04
+          }
+        }
+      },
+      "after": {
+        "main": {
+          "actorX": "-1259.603605",
+          "actorY": "2912.935063",
+          "artVersion": "floof-clearing-v1",
+          "atlasPulse": "",
+          "cameraX": "1323.512177",
+          "cameraY": "2320.000000",
+          "cameraZoom": "1.180000",
+          "discovered": "",
+          "entered": "true",
+          "envelopeStored": "false",
+          "giftUnlocked": "false",
+          "headingX": "0.999999",
+          "headingY": "0.001471",
+          "lastDrawId": "",
+          "lastSongId": "",
+          "motionVersion": "point-to-walk-v1",
+          "moving": "false",
+          "progressMode": "saved",
+          "puzzleSolved": "false",
+          "puzzleVersion": "computer-knowledge-v1",
+          "questionsSolved": "0",
+          "region": "pond",
+          "renderer": "webgl",
+          "sound": "off",
+          "storageStatus": "saved",
+          "view": "music",
+          "visited": "entry,pond",
+          "worldEvents": "pond-lilies"
+        },
+        "pond": {
+          "calm": 0.005,
+          "discovered": true,
+          "dream": {
+            "coastStarted": true,
+            "engaged": true,
+            "phase": "play",
+            "playfulness": 1,
+            "presence": 1,
+            "quiet": 0.192,
+            "reflection": {
+              "vx": 93.557,
+              "vy": 4.59,
+              "x": -1214.719,
+              "y": 3100.666
+            },
+            "target": {
+              "x": -1106.523,
+              "y": 3108.847
+            },
+            "time": 52.21,
+            "trail": [
+              {
+                "age": 1.485,
+                "strength": 1,
+                "x": -1332.461,
+                "y": 3141.223
+              },
+              {
+                "age": 1.352,
+                "strength": 1,
+                "x": -1321.598,
+                "y": 3135.918
+              },
+              {
+                "age": 1.235,
+                "strength": 1,
+                "x": -1309.801,
+                "y": 3130.599
+              },
+              {
+                "age": 1.128,
+                "strength": 1,
+                "x": -1298.351,
+                "y": 3125.786
+              },
+              {
+                "age": 1.003,
+                "strength": 1,
+                "x": -1282.877,
+                "y": 3119.602
+              },
+              {
+                "age": 0.925,
+                "strength": 1,
+                "x": -1271.602,
+                "y": 3115.201
+              },
+              {
+                "age": 0.843,
+                "strength": 1,
+                "x": -1259.967,
+                "y": 3110.706
+              },
+              {
+                "age": 0.725,
+                "strength": 1,
+                "x": -1248.075,
+                "y": 3106.381
+              },
+              {
+                "age": 0.542,
+                "strength": 1,
+                "x": -1236.102,
+                "y": 3102.918
+              },
+              {
+                "age": 0.233,
+                "strength": 1,
+                "x": -1224.234,
+                "y": 3100.905
+              }
+            ]
+          },
+          "engaged": true,
+          "petals": [
+            {
+              "lift": 0,
+              "rotation": 0.7,
+              "speed": 0,
+              "x": -1305,
+              "y": 3130
+            },
+            {
+              "lift": 0,
+              "rotation": 2.4,
+              "speed": 0,
+              "x": -1020,
+              "y": 3238
+            },
+            {
+              "lift": 0,
+              "rotation": 1.5,
+              "speed": 0,
+              "x": -1104,
+              "y": 3076
+            }
+          ],
+          "presence": 0.999,
+          "quiet": 0,
+          "ripples": [
+            {
+              "age": 1.34,
+              "opacity": 0.331,
+              "touched": 0,
+              "x": -1337.69,
+              "y": 3016.1
+            },
+            {
+              "age": 4.8,
+              "opacity": 0,
+              "touched": 7,
+              "x": -1253.04,
+              "y": 2997.99
+            },
+            {
+              "age": 4.8,
+              "opacity": 0,
+              "touched": 3,
+              "x": -1159.5,
+              "y": 2996.74
+            },
+            {
+              "age": 4.8,
+              "opacity": 0,
+              "touched": 0,
+              "x": -1288.06,
+              "y": 3003.36
+            }
+          ],
+          "secretAge": -1,
+          "secretAmount": 0,
+          "secretQuiet": 0,
+          "secretSeen": true,
+          "serial": 8,
+          "source": {
+            "x": -1257.61,
+            "y": 2999.04
+          }
+        }
+      }
+    },
+    {
+      "check": "panel close restores pre-open actor/camera/heading",
+      "pass": true,
+      "before": {
+        "actorX": "-1259.603605",
+        "actorY": "2912.935063",
+        "artVersion": "floof-clearing-v1",
+        "atlasPulse": "",
+        "cameraX": "-1312.857631",
+        "cameraY": "3141.705490",
+        "cameraZoom": "1.180000",
+        "discovered": "",
+        "entered": "true",
+        "envelopeStored": "false",
+        "giftUnlocked": "false",
+        "headingX": "0.999999",
+        "headingY": "0.001471",
+        "lastDrawId": "",
+        "lastSongId": "",
+        "motionVersion": "point-to-walk-v1",
+        "moving": "false",
+        "progressMode": "saved",
+        "puzzleSolved": "false",
+        "puzzleVersion": "computer-knowledge-v1",
+        "questionsSolved": "0",
+        "region": "pond",
+        "renderer": "webgl",
+        "sound": "off",
+        "storageStatus": "saved",
+        "view": "overview",
+        "visited": "entry,pond",
+        "worldEvents": "pond-lilies"
+      },
+      "after": {
+        "actorX": "-1259.603605",
+        "actorY": "2912.935063",
+        "artVersion": "floof-clearing-v1",
+        "atlasPulse": "",
+        "cameraX": "-1312.857631",
+        "cameraY": "3141.705490",
+        "cameraZoom": "1.180000",
+        "discovered": "",
+        "entered": "true",
+        "envelopeStored": "false",
+        "giftUnlocked": "false",
+        "headingX": "0.999999",
+        "headingY": "0.001471",
+        "lastDrawId": "",
+        "lastSongId": "",
+        "motionVersion": "point-to-walk-v1",
+        "moving": "false",
+        "progressMode": "saved",
+        "puzzleSolved": "false",
+        "puzzleVersion": "computer-knowledge-v1",
+        "questionsSolved": "0",
+        "region": "pond",
+        "renderer": "webgl",
+        "sound": "off",
+        "storageStatus": "saved",
+        "view": "overview",
+        "visited": "entry,pond",
+        "worldEvents": "pond-lilies"
+      }
+    },
+    {
+      "check": "final visual build clears night and reflection after leaving",
+      "pass": true,
+      "data": {
+        "main": {
+          "actorX": "-1238.516953",
+          "actorY": "2492.563379",
+          "artVersion": "floof-clearing-v1",
+          "atlasPulse": "",
+          "cameraX": "-1243.579338",
+          "cameraY": "2720.984133",
+          "cameraZoom": "1.180000",
+          "discovered": "",
+          "entered": "true",
+          "envelopeStored": "false",
+          "giftUnlocked": "false",
+          "headingX": "0.001464",
+          "headingY": "-0.999999",
+          "lastDrawId": "",
+          "lastSongId": "",
+          "motionVersion": "point-to-walk-v1",
+          "moving": "false",
+          "progressMode": "saved",
+          "puzzleSolved": "false",
+          "puzzleVersion": "computer-knowledge-v1",
+          "questionsSolved": "0",
+          "region": "pond",
+          "renderer": "webgl",
+          "sound": "off",
+          "storageStatus": "saved",
+          "view": "overview",
+          "visited": "entry,pond",
+          "worldEvents": "pond-lilies"
+        },
+        "pond": {
+          "calm": 1,
+          "discovered": true,
+          "dream": {
+            "coastStarted": false,
+            "engaged": false,
+            "phase": "dormant",
+            "playfulness": 0,
+            "presence": 0,
+            "quiet": 0,
+            "reflection": {
+              "vx": 0,
+              "vy": 0,
+              "x": -1165.882,
+              "y": 3102.478
+            },
+            "target": {
+              "x": -1165.882,
+              "y": 3102.478
+            },
+            "time": 136.333,
+            "trail": []
+          },
+          "engaged": false,
+          "petals": [
+            {
+              "lift": 0,
+              "rotation": 0.7,
+              "speed": 0,
+              "x": -1305,
+              "y": 3130
+            },
+            {
+              "lift": 0,
+              "rotation": 2.4,
+              "speed": 0,
+              "x": -1020,
+              "y": 3238
+            },
+            {
+              "lift": 0,
+              "rotation": 1.5,
+              "speed": 0,
+              "x": -1104,
+              "y": 3076
+            }
+          ],
+          "presence": 0,
+          "quiet": 0,
+          "ripples": [
+            {
+              "age": 4.8,
+              "opacity": 0,
+              "touched": 7,
+              "x": -1242.85,
+              "y": 2996.95
+            },
+            {
+              "age": 4.8,
+              "opacity": 0,
+              "touched": 7,
+              "x": -1253.04,
+              "y": 2997.99
+            },
+            {
+              "age": 4.8,
+              "opacity": 0,
+              "touched": 3,
+              "x": -1159.5,
+              "y": 2996.74
+            },
+            {
+              "age": 4.8,
+              "opacity": 0,
+              "touched": 0,
+              "x": -1288.06,
+              "y": 3003.36
+            }
+          ],
+          "secretAge": -1,
+          "secretAmount": 0,
+          "secretQuiet": 0,
+          "secretSeen": true,
+          "serial": 9,
+          "source": {
+            "x": -1217.61,
+            "y": 2995.33
+          }
+        }
+      }
+    },
+    {
+      "check": "final visual build restarts upon real return",
+      "pass": true,
+      "data": {
+        "main": {
+          "actorX": "-1215.740136",
+          "actorY": "2866.123990",
+          "artVersion": "floof-clearing-v1",
+          "atlasPulse": "",
+          "cameraX": "-1217.385409",
+          "cameraY": "3073.454458",
+          "cameraZoom": "1.180000",
+          "discovered": "",
+          "entered": "true",
+          "envelopeStored": "false",
+          "giftUnlocked": "false",
+          "headingX": "0.001623",
+          "headingY": "0.999999",
+          "lastDrawId": "",
+          "lastSongId": "",
+          "motionVersion": "point-to-walk-v1",
+          "moving": "false",
+          "progressMode": "saved",
+          "puzzleSolved": "false",
+          "puzzleVersion": "computer-knowledge-v1",
+          "questionsSolved": "0",
+          "region": "pond",
+          "renderer": "webgl",
+          "sound": "off",
+          "storageStatus": "saved",
+          "view": "overview",
+          "visited": "entry,pond",
+          "worldEvents": "pond-lilies"
+        },
+        "pond": {
+          "calm": 0.109,
+          "discovered": true,
+          "dream": {
+            "coastStarted": false,
+            "engaged": true,
+            "phase": "mirror",
+            "playfulness": 0,
+            "presence": 0.781,
+            "quiet": 0.151,
+            "reflection": {
+              "vx": -34.695,
+              "vy": -37.202,
+              "x": -1190.257,
+              "y": 3076.209
+            },
+            "target": {
+              "x": -1205.562,
+              "y": 3060.048
+            },
+            "time": 138.957,
+            "trail": []
+          },
+          "engaged": true,
+          "petals": [
+            {
+              "lift": 0,
+              "rotation": 0.7,
+              "speed": 0,
+              "x": -1305,
+              "y": 3130
+            },
+            {
+              "lift": 0,
+              "rotation": 2.4,
+              "speed": 0,
+              "x": -1020,
+              "y": 3238
+            },
+            {
+              "lift": 0,
+              "rotation": 1.5,
+              "speed": 0,
+              "x": -1104,
+              "y": 3076
+            }
+          ],
+          "presence": 0.572,
+          "quiet": 0,
+          "ripples": [
+            {
+              "age": 0.66,
+              "opacity": 0.135,
+              "touched": 0,
+              "x": -1209.89,
+              "y": 2995.1
+            },
+            {
+              "age": 4.8,
+              "opacity": 0,
+              "touched": 7,
+              "x": -1253.04,
+              "y": 2997.99
+            },
+            {
+              "age": 4.8,
+              "opacity": 0,
+              "touched": 3,
+              "x": -1159.5,
+              "y": 2996.74
+            },
+            {
+              "age": 4.8,
+              "opacity": 0,
+              "touched": 0,
+              "x": -1288.06,
+              "y": 3003.36
+            }
+          ],
+          "secretAge": -1,
+          "secretAmount": 0,
+          "secretQuiet": 0,
+          "secretSeen": true,
+          "serial": 10,
+          "source": {
+            "x": -1210.97,
+            "y": 2995.13
+          }
+        }
+      }
+    },
+    {
+      "check": "pond play leaves puzzle music and gift progress unchanged",
+      "pass": true,
+      "before": {
+        "actorX": "-1575.572775",
+        "actorY": "2932.536262",
+        "artVersion": "floof-clearing-v1",
+        "atlasPulse": "",
+        "cameraX": "-1568.709580",
+        "cameraY": "3105.975025",
+        "cameraZoom": "1.180000",
+        "discovered": "",
+        "entered": "true",
+        "envelopeStored": "false",
+        "giftUnlocked": "false",
+        "headingX": "-0.031484",
+        "headingY": "0.999504",
+        "lastDrawId": "",
+        "lastSongId": "",
+        "motionVersion": "point-to-walk-v1",
+        "moving": "false",
+        "progressMode": "saved",
+        "puzzleSolved": "false",
+        "puzzleVersion": "computer-knowledge-v1",
+        "questionsSolved": "0",
+        "region": "pond",
+        "renderer": "webgl",
+        "sound": "off",
+        "storageStatus": "saved",
+        "view": "overview",
+        "visited": "entry,pond",
+        "worldEvents": "pond-lilies"
+      },
+      "after": {
+        "actorX": "-1215.740136",
+        "actorY": "2866.123990",
+        "artVersion": "floof-clearing-v1",
+        "atlasPulse": "",
+        "cameraX": "-1217.385409",
+        "cameraY": "3073.454458",
+        "cameraZoom": "1.180000",
+        "discovered": "",
+        "entered": "true",
+        "envelopeStored": "false",
+        "giftUnlocked": "false",
+        "headingX": "0.001623",
+        "headingY": "0.999999",
+        "lastDrawId": "",
+        "lastSongId": "",
+        "motionVersion": "point-to-walk-v1",
+        "moving": "false",
+        "progressMode": "saved",
+        "puzzleSolved": "false",
+        "puzzleVersion": "computer-knowledge-v1",
+        "questionsSolved": "0",
+        "region": "pond",
+        "renderer": "webgl",
+        "sound": "off",
+        "storageStatus": "saved",
+        "view": "overview",
+        "visited": "entry,pond",
+        "worldEvents": "pond-lilies"
+      }
+    },
+    {
+      "check": "actual paused actor with reflection continuing visibly",
+      "pass": true,
+      "first": {
+        "file": "/Users/admin/Desktop/birthday-garden/docs/qa/pond-dream-20261104/final-042.jpg",
+        "ms": 3013,
+        "phase": "stop",
+        "main": {
+          "actorX": "-1148.301814",
+          "actorY": "2910.070338",
+          "artVersion": "floof-clearing-v1",
+          "atlasPulse": "",
+          "cameraX": "-1154.583926",
+          "cameraY": "3143.126077",
+          "cameraZoom": "1.180000",
+          "discovered": "",
+          "entered": "true",
+          "envelopeStored": "false",
+          "giftUnlocked": "false",
+          "headingX": "0.999999",
+          "headingY": "0.001425",
+          "lastDrawId": "",
+          "lastSongId": "",
+          "motionVersion": "point-to-walk-v1",
+          "moving": "false",
+          "progressMode": "saved",
+          "puzzleSolved": "false",
+          "puzzleVersion": "computer-knowledge-v1",
+          "questionsSolved": "0",
+          "region": "pond",
+          "renderer": "webgl",
+          "sound": "off",
+          "storageStatus": "saved",
+          "view": "overview",
+          "visited": "entry,pond",
+          "worldEvents": "pond-lilies"
+        },
+        "pond": {
+          "calm": 0,
+          "discovered": true,
+          "dream": {
+            "coastStarted": true,
+            "engaged": true,
+            "phase": "play",
+            "playfulness": 1,
+            "presence": 1,
+            "quiet": 0.401,
+            "reflection": {
+              "vx": 138.563,
+              "vy": 22.117,
+              "x": -1165.786,
+              "y": 3106.151
+            },
+            "target": {
+              "x": -1090.509,
+              "y": 3119.447
+            },
+            "time": 36.375,
+            "trail": [
+              {
+                "age": 2.408,
+                "strength": 1,
+                "x": -1365.399,
+                "y": 3182.723
+              },
+              {
+                "age": 2.325,
+                "strength": 1,
+                "x": -1355.551,
+                "y": 3174.03
+              },
+              {
+                "age": 2.243,
+                "strength": 1,
+                "x": -1345.683,
+                "y": 3165.695
+              },
+              {
+                "age": 2.16,
+                "strength": 1,
+                "x": -1335.944,
+                "y": 3157.807
+              },
+              {
+                "age": 2.067,
+                "strength": 1,
+                "x": -1325.559,
+                "y": 3149.744
+              },
+              {
+                "age": 1.966,
+                "strength": 1,
+                "x": -1315.3,
+                "y": 3142.146
+              },
+              {
+                "age": 1.858,
+                "strength": 1,
+                "x": -1305.303,
+                "y": 3135.147
+              },
+              {
+                "age": 1.733,
+                "strength": 1,
+                "x": -1294.93,
+                "y": 3128.402
+              },
+              {
+                "age": 1.592,
+                "strength": 1,
+                "x": -1284.513,
+                "y": 3122.286
+              },
+              {
+                "age": 1.427,
+                "strength": 1,
+                "x": -1273.544,
+                "y": 3116.701
+              },
+              {
+                "age": 1.242,
+                "strength": 1,
+                "x": -1262.114,
+                "y": 3111.928
+              },
+              {
+                "age": 1.05,
+                "strength": 1,
+                "x": -1250.396,
+                "y": 3108.171
+              },
+              {
+                "age": 0.858,
+                "strength": 1,
+                "x": -1238.355,
+                "y": 3105.357
+              },
+              {
+                "age": 0.666,
+                "strength": 1,
+                "x": -1225.994,
+                "y": 3103.381
+              },
+              {
+                "age": 0.483,
+                "strength": 1,
+                "x": -1213.938,
+                "y": 3102.223
+              },
+              {
+                "age": 0.3,
+                "strength": 1,
+                "x": -1201.73,
+                "y": 3101.757
+              },
+              {
+                "age": 0.175,
+                "strength": 1,
+                "x": -1189.759,
+                "y": 3102.665
+              },
+              {
+                "age": 0.083,
+                "strength": 1,
+                "x": -1177.467,
+                "y": 3104.349
+              }
+            ]
+          },
+          "engaged": true,
+          "petals": [
+            {
+              "lift": 1.383,
+              "rotation": 0.896,
+              "speed": 1.896,
+              "x": -1296.94,
+              "y": 3135.69
+            },
+            {
+              "lift": 0,
+              "rotation": 2.4,
+              "speed": 0,
+              "x": -1020,
+              "y": 3238
+            },
+            {
+              "lift": 0,
+              "rotation": 1.5,
+              "speed": 0,
+              "x": -1104,
+              "y": 3076
+            }
+          ],
+          "presence": 0.997,
+          "quiet": 0,
+          "ripples": [
+            {
+              "age": 2.27,
+              "opacity": 0.321,
+              "touched": 1,
+              "x": -1415.52,
+              "y": 3051.94
+            },
+            {
+              "age": 1.02,
+              "opacity": 0.381,
+              "touched": 0,
+              "x": -1253.04,
+              "y": 2997.99
+            },
+            {
+              "age": 4.8,
+              "opacity": 0,
+              "touched": 0,
+              "x": -1288.06,
+              "y": 3003.36
+            },
+            {
+              "age": 4.8,
+              "opacity": 0,
+              "touched": 0,
+              "x": -1288.06,
+              "y": 3003.36
+            }
+          ],
+          "secretAge": -1,
+          "secretAmount": 0,
+          "secretQuiet": 0,
+          "secretSeen": true,
+          "serial": 5,
+          "source": {
+            "x": -1165.73,
+            "y": 2996.58
+          }
+        }
+      },
+      "last": {
+        "file": "/Users/admin/Desktop/birthday-garden/docs/qa/pond-dream-20261104/final-070.jpg",
+        "ms": 5014,
+        "phase": "stop",
+        "main": {
+          "actorX": "-1148.301814",
+          "actorY": "2910.070338",
+          "artVersion": "floof-clearing-v1",
+          "atlasPulse": "",
+          "cameraX": "-1154.583926",
+          "cameraY": "3143.126077",
+          "cameraZoom": "1.180000",
+          "discovered": "",
+          "entered": "true",
+          "envelopeStored": "false",
+          "giftUnlocked": "false",
+          "headingX": "0.999999",
+          "headingY": "0.001425",
+          "lastDrawId": "",
+          "lastSongId": "",
+          "motionVersion": "point-to-walk-v1",
+          "moving": "false",
+          "progressMode": "saved",
+          "puzzleSolved": "false",
+          "puzzleVersion": "computer-knowledge-v1",
+          "questionsSolved": "0",
+          "region": "pond",
+          "renderer": "webgl",
+          "sound": "off",
+          "storageStatus": "saved",
+          "view": "overview",
+          "visited": "entry,pond",
+          "worldEvents": "pond-lilies"
+        },
+        "pond": {
+          "calm": 0.297,
+          "discovered": true,
+          "dream": {
+            "coastStarted": true,
+            "engaged": true,
+            "phase": "play",
+            "playfulness": 1,
+            "presence": 1,
+            "quiet": 2.401,
+            "reflection": {
+              "vx": 1.043,
+              "vy": 0.199,
+              "x": -1090.854,
+              "y": 3119.38
+            },
+            "target": {
+              "x": -1090.509,
+              "y": 3119.447
+            },
+            "time": 38.375,
+            "trail": [
+              {
+                "age": 3.733,
+                "strength": 1,
+                "x": -1294.93,
+                "y": 3128.402
+              },
+              {
+                "age": 3.592,
+                "strength": 1,
+                "x": -1284.513,
+                "y": 3122.286
+              },
+              {
+                "age": 3.427,
+                "strength": 1,
+                "x": -1273.544,
+                "y": 3116.701
+              },
+              {
+                "age": 3.242,
+                "strength": 1,
+                "x": -1262.114,
+                "y": 3111.928
+              },
+              {
+                "age": 3.05,
+                "strength": 1,
+                "x": -1250.396,
+                "y": 3108.171
+              },
+              {
+                "age": 2.858,
+                "strength": 1,
+                "x": -1238.355,
+                "y": 3105.357
+              },
+              {
+                "age": 2.667,
+                "strength": 1,
+                "x": -1225.994,
+                "y": 3103.381
+              },
+              {
+                "age": 2.483,
+                "strength": 1,
+                "x": -1213.938,
+                "y": 3102.223
+              },
+              {
+                "age": 2.3,
+                "strength": 1,
+                "x": -1201.73,
+                "y": 3101.757
+              },
+              {
+                "age": 2.175,
+                "strength": 1,
+                "x": -1189.759,
+                "y": 3102.665
+              },
+              {
+                "age": 2.083,
+                "strength": 1,
+                "x": -1177.467,
+                "y": 3104.349
+              },
+              {
+                "age": 1.992,
+                "strength": 1,
+                "x": -1164.653,
+                "y": 3106.332
+              },
+              {
+                "age": 1.901,
+                "strength": 1,
+                "x": -1152.546,
+                "y": 3108.322
+              },
+              {
+                "age": 1.8,
+                "strength": 1,
+                "x": -1140.55,
+                "y": 3110.369
+              },
+              {
+                "age": 1.675,
+                "strength": 1,
+                "x": -1128.095,
+                "y": 3112.554
+              },
+              {
+                "age": 1.516,
+                "strength": 1,
+                "x": -1116.008,
+                "y": 3114.723
+              },
+              {
+                "age": 1.275,
+                "strength": 1,
+                "x": -1104.146,
+                "y": 3116.893
+              },
+              {
+                "age": 0.558,
+                "strength": 1,
+                "x": -1092.325,
+                "y": 3119.1
+              }
+            ]
+          },
+          "engaged": true,
+          "petals": [
+            {
+              "lift": 1.112,
+              "rotation": 1.246,
+              "speed": 5.07,
+              "x": -1307.03,
+              "y": 3141.98
+            },
+            {
+              "lift": 0,
+              "rotation": 2.4,
+              "speed": 0,
+              "x": -1020,
+              "y": 3238
+            },
+            {
+              "lift": 1.975,
+              "rotation": 1.113,
+              "speed": 4.717,
+              "x": -1086.05,
+              "y": 3081.76
+            }
+          ],
+          "presence": 1,
+          "quiet": 1.9,
+          "ripples": [
+            {
+              "age": 4.27,
+              "opacity": 0.05,
+              "touched": 5,
+              "x": -1415.52,
+              "y": 3051.94
+            },
+            {
+              "age": 3.02,
+              "opacity": 0.357,
+              "touched": 5,
+              "x": -1253.04,
+              "y": 2997.99
+            },
+            {
+              "age": 4.8,
+              "opacity": 0,
+              "touched": 0,
+              "x": -1288.06,
+              "y": 3003.36
+            },
+            {
+              "age": 4.8,
+              "opacity": 0,
+              "touched": 0,
+              "x": -1288.06,
+              "y": 3003.36
+            }
+          ],
+          "secretAge": -1,
+          "secretAmount": 0,
+          "secretQuiet": 1.97,
+          "secretSeen": true,
+          "serial": 5,
+          "source": {
+            "x": -1160.5,
+            "y": 2996.65
+          }
+        }
+      }
+    },
+    {
+      "check": "actual travel creates a finite star trail",
+      "pass": true
+    }
+  ],
+  "allRawObservations": [
+    {
+      "check": "reading pauses pond and movement",
+      "pass": true,
+      "before": {
+        "main": {
+          "actorX": "-1287.669697",
+          "actorY": "2910.129782",
+          "artVersion": "floof-clearing-v1",
+          "atlasPulse": "",
+          "cameraX": "1323.512177",
+          "cameraY": "2320.000000",
+          "cameraZoom": "1.180000",
+          "discovered": "",
+          "entered": "true",
+          "envelopeStored": "false",
+          "giftUnlocked": "false",
+          "headingX": "-0.999999",
+          "headingY": "0.001545",
+          "lastDrawId": "",
+          "lastSongId": "",
+          "motionVersion": "point-to-walk-v1",
+          "moving": "false",
+          "progressMode": "saved",
+          "puzzleSolved": "false",
+          "puzzleVersion": "computer-knowledge-v1",
+          "questionsSolved": "0",
+          "region": "pond",
+          "renderer": "webgl",
+          "sound": "off",
+          "storageStatus": "saved",
+          "view": "music",
+          "visited": "entry,pond",
+          "worldEvents": "pond-lilies"
+        },
+        "pond": {
+          "calm": 1,
+          "discovered": true,
+          "dream": {
+            "coastStarted": true,
+            "engaged": true,
+            "phase": "rest",
+            "playfulness": 1,
+            "presence": 1,
+            "quiet": 20,
+            "reflection": {
+              "vx": 0,
+              "vy": 0,
+              "x": -1319.117,
+              "y": 3125.481
+            },
+            "target": {
+              "x": -1319.118,
+              "y": 3125.481
+            },
+            "time": 93.601,
+            "trail": []
+          },
+          "engaged": true,
+          "petals": [
+            {
+              "lift": 0,
+              "rotation": 0.7,
+              "speed": 0,
+              "x": -1305,
+              "y": 3130
+            },
+            {
+              "lift": 0,
+              "rotation": 2.4,
+              "speed": 0,
+              "x": -1020,
+              "y": 3238
+            },
+            {
+              "lift": 0,
+              "rotation": 1.5,
+              "speed": 0,
+              "x": -1104,
+              "y": 3076
+            }
+          ],
+          "presence": 1,
+          "quiet": 12,
+          "ripples": [
+            {
+              "age": 4.8,
+              "opacity": 0,
+              "touched": 7,
+              "x": -1151.24,
+              "y": 2997.53
+            },
+            {
+              "age": 4.8,
+              "opacity": 0,
+              "touched": 7,
+              "x": -1023.29,
+              "y": 3031.15
+            },
+            {
+              "age": 4.8,
+              "opacity": 0,
+              "touched": 7,
+              "x": -1129.77,
+              "y": 3000.27
+            },
+            {
+              "age": 4.8,
+              "opacity": 0,
+              "touched": 0,
+              "x": -1419.36,
+              "y": 3054.4
+            }
+          ],
+          "secretAge": -1,
+          "secretAmount": 0,
+          "secretQuiet": 12,
+          "secretSeen": true,
+          "serial": 5,
+          "source": {
+            "x": -1266.51,
+            "y": 2999.72
+          }
+        }
+      },
+      "after": {
+        "main": {
+          "actorX": "-1287.669697",
+          "actorY": "2910.129782",
+          "artVersion": "floof-clearing-v1",
+          "atlasPulse": "",
+          "cameraX": "1323.512177",
+          "cameraY": "2320.000000",
+          "cameraZoom": "1.180000",
+          "discovered": "",
+          "entered": "true",
+          "envelopeStored": "false",
+          "giftUnlocked": "false",
+          "headingX": "-0.999999",
+          "headingY": "0.001545",
+          "lastDrawId": "",
+          "lastSongId": "",
+          "motionVersion": "point-to-walk-v1",
+          "moving": "false",
+          "progressMode": "saved",
+          "puzzleSolved": "false",
+          "puzzleVersion": "computer-knowledge-v1",
+          "questionsSolved": "0",
+          "region": "pond",
+          "renderer": "webgl",
+          "sound": "off",
+          "storageStatus": "saved",
+          "view": "music",
+          "visited": "entry,pond",
+          "worldEvents": "pond-lilies"
+        },
+        "pond": {
+          "calm": 1,
+          "discovered": true,
+          "dream": {
+            "coastStarted": true,
+            "engaged": true,
+            "phase": "rest",
+            "playfulness": 1,
+            "presence": 1,
+            "quiet": 20,
+            "reflection": {
+              "vx": 0,
+              "vy": 0,
+              "x": -1319.117,
+              "y": 3125.481
+            },
+            "target": {
+              "x": -1319.118,
+              "y": 3125.481
+            },
+            "time": 93.601,
+            "trail": []
+          },
+          "engaged": true,
+          "petals": [
+            {
+              "lift": 0,
+              "rotation": 0.7,
+              "speed": 0,
+              "x": -1305,
+              "y": 3130
+            },
+            {
+              "lift": 0,
+              "rotation": 2.4,
+              "speed": 0,
+              "x": -1020,
+              "y": 3238
+            },
+            {
+              "lift": 0,
+              "rotation": 1.5,
+              "speed": 0,
+              "x": -1104,
+              "y": 3076
+            }
+          ],
+          "presence": 1,
+          "quiet": 12,
+          "ripples": [
+            {
+              "age": 4.8,
+              "opacity": 0,
+              "touched": 7,
+              "x": -1151.24,
+              "y": 2997.53
+            },
+            {
+              "age": 4.8,
+              "opacity": 0,
+              "touched": 7,
+              "x": -1023.29,
+              "y": 3031.15
+            },
+            {
+              "age": 4.8,
+              "opacity": 0,
+              "touched": 7,
+              "x": -1129.77,
+              "y": 3000.27
+            },
+            {
+              "age": 4.8,
+              "opacity": 0,
+              "touched": 0,
+              "x": -1419.36,
+              "y": 3054.4
+            }
+          ],
+          "secretAge": -1,
+          "secretAmount": 0,
+          "secretQuiet": 12,
+          "secretSeen": true,
+          "serial": 5,
+          "source": {
+            "x": -1266.51,
+            "y": 2999.72
+          }
+        }
+      }
+    },
+    {
+      "check": "close panel restores actor and camera",
+      "pass": false,
+      "before": {
+        "actorX": "-1287.669697",
+        "actorY": "2910.129782",
+        "artVersion": "floof-clearing-v1",
+        "atlasPulse": "",
+        "cameraX": "1323.512177",
+        "cameraY": "2320.000000",
+        "cameraZoom": "1.180000",
+        "discovered": "",
+        "entered": "true",
+        "envelopeStored": "false",
+        "giftUnlocked": "false",
+        "headingX": "-0.999999",
+        "headingY": "0.001545",
+        "lastDrawId": "",
+        "lastSongId": "",
+        "motionVersion": "point-to-walk-v1",
+        "moving": "false",
+        "progressMode": "saved",
+        "puzzleSolved": "false",
+        "puzzleVersion": "computer-knowledge-v1",
+        "questionsSolved": "0",
+        "region": "pond",
+        "renderer": "webgl",
+        "sound": "off",
+        "storageStatus": "saved",
+        "view": "music",
+        "visited": "entry,pond",
+        "worldEvents": "pond-lilies"
+      },
+      "after": {
+        "actorX": "-1287.669697",
+        "actorY": "2910.129782",
+        "artVersion": "floof-clearing-v1",
+        "atlasPulse": "",
+        "cameraX": "-1273.410201",
+        "cameraY": "3136.863921",
+        "cameraZoom": "1.180000",
+        "discovered": "",
+        "entered": "true",
+        "envelopeStored": "false",
+        "giftUnlocked": "false",
+        "headingX": "-0.999999",
+        "headingY": "0.001545",
+        "lastDrawId": "",
+        "lastSongId": "",
+        "motionVersion": "point-to-walk-v1",
+        "moving": "false",
+        "progressMode": "saved",
+        "puzzleSolved": "false",
+        "puzzleVersion": "computer-knowledge-v1",
+        "questionsSolved": "0",
+        "region": "pond",
+        "renderer": "webgl",
+        "sound": "off",
+        "storageStatus": "saved",
+        "view": "overview",
+        "visited": "entry,pond",
+        "worldEvents": "pond-lilies"
+      }
+    },
+    {
+      "check": "leaving bank fades reflection and clears stars",
+      "pass": true,
+      "data": {
+        "main": {
+          "actorX": "-1308.766443",
+          "actorY": "2489.924260",
+          "artVersion": "floof-clearing-v1",
+          "atlasPulse": "",
+          "cameraX": "-1307.142870",
+          "cameraY": "2718.628014",
+          "cameraZoom": "1.180000",
+          "discovered": "",
+          "entered": "true",
+          "envelopeStored": "false",
+          "giftUnlocked": "false",
+          "headingX": "-0.001492",
+          "headingY": "-0.999999",
+          "lastDrawId": "",
+          "lastSongId": "",
+          "motionVersion": "point-to-walk-v1",
+          "moving": "false",
+          "progressMode": "saved",
+          "puzzleSolved": "false",
+          "puzzleVersion": "computer-knowledge-v1",
+          "questionsSolved": "0",
+          "region": "pond",
+          "renderer": "webgl",
+          "sound": "off",
+          "storageStatus": "saved",
+          "view": "overview",
+          "visited": "entry,pond",
+          "worldEvents": "pond-lilies"
+        },
+        "pond": {
+          "calm": 1,
+          "discovered": true,
+          "dream": {
+            "coastStarted": false,
+            "engaged": false,
+            "phase": "dormant",
+            "playfulness": 0,
+            "presence": 0,
+            "quiet": 0,
+            "reflection": {
+              "vx": 0,
+              "vy": 0,
+              "x": -1209.157,
+              "y": 3102.732
+            },
+            "target": {
+              "x": -1209.157,
+              "y": 3102.732
+            },
+            "time": 136.189,
+            "trail": []
+          },
+          "engaged": false,
+          "petals": [
+            {
+              "lift": 0,
+              "rotation": 0.7,
+              "speed": 0,
+              "x": -1305,
+              "y": 3130
+            },
+            {
+              "lift": 0,
+              "rotation": 2.4,
+              "speed": 0,
+              "x": -1020,
+              "y": 3238
+            },
+            {
+              "lift": 0,
+              "rotation": 1.5,
+              "speed": 0,
+              "x": -1104,
+              "y": 3076
+            }
+          ],
+          "presence": 0,
+          "quiet": 0,
+          "ripples": [
+            {
+              "age": 4.8,
+              "opacity": 0,
+              "touched": 7,
+              "x": -1269.17,
+              "y": 3000.11
+            },
+            {
+              "age": 4.8,
+              "opacity": 0,
+              "touched": 7,
+              "x": -1023.29,
+              "y": 3031.15
+            },
+            {
+              "age": 4.8,
+              "opacity": 0,
+              "touched": 7,
+              "x": -1129.77,
+              "y": 3000.27
+            },
+            {
+              "age": 4.8,
+              "opacity": 0,
+              "touched": 0,
+              "x": -1419.36,
+              "y": 3054.4
+            }
+          ],
+          "secretAge": -1,
+          "secretAmount": 0,
+          "secretQuiet": 0,
+          "secretSeen": true,
+          "serial": 6,
+          "source": {
+            "x": -1249.22,
+            "y": 2997.57
+          }
+        }
+      }
+    },
+    {
+      "check": "walking back reactivates pond without buttons",
+      "pass": true,
+      "data": {
+        "main": {
+          "actorX": "-1331.480209",
+          "actorY": "2835.920575",
+          "artVersion": "floof-clearing-v1",
+          "atlasPulse": "",
+          "cameraX": "-1330.016877",
+          "cameraY": "3040.807730",
+          "cameraZoom": "1.180000",
+          "discovered": "",
+          "entered": "true",
+          "envelopeStored": "false",
+          "giftUnlocked": "false",
+          "headingX": "-0.001530",
+          "headingY": "0.999999",
+          "lastDrawId": "",
+          "lastSongId": "",
+          "motionVersion": "point-to-walk-v1",
+          "moving": "false",
+          "progressMode": "saved",
+          "puzzleSolved": "false",
+          "puzzleVersion": "computer-knowledge-v1",
+          "questionsSolved": "0",
+          "region": "pond",
+          "renderer": "webgl",
+          "sound": "off",
+          "storageStatus": "saved",
+          "view": "overview",
+          "visited": "entry,pond",
+          "worldEvents": "pond-lilies"
+        },
+        "pond": {
+          "calm": 0.135,
+          "discovered": true,
+          "dream": {
+            "coastStarted": false,
+            "engaged": true,
+            "phase": "mirror",
+            "playfulness": 0,
+            "presence": 0.656,
+            "quiet": 0.291,
+            "reflection": {
+              "vx": -35.199,
+              "vy": -39.903,
+              "x": -1227.969,
+              "y": 3081.237
+            },
+            "target": {
+              "x": -1244.833,
+              "y": 3063.142
+            },
+            "time": 138.814,
+            "trail": []
+          },
+          "engaged": true,
+          "petals": [
+            {
+              "lift": 0,
+              "rotation": 0.7,
+              "speed": 0,
+              "x": -1305,
+              "y": 3130
+            },
+            {
+              "lift": 0,
+              "rotation": 2.4,
+              "speed": 0,
+              "x": -1020,
+              "y": 3238
+            },
+            {
+              "lift": 0,
+              "rotation": 1.5,
+              "speed": 0,
+              "x": -1104,
+              "y": 3076
+            }
+          ],
+          "presence": 0.428,
+          "quiet": 0,
+          "ripples": [
+            {
+              "age": 0.59,
+              "opacity": 0.135,
+              "touched": 0,
+              "x": -1281.25,
+              "y": 3002.09
+            },
+            {
+              "age": 4.8,
+              "opacity": 0,
+              "touched": 7,
+              "x": -1023.29,
+              "y": 3031.15
+            },
+            {
+              "age": 4.8,
+              "opacity": 0,
+              "touched": 7,
+              "x": -1129.77,
+              "y": 3000.27
+            },
+            {
+              "age": 4.8,
+              "opacity": 0,
+              "touched": 0,
+              "x": -1419.36,
+              "y": 3054.4
+            }
+          ],
+          "secretAge": -1,
+          "secretAmount": 0,
+          "secretQuiet": 0,
+          "secretSeen": true,
+          "serial": 7,
+          "source": {
+            "x": -1286.8,
+            "y": 3003.13
+          }
+        }
+      }
+    },
+    {
+      "check": "map freezes pond and actor",
+      "pass": true,
+      "before": {
+        "main": {
+          "actorX": "-1331.480209",
+          "actorY": "2835.920575",
+          "artVersion": "floof-clearing-v1",
+          "atlasPulse": "",
+          "cameraX": "-1330.016877",
+          "cameraY": "3040.807730",
+          "cameraZoom": "1.180000",
+          "discovered": "",
+          "entered": "true",
+          "envelopeStored": "false",
+          "giftUnlocked": "false",
+          "headingX": "-0.001530",
+          "headingY": "0.999999",
+          "lastDrawId": "",
+          "lastSongId": "",
+          "motionVersion": "point-to-walk-v1",
+          "moving": "false",
+          "progressMode": "saved",
+          "puzzleSolved": "false",
+          "puzzleVersion": "computer-knowledge-v1",
+          "questionsSolved": "0",
+          "region": "pond",
+          "renderer": "webgl",
+          "sound": "off",
+          "storageStatus": "saved",
+          "view": "overview",
+          "visited": "entry,pond",
+          "worldEvents": "pond-lilies"
+        },
+        "pond": {
+          "calm": 0.135,
+          "discovered": true,
+          "dream": {
+            "coastStarted": false,
+            "engaged": true,
+            "phase": "mirror",
+            "playfulness": 0,
+            "presence": 0.656,
+            "quiet": 0.291,
+            "reflection": {
+              "vx": -35.199,
+              "vy": -39.903,
+              "x": -1227.969,
+              "y": 3081.237
+            },
+            "target": {
+              "x": -1244.833,
+              "y": 3063.142
+            },
+            "time": 138.814,
+            "trail": []
+          },
+          "engaged": true,
+          "petals": [
+            {
+              "lift": 0,
+              "rotation": 0.7,
+              "speed": 0,
+              "x": -1305,
+              "y": 3130
+            },
+            {
+              "lift": 0,
+              "rotation": 2.4,
+              "speed": 0,
+              "x": -1020,
+              "y": 3238
+            },
+            {
+              "lift": 0,
+              "rotation": 1.5,
+              "speed": 0,
+              "x": -1104,
+              "y": 3076
+            }
+          ],
+          "presence": 0.428,
+          "quiet": 0,
+          "ripples": [
+            {
+              "age": 0.59,
+              "opacity": 0.135,
+              "touched": 0,
+              "x": -1281.25,
+              "y": 3002.09
+            },
+            {
+              "age": 4.8,
+              "opacity": 0,
+              "touched": 7,
+              "x": -1023.29,
+              "y": 3031.15
+            },
+            {
+              "age": 4.8,
+              "opacity": 0,
+              "touched": 7,
+              "x": -1129.77,
+              "y": 3000.27
+            },
+            {
+              "age": 4.8,
+              "opacity": 0,
+              "touched": 0,
+              "x": -1419.36,
+              "y": 3054.4
+            }
+          ],
+          "secretAge": -1,
+          "secretAmount": 0,
+          "secretQuiet": 0,
+          "secretSeen": true,
+          "serial": 7,
+          "source": {
+            "x": -1286.8,
+            "y": 3003.13
+          }
+        }
+      },
+      "after": {
+        "main": {
+          "actorX": "-1331.480209",
+          "actorY": "2835.920575",
+          "artVersion": "floof-clearing-v1",
+          "atlasPulse": "",
+          "cameraX": "-1330.016877",
+          "cameraY": "3040.807730",
+          "cameraZoom": "1.180000",
+          "discovered": "",
+          "entered": "true",
+          "envelopeStored": "false",
+          "giftUnlocked": "false",
+          "headingX": "-0.001530",
+          "headingY": "0.999999",
+          "lastDrawId": "",
+          "lastSongId": "",
+          "motionVersion": "point-to-walk-v1",
+          "moving": "false",
+          "progressMode": "saved",
+          "puzzleSolved": "false",
+          "puzzleVersion": "computer-knowledge-v1",
+          "questionsSolved": "0",
+          "region": "pond",
+          "renderer": "webgl",
+          "sound": "off",
+          "storageStatus": "saved",
+          "view": "overview",
+          "visited": "entry,pond",
+          "worldEvents": "pond-lilies"
+        },
+        "pond": {
+          "calm": 0.135,
+          "discovered": true,
+          "dream": {
+            "coastStarted": false,
+            "engaged": true,
+            "phase": "mirror",
+            "playfulness": 0,
+            "presence": 0.656,
+            "quiet": 0.291,
+            "reflection": {
+              "vx": -35.199,
+              "vy": -39.903,
+              "x": -1227.969,
+              "y": 3081.237
+            },
+            "target": {
+              "x": -1244.833,
+              "y": 3063.142
+            },
+            "time": 138.814,
+            "trail": []
+          },
+          "engaged": true,
+          "petals": [
+            {
+              "lift": 0,
+              "rotation": 0.7,
+              "speed": 0,
+              "x": -1305,
+              "y": 3130
+            },
+            {
+              "lift": 0,
+              "rotation": 2.4,
+              "speed": 0,
+              "x": -1020,
+              "y": 3238
+            },
+            {
+              "lift": 0,
+              "rotation": 1.5,
+              "speed": 0,
+              "x": -1104,
+              "y": 3076
+            }
+          ],
+          "presence": 0.428,
+          "quiet": 0,
+          "ripples": [
+            {
+              "age": 0.59,
+              "opacity": 0.135,
+              "touched": 0,
+              "x": -1281.25,
+              "y": 3002.09
+            },
+            {
+              "age": 4.8,
+              "opacity": 0,
+              "touched": 7,
+              "x": -1023.29,
+              "y": 3031.15
+            },
+            {
+              "age": 4.8,
+              "opacity": 0,
+              "touched": 7,
+              "x": -1129.77,
+              "y": 3000.27
+            },
+            {
+              "age": 4.8,
+              "opacity": 0,
+              "touched": 0,
+              "x": -1419.36,
+              "y": 3054.4
+            }
+          ],
+          "secretAge": -1,
+          "secretAmount": 0,
+          "secretQuiet": 0,
+          "secretSeen": true,
+          "serial": 7,
+          "source": {
+            "x": -1286.8,
+            "y": 3003.13
+          }
+        }
+      }
+    },
+    {
+      "check": "reduced motion keeps active reflection and exact star trail frozen",
+      "pass": true,
+      "before": {
+        "main": {
+          "actorX": "-1361.763605",
+          "actorY": "2931.895012",
+          "artVersion": "floof-clearing-v1",
+          "atlasPulse": "",
+          "cameraX": "-1399.497362",
+          "cameraY": "3138.455037",
+          "cameraZoom": "1.180000",
+          "discovered": "",
+          "entered": "true",
+          "envelopeStored": "false",
+          "giftUnlocked": "false",
+          "headingX": "0.997424",
+          "headingY": "0.071727",
+          "lastDrawId": "",
+          "lastSongId": "",
+          "motionVersion": "point-to-walk-v1",
+          "moving": "false",
+          "progressMode": "saved",
+          "puzzleSolved": "false",
+          "puzzleVersion": "computer-knowledge-v1",
+          "questionsSolved": "0",
+          "region": "pond",
+          "renderer": "static",
+          "sound": "off",
+          "storageStatus": "saved",
+          "view": "overview",
+          "visited": "entry,pond",
+          "worldEvents": "pond-lilies"
+        },
+        "pond": {
+          "calm": 0.17,
+          "discovered": true,
+          "dream": {
+            "coastStarted": true,
+            "engaged": true,
+            "phase": "play",
+            "playfulness": 1,
+            "presence": 1,
+            "quiet": 0.174,
+            "reflection": {
+              "vx": 129.612,
+              "vy": -51.51,
+              "x": -1289.68,
+              "y": 3122.289
+            },
+            "target": {
+              "x": -1186.202,
+              "y": 3082.534
+            },
+            "time": 51.157,
+            "trail": [
+              {
+                "age": 0.432,
+                "strength": 1,
+                "x": -1332.461,
+                "y": 3141.223
+              },
+              {
+                "age": 0.299,
+                "strength": 1,
+                "x": -1321.598,
+                "y": 3135.918
+              },
+              {
+                "age": 0.182,
+                "strength": 1,
+                "x": -1309.801,
+                "y": 3130.599
+              },
+              {
+                "age": 0.075,
+                "strength": 1,
+                "x": -1298.351,
+                "y": 3125.786
+              }
+            ]
+          },
+          "engaged": true,
+          "petals": [
+            {
+              "lift": 0,
+              "rotation": 0.701,
+              "speed": 0.001,
+              "x": -1305,
+              "y": 3130
+            },
+            {
+              "lift": 0,
+              "rotation": 2.4,
+              "speed": 0.001,
+              "x": -1020,
+              "y": 3238
+            },
+            {
+              "lift": 0,
+              "rotation": 1.499,
+              "speed": 0.002,
+              "x": -1104,
+              "y": 3076
+            }
+          ],
+          "presence": 0.993,
+          "quiet": 0,
+          "ripples": [
+            {
+              "age": 0.29,
+              "opacity": 0.314,
+              "touched": 0,
+              "x": -1337.69,
+              "y": 3016.1
+            },
+            {
+              "age": 4.8,
+              "opacity": 0,
+              "touched": 7,
+              "x": -1253.04,
+              "y": 2997.99
+            },
+            {
+              "age": 4.8,
+              "opacity": 0,
+              "touched": 3,
+              "x": -1159.5,
+              "y": 2996.74
+            },
+            {
+              "age": 4.8,
+              "opacity": 0,
+              "touched": 0,
+              "x": -1288.06,
+              "y": 3003.36
+            }
+          ],
+          "secretAge": -1,
+          "secretAmount": 0,
+          "secretQuiet": 0,
+          "secretSeen": true,
+          "serial": 8,
+          "source": {
+            "x": -1331.42,
+            "y": 3014.3
+          }
+        }
+      },
+      "after": {
+        "main": {
+          "actorX": "-1361.763605",
+          "actorY": "2931.895012",
+          "artVersion": "floof-clearing-v1",
+          "atlasPulse": "",
+          "cameraX": "-1399.497362",
+          "cameraY": "3138.455037",
+          "cameraZoom": "1.180000",
+          "discovered": "",
+          "entered": "true",
+          "envelopeStored": "false",
+          "giftUnlocked": "false",
+          "headingX": "0.997424",
+          "headingY": "0.071727",
+          "lastDrawId": "",
+          "lastSongId": "",
+          "motionVersion": "point-to-walk-v1",
+          "moving": "false",
+          "progressMode": "saved",
+          "puzzleSolved": "false",
+          "puzzleVersion": "computer-knowledge-v1",
+          "questionsSolved": "0",
+          "region": "pond",
+          "renderer": "static",
+          "sound": "off",
+          "storageStatus": "saved",
+          "view": "overview",
+          "visited": "entry,pond",
+          "worldEvents": "pond-lilies"
+        },
+        "pond": {
+          "calm": 0.17,
+          "discovered": true,
+          "dream": {
+            "coastStarted": true,
+            "engaged": true,
+            "phase": "play",
+            "playfulness": 1,
+            "presence": 1,
+            "quiet": 0.174,
+            "reflection": {
+              "vx": 129.612,
+              "vy": -51.51,
+              "x": -1289.68,
+              "y": 3122.289
+            },
+            "target": {
+              "x": -1186.202,
+              "y": 3082.534
+            },
+            "time": 51.157,
+            "trail": [
+              {
+                "age": 0.432,
+                "strength": 1,
+                "x": -1332.461,
+                "y": 3141.223
+              },
+              {
+                "age": 0.299,
+                "strength": 1,
+                "x": -1321.598,
+                "y": 3135.918
+              },
+              {
+                "age": 0.182,
+                "strength": 1,
+                "x": -1309.801,
+                "y": 3130.599
+              },
+              {
+                "age": 0.075,
+                "strength": 1,
+                "x": -1298.351,
+                "y": 3125.786
+              }
+            ]
+          },
+          "engaged": true,
+          "petals": [
+            {
+              "lift": 0,
+              "rotation": 0.701,
+              "speed": 0.001,
+              "x": -1305,
+              "y": 3130
+            },
+            {
+              "lift": 0,
+              "rotation": 2.4,
+              "speed": 0.001,
+              "x": -1020,
+              "y": 3238
+            },
+            {
+              "lift": 0,
+              "rotation": 1.499,
+              "speed": 0.002,
+              "x": -1104,
+              "y": 3076
+            }
+          ],
+          "presence": 0.993,
+          "quiet": 0,
+          "ripples": [
+            {
+              "age": 0.29,
+              "opacity": 0.314,
+              "touched": 0,
+              "x": -1337.69,
+              "y": 3016.1
+            },
+            {
+              "age": 4.8,
+              "opacity": 0,
+              "touched": 7,
+              "x": -1253.04,
+              "y": 2997.99
+            },
+            {
+              "age": 4.8,
+              "opacity": 0,
+              "touched": 3,
+              "x": -1159.5,
+              "y": 2996.74
+            },
+            {
+              "age": 4.8,
+              "opacity": 0,
+              "touched": 0,
+              "x": -1288.06,
+              "y": 3003.36
+            }
+          ],
+          "secretAge": -1,
+          "secretAmount": 0,
+          "secretQuiet": 0,
+          "secretSeen": true,
+          "serial": 8,
+          "source": {
+            "x": -1331.42,
+            "y": 3014.3
+          }
+        }
+      }
+    },
+    {
+      "check": "restoring live renderer keeps location and resumes stored reflection",
+      "pass": true,
+      "before": {
+        "main": {
+          "actorX": "-1361.763605",
+          "actorY": "2931.895012",
+          "artVersion": "floof-clearing-v1",
+          "atlasPulse": "",
+          "cameraX": "-1399.497362",
+          "cameraY": "3138.455037",
+          "cameraZoom": "1.180000",
+          "discovered": "",
+          "entered": "true",
+          "envelopeStored": "false",
+          "giftUnlocked": "false",
+          "headingX": "0.997424",
+          "headingY": "0.071727",
+          "lastDrawId": "",
+          "lastSongId": "",
+          "motionVersion": "point-to-walk-v1",
+          "moving": "false",
+          "progressMode": "saved",
+          "puzzleSolved": "false",
+          "puzzleVersion": "computer-knowledge-v1",
+          "questionsSolved": "0",
+          "region": "pond",
+          "renderer": "static",
+          "sound": "off",
+          "storageStatus": "saved",
+          "view": "overview",
+          "visited": "entry,pond",
+          "worldEvents": "pond-lilies"
+        },
+        "pond": {
+          "calm": 0.17,
+          "discovered": true,
+          "dream": {
+            "coastStarted": true,
+            "engaged": true,
+            "phase": "play",
+            "playfulness": 1,
+            "presence": 1,
+            "quiet": 0.174,
+            "reflection": {
+              "vx": 129.612,
+              "vy": -51.51,
+              "x": -1289.68,
+              "y": 3122.289
+            },
+            "target": {
+              "x": -1186.202,
+              "y": 3082.534
+            },
+            "time": 51.157,
+            "trail": [
+              {
+                "age": 0.432,
+                "strength": 1,
+                "x": -1332.461,
+                "y": 3141.223
+              },
+              {
+                "age": 0.299,
+                "strength": 1,
+                "x": -1321.598,
+                "y": 3135.918
+              },
+              {
+                "age": 0.182,
+                "strength": 1,
+                "x": -1309.801,
+                "y": 3130.599
+              },
+              {
+                "age": 0.075,
+                "strength": 1,
+                "x": -1298.351,
+                "y": 3125.786
+              }
+            ]
+          },
+          "engaged": true,
+          "petals": [
+            {
+              "lift": 0,
+              "rotation": 0.701,
+              "speed": 0.001,
+              "x": -1305,
+              "y": 3130
+            },
+            {
+              "lift": 0,
+              "rotation": 2.4,
+              "speed": 0.001,
+              "x": -1020,
+              "y": 3238
+            },
+            {
+              "lift": 0,
+              "rotation": 1.499,
+              "speed": 0.002,
+              "x": -1104,
+              "y": 3076
+            }
+          ],
+          "presence": 0.993,
+          "quiet": 0,
+          "ripples": [
+            {
+              "age": 0.29,
+              "opacity": 0.314,
+              "touched": 0,
+              "x": -1337.69,
+              "y": 3016.1
+            },
+            {
+              "age": 4.8,
+              "opacity": 0,
+              "touched": 7,
+              "x": -1253.04,
+              "y": 2997.99
+            },
+            {
+              "age": 4.8,
+              "opacity": 0,
+              "touched": 3,
+              "x": -1159.5,
+              "y": 2996.74
+            },
+            {
+              "age": 4.8,
+              "opacity": 0,
+              "touched": 0,
+              "x": -1288.06,
+              "y": 3003.36
+            }
+          ],
+          "secretAge": -1,
+          "secretAmount": 0,
+          "secretQuiet": 0,
+          "secretSeen": true,
+          "serial": 8,
+          "source": {
+            "x": -1331.42,
+            "y": 3014.3
+          }
+        }
+      },
+      "after": {
+        "main": {
+          "actorX": "-1361.763605",
+          "actorY": "2931.895012",
+          "artVersion": "floof-clearing-v1",
+          "atlasPulse": "",
+          "cameraX": "-1399.497362",
+          "cameraY": "3138.455037",
+          "cameraZoom": "1.180000",
+          "discovered": "",
+          "entered": "true",
+          "envelopeStored": "false",
+          "giftUnlocked": "false",
+          "headingX": "0.997424",
+          "headingY": "0.071727",
+          "lastDrawId": "",
+          "lastSongId": "",
+          "motionVersion": "point-to-walk-v1",
+          "moving": "false",
+          "progressMode": "saved",
+          "puzzleSolved": "false",
+          "puzzleVersion": "computer-knowledge-v1",
+          "questionsSolved": "0",
+          "region": "pond",
+          "renderer": "webgl",
+          "sound": "off",
+          "storageStatus": "saved",
+          "view": "overview",
+          "visited": "entry,pond",
+          "worldEvents": "pond-lilies"
+        },
+        "pond": {
+          "calm": 0.144,
+          "discovered": true,
+          "dream": {
+            "coastStarted": true,
+            "engaged": true,
+            "phase": "play",
+            "playfulness": 1,
+            "presence": 1,
+            "quiet": 0.224,
+            "reflection": {
+              "vx": 141.22,
+              "vy": -55.455,
+              "x": -1282.877,
+              "y": 3119.602
+            },
+            "target": {
+              "x": -1186.202,
+              "y": 3082.534
+            },
+            "time": 51.207,
+            "trail": [
+              {
+                "age": 0.482,
+                "strength": 1,
+                "x": -1332.461,
+                "y": 3141.223
+              },
+              {
+                "age": 0.349,
+                "strength": 1,
+                "x": -1321.598,
+                "y": 3135.918
+              },
+              {
+                "age": 0.232,
+                "strength": 1,
+                "x": -1309.801,
+                "y": 3130.599
+              },
+              {
+                "age": 0.125,
+                "strength": 1,
+                "x": -1298.351,
+                "y": 3125.786
+              },
+              {
+                "age": 0,
+                "strength": 1,
+                "x": -1282.877,
+                "y": 3119.602
+              }
+            ]
+          },
+          "engaged": true,
+          "petals": [
+            {
+              "lift": 0,
+              "rotation": 0.701,
+              "speed": 0.001,
+              "x": -1305,
+              "y": 3130
+            },
+            {
+              "lift": 0,
+              "rotation": 2.4,
+              "speed": 0.001,
+              "x": -1020,
+              "y": 3238
+            },
+            {
+              "lift": 0,
+              "rotation": 1.5,
+              "speed": 0.001,
+              "x": -1104,
+              "y": 3076
+            }
+          ],
+          "presence": 0.994,
+          "quiet": 0.05,
+          "ripples": [
+            {
+              "age": 0.34,
+              "opacity": 0.331,
+              "touched": 0,
+              "x": -1337.69,
+              "y": 3016.1
+            },
+            {
+              "age": 4.8,
+              "opacity": 0,
+              "touched": 7,
+              "x": -1253.04,
+              "y": 2997.99
+            },
+            {
+              "age": 4.8,
+              "opacity": 0,
+              "touched": 3,
+              "x": -1159.5,
+              "y": 2996.74
+            },
+            {
+              "age": 4.8,
+              "opacity": 0,
+              "touched": 0,
+              "x": -1288.06,
+              "y": 3003.36
+            }
+          ],
+          "secretAge": -1,
+          "secretAmount": 0,
+          "secretQuiet": 0.05,
+          "secretSeen": true,
+          "serial": 8,
+          "source": {
+            "x": -1329.84,
+            "y": 3013.8
+          }
+        }
+      }
+    },
+    {
+      "check": "opening a panel freezes a swimming reflection and its trail",
+      "pass": true,
+      "before": {
+        "main": {
+          "actorX": "-1259.603605",
+          "actorY": "2912.935063",
+          "artVersion": "floof-clearing-v1",
+          "atlasPulse": "",
+          "cameraX": "-1256.779704",
+          "cameraY": "3124.227084",
+          "cameraZoom": "1.180000",
+          "discovered": "",
+          "entered": "true",
+          "envelopeStored": "false",
+          "giftUnlocked": "false",
+          "headingX": "0.999999",
+          "headingY": "0.001471",
+          "lastDrawId": "",
+          "lastSongId": "",
+          "motionVersion": "point-to-walk-v1",
+          "moving": "false",
+          "progressMode": "saved",
+          "puzzleSolved": "false",
+          "puzzleVersion": "computer-knowledge-v1",
+          "questionsSolved": "0",
+          "region": "pond",
+          "renderer": "webgl",
+          "sound": "off",
+          "storageStatus": "saved",
+          "view": "music",
+          "visited": "entry,pond",
+          "worldEvents": "pond-lilies"
+        },
+        "pond": {
+          "calm": 0.005,
+          "discovered": true,
+          "dream": {
+            "coastStarted": true,
+            "engaged": true,
+            "phase": "play",
+            "playfulness": 1,
+            "presence": 1,
+            "quiet": 0.192,
+            "reflection": {
+              "vx": 93.557,
+              "vy": 4.59,
+              "x": -1214.719,
+              "y": 3100.666
+            },
+            "target": {
+              "x": -1106.523,
+              "y": 3108.847
+            },
+            "time": 52.21,
+            "trail": [
+              {
+                "age": 1.485,
+                "strength": 1,
+                "x": -1332.461,
+                "y": 3141.223
+              },
+              {
+                "age": 1.352,
+                "strength": 1,
+                "x": -1321.598,
+                "y": 3135.918
+              },
+              {
+                "age": 1.235,
+                "strength": 1,
+                "x": -1309.801,
+                "y": 3130.599
+              },
+              {
+                "age": 1.128,
+                "strength": 1,
+                "x": -1298.351,
+                "y": 3125.786
+              },
+              {
+                "age": 1.003,
+                "strength": 1,
+                "x": -1282.877,
+                "y": 3119.602
+              },
+              {
+                "age": 0.925,
+                "strength": 1,
+                "x": -1271.602,
+                "y": 3115.201
+              },
+              {
+                "age": 0.843,
+                "strength": 1,
+                "x": -1259.967,
+                "y": 3110.706
+              },
+              {
+                "age": 0.725,
+                "strength": 1,
+                "x": -1248.075,
+                "y": 3106.381
+              },
+              {
+                "age": 0.542,
+                "strength": 1,
+                "x": -1236.102,
+                "y": 3102.918
+              },
+              {
+                "age": 0.233,
+                "strength": 1,
+                "x": -1224.234,
+                "y": 3100.905
+              }
+            ]
+          },
+          "engaged": true,
+          "petals": [
+            {
+              "lift": 0,
+              "rotation": 0.7,
+              "speed": 0,
+              "x": -1305,
+              "y": 3130
+            },
+            {
+              "lift": 0,
+              "rotation": 2.4,
+              "speed": 0,
+              "x": -1020,
+              "y": 3238
+            },
+            {
+              "lift": 0,
+              "rotation": 1.5,
+              "speed": 0,
+              "x": -1104,
+              "y": 3076
+            }
+          ],
+          "presence": 0.999,
+          "quiet": 0,
+          "ripples": [
+            {
+              "age": 1.34,
+              "opacity": 0.331,
+              "touched": 0,
+              "x": -1337.69,
+              "y": 3016.1
+            },
+            {
+              "age": 4.8,
+              "opacity": 0,
+              "touched": 7,
+              "x": -1253.04,
+              "y": 2997.99
+            },
+            {
+              "age": 4.8,
+              "opacity": 0,
+              "touched": 3,
+              "x": -1159.5,
+              "y": 2996.74
+            },
+            {
+              "age": 4.8,
+              "opacity": 0,
+              "touched": 0,
+              "x": -1288.06,
+              "y": 3003.36
+            }
+          ],
+          "secretAge": -1,
+          "secretAmount": 0,
+          "secretQuiet": 0,
+          "secretSeen": true,
+          "serial": 8,
+          "source": {
+            "x": -1257.61,
+            "y": 2999.04
+          }
+        }
+      },
+      "after": {
+        "main": {
+          "actorX": "-1259.603605",
+          "actorY": "2912.935063",
+          "artVersion": "floof-clearing-v1",
+          "atlasPulse": "",
+          "cameraX": "1323.512177",
+          "cameraY": "2320.000000",
+          "cameraZoom": "1.180000",
+          "discovered": "",
+          "entered": "true",
+          "envelopeStored": "false",
+          "giftUnlocked": "false",
+          "headingX": "0.999999",
+          "headingY": "0.001471",
+          "lastDrawId": "",
+          "lastSongId": "",
+          "motionVersion": "point-to-walk-v1",
+          "moving": "false",
+          "progressMode": "saved",
+          "puzzleSolved": "false",
+          "puzzleVersion": "computer-knowledge-v1",
+          "questionsSolved": "0",
+          "region": "pond",
+          "renderer": "webgl",
+          "sound": "off",
+          "storageStatus": "saved",
+          "view": "music",
+          "visited": "entry,pond",
+          "worldEvents": "pond-lilies"
+        },
+        "pond": {
+          "calm": 0.005,
+          "discovered": true,
+          "dream": {
+            "coastStarted": true,
+            "engaged": true,
+            "phase": "play",
+            "playfulness": 1,
+            "presence": 1,
+            "quiet": 0.192,
+            "reflection": {
+              "vx": 93.557,
+              "vy": 4.59,
+              "x": -1214.719,
+              "y": 3100.666
+            },
+            "target": {
+              "x": -1106.523,
+              "y": 3108.847
+            },
+            "time": 52.21,
+            "trail": [
+              {
+                "age": 1.485,
+                "strength": 1,
+                "x": -1332.461,
+                "y": 3141.223
+              },
+              {
+                "age": 1.352,
+                "strength": 1,
+                "x": -1321.598,
+                "y": 3135.918
+              },
+              {
+                "age": 1.235,
+                "strength": 1,
+                "x": -1309.801,
+                "y": 3130.599
+              },
+              {
+                "age": 1.128,
+                "strength": 1,
+                "x": -1298.351,
+                "y": 3125.786
+              },
+              {
+                "age": 1.003,
+                "strength": 1,
+                "x": -1282.877,
+                "y": 3119.602
+              },
+              {
+                "age": 0.925,
+                "strength": 1,
+                "x": -1271.602,
+                "y": 3115.201
+              },
+              {
+                "age": 0.843,
+                "strength": 1,
+                "x": -1259.967,
+                "y": 3110.706
+              },
+              {
+                "age": 0.725,
+                "strength": 1,
+                "x": -1248.075,
+                "y": 3106.381
+              },
+              {
+                "age": 0.542,
+                "strength": 1,
+                "x": -1236.102,
+                "y": 3102.918
+              },
+              {
+                "age": 0.233,
+                "strength": 1,
+                "x": -1224.234,
+                "y": 3100.905
+              }
+            ]
+          },
+          "engaged": true,
+          "petals": [
+            {
+              "lift": 0,
+              "rotation": 0.7,
+              "speed": 0,
+              "x": -1305,
+              "y": 3130
+            },
+            {
+              "lift": 0,
+              "rotation": 2.4,
+              "speed": 0,
+              "x": -1020,
+              "y": 3238
+            },
+            {
+              "lift": 0,
+              "rotation": 1.5,
+              "speed": 0,
+              "x": -1104,
+              "y": 3076
+            }
+          ],
+          "presence": 0.999,
+          "quiet": 0,
+          "ripples": [
+            {
+              "age": 1.34,
+              "opacity": 0.331,
+              "touched": 0,
+              "x": -1337.69,
+              "y": 3016.1
+            },
+            {
+              "age": 4.8,
+              "opacity": 0,
+              "touched": 7,
+              "x": -1253.04,
+              "y": 2997.99
+            },
+            {
+              "age": 4.8,
+              "opacity": 0,
+              "touched": 3,
+              "x": -1159.5,
+              "y": 2996.74
+            },
+            {
+              "age": 4.8,
+              "opacity": 0,
+              "touched": 0,
+              "x": -1288.06,
+              "y": 3003.36
+            }
+          ],
+          "secretAge": -1,
+          "secretAmount": 0,
+          "secretQuiet": 0,
+          "secretSeen": true,
+          "serial": 8,
+          "source": {
+            "x": -1257.61,
+            "y": 2999.04
+          }
+        }
+      }
+    },
+    {
+      "check": "panel close restores pre-open actor/camera/heading",
+      "pass": true,
+      "before": {
+        "actorX": "-1259.603605",
+        "actorY": "2912.935063",
+        "artVersion": "floof-clearing-v1",
+        "atlasPulse": "",
+        "cameraX": "-1312.857631",
+        "cameraY": "3141.705490",
+        "cameraZoom": "1.180000",
+        "discovered": "",
+        "entered": "true",
+        "envelopeStored": "false",
+        "giftUnlocked": "false",
+        "headingX": "0.999999",
+        "headingY": "0.001471",
+        "lastDrawId": "",
+        "lastSongId": "",
+        "motionVersion": "point-to-walk-v1",
+        "moving": "false",
+        "progressMode": "saved",
+        "puzzleSolved": "false",
+        "puzzleVersion": "computer-knowledge-v1",
+        "questionsSolved": "0",
+        "region": "pond",
+        "renderer": "webgl",
+        "sound": "off",
+        "storageStatus": "saved",
+        "view": "overview",
+        "visited": "entry,pond",
+        "worldEvents": "pond-lilies"
+      },
+      "after": {
+        "actorX": "-1259.603605",
+        "actorY": "2912.935063",
+        "artVersion": "floof-clearing-v1",
+        "atlasPulse": "",
+        "cameraX": "-1312.857631",
+        "cameraY": "3141.705490",
+        "cameraZoom": "1.180000",
+        "discovered": "",
+        "entered": "true",
+        "envelopeStored": "false",
+        "giftUnlocked": "false",
+        "headingX": "0.999999",
+        "headingY": "0.001471",
+        "lastDrawId": "",
+        "lastSongId": "",
+        "motionVersion": "point-to-walk-v1",
+        "moving": "false",
+        "progressMode": "saved",
+        "puzzleSolved": "false",
+        "puzzleVersion": "computer-knowledge-v1",
+        "questionsSolved": "0",
+        "region": "pond",
+        "renderer": "webgl",
+        "sound": "off",
+        "storageStatus": "saved",
+        "view": "overview",
+        "visited": "entry,pond",
+        "worldEvents": "pond-lilies"
+      }
+    },
+    {
+      "check": "final visual build clears night and reflection after leaving",
+      "pass": true,
+      "data": {
+        "main": {
+          "actorX": "-1238.516953",
+          "actorY": "2492.563379",
+          "artVersion": "floof-clearing-v1",
+          "atlasPulse": "",
+          "cameraX": "-1243.579338",
+          "cameraY": "2720.984133",
+          "cameraZoom": "1.180000",
+          "discovered": "",
+          "entered": "true",
+          "envelopeStored": "false",
+          "giftUnlocked": "false",
+          "headingX": "0.001464",
+          "headingY": "-0.999999",
+          "lastDrawId": "",
+          "lastSongId": "",
+          "motionVersion": "point-to-walk-v1",
+          "moving": "false",
+          "progressMode": "saved",
+          "puzzleSolved": "false",
+          "puzzleVersion": "computer-knowledge-v1",
+          "questionsSolved": "0",
+          "region": "pond",
+          "renderer": "webgl",
+          "sound": "off",
+          "storageStatus": "saved",
+          "view": "overview",
+          "visited": "entry,pond",
+          "worldEvents": "pond-lilies"
+        },
+        "pond": {
+          "calm": 1,
+          "discovered": true,
+          "dream": {
+            "coastStarted": false,
+            "engaged": false,
+            "phase": "dormant",
+            "playfulness": 0,
+            "presence": 0,
+            "quiet": 0,
+            "reflection": {
+              "vx": 0,
+              "vy": 0,
+              "x": -1165.882,
+              "y": 3102.478
+            },
+            "target": {
+              "x": -1165.882,
+              "y": 3102.478
+            },
+            "time": 136.333,
+            "trail": []
+          },
+          "engaged": false,
+          "petals": [
+            {
+              "lift": 0,
+              "rotation": 0.7,
+              "speed": 0,
+              "x": -1305,
+              "y": 3130
+            },
+            {
+              "lift": 0,
+              "rotation": 2.4,
+              "speed": 0,
+              "x": -1020,
+              "y": 3238
+            },
+            {
+              "lift": 0,
+              "rotation": 1.5,
+              "speed": 0,
+              "x": -1104,
+              "y": 3076
+            }
+          ],
+          "presence": 0,
+          "quiet": 0,
+          "ripples": [
+            {
+              "age": 4.8,
+              "opacity": 0,
+              "touched": 7,
+              "x": -1242.85,
+              "y": 2996.95
+            },
+            {
+              "age": 4.8,
+              "opacity": 0,
+              "touched": 7,
+              "x": -1253.04,
+              "y": 2997.99
+            },
+            {
+              "age": 4.8,
+              "opacity": 0,
+              "touched": 3,
+              "x": -1159.5,
+              "y": 2996.74
+            },
+            {
+              "age": 4.8,
+              "opacity": 0,
+              "touched": 0,
+              "x": -1288.06,
+              "y": 3003.36
+            }
+          ],
+          "secretAge": -1,
+          "secretAmount": 0,
+          "secretQuiet": 0,
+          "secretSeen": true,
+          "serial": 9,
+          "source": {
+            "x": -1217.61,
+            "y": 2995.33
+          }
+        }
+      }
+    },
+    {
+      "check": "final visual build restarts upon real return",
+      "pass": true,
+      "data": {
+        "main": {
+          "actorX": "-1215.740136",
+          "actorY": "2866.123990",
+          "artVersion": "floof-clearing-v1",
+          "atlasPulse": "",
+          "cameraX": "-1217.385409",
+          "cameraY": "3073.454458",
+          "cameraZoom": "1.180000",
+          "discovered": "",
+          "entered": "true",
+          "envelopeStored": "false",
+          "giftUnlocked": "false",
+          "headingX": "0.001623",
+          "headingY": "0.999999",
+          "lastDrawId": "",
+          "lastSongId": "",
+          "motionVersion": "point-to-walk-v1",
+          "moving": "false",
+          "progressMode": "saved",
+          "puzzleSolved": "false",
+          "puzzleVersion": "computer-knowledge-v1",
+          "questionsSolved": "0",
+          "region": "pond",
+          "renderer": "webgl",
+          "sound": "off",
+          "storageStatus": "saved",
+          "view": "overview",
+          "visited": "entry,pond",
+          "worldEvents": "pond-lilies"
+        },
+        "pond": {
+          "calm": 0.109,
+          "discovered": true,
+          "dream": {
+            "coastStarted": false,
+            "engaged": true,
+            "phase": "mirror",
+            "playfulness": 0,
+            "presence": 0.781,
+            "quiet": 0.151,
+            "reflection": {
+              "vx": -34.695,
+              "vy": -37.202,
+              "x": -1190.257,
+              "y": 3076.209
+            },
+            "target": {
+              "x": -1205.562,
+              "y": 3060.048
+            },
+            "time": 138.957,
+            "trail": []
+          },
+          "engaged": true,
+          "petals": [
+            {
+              "lift": 0,
+              "rotation": 0.7,
+              "speed": 0,
+              "x": -1305,
+              "y": 3130
+            },
+            {
+              "lift": 0,
+              "rotation": 2.4,
+              "speed": 0,
+              "x": -1020,
+              "y": 3238
+            },
+            {
+              "lift": 0,
+              "rotation": 1.5,
+              "speed": 0,
+              "x": -1104,
+              "y": 3076
+            }
+          ],
+          "presence": 0.572,
+          "quiet": 0,
+          "ripples": [
+            {
+              "age": 0.66,
+              "opacity": 0.135,
+              "touched": 0,
+              "x": -1209.89,
+              "y": 2995.1
+            },
+            {
+              "age": 4.8,
+              "opacity": 0,
+              "touched": 7,
+              "x": -1253.04,
+              "y": 2997.99
+            },
+            {
+              "age": 4.8,
+              "opacity": 0,
+              "touched": 3,
+              "x": -1159.5,
+              "y": 2996.74
+            },
+            {
+              "age": 4.8,
+              "opacity": 0,
+              "touched": 0,
+              "x": -1288.06,
+              "y": 3003.36
+            }
+          ],
+          "secretAge": -1,
+          "secretAmount": 0,
+          "secretQuiet": 0,
+          "secretSeen": true,
+          "serial": 10,
+          "source": {
+            "x": -1210.97,
+            "y": 2995.13
+          }
+        }
+      }
+    },
+    {
+      "check": "pond play leaves puzzle music and gift progress unchanged",
+      "pass": true,
+      "before": {
+        "actorX": "-1575.572775",
+        "actorY": "2932.536262",
+        "artVersion": "floof-clearing-v1",
+        "atlasPulse": "",
+        "cameraX": "-1568.709580",
+        "cameraY": "3105.975025",
+        "cameraZoom": "1.180000",
+        "discovered": "",
+        "entered": "true",
+        "envelopeStored": "false",
+        "giftUnlocked": "false",
+        "headingX": "-0.031484",
+        "headingY": "0.999504",
+        "lastDrawId": "",
+        "lastSongId": "",
+        "motionVersion": "point-to-walk-v1",
+        "moving": "false",
+        "progressMode": "saved",
+        "puzzleSolved": "false",
+        "puzzleVersion": "computer-knowledge-v1",
+        "questionsSolved": "0",
+        "region": "pond",
+        "renderer": "webgl",
+        "sound": "off",
+        "storageStatus": "saved",
+        "view": "overview",
+        "visited": "entry,pond",
+        "worldEvents": "pond-lilies"
+      },
+      "after": {
+        "actorX": "-1215.740136",
+        "actorY": "2866.123990",
+        "artVersion": "floof-clearing-v1",
+        "atlasPulse": "",
+        "cameraX": "-1217.385409",
+        "cameraY": "3073.454458",
+        "cameraZoom": "1.180000",
+        "discovered": "",
+        "entered": "true",
+        "envelopeStored": "false",
+        "giftUnlocked": "false",
+        "headingX": "0.001623",
+        "headingY": "0.999999",
+        "lastDrawId": "",
+        "lastSongId": "",
+        "motionVersion": "point-to-walk-v1",
+        "moving": "false",
+        "progressMode": "saved",
+        "puzzleSolved": "false",
+        "puzzleVersion": "computer-knowledge-v1",
+        "questionsSolved": "0",
+        "region": "pond",
+        "renderer": "webgl",
+        "sound": "off",
+        "storageStatus": "saved",
+        "view": "overview",
+        "visited": "entry,pond",
+        "worldEvents": "pond-lilies"
+      }
+    },
+    {
+      "check": "actual paused actor with reflection continuing visibly",
+      "pass": true,
+      "first": {
+        "file": "/Users/admin/Desktop/birthday-garden/docs/qa/pond-dream-20261104/final-042.jpg",
+        "ms": 3013,
+        "phase": "stop",
+        "main": {
+          "actorX": "-1148.301814",
+          "actorY": "2910.070338",
+          "artVersion": "floof-clearing-v1",
+          "atlasPulse": "",
+          "cameraX": "-1154.583926",
+          "cameraY": "3143.126077",
+          "cameraZoom": "1.180000",
+          "discovered": "",
+          "entered": "true",
+          "envelopeStored": "false",
+          "giftUnlocked": "false",
+          "headingX": "0.999999",
+          "headingY": "0.001425",
+          "lastDrawId": "",
+          "lastSongId": "",
+          "motionVersion": "point-to-walk-v1",
+          "moving": "false",
+          "progressMode": "saved",
+          "puzzleSolved": "false",
+          "puzzleVersion": "computer-knowledge-v1",
+          "questionsSolved": "0",
+          "region": "pond",
+          "renderer": "webgl",
+          "sound": "off",
+          "storageStatus": "saved",
+          "view": "overview",
+          "visited": "entry,pond",
+          "worldEvents": "pond-lilies"
+        },
+        "pond": {
+          "calm": 0,
+          "discovered": true,
+          "dream": {
+            "coastStarted": true,
+            "engaged": true,
+            "phase": "play",
+            "playfulness": 1,
+            "presence": 1,
+            "quiet": 0.401,
+            "reflection": {
+              "vx": 138.563,
+              "vy": 22.117,
+              "x": -1165.786,
+              "y": 3106.151
+            },
+            "target": {
+              "x": -1090.509,
+              "y": 3119.447
+            },
+            "time": 36.375,
+            "trail": [
+              {
+                "age": 2.408,
+                "strength": 1,
+                "x": -1365.399,
+                "y": 3182.723
+              },
+              {
+                "age": 2.325,
+                "strength": 1,
+                "x": -1355.551,
+                "y": 3174.03
+              },
+              {
+                "age": 2.243,
+                "strength": 1,
+                "x": -1345.683,
+                "y": 3165.695
+              },
+              {
+                "age": 2.16,
+                "strength": 1,
+                "x": -1335.944,
+                "y": 3157.807
+              },
+              {
+                "age": 2.067,
+                "strength": 1,
+                "x": -1325.559,
+                "y": 3149.744
+              },
+              {
+                "age": 1.966,
+                "strength": 1,
+                "x": -1315.3,
+                "y": 3142.146
+              },
+              {
+                "age": 1.858,
+                "strength": 1,
+                "x": -1305.303,
+                "y": 3135.147
+              },
+              {
+                "age": 1.733,
+                "strength": 1,
+                "x": -1294.93,
+                "y": 3128.402
+              },
+              {
+                "age": 1.592,
+                "strength": 1,
+                "x": -1284.513,
+                "y": 3122.286
+              },
+              {
+                "age": 1.427,
+                "strength": 1,
+                "x": -1273.544,
+                "y": 3116.701
+              },
+              {
+                "age": 1.242,
+                "strength": 1,
+                "x": -1262.114,
+                "y": 3111.928
+              },
+              {
+                "age": 1.05,
+                "strength": 1,
+                "x": -1250.396,
+                "y": 3108.171
+              },
+              {
+                "age": 0.858,
+                "strength": 1,
+                "x": -1238.355,
+                "y": 3105.357
+              },
+              {
+                "age": 0.666,
+                "strength": 1,
+                "x": -1225.994,
+                "y": 3103.381
+              },
+              {
+                "age": 0.483,
+                "strength": 1,
+                "x": -1213.938,
+                "y": 3102.223
+              },
+              {
+                "age": 0.3,
+                "strength": 1,
+                "x": -1201.73,
+                "y": 3101.757
+              },
+              {
+                "age": 0.175,
+                "strength": 1,
+                "x": -1189.759,
+                "y": 3102.665
+              },
+              {
+                "age": 0.083,
+                "strength": 1,
+                "x": -1177.467,
+                "y": 3104.349
+              }
+            ]
+          },
+          "engaged": true,
+          "petals": [
+            {
+              "lift": 1.383,
+              "rotation": 0.896,
+              "speed": 1.896,
+              "x": -1296.94,
+              "y": 3135.69
+            },
+            {
+              "lift": 0,
+              "rotation": 2.4,
+              "speed": 0,
+              "x": -1020,
+              "y": 3238
+            },
+            {
+              "lift": 0,
+              "rotation": 1.5,
+              "speed": 0,
+              "x": -1104,
+              "y": 3076
+            }
+          ],
+          "presence": 0.997,
+          "quiet": 0,
+          "ripples": [
+            {
+              "age": 2.27,
+              "opacity": 0.321,
+              "touched": 1,
+              "x": -1415.52,
+              "y": 3051.94
+            },
+            {
+              "age": 1.02,
+              "opacity": 0.381,
+              "touched": 0,
+              "x": -1253.04,
+              "y": 2997.99
+            },
+            {
+              "age": 4.8,
+              "opacity": 0,
+              "touched": 0,
+              "x": -1288.06,
+              "y": 3003.36
+            },
+            {
+              "age": 4.8,
+              "opacity": 0,
+              "touched": 0,
+              "x": -1288.06,
+              "y": 3003.36
+            }
+          ],
+          "secretAge": -1,
+          "secretAmount": 0,
+          "secretQuiet": 0,
+          "secretSeen": true,
+          "serial": 5,
+          "source": {
+            "x": -1165.73,
+            "y": 2996.58
+          }
+        }
+      },
+      "last": {
+        "file": "/Users/admin/Desktop/birthday-garden/docs/qa/pond-dream-20261104/final-070.jpg",
+        "ms": 5014,
+        "phase": "stop",
+        "main": {
+          "actorX": "-1148.301814",
+          "actorY": "2910.070338",
+          "artVersion": "floof-clearing-v1",
+          "atlasPulse": "",
+          "cameraX": "-1154.583926",
+          "cameraY": "3143.126077",
+          "cameraZoom": "1.180000",
+          "discovered": "",
+          "entered": "true",
+          "envelopeStored": "false",
+          "giftUnlocked": "false",
+          "headingX": "0.999999",
+          "headingY": "0.001425",
+          "lastDrawId": "",
+          "lastSongId": "",
+          "motionVersion": "point-to-walk-v1",
+          "moving": "false",
+          "progressMode": "saved",
+          "puzzleSolved": "false",
+          "puzzleVersion": "computer-knowledge-v1",
+          "questionsSolved": "0",
+          "region": "pond",
+          "renderer": "webgl",
+          "sound": "off",
+          "storageStatus": "saved",
+          "view": "overview",
+          "visited": "entry,pond",
+          "worldEvents": "pond-lilies"
+        },
+        "pond": {
+          "calm": 0.297,
+          "discovered": true,
+          "dream": {
+            "coastStarted": true,
+            "engaged": true,
+            "phase": "play",
+            "playfulness": 1,
+            "presence": 1,
+            "quiet": 2.401,
+            "reflection": {
+              "vx": 1.043,
+              "vy": 0.199,
+              "x": -1090.854,
+              "y": 3119.38
+            },
+            "target": {
+              "x": -1090.509,
+              "y": 3119.447
+            },
+            "time": 38.375,
+            "trail": [
+              {
+                "age": 3.733,
+                "strength": 1,
+                "x": -1294.93,
+                "y": 3128.402
+              },
+              {
+                "age": 3.592,
+                "strength": 1,
+                "x": -1284.513,
+                "y": 3122.286
+              },
+              {
+                "age": 3.427,
+                "strength": 1,
+                "x": -1273.544,
+                "y": 3116.701
+              },
+              {
+                "age": 3.242,
+                "strength": 1,
+                "x": -1262.114,
+                "y": 3111.928
+              },
+              {
+                "age": 3.05,
+                "strength": 1,
+                "x": -1250.396,
+                "y": 3108.171
+              },
+              {
+                "age": 2.858,
+                "strength": 1,
+                "x": -1238.355,
+                "y": 3105.357
+              },
+              {
+                "age": 2.667,
+                "strength": 1,
+                "x": -1225.994,
+                "y": 3103.381
+              },
+              {
+                "age": 2.483,
+                "strength": 1,
+                "x": -1213.938,
+                "y": 3102.223
+              },
+              {
+                "age": 2.3,
+                "strength": 1,
+                "x": -1201.73,
+                "y": 3101.757
+              },
+              {
+                "age": 2.175,
+                "strength": 1,
+                "x": -1189.759,
+                "y": 3102.665
+              },
+              {
+                "age": 2.083,
+                "strength": 1,
+                "x": -1177.467,
+                "y": 3104.349
+              },
+              {
+                "age": 1.992,
+                "strength": 1,
+                "x": -1164.653,
+                "y": 3106.332
+              },
+              {
+                "age": 1.901,
+                "strength": 1,
+                "x": -1152.546,
+                "y": 3108.322
+              },
+              {
+                "age": 1.8,
+                "strength": 1,
+                "x": -1140.55,
+                "y": 3110.369
+              },
+              {
+                "age": 1.675,
+                "strength": 1,
+                "x": -1128.095,
+                "y": 3112.554
+              },
+              {
+                "age": 1.516,
+                "strength": 1,
+                "x": -1116.008,
+                "y": 3114.723
+              },
+              {
+                "age": 1.275,
+                "strength": 1,
+                "x": -1104.146,
+                "y": 3116.893
+              },
+              {
+                "age": 0.558,
+                "strength": 1,
+                "x": -1092.325,
+                "y": 3119.1
+              }
+            ]
+          },
+          "engaged": true,
+          "petals": [
+            {
+              "lift": 1.112,
+              "rotation": 1.246,
+              "speed": 5.07,
+              "x": -1307.03,
+              "y": 3141.98
+            },
+            {
+              "lift": 0,
+              "rotation": 2.4,
+              "speed": 0,
+              "x": -1020,
+              "y": 3238
+            },
+            {
+              "lift": 1.975,
+              "rotation": 1.113,
+              "speed": 4.717,
+              "x": -1086.05,
+              "y": 3081.76
+            }
+          ],
+          "presence": 1,
+          "quiet": 1.9,
+          "ripples": [
+            {
+              "age": 4.27,
+              "opacity": 0.05,
+              "touched": 5,
+              "x": -1415.52,
+              "y": 3051.94
+            },
+            {
+              "age": 3.02,
+              "opacity": 0.357,
+              "touched": 5,
+              "x": -1253.04,
+              "y": 2997.99
+            },
+            {
+              "age": 4.8,
+              "opacity": 0,
+              "touched": 0,
+              "x": -1288.06,
+              "y": 3003.36
+            },
+            {
+              "age": 4.8,
+              "opacity": 0,
+              "touched": 0,
+              "x": -1288.06,
+              "y": 3003.36
+            }
+          ],
+          "secretAge": -1,
+          "secretAmount": 0,
+          "secretQuiet": 1.97,
+          "secretSeen": true,
+          "serial": 5,
+          "source": {
+            "x": -1160.5,
+            "y": 2996.65
+          }
+        }
+      }
+    },
+    {
+      "check": "actual travel creates a finite star trail",
+      "pass": true
+    }
+  ]
+}

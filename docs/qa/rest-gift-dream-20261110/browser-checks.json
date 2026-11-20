@@ -1,0 +1,114 @@
+[
+  {
+    "check": "keyboard name tag",
+    "result": true
+  },
+  {
+    "check": "return preserves seven pose fields",
+    "pass": true,
+    "before": {
+      "actorX": "440.000000",
+      "actorY": "3890.000000",
+      "cameraX": "440.000000",
+      "cameraY": "4110.000000",
+      "cameraZoom": "1.000000",
+      "headingX": "0.000000",
+      "headingY": "-1.000000"
+    },
+    "after": {
+      "actorX": "440.000000",
+      "actorY": "3890.000000",
+      "cameraX": "440.000000",
+      "cameraY": "4110.000000",
+      "cameraZoom": "1.000000",
+      "headingX": "0.000000",
+      "headingY": "-1.000000"
+    }
+  },
+  {
+    "check": "cancel opening",
+    "before": {
+      "found": "false",
+      "puzzle": "0",
+      "unlocked": "false"
+    },
+    "during": {
+      "found": "false",
+      "phase": "opening"
+    },
+    "exitMs": 753
+  },
+  {
+    "check": "no delayed discovery after cancellation",
+    "elapsedMs": 52777,
+    "found": "false",
+    "unlocked": "false",
+    "view": "overview"
+  },
+  {
+    "check": "reduced motion explicit open then immediate visible mask",
+    "wrapped": {
+      "found": "false",
+      "phase": "wrapped",
+      "quiet": true
+    },
+    "revealed": {
+      "envelope": "false",
+      "found": "true",
+      "maskAnimation": "none",
+      "maskOpacity": "1",
+      "moteOpacity": "0",
+      "phase": "revealed",
+      "puzzle": "0",
+      "song": "",
+      "unlocked": "false"
+    }
+  },
+  {
+    "check": "wrapped revisit with normal motion; assets and desktop bounds",
+    "bounds": {
+      "height": 620.7578125,
+      "width": 900,
+      "x": 190,
+      "y": 49.62109375
+    },
+    "images": [
+      {
+        "loaded": true,
+        "src": "/art/gifts/dream-box-base-v1.png"
+      },
+      {
+        "loaded": true,
+        "src": "/art/gifts/dream-box-base-v1.png"
+      },
+      {
+        "loaded": true,
+        "src": "/art/gifts/dream-box-lid-v1.png"
+      }
+    ],
+    "overflow": false,
+    "phase": "wrapped",
+    "progress": {
+      "envelope": "false",
+      "found": "true",
+      "puzzle": "0",
+      "song": "",
+      "unlocked": "false"
+    },
+    "quiet": false,
+    "viewport": {
+      "height": 720,
+      "width": 1280
+    }
+  },
+  {
+    "check": "console errors and warnings",
+    "entries": []
+  },
+  {
+    "check": "loaded-layer gate followed by keyboard opening on final build",
+    "ready": true,
+    "phase": "revealed",
+    "frames": 160
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "script": "preview-progress",
+    "exitCode": 0,
+    "passed": 12,
+    "stdout": "PASS: only explicit development preview links select temporary progress\nPASS: fresh hook never reads or writes a completed normal save\nPASS: refresh resumes temporary partial answers and the completed envelope\nPASS: preview still requires the original code and preserves unlock only in its run\nPASS: different runs and different tab stores do not inherit a prior playthrough\nPASS: normal storage events cannot grant answers or unlock a mounted preview\nPASS: session storage getter failures remain isolated and playable in memory\nPASS: session read or quota errors do not fall back to the saved game\nPASS: a failed session read cannot overwrite an unreadable previous temporary save\nPASS: malformed run URLs remain temporary and corrupted data restores blank\nPASS: normal development pages retain the saved game and cross-tab updates\nPASS: production builds ignore preview URL flags and never access session storage\n\n12 preview progress checks passed.\n",
+    "stderr": ""
+  },
+  {
+    "script": "cross-tab-progress",
+    "exitCode": 0,
+    "passed": 14,
+    "stdout": "PASS: an old tab drawing before storage events cannot erase completed questions, envelope or unlock\nPASS: a storage event updates the other mounted tab without an echo write\nPASS: newer pending draft, including a clear, survives an unrelated old-tab draw\nPASS: a deliberate new local draft wins after rebasing, without changing a confirmed digit\nPASS: a queued stale event reads current storage instead of restoring its older song\nPASS: current draw wins intentionally even when its clock is earlier than the saved draw\nPASS: a delayed mount rebases instead of replacing another tab progress with its initial snapshot\nPASS: an old-client overwrite is repaired once, and repeated events converge\nPASS: equivalent confirmed answers with different whitespace never cause a write loop\nPASS: unrelated keys, other storage areas, deletion and unknown schema cannot inject progress\nPASS: failed-write draft survives reading an older stored record and is saved on recovery\nPASS: a failed-write draw survives an older remote result, while a newer remote draw takes over\nPASS: blocked read and write keep commands usable in memory\nPASS: unmount removes the storage listener\n\nCross-tab progress: 14 passed.\n",
+    "stderr": ""
+  },
+  {
+    "script": "puzzle-progress",
+    "exitCode": 0,
+    "passed": 18,
+    "stdout": "PASS: four original topics independently yield 0, 3, 0, 5\nPASS: fresh question inputs and slip digits are genuinely blank and independent\nPASS: only a single ASCII answer digit is accepted; leading zeros cannot pad a wrong answer\nPASS: wrong answer remains editable and does not add a digit or advance\nPASS: future questions and envelope cannot be completed out of order\nPASS: confirmed digits remain on the slip and cannot be edited by duplicate/stale submits\nPASS: only an explicit envelope action packs completed paper; no gift or song side effects\nPASS: question updates are immutable and reject malformed or oversized draft commands\nPASS: valid partial input, completed slip, and stored envelope survive normalization\nPASS: forged completion flags do not award digits or an envelope\nPASS: damaged middle answer keeps the valid prefix but cannot restore later answers\nPASS: malformed arrays and unknown schema versions remain conservative\nPASS: legacy two-card completion migrates only gift and valid song, never new question completion\nPASS: missing v2 reads v1 once while saving leaves the complete original record untouched\nPASS: existing v2 always wins and a corrupted v2 never silently imports older state\nPASS: blocked storage preserves the current in-memory journey and reports failure\nPASS: saving strips transient or foreign fields and normalizes before writing\nPASS: music and gift stay independent of four-question completion and the envelope\n18 four-question progress and storage checks passed.\n",
+    "stderr": ""
+  },
+  {
+    "script": "gift-entry",
+    "exitCode": 0,
+    "passed": 7,
+    "stdout": "PASS: fresh gift routes and the real parcel component require the correct code before revealing\nPASS: a saved unlock is explicitly a revisit and never reveals automatically on mounting\nPASS: replaying a saved lock focuses a blank form and wrong codes cannot use the permanent unlock to reveal\nPASS: a correct replay uses the real unlock hook while preserving all questions, envelope and chosen song\nPASS: closing a replay does not reset saved progress or leave a delayed reveal behind\nPASS: reduced-motion replay still validates the code and reveals only after the accepted submission\nPASS: actual App world and gift-entry callbacks always visit the parcel before any saved reveal\n\nGift entry and replay: 7 passed, 0 failed.\n",
+    "stderr": ""
+  },
+  {
+    "script": "gift-gate",
+    "exitCode": 0,
+    "passed": 6,
+    "stdout": "PASS: the world size preserves the supplied PNG aspect and its measured ground anchor\nPASS: painted and fallback thresholds project to the same ground point in both rendering conventions\nPASS: the full threshold and both jambs lie on the existing level terrain\nPASS: nearby approaches retain the whole door above the controls on standard and wide desktops\nPASS: the reading camera retains the complete door and leaves the right-hand gift panel clear\nPASS: the moon remains visually separate from either door artwork through approach and reading\n6 gift-gate geometry checks passed.\n",
+    "stderr": ""
+  },
+  {
+    "script": "gift-note",
+    "exitCode": 0,
+    "passed": 8,
+    "stdout": "PASS: a fresh or partially answered visit exposes no complete password note\nPASS: solved or packed flags alone cannot reveal answers\nPASS: all four earned digits remain ordered strings, with both zeroes intact\nPASS: packing changes presentation only; it never changes the earned digits\nPASS: a mismatched input, wrong digit or missing submitted digit is not a complete note\nPASS: the note needs exactly four valid questions and rejects malformed records safely\nPASS: independent gift access and song draws cannot award a note\nPASS: reading a note neither mutates progress nor returns a writable reference into it\n\nGift note lookup: 8 passed, 0 failed.\n",
+    "stderr": ""
+  },
+  {
+    "script": "gift-progress",
+    "exitCode": 0,
+    "passed": 13,
+    "stdout": "PASS: the four-character password preserves its leading zero and allows surrounding whitespace\nPASS: non-string inputs cannot be coerced or padded into a password\nPASS: wrong attempts remain retryable and never change business progress\nPASS: knowing the password on a fresh device unlocks only the gift\nPASS: unlocking preserves partial and completed puzzles plus the last chosen song\nPASS: gift routes are guarded without creating progress or requiring a song\nPASS: refresh restores unlock independently and stores no input or opening animation\nPASS: malformed or legacy fields cannot masquerade as the saved unlock flag\nPASS: the real hook saves unlock before dispatch returns and before React commits\nPASS: batched puzzle, unlock and song commands preserve each other before a UI commit\nPASS: a delayed mount effect cannot overwrite an unlock with initial locked state\nPASS: storage refusal still unlocks the real hook in memory without solving the puzzle\nPASS: restoring and rerendering an unlocked gift never invents a puzzle card or song\n\nGift progress: 13 passed, 0 failed.\n",
+    "stderr": "▲ [WARNING] \"import.meta\" is not available with the \"cjs\" output format and will be empty [empty-import-meta]\n\n    src/state/useProgress.ts:11:58:\n      11 │ ...tate(() => browserPreviewProgress(import.meta.env?.DEV === true));\n         ╵                                      ~~~~~~~~~~~\n\n  You need to set the output format to \"esm\" for \"import.meta\" to work correctly.\n\n"
+  },
+  {
+    "script": "gift-unlock",
+    "exitCode": 0,
+    "passed": 10,
+    "stdout": "PASS: wrong or incomplete input has no action, timer, permission or opening feedback\nPASS: same-tick rapid submissions dispatch once before opening state or a reveal timer\nPASS: opening ends once at its fallback timeout without needing an animation-end event\nPASS: reduced motion yields one task after dispatch, then reveals without the opening duration\nPASS: unmount during opening cancels navigation and blocks stale submit closures\nPASS: page hiding finishes a committed opening once and returning does not unlock or reveal again\nPASS: switching to reduced motion completes a pending opening without another unlock\nPASS: mount, rerender, visibility and effect replay cannot unlock or navigate on their own\nPASS: a changed reveal callback is used by the already-running timer\nPASS: a failed dispatch leaves no timer, no opening and no reveal, and a later retry works\n\nGift opening lifecycle: 10 passed, 0 failed.\n",
+    "stderr": ""
+  },
+  {
+    "script": "content",
+    "exitCode": 0,
+    "passed": 1,
+    "stdout": "PASS: English content tree, fixed rules, route guard, and independent empty progress.\n",
+    "stderr": ""
+  }
+]

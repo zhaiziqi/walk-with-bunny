@@ -1,0 +1,40 @@
+{
+  "readingFrozen": true,
+  "end": {
+    "bird": "{\"leader\":0,\"met\":true,\"perch\":7,\"target\":7,\"s\":2573.351,\"speed\":0,\"quiet\":0,\"approachTime\":0,\"lift\":4,\"ready\":false,\"finished\":true,\"farewellAge\":6.5,\"farewellSide\":1,\"x\":-600.133,\"y\":8455,\"opacity\":0,\"departureProgress\":1,\"departed\":true,\"farewellLean\":0,\"leftWingAngle\":0.52,\"rightWingAngle\":0.52}",
+    "main": {
+      "actorX": "-120.000000",
+      "actorY": "8360.000000",
+      "artVersion": "floof-clearing-v1",
+      "atlasPulse": "",
+      "cameraX": "-120.000000",
+      "cameraY": "8580.000000",
+      "cameraZoom": "1.000000",
+      "discovered": "lock",
+      "entered": "true",
+      "envelopeStored": "false",
+      "giftUnlocked": "false",
+      "headingX": "-0.513514",
+      "headingY": "0.858081",
+      "lastDrawId": "",
+      "lastSongId": "",
+      "motionVersion": "point-to-walk-v1",
+      "moving": "false",
+      "progressMode": "walk",
+      "puzzleSolved": "false",
+      "puzzleVersion": "computer-knowledge-v1",
+      "questionsSolved": "0",
+      "region": "moon",
+      "renderer": "webgl",
+      "sleepMaskFound": "false",
+      "sound": "off",
+      "storageStatus": "saved",
+      "view": "overview",
+      "visited": "entry,hill,moon",
+      "walkId": "moon-clearing-20261111",
+      "worldEvents": "paper-flock,paper-guide-perch-1,paper-guide-perch-2,paper-guide-perch-3,paper-guide-perch-4,paper-guide-perch-5,moon-ring,paper-guide-perch-6,paper-guide-perch-7"
+    },
+    "moon": "{\"phase\":1,\"age\":2.4,\"completed\":true,\"armed\":false}"
+  },
+  "logs": []
+}

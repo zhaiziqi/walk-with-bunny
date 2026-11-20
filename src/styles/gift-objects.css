@@ -1,0 +1,62 @@
+.gift-parcel { display: block; width: 270px; max-width: 100%; height: auto; margin: 0 auto; overflow: visible; }
+.parcel-lid { transform-box: view-box; transform-origin: 167px 85px; }
+.parcel-bow { transform-box: view-box; transform-origin: 164px 73px; }
+.parcel-inner-light { opacity: 0; }
+.gift-parcel-opening .parcel-lid { animation: parcel-lid-lift .72s .08s cubic-bezier(.22,.65,.3,1) both; }
+.gift-parcel-opening .parcel-bow { animation: parcel-ribbon-release .42s ease-out both; }
+.gift-parcel-opening .parcel-inner-light { animation: parcel-inside-light .65s .1s ease-out both; }
+.gift-object-illustration { display: block; width: 160px; max-width: 100%; height: auto; margin: 0 auto; }
+@keyframes parcel-lid-lift {
+  0%, 22% { transform: translateY(0) rotate(0deg); }
+  100% { transform: translate(2px,-25px) rotate(-5deg); }
+}
+@keyframes parcel-ribbon-release {
+  0%, 15% { transform: translate(0,0) rotate(0deg); opacity: 1; }
+  100% { transform: translate(13px,-8px) rotate(12deg); opacity: 0; }
+}
+@keyframes parcel-inside-light { from { opacity: 0; } to { opacity: .78; } }
+.gift-parcel-quiet *, .reduced-motion .gift-parcel * { animation: none !important; }
+.gift-parcel-quiet.gift-parcel-opening .parcel-lid,
+.reduced-motion .gift-parcel-opening .parcel-lid { transform: translate(2px,-25px) rotate(-5deg); }
+.gift-parcel-quiet.gift-parcel-opening .parcel-bow,
+.reduced-motion .gift-parcel-opening .parcel-bow { opacity: 0; }
+.gift-parcel-quiet.gift-parcel-opening .parcel-inner-light,
+.reduced-motion .gift-parcel-opening .parcel-inner-light { opacity: .78; }
+@media (prefers-reduced-motion: reduce) {
+  .gift-parcel * { animation: none !important; }
+  .gift-parcel-opening .parcel-lid { transform: translate(2px,-25px) rotate(-5deg); }
+  .gift-parcel-opening .parcel-bow { opacity: 0; }
+  .gift-parcel-opening .parcel-inner-light { opacity: .78; }
+}
+
+/* The same single keepsake and quiet rabbit tag are used at both discoveries. */
+.gift-still-life { margin: 12px 0 18px; text-align: center; animation: gift-object-arrive .75s ease-out both; }
+.gift-keepsake-painting { display: block; width: 100%; height: 265px; margin: 0 auto 4px; object-fit: contain; }
+.gift-still-life figcaption { display: flex; justify-content: center; margin-top: 8px; }
+.gift-name-tag { position: relative; display: grid; place-items: center; width: 76px; max-width: 100%; min-height: 52px; padding: 8px 18px; background: #eee9dce6; color: #81917b; font: 400 19px/1.4 var(--serif); border-radius: 1px; box-shadow: 0 3px 5px -4px #58694b60; transform: rotate(-3deg); transition: transform .25s ease, background .25s ease; }
+.gift-name-tag::after { content: ''; position: absolute; top: 0; right: 0; width: 10px; height: 10px; background: linear-gradient(45deg,#d9d6c8 49%,#f7f3ea 51%); }
+.gift-name-tag:hover { transform: translateY(-2px) rotate(-.5deg); background: #eae5d7; }
+.gift-name-tag.is-revealed { width: 208px; transform: rotate(.5deg); background: #f0ecdf; color: #718073; }
+.gift-tag-bunny { display: block; width: 32px; height: 32px; }
+.gift-tag-names { display: flex; justify-content: center; flex-wrap: wrap; gap: 3px 11px; font-size: 18px; animation: gift-tag-reveal .25s ease-out both; }
+.gift-tag-names[hidden] { display: none; }
+
+.gift-keepsake-art { position: relative; min-width: 0; }
+.gift-single-sketch { position: relative; height: 265px; display: grid; place-items: center; }
+.gift-keepsake-tissue { position: absolute; width: min(100%, 420px); height: 250px; }
+.gift-single-sketch .gift-object-illustration { position: relative; width: 340px; max-width: 90%; margin: 0; }
+.gift-single-sketch .gift-object-sleep-mask { width: 320px; }
+.gift-name-tag:focus-visible { outline: 2px solid #819381; outline-offset: 4px; }
+@keyframes gift-object-arrive { from { opacity: 0; transform: translateY(7px); } to { opacity: 1; transform: translateY(0); } }
+@keyframes gift-tag-reveal { from { opacity: 0; transform: translateY(2px); } to { opacity: 1; transform: translateY(0); } }
+.reduced-motion .gift-still-life, .reduced-motion .gift-tag-names { animation: none; }
+.reduced-motion .gift-name-tag { transition: none; }
+@media (prefers-reduced-motion: reduce) {
+  .gift-still-life, .gift-tag-names { animation: none !important; }
+  .gift-name-tag { transition: none !important; }
+}
+@media (max-height: 650px) and (min-width: 700px) {
+  .gift-single-sketch { height: 200px; }
+  .gift-single-sketch .gift-object-illustration { width: 280px; }
+  .gift-keepsake-tissue { height: 200px; }
+}

@@ -1,0 +1,22 @@
+[
+  {
+    "step": "before",
+    "chime": "{\"engaged\":true,\"quiet\":21.61,\"travel\":226.5,\"responseAge\":8.5,\"responseStrength\":1,\"side\":1,\"bellAngle\":-0.01,\"paperAngle\":0.007,\"noteSerial\":1}",
+    "pulse": ""
+  },
+  {
+    "step": "click E badge",
+    "chime": "{\"engaged\":true,\"quiet\":21.86,\"travel\":226.5,\"responseAge\":0.11,\"responseStrength\":0.64,\"side\":1,\"bellAngle\":-0.009,\"paperAngle\":0.113,\"noteSerial\":1}",
+    "pulse": "arch:1"
+  },
+  {
+    "step": "after 1.5 sec",
+    "chime": "{\"engaged\":true,\"quiet\":23.58,\"travel\":226.5,\"responseAge\":1.82,\"responseStrength\":0.64,\"side\":1,\"bellAngle\":0.019,\"paperAngle\":0.038,\"noteSerial\":2}",
+    "pulse": "arch:1"
+  },
+  {
+    "step": "second click E",
+    "chime": "{\"engaged\":true,\"quiet\":23.99,\"travel\":226.5,\"responseAge\":2.23,\"responseStrength\":0.64,\"side\":1,\"bellAngle\":0.025,\"paperAngle\":0.094,\"noteSerial\":2}",
+    "pulse": "arch:2"
+  }
+]

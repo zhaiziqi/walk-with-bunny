@@ -1,0 +1,73 @@
+{
+  "date": "2026-11-10",
+  "checks": [
+    {
+      "check": "Previously discovered save still opens a closed box",
+      "result": {
+        "found": "true",
+        "images": [
+          {
+            "loaded": true,
+            "src": "/art/gifts/rest-gift-box-v1.png"
+          },
+          {
+            "loaded": true,
+            "src": "/art/gifts/rest-gift-box-v1.png"
+          }
+        ],
+        "phase": "wrapped",
+        "unlocked": "false"
+      }
+    },
+    {
+      "check": "Click reveals only mask, rabbit tag keeps name hidden",
+      "result": {
+        "active": "Turn the paper tag over",
+        "images": [
+          "/art/gifts/sleep-mask-v1.png"
+        ],
+        "phase": "revealed",
+        "text": "Back to the garden ↗"
+      }
+    },
+    {
+      "check": "Keyboard unwrap and exact return",
+      "pass": true,
+      "before": [
+        "440.000000",
+        "3890.000000",
+        "440.000000",
+        "4110.000000",
+        "1.000000",
+        "0.000000",
+        "-1.000000"
+      ],
+      "after": [
+        "440.000000",
+        "3890.000000",
+        "440.000000",
+        "4110.000000",
+        "1.000000",
+        "0.000000",
+        "-1.000000"
+      ]
+    },
+    {
+      "check": "Reduced motion still requires explicit click and reveals immediately",
+      "result": "revealed"
+    },
+    {
+      "check": "Cancel during opening leaves discovery false",
+      "result": "false"
+    },
+    {
+      "check": "After explicit discovery, reload preserves discovery but covers gift again",
+      "result": {
+        "found": "true",
+        "phase": "wrapped"
+      }
+    }
+  ],
+  "logs": [],
+  "isolatedLogs": []
+}

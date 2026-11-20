@@ -1,0 +1,2213 @@
+[
+  {
+    "label": "01-fresh-entry",
+    "data": {
+      "canvas": [
+        {
+          "chimeListening": "{\"engaged\":false,\"quiet\":0,\"travel\":0,\"responseAge\":-1,\"responseStrength\":1,\"side\":1,\"bellAngle\":0.033,\"paperAngle\":0.006,\"noteSerial\":0}",
+          "engine": "three.js r180",
+          "floofAttention": "{\"amount\":0,\"directionX\":0,\"directionY\":1,\"leanX\":0,\"leanY\":0,\"puff\":0,\"stretch\":0}",
+          "moonClearing": "{\"phase\":0,\"age\":-1,\"completed\":false,\"armed\":false}",
+          "mushroomState": "{\"focus\":1,\"quiet\":0,\"engaged\":false,\"sequenceTime\":-1,\"order\":[],\"performed\":false,\"lightSide\":1,\"lights\":[{\"x\":0.1,\"y\":0.43,\"opacity\":0,\"radius\":9.1,\"travel\":0},{\"x\":0.1,\"y\":0.43,\"opacity\":0,\"radius\":11,\"travel\":0},{\"x\":0.1,\"y\":0.43,\"opacity\":0,\"radius\":7.0200000000000005,\"travel\":0},{\"x\":0.1,\"y\":0.43,\"opacity\":0,\"radius\":9.75,\"travel\":0},{\"x\":0.1,\"y\":0.43,\"opacity\":0,\"radius\":7.800000000000001,\"travel\":0}],\"warmth\":[0,0,0,0,0],\"opening\":[0,0,0,0,0],\"lean\":[0,0,0,0,0]}",
+          "orangeRest": "{\"phase\":\"idle\",\"elapsed\":0,\"liquid\":0.82,\"completed\":false,\"amount\":0,\"leanX\":0,\"leanY\":0,\"requestCount\":0,\"actor\":{\"x\":0,\"y\":-1800},\"origin\":null}",
+          "paperGuide": "{\"leader\":-1,\"met\":false,\"perch\":0,\"target\":0,\"s\":0,\"speed\":0,\"quiet\":0,\"approachTime\":0,\"lift\":4,\"ready\":false,\"finished\":false,\"farewellAge\":-1,\"farewellSide\":1,\"x\":null,\"y\":null,\"opacity\":1,\"departureProgress\":0,\"departed\":false,\"farewellLean\":0,\"leftWingAngle\":0,\"rightWingAngle\":0}",
+          "pondListening": "{\"engaged\":false,\"discovered\":false,\"dream\":{\"phase\":\"dormant\",\"engaged\":false,\"presence\":0,\"playfulness\":0,\"time\":11.552,\"quiet\":0,\"coastStarted\":false,\"reflection\":{\"x\":-1166.811,\"y\":3061.713,\"vx\":0,\"vy\":0},\"target\":{\"x\":-1166.811,\"y\":3061.713},\"trail\":[]},\"secretQuiet\":0,\"secretAge\":-1,\"secretAmount\":0,\"secretSeen\":false,\"quiet\":0,\"calm\":1,\"presence\":0,\"serial\":0,\"source\":{\"x\":-1098.77,\"y\":3006.12},\"ripples\":[{\"x\":-1098.77,\"y\":3006.12,\"age\":4.8,\"touched\":0,\"opacity\":0},{\"x\":-1098.77,\"y\":3006.12,\"age\":4.8,\"touched\":0,\"opacity\":0},{\"x\":-1098.77,\"y\":3006.12,\"age\":4.8,\"touched\":0,\"opacity\":0},{\"x\":-1098.77,\"y\":3006.12,\"age\":4.8,\"touched\":0,\"opacity\":0}],\"petals\":[{\"x\":-1305,\"y\":3130,\"rotation\":0.7,\"lift\":0,\"speed\":0},{\"x\":-1020,\"y\":3238,\"rotation\":2.4,\"lift\":0,\"speed\":0},{\"x\":-1104,\"y\":3076,\"rotation\":1.5,\"lift\":0,\"speed\":0}]}"
+        }
+      ],
+      "dialogs": [],
+      "main": {
+        "actorX": "0.000000",
+        "actorY": "-1800.000000",
+        "artVersion": "floof-clearing-v1",
+        "atlasPulse": "",
+        "cameraX": "0.000000",
+        "cameraY": "-1580.000000",
+        "cameraZoom": "1.000000",
+        "discovered": "",
+        "entered": "false",
+        "envelopeStored": "false",
+        "giftUnlocked": "false",
+        "headingX": "0.000000",
+        "headingY": "-1.000000",
+        "lastDrawId": "",
+        "lastSongId": "",
+        "motionVersion": "point-to-walk-v1",
+        "moving": "false",
+        "progressMode": "walk",
+        "puzzleSolved": "false",
+        "puzzleVersion": "computer-knowledge-v1",
+        "questionsSolved": "0",
+        "region": "entry",
+        "renderer": "webgl",
+        "sleepMaskFound": "false",
+        "sound": "off",
+        "storageStatus": "saved",
+        "view": "overview",
+        "visited": "entry",
+        "walkId": "e80579e5-21a6-40cc-b89f-e700c979f3f7",
+        "worldEvents": ""
+      },
+      "viewport": {
+        "height": 720,
+        "width": 1280
+      }
+    }
+  },
+  {
+    "label": "02-entrance-walk",
+    "data": {
+      "canvas": [
+        {
+          "chimeListening": "{\"engaged\":false,\"quiet\":0,\"travel\":0,\"responseAge\":-1,\"responseStrength\":1,\"side\":1,\"bellAngle\":-0.02,\"paperAngle\":0.009,\"noteSerial\":0}",
+          "engine": "three.js r180",
+          "floofAttention": "{\"amount\":0,\"directionX\":0,\"directionY\":1,\"leanX\":0,\"leanY\":0,\"puff\":0,\"stretch\":0}",
+          "moonClearing": "{\"phase\":0,\"age\":-1,\"completed\":false,\"armed\":false}",
+          "mushroomState": "{\"focus\":1,\"quiet\":0,\"engaged\":false,\"sequenceTime\":-1,\"order\":[],\"performed\":false,\"lightSide\":1,\"lights\":[{\"x\":0.1,\"y\":0.43,\"opacity\":0,\"radius\":9.1,\"travel\":0},{\"x\":0.1,\"y\":0.43,\"opacity\":0,\"radius\":11,\"travel\":0},{\"x\":0.1,\"y\":0.43,\"opacity\":0,\"radius\":7.0200000000000005,\"travel\":0},{\"x\":0.1,\"y\":0.43,\"opacity\":0,\"radius\":9.75,\"travel\":0},{\"x\":0.1,\"y\":0.43,\"opacity\":0,\"radius\":7.800000000000001,\"travel\":0}],\"warmth\":[0,0,0,0,0],\"opening\":[0,0,0,0,0],\"lean\":[0,0,0,0,0]}",
+          "orangeRest": "{\"phase\":\"idle\",\"elapsed\":0,\"liquid\":0.82,\"completed\":false,\"amount\":0,\"leanX\":0,\"leanY\":0,\"requestCount\":0,\"actor\":{\"x\":274.75305244808675,\"y\":-1132.24774356502},\"origin\":null}",
+          "paperGuide": "{\"leader\":-1,\"met\":false,\"perch\":0,\"target\":0,\"s\":0,\"speed\":0,\"quiet\":0,\"approachTime\":0,\"lift\":4,\"ready\":false,\"finished\":false,\"farewellAge\":-1,\"farewellSide\":1,\"x\":null,\"y\":null,\"opacity\":1,\"departureProgress\":0,\"departed\":false,\"farewellLean\":0,\"leftWingAngle\":0,\"rightWingAngle\":0}",
+          "pondListening": "{\"engaged\":false,\"discovered\":false,\"dream\":{\"phase\":\"dormant\",\"engaged\":false,\"presence\":0,\"playfulness\":0,\"time\":16.419,\"quiet\":0,\"coastStarted\":false,\"reflection\":{\"x\":-1166.811,\"y\":3061.713,\"vx\":0,\"vy\":0},\"target\":{\"x\":-1166.811,\"y\":3061.713},\"trail\":[]},\"secretQuiet\":0,\"secretAge\":-1,\"secretAmount\":0,\"secretSeen\":false,\"quiet\":0,\"calm\":1,\"presence\":0,\"serial\":0,\"source\":{\"x\":-1064.92,\"y\":3015.26},\"ripples\":[{\"x\":-1098.77,\"y\":3006.12,\"age\":4.8,\"touched\":0,\"opacity\":0},{\"x\":-1098.77,\"y\":3006.12,\"age\":4.8,\"touched\":0,\"opacity\":0},{\"x\":-1098.77,\"y\":3006.12,\"age\":4.8,\"touched\":0,\"opacity\":0},{\"x\":-1098.77,\"y\":3006.12,\"age\":4.8,\"touched\":0,\"opacity\":0}],\"petals\":[{\"x\":-1305,\"y\":3130,\"rotation\":0.7,\"lift\":0,\"speed\":0},{\"x\":-1020,\"y\":3238,\"rotation\":2.4,\"lift\":0,\"speed\":0},{\"x\":-1104,\"y\":3076,\"rotation\":1.5,\"lift\":0,\"speed\":0}]}"
+        }
+      ],
+      "dialogs": [],
+      "main": {
+        "actorX": "274.753052",
+        "actorY": "-1132.247744",
+        "artVersion": "floof-clearing-v1",
+        "atlasPulse": "",
+        "cameraX": "277.949002",
+        "cameraY": "-918.584820",
+        "cameraZoom": "1.000000",
+        "discovered": "",
+        "entered": "true",
+        "envelopeStored": "false",
+        "giftUnlocked": "false",
+        "headingX": "0.001505",
+        "headingY": "0.999999",
+        "lastDrawId": "",
+        "lastSongId": "",
+        "motionVersion": "point-to-walk-v1",
+        "moving": "false",
+        "progressMode": "walk",
+        "puzzleSolved": "false",
+        "puzzleVersion": "computer-knowledge-v1",
+        "questionsSolved": "0",
+        "region": "entry",
+        "renderer": "webgl",
+        "sleepMaskFound": "false",
+        "sound": "off",
+        "storageStatus": "saved",
+        "view": "overview",
+        "visited": "entry",
+        "walkId": "e80579e5-21a6-40cc-b89f-e700c979f3f7",
+        "worldEvents": "trail-passage-0"
+      },
+      "viewport": {
+        "height": 720,
+        "width": 1280
+      }
+    }
+  },
+  {
+    "label": "03-first-flower-pause",
+    "data": {
+      "canvas": [
+        {
+          "chimeListening": "{\"engaged\":false,\"quiet\":0,\"travel\":0,\"responseAge\":-1,\"responseStrength\":1,\"side\":1,\"bellAngle\":0.018,\"paperAngle\":0.013,\"noteSerial\":0}",
+          "engine": "three.js r180",
+          "floofAttention": "{\"amount\":0,\"directionX\":0,\"directionY\":1,\"leanX\":0,\"leanY\":0,\"puff\":0,\"stretch\":0}",
+          "moonClearing": "{\"phase\":0,\"age\":-1,\"completed\":false,\"armed\":false}",
+          "mushroomState": "{\"focus\":1,\"quiet\":0,\"engaged\":false,\"sequenceTime\":-1,\"order\":[],\"performed\":false,\"lightSide\":1,\"lights\":[{\"x\":0.1,\"y\":0.43,\"opacity\":0,\"radius\":9.1,\"travel\":0},{\"x\":0.1,\"y\":0.43,\"opacity\":0,\"radius\":11,\"travel\":0},{\"x\":0.1,\"y\":0.43,\"opacity\":0,\"radius\":7.0200000000000005,\"travel\":0},{\"x\":0.1,\"y\":0.43,\"opacity\":0,\"radius\":9.75,\"travel\":0},{\"x\":0.1,\"y\":0.43,\"opacity\":0,\"radius\":7.800000000000001,\"travel\":0}],\"warmth\":[0,0,0,0,0],\"opening\":[0,0,0,0,0],\"lean\":[0,0,0,0,0]}",
+          "orangeRest": "{\"phase\":\"idle\",\"elapsed\":0,\"liquid\":0.82,\"completed\":false,\"amount\":0,\"leanX\":0,\"leanY\":0,\"requestCount\":0,\"actor\":{\"x\":274.75305244808675,\"y\":-1132.24774356502},\"origin\":null}",
+          "paperGuide": "{\"leader\":-1,\"met\":false,\"perch\":0,\"target\":0,\"s\":0,\"speed\":0,\"quiet\":0,\"approachTime\":0,\"lift\":4,\"ready\":false,\"finished\":false,\"farewellAge\":-1,\"farewellSide\":1,\"x\":null,\"y\":null,\"opacity\":1,\"departureProgress\":0,\"departed\":false,\"farewellLean\":0,\"leftWingAngle\":0,\"rightWingAngle\":0}",
+          "pondListening": "{\"engaged\":false,\"discovered\":false,\"dream\":{\"phase\":\"dormant\",\"engaged\":false,\"presence\":0,\"playfulness\":0,\"time\":29.542,\"quiet\":0,\"coastStarted\":false,\"reflection\":{\"x\":-1166.811,\"y\":3061.713,\"vx\":0,\"vy\":0},\"target\":{\"x\":-1166.811,\"y\":3061.713},\"trail\":[]},\"secretQuiet\":0,\"secretAge\":-1,\"secretAmount\":0,\"secretSeen\":false,\"quiet\":0,\"calm\":1,\"presence\":0,\"serial\":0,\"source\":{\"x\":-1064.15,\"y\":3015.51},\"ripples\":[{\"x\":-1098.77,\"y\":3006.12,\"age\":4.8,\"touched\":0,\"opacity\":0},{\"x\":-1098.77,\"y\":3006.12,\"age\":4.8,\"touched\":0,\"opacity\":0},{\"x\":-1098.77,\"y\":3006.12,\"age\":4.8,\"touched\":0,\"opacity\":0},{\"x\":-1098.77,\"y\":3006.12,\"age\":4.8,\"touched\":0,\"opacity\":0}],\"petals\":[{\"x\":-1305,\"y\":3130,\"rotation\":0.7,\"lift\":0,\"speed\":0},{\"x\":-1020,\"y\":3238,\"rotation\":2.4,\"lift\":0,\"speed\":0},{\"x\":-1104,\"y\":3076,\"rotation\":1.5,\"lift\":0,\"speed\":0}]}"
+        }
+      ],
+      "dialogs": [],
+      "main": {
+        "actorX": "274.753052",
+        "actorY": "-1132.247744",
+        "artVersion": "floof-clearing-v1",
+        "atlasPulse": "",
+        "cameraX": "277.949002",
+        "cameraY": "-918.584820",
+        "cameraZoom": "1.000000",
+        "discovered": "",
+        "entered": "true",
+        "envelopeStored": "false",
+        "giftUnlocked": "false",
+        "headingX": "0.001505",
+        "headingY": "0.999999",
+        "lastDrawId": "",
+        "lastSongId": "",
+        "motionVersion": "point-to-walk-v1",
+        "moving": "false",
+        "progressMode": "walk",
+        "puzzleSolved": "false",
+        "puzzleVersion": "computer-knowledge-v1",
+        "questionsSolved": "0",
+        "region": "entry",
+        "renderer": "webgl",
+        "sleepMaskFound": "false",
+        "sound": "off",
+        "storageStatus": "saved",
+        "view": "overview",
+        "visited": "entry",
+        "walkId": "e80579e5-21a6-40cc-b89f-e700c979f3f7",
+        "worldEvents": "trail-passage-0,trail-flower-open"
+      },
+      "viewport": {
+        "height": 720,
+        "width": 1280
+      }
+    }
+  },
+  {
+    "label": "04-puzzle-approach",
+    "data": {
+      "canvas": [
+        {
+          "chimeListening": "{\"engaged\":false,\"quiet\":0,\"travel\":0,\"responseAge\":-1,\"responseStrength\":1,\"side\":1,\"bellAngle\":0.013,\"paperAngle\":-0.014,\"noteSerial\":0}",
+          "engine": "three.js r180",
+          "floofAttention": "{\"amount\":0,\"directionX\":0,\"directionY\":1,\"leanX\":0,\"leanY\":0,\"puff\":0,\"stretch\":0}",
+          "moonClearing": "{\"phase\":0,\"age\":-1,\"completed\":false,\"armed\":false}",
+          "mushroomState": "{\"focus\":1,\"quiet\":0,\"engaged\":false,\"sequenceTime\":-1,\"order\":[],\"performed\":false,\"lightSide\":1,\"lights\":[{\"x\":0.1,\"y\":0.43,\"opacity\":0,\"radius\":9.1,\"travel\":0},{\"x\":0.1,\"y\":0.43,\"opacity\":0,\"radius\":11,\"travel\":0},{\"x\":0.1,\"y\":0.43,\"opacity\":0,\"radius\":7.0200000000000005,\"travel\":0},{\"x\":0.1,\"y\":0.43,\"opacity\":0,\"radius\":9.75,\"travel\":0},{\"x\":0.1,\"y\":0.43,\"opacity\":0,\"radius\":7.800000000000001,\"travel\":0}],\"warmth\":[0,0,0,0,0],\"opening\":[0,0,0,0,0],\"lean\":[0,0,0,0,0]}",
+          "orangeRest": "{\"phase\":\"idle\",\"elapsed\":0,\"liquid\":0.82,\"completed\":false,\"amount\":0,\"leanX\":0,\"leanY\":0,\"requestCount\":0,\"actor\":{\"x\":-616.3268358688844,\"y\":657.0271283514251},\"origin\":null}",
+          "paperGuide": "{\"leader\":-1,\"met\":false,\"perch\":0,\"target\":0,\"s\":0,\"speed\":0,\"quiet\":0,\"approachTime\":0,\"lift\":4,\"ready\":false,\"finished\":false,\"farewellAge\":-1,\"farewellSide\":1,\"x\":null,\"y\":null,\"opacity\":1,\"departureProgress\":0,\"departed\":false,\"farewellLean\":0,\"leftWingAngle\":0,\"rightWingAngle\":0}",
+          "pondListening": "{\"engaged\":false,\"discovered\":false,\"dream\":{\"phase\":\"dormant\",\"engaged\":false,\"presence\":0,\"playfulness\":0,\"time\":65.067,\"quiet\":0,\"coastStarted\":false,\"reflection\":{\"x\":-1166.811,\"y\":3061.713,\"vx\":0,\"vy\":0},\"target\":{\"x\":-1166.811,\"y\":3061.713},\"trail\":[]},\"secretQuiet\":0,\"secretAge\":-1,\"secretAmount\":0,\"secretSeen\":false,\"quiet\":0,\"calm\":1,\"presence\":0,\"serial\":0,\"source\":{\"x\":-1108.25,\"y\":3004.09},\"ripples\":[{\"x\":-1098.77,\"y\":3006.12,\"age\":4.8,\"touched\":0,\"opacity\":0},{\"x\":-1098.77,\"y\":3006.12,\"age\":4.8,\"touched\":0,\"opacity\":0},{\"x\":-1098.77,\"y\":3006.12,\"age\":4.8,\"touched\":0,\"opacity\":0},{\"x\":-1098.77,\"y\":3006.12,\"age\":4.8,\"touched\":0,\"opacity\":0}],\"petals\":[{\"x\":-1305,\"y\":3130,\"rotation\":0.7,\"lift\":0,\"speed\":0},{\"x\":-1020,\"y\":3238,\"rotation\":2.4,\"lift\":0,\"speed\":0},{\"x\":-1104,\"y\":3076,\"rotation\":1.5,\"lift\":0,\"speed\":0}]}"
+        }
+      ],
+      "dialogs": [],
+      "main": {
+        "actorX": "-616.326836",
+        "actorY": "657.027128",
+        "artVersion": "floof-clearing-v1",
+        "atlasPulse": "",
+        "cameraX": "-616.748305",
+        "cameraY": "873.129422",
+        "cameraZoom": "1.000000",
+        "discovered": "puzzle",
+        "entered": "true",
+        "envelopeStored": "false",
+        "giftUnlocked": "false",
+        "headingX": "-0.001499",
+        "headingY": "0.999999",
+        "lastDrawId": "",
+        "lastSongId": "",
+        "motionVersion": "point-to-walk-v1",
+        "moving": "false",
+        "progressMode": "walk",
+        "puzzleSolved": "false",
+        "puzzleVersion": "computer-knowledge-v1",
+        "questionsSolved": "0",
+        "region": "lantern",
+        "renderer": "webgl",
+        "sleepMaskFound": "false",
+        "sound": "off",
+        "storageStatus": "saved",
+        "view": "overview",
+        "visited": "entry,lantern",
+        "walkId": "e80579e5-21a6-40cc-b89f-e700c979f3f7",
+        "worldEvents": "trail-passage-0,trail-flower-open,trail-butterfly-met,trail-guide-perch-1,trail-guide-perch-2,trail-passage-3,trail-guide-perch-3,trail-passage-4,trail-guide-perch-4,trail-guide-perch-5,trail-passage-5,trail-guide-perch-6,trail-lantern-awake"
+      },
+      "viewport": {
+        "height": 720,
+        "width": 1280
+      }
+    }
+  },
+  {
+    "label": "05-puzzle-empty",
+    "data": {
+      "canvas": [
+        {
+          "chimeListening": "{\"engaged\":false,\"quiet\":0,\"travel\":0,\"responseAge\":-1,\"responseStrength\":1,\"side\":1,\"bellAngle\":0.019,\"paperAngle\":0.013,\"noteSerial\":0}",
+          "engine": "three.js r180",
+          "floofAttention": "{\"amount\":0,\"directionX\":0,\"directionY\":1,\"leanX\":0,\"leanY\":0,\"puff\":0,\"stretch\":0}",
+          "moonClearing": "{\"phase\":0,\"age\":-1,\"completed\":false,\"armed\":false}",
+          "mushroomState": "{\"focus\":1,\"quiet\":0,\"engaged\":false,\"sequenceTime\":-1,\"order\":[],\"performed\":false,\"lightSide\":1,\"lights\":[{\"x\":0.1,\"y\":0.43,\"opacity\":0,\"radius\":9.1,\"travel\":0},{\"x\":0.1,\"y\":0.43,\"opacity\":0,\"radius\":11,\"travel\":0},{\"x\":0.1,\"y\":0.43,\"opacity\":0,\"radius\":7.0200000000000005,\"travel\":0},{\"x\":0.1,\"y\":0.43,\"opacity\":0,\"radius\":9.75,\"travel\":0},{\"x\":0.1,\"y\":0.43,\"opacity\":0,\"radius\":7.800000000000001,\"travel\":0}],\"warmth\":[0,0,0,0,0],\"opening\":[0,0,0,0,0],\"lean\":[0,0,0,0,0]}",
+          "orangeRest": "{\"phase\":\"idle\",\"elapsed\":0,\"liquid\":0.82,\"completed\":false,\"amount\":0,\"leanX\":0,\"leanY\":0,\"requestCount\":0,\"actor\":{\"x\":-616.3268358688844,\"y\":657.0271283514251},\"origin\":null}",
+          "paperGuide": "{\"leader\":-1,\"met\":false,\"perch\":0,\"target\":0,\"s\":0,\"speed\":0,\"quiet\":0,\"approachTime\":0,\"lift\":4,\"ready\":false,\"finished\":false,\"farewellAge\":-1,\"farewellSide\":1,\"x\":null,\"y\":null,\"opacity\":1,\"departureProgress\":0,\"departed\":false,\"farewellLean\":0,\"leftWingAngle\":0,\"rightWingAngle\":0}",
+          "pondListening": "{\"engaged\":false,\"discovered\":false,\"dream\":{\"phase\":\"dormant\",\"engaged\":false,\"presence\":0,\"playfulness\":0,\"time\":75.692,\"quiet\":0,\"coastStarted\":false,\"reflection\":{\"x\":-1166.811,\"y\":3061.713,\"vx\":0,\"vy\":0},\"target\":{\"x\":-1166.811,\"y\":3061.713},\"trail\":[]},\"secretQuiet\":0,\"secretAge\":-1,\"secretAmount\":0,\"secretSeen\":false,\"quiet\":0,\"calm\":1,\"presence\":0,\"serial\":0,\"source\":{\"x\":-1107.56,\"y\":3004.23},\"ripples\":[{\"x\":-1098.77,\"y\":3006.12,\"age\":4.8,\"touched\":0,\"opacity\":0},{\"x\":-1098.77,\"y\":3006.12,\"age\":4.8,\"touched\":0,\"opacity\":0},{\"x\":-1098.77,\"y\":3006.12,\"age\":4.8,\"touched\":0,\"opacity\":0},{\"x\":-1098.77,\"y\":3006.12,\"age\":4.8,\"touched\":0,\"opacity\":0}],\"petals\":[{\"x\":-1305,\"y\":3130,\"rotation\":0.7,\"lift\":0,\"speed\":0},{\"x\":-1020,\"y\":3238,\"rotation\":2.4,\"lift\":0,\"speed\":0},{\"x\":-1104,\"y\":3076,\"rotation\":1.5,\"lift\":0,\"speed\":0}]}"
+        }
+      ],
+      "dialogs": [
+        {
+          "clientHeight": 640,
+          "height": 641.5546875,
+          "scrollHeight": 640,
+          "width": 560
+        }
+      ],
+      "main": {
+        "actorX": "-616.326836",
+        "actorY": "657.027128",
+        "artVersion": "floof-clearing-v1",
+        "atlasPulse": "",
+        "cameraX": "-610.462648",
+        "cameraY": "874.689650",
+        "cameraZoom": "1.002899",
+        "discovered": "puzzle",
+        "entered": "true",
+        "envelopeStored": "false",
+        "giftUnlocked": "false",
+        "headingX": "-0.001499",
+        "headingY": "0.999999",
+        "lastDrawId": "",
+        "lastSongId": "",
+        "motionVersion": "point-to-walk-v1",
+        "moving": "false",
+        "progressMode": "walk",
+        "puzzleSolved": "false",
+        "puzzleVersion": "computer-knowledge-v1",
+        "questionsSolved": "0",
+        "region": "lantern",
+        "renderer": "webgl",
+        "sleepMaskFound": "false",
+        "sound": "off",
+        "storageStatus": "saved",
+        "view": "puzzle",
+        "visited": "entry,lantern",
+        "walkId": "e80579e5-21a6-40cc-b89f-e700c979f3f7",
+        "worldEvents": "trail-passage-0,trail-flower-open,trail-butterfly-met,trail-guide-perch-1,trail-guide-perch-2,trail-passage-3,trail-guide-perch-3,trail-passage-4,trail-guide-perch-4,trail-guide-perch-5,trail-passage-5,trail-guide-perch-6,trail-lantern-awake"
+      },
+      "viewport": {
+        "height": 720,
+        "width": 1280
+      }
+    }
+  },
+  {
+    "label": "06-puzzle-wrong",
+    "data": {
+      "canvas": [
+        {
+          "chimeListening": "{\"engaged\":false,\"quiet\":0,\"travel\":0,\"responseAge\":-1,\"responseStrength\":1,\"side\":1,\"bellAngle\":0.019,\"paperAngle\":0.013,\"noteSerial\":0}",
+          "engine": "three.js r180",
+          "floofAttention": "{\"amount\":0,\"directionX\":0,\"directionY\":1,\"leanX\":0,\"leanY\":0,\"puff\":0,\"stretch\":0}",
+          "moonClearing": "{\"phase\":0,\"age\":-1,\"completed\":false,\"armed\":false}",
+          "mushroomState": "{\"focus\":1,\"quiet\":0,\"engaged\":false,\"sequenceTime\":-1,\"order\":[],\"performed\":false,\"lightSide\":1,\"lights\":[{\"x\":0.1,\"y\":0.43,\"opacity\":0,\"radius\":9.1,\"travel\":0},{\"x\":0.1,\"y\":0.43,\"opacity\":0,\"radius\":11,\"travel\":0},{\"x\":0.1,\"y\":0.43,\"opacity\":0,\"radius\":7.0200000000000005,\"travel\":0},{\"x\":0.1,\"y\":0.43,\"opacity\":0,\"radius\":9.75,\"travel\":0},{\"x\":0.1,\"y\":0.43,\"opacity\":0,\"radius\":7.800000000000001,\"travel\":0}],\"warmth\":[0,0,0,0,0],\"opening\":[0,0,0,0,0],\"lean\":[0,0,0,0,0]}",
+          "orangeRest": "{\"phase\":\"idle\",\"elapsed\":0,\"liquid\":0.82,\"completed\":false,\"amount\":0,\"leanX\":0,\"leanY\":0,\"requestCount\":0,\"actor\":{\"x\":-616.3268358688844,\"y\":657.0271283514251},\"origin\":null}",
+          "paperGuide": "{\"leader\":-1,\"met\":false,\"perch\":0,\"target\":0,\"s\":0,\"speed\":0,\"quiet\":0,\"approachTime\":0,\"lift\":4,\"ready\":false,\"finished\":false,\"farewellAge\":-1,\"farewellSide\":1,\"x\":null,\"y\":null,\"opacity\":1,\"departureProgress\":0,\"departed\":false,\"farewellLean\":0,\"leftWingAngle\":0,\"rightWingAngle\":0}",
+          "pondListening": "{\"engaged\":false,\"discovered\":false,\"dream\":{\"phase\":\"dormant\",\"engaged\":false,\"presence\":0,\"playfulness\":0,\"time\":75.692,\"quiet\":0,\"coastStarted\":false,\"reflection\":{\"x\":-1166.811,\"y\":3061.713,\"vx\":0,\"vy\":0},\"target\":{\"x\":-1166.811,\"y\":3061.713},\"trail\":[]},\"secretQuiet\":0,\"secretAge\":-1,\"secretAmount\":0,\"secretSeen\":false,\"quiet\":0,\"calm\":1,\"presence\":0,\"serial\":0,\"source\":{\"x\":-1107.56,\"y\":3004.23},\"ripples\":[{\"x\":-1098.77,\"y\":3006.12,\"age\":4.8,\"touched\":0,\"opacity\":0},{\"x\":-1098.77,\"y\":3006.12,\"age\":4.8,\"touched\":0,\"opacity\":0},{\"x\":-1098.77,\"y\":3006.12,\"age\":4.8,\"touched\":0,\"opacity\":0},{\"x\":-1098.77,\"y\":3006.12,\"age\":4.8,\"touched\":0,\"opacity\":0}],\"petals\":[{\"x\":-1305,\"y\":3130,\"rotation\":0.7,\"lift\":0,\"speed\":0},{\"x\":-1020,\"y\":3238,\"rotation\":2.4,\"lift\":0,\"speed\":0},{\"x\":-1104,\"y\":3076,\"rotation\":1.5,\"lift\":0,\"speed\":0}]}"
+        }
+      ],
+      "dialogs": [
+        {
+          "clientHeight": 640,
+          "height": 641.5546875,
+          "scrollHeight": 640,
+          "width": 560
+        }
+      ],
+      "main": {
+        "actorX": "-616.326836",
+        "actorY": "657.027128",
+        "artVersion": "floof-clearing-v1",
+        "atlasPulse": "",
+        "cameraX": "-461.170715",
+        "cameraY": "911.746940",
+        "cameraZoom": "1.071757",
+        "discovered": "puzzle",
+        "entered": "true",
+        "envelopeStored": "false",
+        "giftUnlocked": "false",
+        "headingX": "-0.001499",
+        "headingY": "0.999999",
+        "lastDrawId": "",
+        "lastSongId": "",
+        "motionVersion": "point-to-walk-v1",
+        "moving": "false",
+        "progressMode": "walk",
+        "puzzleSolved": "false",
+        "puzzleVersion": "computer-knowledge-v1",
+        "questionsSolved": "0",
+        "region": "lantern",
+        "renderer": "webgl",
+        "sleepMaskFound": "false",
+        "sound": "off",
+        "storageStatus": "saved",
+        "view": "puzzle",
+        "visited": "entry,lantern",
+        "walkId": "e80579e5-21a6-40cc-b89f-e700c979f3f7",
+        "worldEvents": "trail-passage-0,trail-flower-open,trail-butterfly-met,trail-guide-perch-1,trail-guide-perch-2,trail-passage-3,trail-guide-perch-3,trail-passage-4,trail-guide-perch-4,trail-guide-perch-5,trail-passage-5,trail-guide-perch-6,trail-lantern-awake"
+      },
+      "viewport": {
+        "height": 720,
+        "width": 1280
+      }
+    }
+  },
+  {
+    "label": "07-first-digit",
+    "data": {
+      "canvas": [
+        {
+          "chimeListening": "{\"engaged\":false,\"quiet\":0,\"travel\":0,\"responseAge\":-1,\"responseStrength\":1,\"side\":1,\"bellAngle\":0.019,\"paperAngle\":0.013,\"noteSerial\":0}",
+          "engine": "three.js r180",
+          "floofAttention": "{\"amount\":0,\"directionX\":0,\"directionY\":1,\"leanX\":0,\"leanY\":0,\"puff\":0,\"stretch\":0}",
+          "moonClearing": "{\"phase\":0,\"age\":-1,\"completed\":false,\"armed\":false}",
+          "mushroomState": "{\"focus\":1,\"quiet\":0,\"engaged\":false,\"sequenceTime\":-1,\"order\":[],\"performed\":false,\"lightSide\":1,\"lights\":[{\"x\":0.1,\"y\":0.43,\"opacity\":0,\"radius\":9.1,\"travel\":0},{\"x\":0.1,\"y\":0.43,\"opacity\":0,\"radius\":11,\"travel\":0},{\"x\":0.1,\"y\":0.43,\"opacity\":0,\"radius\":7.0200000000000005,\"travel\":0},{\"x\":0.1,\"y\":0.43,\"opacity\":0,\"radius\":9.75,\"travel\":0},{\"x\":0.1,\"y\":0.43,\"opacity\":0,\"radius\":7.800000000000001,\"travel\":0}],\"warmth\":[0,0,0,0,0],\"opening\":[0,0,0,0,0],\"lean\":[0,0,0,0,0]}",
+          "orangeRest": "{\"phase\":\"idle\",\"elapsed\":0,\"liquid\":0.82,\"completed\":false,\"amount\":0,\"leanX\":0,\"leanY\":0,\"requestCount\":0,\"actor\":{\"x\":-616.3268358688844,\"y\":657.0271283514251},\"origin\":null}",
+          "paperGuide": "{\"leader\":-1,\"met\":false,\"perch\":0,\"target\":0,\"s\":0,\"speed\":0,\"quiet\":0,\"approachTime\":0,\"lift\":4,\"ready\":false,\"finished\":false,\"farewellAge\":-1,\"farewellSide\":1,\"x\":null,\"y\":null,\"opacity\":1,\"departureProgress\":0,\"departed\":false,\"farewellLean\":0,\"leftWingAngle\":0,\"rightWingAngle\":0}",
+          "pondListening": "{\"engaged\":false,\"discovered\":false,\"dream\":{\"phase\":\"dormant\",\"engaged\":false,\"presence\":0,\"playfulness\":0,\"time\":75.692,\"quiet\":0,\"coastStarted\":false,\"reflection\":{\"x\":-1166.811,\"y\":3061.713,\"vx\":0,\"vy\":0},\"target\":{\"x\":-1166.811,\"y\":3061.713},\"trail\":[]},\"secretQuiet\":0,\"secretAge\":-1,\"secretAmount\":0,\"secretSeen\":false,\"quiet\":0,\"calm\":1,\"presence\":0,\"serial\":0,\"source\":{\"x\":-1107.56,\"y\":3004.23},\"ripples\":[{\"x\":-1098.77,\"y\":3006.12,\"age\":4.8,\"touched\":0,\"opacity\":0},{\"x\":-1098.77,\"y\":3006.12,\"age\":4.8,\"touched\":0,\"opacity\":0},{\"x\":-1098.77,\"y\":3006.12,\"age\":4.8,\"touched\":0,\"opacity\":0},{\"x\":-1098.77,\"y\":3006.12,\"age\":4.8,\"touched\":0,\"opacity\":0}],\"petals\":[{\"x\":-1305,\"y\":3130,\"rotation\":0.7,\"lift\":0,\"speed\":0},{\"x\":-1020,\"y\":3238,\"rotation\":2.4,\"lift\":0,\"speed\":0},{\"x\":-1104,\"y\":3076,\"rotation\":1.5,\"lift\":0,\"speed\":0}]}"
+        }
+      ],
+      "dialogs": [
+        {
+          "clientHeight": 626,
+          "height": 628.453125,
+          "scrollHeight": 626,
+          "width": 560
+        }
+      ],
+      "main": {
+        "actorX": "-616.326836",
+        "actorY": "657.027128",
+        "artVersion": "floof-clearing-v1",
+        "atlasPulse": "",
+        "cameraX": "-226.487823",
+        "cameraY": "970.000000",
+        "cameraZoom": "1.180000",
+        "discovered": "puzzle",
+        "entered": "true",
+        "envelopeStored": "false",
+        "giftUnlocked": "false",
+        "headingX": "-0.001499",
+        "headingY": "0.999999",
+        "lastDrawId": "",
+        "lastSongId": "",
+        "motionVersion": "point-to-walk-v1",
+        "moving": "false",
+        "progressMode": "walk",
+        "puzzleSolved": "false",
+        "puzzleVersion": "computer-knowledge-v1",
+        "questionsSolved": "1",
+        "region": "lantern",
+        "renderer": "webgl",
+        "sleepMaskFound": "false",
+        "sound": "off",
+        "storageStatus": "saved",
+        "view": "puzzle",
+        "visited": "entry,lantern",
+        "walkId": "e80579e5-21a6-40cc-b89f-e700c979f3f7",
+        "worldEvents": "trail-passage-0,trail-flower-open,trail-butterfly-met,trail-guide-perch-1,trail-guide-perch-2,trail-passage-3,trail-guide-perch-3,trail-passage-4,trail-guide-perch-4,trail-guide-perch-5,trail-passage-5,trail-guide-perch-6,trail-lantern-awake"
+      },
+      "viewport": {
+        "height": 720,
+        "width": 1280
+      }
+    }
+  },
+  {
+    "label": "08-first-digit-refresh",
+    "data": {
+      "canvas": [],
+      "dialogs": [
+        {
+          "clientHeight": 640,
+          "height": 641.5546875,
+          "scrollHeight": 640,
+          "width": 560
+        }
+      ],
+      "main": {
+        "actorX": "-616.326836",
+        "actorY": "657.027128",
+        "artVersion": "floof-clearing-v1",
+        "atlasPulse": "",
+        "cameraX": "-226.487823",
+        "cameraY": "970.000000",
+        "cameraZoom": "1.180000",
+        "discovered": "",
+        "entered": "true",
+        "envelopeStored": "false",
+        "giftUnlocked": "false",
+        "headingX": "-0.001499",
+        "headingY": "0.999999",
+        "lastDrawId": "",
+        "lastSongId": "",
+        "motionVersion": "point-to-walk-v1",
+        "moving": "false",
+        "progressMode": "walk",
+        "puzzleSolved": "false",
+        "puzzleVersion": "computer-knowledge-v1",
+        "questionsSolved": "1",
+        "region": "lantern",
+        "renderer": "static",
+        "sleepMaskFound": "false",
+        "sound": "off",
+        "storageStatus": "saved",
+        "view": "puzzle",
+        "visited": "entry",
+        "walkId": "e80579e5-21a6-40cc-b89f-e700c979f3f7",
+        "worldEvents": ""
+      },
+      "viewport": {
+        "height": 720,
+        "width": 1280
+      }
+    }
+  },
+  {
+    "label": "09-four-digits",
+    "data": {
+      "canvas": [
+        {
+          "engine": "three.js r180",
+          "orangeRest": "{\"phase\":\"idle\",\"elapsed\":0,\"liquid\":0.82,\"completed\":false,\"amount\":0,\"leanX\":0,\"leanY\":0,\"requestCount\":0,\"actor\":{\"x\":290,\"y\":3875},\"origin\":null}"
+        }
+      ],
+      "dialogs": [
+        {
+          "clientHeight": 645,
+          "height": 646.65625,
+          "scrollHeight": 645,
+          "width": 560
+        }
+      ],
+      "main": {
+        "actorX": "-616.326836",
+        "actorY": "657.027128",
+        "artVersion": "floof-clearing-v1",
+        "atlasPulse": "",
+        "cameraX": "-226.487823",
+        "cameraY": "970.000000",
+        "cameraZoom": "1.180000",
+        "discovered": "",
+        "entered": "true",
+        "envelopeStored": "false",
+        "giftUnlocked": "false",
+        "headingX": "-0.001499",
+        "headingY": "0.999999",
+        "lastDrawId": "",
+        "lastSongId": "",
+        "motionVersion": "point-to-walk-v1",
+        "moving": "false",
+        "progressMode": "walk",
+        "puzzleSolved": "true",
+        "puzzleVersion": "computer-knowledge-v1",
+        "questionsSolved": "4",
+        "region": "lantern",
+        "renderer": "webgl",
+        "sleepMaskFound": "false",
+        "sound": "off",
+        "storageStatus": "saved",
+        "view": "puzzle",
+        "visited": "entry",
+        "walkId": "e80579e5-21a6-40cc-b89f-e700c979f3f7",
+        "worldEvents": ""
+      },
+      "viewport": {
+        "height": 720,
+        "width": 1280
+      }
+    }
+  },
+  {
+    "label": "10-envelope-packed",
+    "data": {
+      "canvas": [
+        {
+          "engine": "three.js r180",
+          "orangeRest": "{\"phase\":\"idle\",\"elapsed\":0,\"liquid\":0.82,\"completed\":false,\"amount\":0,\"leanX\":0,\"leanY\":0,\"requestCount\":0,\"actor\":{\"x\":290,\"y\":3875},\"origin\":null}"
+        }
+      ],
+      "dialogs": [
+        {
+          "clientHeight": 544,
+          "height": 546.15625,
+          "scrollHeight": 544,
+          "width": 560
+        }
+      ],
+      "main": {
+        "actorX": "-616.326836",
+        "actorY": "657.027128",
+        "artVersion": "floof-clearing-v1",
+        "atlasPulse": "",
+        "cameraX": "-226.487823",
+        "cameraY": "970.000000",
+        "cameraZoom": "1.180000",
+        "discovered": "",
+        "entered": "true",
+        "envelopeStored": "true",
+        "giftUnlocked": "false",
+        "headingX": "-0.001499",
+        "headingY": "0.999999",
+        "lastDrawId": "",
+        "lastSongId": "",
+        "motionVersion": "point-to-walk-v1",
+        "moving": "false",
+        "progressMode": "walk",
+        "puzzleSolved": "true",
+        "puzzleVersion": "computer-knowledge-v1",
+        "questionsSolved": "4",
+        "region": "lantern",
+        "renderer": "webgl",
+        "sleepMaskFound": "false",
+        "sound": "off",
+        "storageStatus": "saved",
+        "view": "puzzle",
+        "visited": "entry",
+        "walkId": "e80579e5-21a6-40cc-b89f-e700c979f3f7",
+        "worldEvents": ""
+      },
+      "viewport": {
+        "height": 720,
+        "width": 1280
+      }
+    }
+  },
+  {
+    "label": "11-puzzle-return",
+    "data": {
+      "canvas": [
+        {
+          "chimeListening": "{\"engaged\":false,\"quiet\":0,\"travel\":0,\"responseAge\":-1,\"responseStrength\":1,\"side\":1,\"bellAngle\":-0.005,\"paperAngle\":0.005,\"noteSerial\":0}",
+          "engine": "three.js r180",
+          "floofAttention": "{\"amount\":0,\"directionX\":0,\"directionY\":1,\"leanX\":0,\"leanY\":0,\"puff\":0,\"stretch\":0}",
+          "moonClearing": "{\"phase\":0,\"age\":-1,\"completed\":false,\"armed\":false}",
+          "mushroomState": "{\"focus\":1,\"quiet\":0,\"engaged\":false,\"sequenceTime\":-1,\"order\":[],\"performed\":false,\"lightSide\":1,\"lights\":[{\"x\":0.1,\"y\":0.43,\"opacity\":0,\"radius\":9.1,\"travel\":0},{\"x\":0.1,\"y\":0.43,\"opacity\":0,\"radius\":11,\"travel\":0},{\"x\":0.1,\"y\":0.43,\"opacity\":0,\"radius\":7.0200000000000005,\"travel\":0},{\"x\":0.1,\"y\":0.43,\"opacity\":0,\"radius\":9.75,\"travel\":0},{\"x\":0.1,\"y\":0.43,\"opacity\":0,\"radius\":7.800000000000001,\"travel\":0}],\"warmth\":[0,0,0,0,0],\"opening\":[0,0,0,0,0],\"lean\":[0,0,0,0,0]}",
+          "orangeRest": "{\"phase\":\"idle\",\"elapsed\":0,\"liquid\":0.82,\"completed\":false,\"amount\":0,\"leanX\":0,\"leanY\":0,\"requestCount\":0,\"actor\":{\"x\":-616.3268358688844,\"y\":657.0271283514251},\"origin\":null}",
+          "paperGuide": "{\"leader\":-1,\"met\":false,\"perch\":0,\"target\":0,\"s\":0,\"speed\":0,\"quiet\":0,\"approachTime\":0,\"lift\":4,\"ready\":false,\"finished\":false,\"farewellAge\":-1,\"farewellSide\":1,\"x\":null,\"y\":null,\"opacity\":1,\"departureProgress\":0,\"departed\":false,\"farewellLean\":0,\"leftWingAngle\":0,\"rightWingAngle\":0}",
+          "pondListening": "{\"engaged\":false,\"discovered\":false,\"dream\":{\"phase\":\"dormant\",\"engaged\":false,\"presence\":0,\"playfulness\":0,\"time\":0.142,\"quiet\":0,\"coastStarted\":false,\"reflection\":{\"x\":-1168.227,\"y\":3061.569,\"vx\":0,\"vy\":0},\"target\":{\"x\":-1168.227,\"y\":3061.569},\"trail\":[]},\"secretQuiet\":0,\"secretAge\":-1,\"secretAmount\":0,\"secretSeen\":false,\"quiet\":0,\"calm\":1,\"presence\":0,\"serial\":0,\"source\":{\"x\":-1107.56,\"y\":3004.23},\"ripples\":[{\"x\":-1107.56,\"y\":3004.23,\"age\":4.8,\"touched\":0,\"opacity\":0},{\"x\":-1107.56,\"y\":3004.23,\"age\":4.8,\"touched\":0,\"opacity\":0},{\"x\":-1107.56,\"y\":3004.23,\"age\":4.8,\"touched\":0,\"opacity\":0},{\"x\":-1107.56,\"y\":3004.23,\"age\":4.8,\"touched\":0,\"opacity\":0}],\"petals\":[{\"x\":-1305,\"y\":3130,\"rotation\":0.7,\"lift\":0,\"speed\":0},{\"x\":-1020,\"y\":3238,\"rotation\":2.4,\"lift\":0,\"speed\":0},{\"x\":-1104,\"y\":3076,\"rotation\":1.5,\"lift\":0,\"speed\":0}]}"
+        }
+      ],
+      "dialogs": [],
+      "main": {
+        "actorX": "-616.326836",
+        "actorY": "657.027128",
+        "artVersion": "floof-clearing-v1",
+        "atlasPulse": "",
+        "cameraX": "-616.748305",
+        "cameraY": "873.129422",
+        "cameraZoom": "1.000000",
+        "discovered": "puzzle",
+        "entered": "true",
+        "envelopeStored": "true",
+        "giftUnlocked": "false",
+        "headingX": "-0.001499",
+        "headingY": "0.999999",
+        "lastDrawId": "",
+        "lastSongId": "",
+        "motionVersion": "point-to-walk-v1",
+        "moving": "false",
+        "progressMode": "walk",
+        "puzzleSolved": "true",
+        "puzzleVersion": "computer-knowledge-v1",
+        "questionsSolved": "4",
+        "region": "lantern",
+        "renderer": "webgl",
+        "sleepMaskFound": "false",
+        "sound": "off",
+        "storageStatus": "saved",
+        "view": "overview",
+        "visited": "entry,lantern",
+        "walkId": "e80579e5-21a6-40cc-b89f-e700c979f3f7",
+        "worldEvents": "trail-lantern-awake"
+      },
+      "viewport": {
+        "height": 720,
+        "width": 1280
+      }
+    }
+  },
+  {
+    "label": "12-music-approach",
+    "data": {
+      "canvas": [
+        {
+          "chimeListening": "{\"engaged\":false,\"quiet\":0,\"travel\":0,\"responseAge\":-1,\"responseStrength\":1,\"side\":1,\"bellAngle\":0.053,\"paperAngle\":0.043,\"noteSerial\":0}",
+          "engine": "three.js r180",
+          "floofAttention": "{\"amount\":0,\"directionX\":0,\"directionY\":1,\"leanX\":0,\"leanY\":0,\"puff\":0,\"stretch\":0}",
+          "moonClearing": "{\"phase\":0,\"age\":-1,\"completed\":false,\"armed\":false}",
+          "mushroomState": "{\"focus\":1,\"quiet\":0,\"engaged\":false,\"sequenceTime\":-1,\"order\":[],\"performed\":false,\"lightSide\":1,\"lights\":[{\"x\":0.1,\"y\":0.43,\"opacity\":0,\"radius\":9.1,\"travel\":0},{\"x\":0.1,\"y\":0.43,\"opacity\":0,\"radius\":11,\"travel\":0},{\"x\":0.1,\"y\":0.43,\"opacity\":0,\"radius\":7.0200000000000005,\"travel\":0},{\"x\":0.1,\"y\":0.43,\"opacity\":0,\"radius\":9.75,\"travel\":0},{\"x\":0.1,\"y\":0.43,\"opacity\":0,\"radius\":7.800000000000001,\"travel\":0}],\"warmth\":[0,0,0,0,0],\"opening\":[0,0,0,0,0],\"lean\":[0,0,0,0,0]}",
+          "orangeRest": "{\"phase\":\"idle\",\"elapsed\":0,\"liquid\":0.82,\"completed\":false,\"amount\":0,\"leanX\":0,\"leanY\":0,\"requestCount\":0,\"actor\":{\"x\":739.1092600895677,\"y\":2037.3092872481257},\"origin\":null}",
+          "paperGuide": "{\"leader\":-1,\"met\":false,\"perch\":0,\"target\":0,\"s\":0,\"speed\":0,\"quiet\":0,\"approachTime\":0,\"lift\":4,\"ready\":false,\"finished\":false,\"farewellAge\":-1,\"farewellSide\":1,\"x\":null,\"y\":null,\"opacity\":1,\"departureProgress\":0,\"departed\":false,\"farewellLean\":0,\"leftWingAngle\":0,\"rightWingAngle\":0}",
+          "pondListening": "{\"engaged\":false,\"discovered\":false,\"dream\":{\"phase\":\"dormant\",\"engaged\":false,\"presence\":0,\"playfulness\":0,\"time\":10.263,\"quiet\":0,\"coastStarted\":false,\"reflection\":{\"x\":-1168.227,\"y\":3061.569,\"vx\":0,\"vy\":0},\"target\":{\"x\":-1168.227,\"y\":3061.569},\"trail\":[]},\"secretQuiet\":0,\"secretAge\":-1,\"secretAmount\":0,\"secretSeen\":false,\"quiet\":0,\"calm\":1,\"presence\":0,\"serial\":0,\"source\":{\"x\":-916.28,\"y\":3115.3},\"ripples\":[{\"x\":-1107.56,\"y\":3004.23,\"age\":4.8,\"touched\":0,\"opacity\":0},{\"x\":-1107.56,\"y\":3004.23,\"age\":4.8,\"touched\":0,\"opacity\":0},{\"x\":-1107.56,\"y\":3004.23,\"age\":4.8,\"touched\":0,\"opacity\":0},{\"x\":-1107.56,\"y\":3004.23,\"age\":4.8,\"touched\":0,\"opacity\":0}],\"petals\":[{\"x\":-1305,\"y\":3130,\"rotation\":0.7,\"lift\":0,\"speed\":0},{\"x\":-1020,\"y\":3238,\"rotation\":2.4,\"lift\":0,\"speed\":0},{\"x\":-1104,\"y\":3076,\"rotation\":1.5,\"lift\":0,\"speed\":0}]}"
+        }
+      ],
+      "dialogs": [],
+      "main": {
+        "actorX": "739.109260",
+        "actorY": "2037.309287",
+        "artVersion": "floof-clearing-v1",
+        "atlasPulse": "",
+        "cameraX": "736.448707",
+        "cameraY": "2254.641250",
+        "cameraZoom": "1.000000",
+        "discovered": "puzzle,music",
+        "entered": "true",
+        "envelopeStored": "true",
+        "giftUnlocked": "false",
+        "headingX": "0.706085",
+        "headingY": "0.708127",
+        "lastDrawId": "",
+        "lastSongId": "",
+        "motionVersion": "point-to-walk-v1",
+        "moving": "false",
+        "progressMode": "walk",
+        "puzzleSolved": "true",
+        "puzzleVersion": "computer-knowledge-v1",
+        "questionsSolved": "4",
+        "region": "orchard",
+        "renderer": "webgl",
+        "sleepMaskFound": "false",
+        "sound": "off",
+        "storageStatus": "saved",
+        "view": "overview",
+        "visited": "entry,lantern,orchard",
+        "walkId": "e80579e5-21a6-40cc-b89f-e700c979f3f7",
+        "worldEvents": "trail-lantern-awake,orchard-petals"
+      },
+      "viewport": {
+        "height": 720,
+        "width": 1280
+      }
+    }
+  },
+  {
+    "label": "13-song-drawn",
+    "data": {
+      "canvas": [
+        {
+          "chimeListening": "{\"engaged\":false,\"quiet\":0,\"travel\":0,\"responseAge\":-1,\"responseStrength\":1,\"side\":1,\"bellAngle\":-0.021,\"paperAngle\":0.007,\"noteSerial\":0}",
+          "engine": "three.js r180",
+          "floofAttention": "{\"amount\":0,\"directionX\":0,\"directionY\":1,\"leanX\":0,\"leanY\":0,\"puff\":0,\"stretch\":0}",
+          "moonClearing": "{\"phase\":0,\"age\":-1,\"completed\":false,\"armed\":false}",
+          "mushroomState": "{\"focus\":1,\"quiet\":0,\"engaged\":false,\"sequenceTime\":-1,\"order\":[],\"performed\":false,\"lightSide\":1,\"lights\":[{\"x\":0.1,\"y\":0.43,\"opacity\":0,\"radius\":9.1,\"travel\":0},{\"x\":0.1,\"y\":0.43,\"opacity\":0,\"radius\":11,\"travel\":0},{\"x\":0.1,\"y\":0.43,\"opacity\":0,\"radius\":7.0200000000000005,\"travel\":0},{\"x\":0.1,\"y\":0.43,\"opacity\":0,\"radius\":9.75,\"travel\":0},{\"x\":0.1,\"y\":0.43,\"opacity\":0,\"radius\":7.800000000000001,\"travel\":0}],\"warmth\":[0,0,0,0,0],\"opening\":[0,0,0,0,0],\"lean\":[0,0,0,0,0]}",
+          "orangeRest": "{\"phase\":\"idle\",\"elapsed\":0,\"liquid\":0.82,\"completed\":false,\"amount\":0,\"leanX\":0,\"leanY\":0,\"requestCount\":0,\"actor\":{\"x\":739.1092600895677,\"y\":2037.3092872481257},\"origin\":null}",
+          "paperGuide": "{\"leader\":-1,\"met\":false,\"perch\":0,\"target\":0,\"s\":0,\"speed\":0,\"quiet\":0,\"approachTime\":0,\"lift\":4,\"ready\":false,\"finished\":false,\"farewellAge\":-1,\"farewellSide\":1,\"x\":null,\"y\":null,\"opacity\":1,\"departureProgress\":0,\"departed\":false,\"farewellLean\":0,\"leftWingAngle\":0,\"rightWingAngle\":0}",
+          "pondListening": "{\"engaged\":false,\"discovered\":false,\"dream\":{\"phase\":\"dormant\",\"engaged\":false,\"presence\":0,\"playfulness\":0,\"time\":17.388,\"quiet\":0,\"coastStarted\":false,\"reflection\":{\"x\":-1168.227,\"y\":3061.569,\"vx\":0,\"vy\":0},\"target\":{\"x\":-1168.227,\"y\":3061.569},\"trail\":[]},\"secretQuiet\":0,\"secretAge\":-1,\"secretAmount\":0,\"secretSeen\":false,\"quiet\":0,\"calm\":1,\"presence\":0,\"serial\":0,\"source\":{\"x\":-914.7,\"y\":3117.57},\"ripples\":[{\"x\":-1107.56,\"y\":3004.23,\"age\":4.8,\"touched\":0,\"opacity\":0},{\"x\":-1107.56,\"y\":3004.23,\"age\":4.8,\"touched\":0,\"opacity\":0},{\"x\":-1107.56,\"y\":3004.23,\"age\":4.8,\"touched\":0,\"opacity\":0},{\"x\":-1107.56,\"y\":3004.23,\"age\":4.8,\"touched\":0,\"opacity\":0}],\"petals\":[{\"x\":-1305,\"y\":3130,\"rotation\":0.7,\"lift\":0,\"speed\":0},{\"x\":-1020,\"y\":3238,\"rotation\":2.4,\"lift\":0,\"speed\":0},{\"x\":-1104,\"y\":3076,\"rotation\":1.5,\"lift\":0,\"speed\":0}]}"
+        }
+      ],
+      "dialogs": [
+        {
+          "clientHeight": 605,
+          "height": 607.390625,
+          "scrollHeight": 605,
+          "width": 510
+        }
+      ],
+      "main": {
+        "actorX": "739.109260",
+        "actorY": "2037.309287",
+        "artVersion": "floof-clearing-v1",
+        "atlasPulse": "",
+        "cameraX": "1323.512177",
+        "cameraY": "2320.000000",
+        "cameraZoom": "1.180000",
+        "discovered": "puzzle,music",
+        "entered": "true",
+        "envelopeStored": "true",
+        "giftUnlocked": "false",
+        "headingX": "0.706085",
+        "headingY": "0.708127",
+        "lastDrawId": "b6f4a68f-b246-4879-9e71-eff33e44776e:1",
+        "lastSongId": "6",
+        "motionVersion": "point-to-walk-v1",
+        "moving": "false",
+        "progressMode": "walk",
+        "puzzleSolved": "true",
+        "puzzleVersion": "computer-knowledge-v1",
+        "questionsSolved": "4",
+        "region": "orchard",
+        "renderer": "webgl",
+        "sleepMaskFound": "false",
+        "sound": "off",
+        "storageStatus": "saved",
+        "view": "music",
+        "visited": "entry,lantern,orchard",
+        "walkId": "e80579e5-21a6-40cc-b89f-e700c979f3f7",
+        "worldEvents": "trail-lantern-awake,orchard-petals"
+      },
+      "viewport": {
+        "height": 720,
+        "width": 1280
+      }
+    }
+  },
+  {
+    "label": "14-music-refresh",
+    "data": {
+      "canvas": [],
+      "dialogs": [
+        {
+          "clientHeight": 578,
+          "height": 580.34375,
+          "scrollHeight": 578,
+          "width": 510
+        }
+      ],
+      "main": {
+        "actorX": "739.109260",
+        "actorY": "2037.309287",
+        "artVersion": "floof-clearing-v1",
+        "atlasPulse": "",
+        "cameraX": "1323.512177",
+        "cameraY": "2320.000000",
+        "cameraZoom": "1.180000",
+        "discovered": "",
+        "entered": "true",
+        "envelopeStored": "true",
+        "giftUnlocked": "false",
+        "headingX": "0.706085",
+        "headingY": "0.708127",
+        "lastDrawId": "9ddd7bb5-f944-4988-a59e-cf0ea120d06c:2",
+        "lastSongId": "7",
+        "motionVersion": "point-to-walk-v1",
+        "moving": "false",
+        "progressMode": "walk",
+        "puzzleSolved": "true",
+        "puzzleVersion": "computer-knowledge-v1",
+        "questionsSolved": "4",
+        "region": "orchard",
+        "renderer": "static",
+        "sleepMaskFound": "false",
+        "sound": "off",
+        "storageStatus": "saved",
+        "view": "music",
+        "visited": "entry",
+        "walkId": "e80579e5-21a6-40cc-b89f-e700c979f3f7",
+        "worldEvents": ""
+      },
+      "viewport": {
+        "height": 720,
+        "width": 1280
+      }
+    }
+  },
+  {
+    "label": "15-music-return",
+    "data": {
+      "canvas": [
+        {
+          "chimeListening": "{\"engaged\":false,\"quiet\":0,\"travel\":0,\"responseAge\":-1,\"responseStrength\":1,\"side\":1,\"bellAngle\":-0.005,\"paperAngle\":0.004,\"noteSerial\":0}",
+          "engine": "three.js r180",
+          "moonClearing": "{\"phase\":0,\"age\":-1,\"completed\":false,\"armed\":false}",
+          "orangeRest": "{\"phase\":\"idle\",\"elapsed\":0,\"liquid\":0.82,\"completed\":false,\"amount\":0,\"leanX\":0,\"leanY\":0,\"requestCount\":0,\"actor\":{\"x\":739.1092600895677,\"y\":2037.3092872481257},\"origin\":null}",
+          "paperGuide": "{\"leader\":-1,\"met\":false,\"perch\":0,\"target\":0,\"s\":0,\"speed\":0,\"quiet\":0,\"approachTime\":0,\"lift\":4,\"ready\":false,\"finished\":false,\"farewellAge\":-1,\"farewellSide\":1,\"x\":null,\"y\":null,\"opacity\":1,\"departureProgress\":0,\"departed\":false,\"farewellLean\":0,\"leftWingAngle\":0,\"rightWingAngle\":0}",
+          "pondListening": "{\"engaged\":false,\"discovered\":false,\"dream\":{\"phase\":\"dormant\",\"engaged\":false,\"presence\":0,\"playfulness\":0,\"time\":0.05,\"quiet\":0,\"coastStarted\":false,\"reflection\":{\"x\":-1042.721,\"y\":3105.695,\"vx\":0,\"vy\":0},\"target\":{\"x\":-1042.721,\"y\":3105.695},\"trail\":[]},\"secretQuiet\":0,\"secretAge\":-1,\"secretAmount\":0,\"secretSeen\":false,\"quiet\":0,\"calm\":1,\"presence\":0,\"serial\":0,\"source\":{\"x\":-914.7,\"y\":3117.57},\"ripples\":[{\"x\":-914.7,\"y\":3117.57,\"age\":4.8,\"touched\":0,\"opacity\":0},{\"x\":-914.7,\"y\":3117.57,\"age\":4.8,\"touched\":0,\"opacity\":0},{\"x\":-914.7,\"y\":3117.57,\"age\":4.8,\"touched\":0,\"opacity\":0},{\"x\":-914.7,\"y\":3117.57,\"age\":4.8,\"touched\":0,\"opacity\":0}],\"petals\":[{\"x\":-1305,\"y\":3130,\"rotation\":0.7,\"lift\":0,\"speed\":0},{\"x\":-1020,\"y\":3238,\"rotation\":2.4,\"lift\":0,\"speed\":0},{\"x\":-1104,\"y\":3076,\"rotation\":1.5,\"lift\":0,\"speed\":0}]}"
+        }
+      ],
+      "dialogs": [],
+      "main": {
+        "actorX": "739.109260",
+        "actorY": "2037.309287",
+        "artVersion": "floof-clearing-v1",
+        "atlasPulse": "",
+        "cameraX": "736.448707",
+        "cameraY": "2254.641250",
+        "cameraZoom": "1.000000",
+        "discovered": "music",
+        "entered": "true",
+        "envelopeStored": "true",
+        "giftUnlocked": "false",
+        "headingX": "0.706085",
+        "headingY": "0.708127",
+        "lastDrawId": "9ddd7bb5-f944-4988-a59e-cf0ea120d06c:2",
+        "lastSongId": "7",
+        "motionVersion": "point-to-walk-v1",
+        "moving": "false",
+        "progressMode": "walk",
+        "puzzleSolved": "true",
+        "puzzleVersion": "computer-knowledge-v1",
+        "questionsSolved": "4",
+        "region": "orchard",
+        "renderer": "webgl",
+        "sleepMaskFound": "false",
+        "sound": "off",
+        "storageStatus": "saved",
+        "view": "overview",
+        "visited": "entry,orchard",
+        "walkId": "e80579e5-21a6-40cc-b89f-e700c979f3f7",
+        "worldEvents": "orchard-petals"
+      },
+      "viewport": {
+        "height": 720,
+        "width": 1280
+      }
+    }
+  },
+  {
+    "label": "16-pond-approach",
+    "data": {
+      "canvas": [
+        {
+          "chimeListening": "{\"engaged\":false,\"quiet\":0,\"travel\":0,\"responseAge\":-1,\"responseStrength\":1,\"side\":1,\"bellAngle\":0.012,\"paperAngle\":-0.018,\"noteSerial\":0}",
+          "engine": "three.js r180",
+          "floofAttention": "{\"amount\":0,\"directionX\":0,\"directionY\":1,\"leanX\":0,\"leanY\":0,\"puff\":0,\"stretch\":0}",
+          "moonClearing": "{\"phase\":0,\"age\":-1,\"completed\":false,\"armed\":false}",
+          "mushroomState": "{\"focus\":0,\"quiet\":0,\"engaged\":false,\"sequenceTime\":-1,\"order\":[],\"performed\":false,\"lightSide\":1,\"lights\":[{\"x\":0.1,\"y\":0.43,\"opacity\":0,\"radius\":9.1,\"travel\":0},{\"x\":0.1,\"y\":0.43,\"opacity\":0,\"radius\":11,\"travel\":0},{\"x\":0.1,\"y\":0.43,\"opacity\":0,\"radius\":7.0200000000000005,\"travel\":0},{\"x\":0.1,\"y\":0.43,\"opacity\":0,\"radius\":9.75,\"travel\":0},{\"x\":0.1,\"y\":0.43,\"opacity\":0,\"radius\":7.800000000000001,\"travel\":0}],\"warmth\":[0,0,0,0,0],\"opening\":[0,0,0,0,0],\"lean\":[0,0,0,0,0]}",
+          "orangeRest": "{\"phase\":\"idle\",\"elapsed\":0,\"liquid\":0.82,\"completed\":false,\"amount\":0,\"leanX\":0,\"leanY\":0,\"requestCount\":0,\"actor\":{\"x\":-1259.355167637444,\"y\":2840.4812897926377},\"origin\":null}",
+          "paperGuide": "{\"leader\":-1,\"met\":false,\"perch\":0,\"target\":0,\"s\":0,\"speed\":0,\"quiet\":0,\"approachTime\":0,\"lift\":4,\"ready\":false,\"finished\":false,\"farewellAge\":-1,\"farewellSide\":1,\"x\":null,\"y\":null,\"opacity\":1,\"departureProgress\":0,\"departed\":false,\"farewellLean\":0,\"leftWingAngle\":0,\"rightWingAngle\":0}",
+          "pondListening": "{\"engaged\":true,\"discovered\":true,\"dream\":{\"phase\":\"play\",\"engaged\":true,\"presence\":0.944,\"playfulness\":0.938,\"time\":12.546,\"quiet\":0.074,\"coastStarted\":false,\"reflection\":{\"x\":-1182.341,\"y\":3085.145,\"vx\":-103.156,\"vy\":25.789},\"target\":{\"x\":-1237.616,\"y\":3100.544},\"trail\":[{\"x\":-1096.918,\"y\":3079.563,\"age\":0.891,\"strength\":0.55},{\"x\":-1109.105,\"y\":3076.613,\"age\":0.707,\"strength\":0.662},{\"x\":-1121.191,\"y\":3075.705,\"age\":0.566,\"strength\":0.769},{\"x\":-1133.972,\"y\":3076.22,\"age\":0.439,\"strength\":0.851},{\"x\":-1147.056,\"y\":3077.802,\"age\":0.321,\"strength\":0.902},{\"x\":-1158.945,\"y\":3079.878,\"age\":0.216,\"strength\":0.933},{\"x\":-1170.983,\"y\":3082.429,\"age\":0.107,\"strength\":0.954}]},\"secretQuiet\":0,\"secretAge\":-1,\"secretAmount\":0,\"secretSeen\":false,\"quiet\":0,\"calm\":0.001,\"presence\":0.763,\"serial\":2,\"source\":{\"x\":-1220.02,\"y\":2996.26},\"ripples\":[{\"x\":-1006.71,\"y\":3039.21,\"age\":2.01,\"touched\":4,\"opacity\":0.135},{\"x\":-1148.81,\"y\":2997.79,\"age\":0.76,\"touched\":0,\"opacity\":0.289},{\"x\":-914.7,\"y\":3117.57,\"age\":4.8,\"touched\":0,\"opacity\":0},{\"x\":-914.7,\"y\":3117.57,\"age\":4.8,\"touched\":0,\"opacity\":0}],\"petals\":[{\"x\":-1305,\"y\":3130,\"rotation\":0.7,\"lift\":0,\"speed\":0},{\"x\":-1020,\"y\":3238,\"rotation\":2.4,\"lift\":0,\"speed\":0},{\"x\":-1107.79,\"y\":3077.43,\"rotation\":1.656,\"lift\":0.391,\"speed\":1.353}]}"
+        }
+      ],
+      "dialogs": [],
+      "main": {
+        "actorX": "-1259.355168",
+        "actorY": "2840.481290",
+        "artVersion": "floof-clearing-v1",
+        "atlasPulse": "",
+        "cameraX": "-1255.596068",
+        "cameraY": "3060.516998",
+        "cameraZoom": "1.000000",
+        "discovered": "music",
+        "entered": "true",
+        "envelopeStored": "true",
+        "giftUnlocked": "false",
+        "headingX": "-0.999999",
+        "headingY": "0.001444",
+        "lastDrawId": "9ddd7bb5-f944-4988-a59e-cf0ea120d06c:2",
+        "lastSongId": "7",
+        "motionVersion": "point-to-walk-v1",
+        "moving": "false",
+        "progressMode": "walk",
+        "puzzleSolved": "true",
+        "puzzleVersion": "computer-knowledge-v1",
+        "questionsSolved": "4",
+        "region": "pond",
+        "renderer": "webgl",
+        "sleepMaskFound": "false",
+        "sound": "off",
+        "storageStatus": "saved",
+        "view": "overview",
+        "visited": "entry,orchard,pond",
+        "walkId": "e80579e5-21a6-40cc-b89f-e700c979f3f7",
+        "worldEvents": "orchard-petals,pond-lilies"
+      },
+      "viewport": {
+        "height": 720,
+        "width": 1280
+      }
+    }
+  },
+  {
+    "label": "17-pond-pause",
+    "data": {
+      "canvas": [
+        {
+          "chimeListening": "{\"engaged\":false,\"quiet\":0,\"travel\":0,\"responseAge\":-1,\"responseStrength\":1,\"side\":1,\"bellAngle\":-0.004,\"paperAngle\":-0.014,\"noteSerial\":0}",
+          "engine": "three.js r180",
+          "floofAttention": "{\"amount\":0,\"directionX\":0,\"directionY\":1,\"leanX\":0,\"leanY\":0,\"puff\":0,\"stretch\":0}",
+          "moonClearing": "{\"phase\":0,\"age\":-1,\"completed\":false,\"armed\":false}",
+          "mushroomState": "{\"focus\":0,\"quiet\":0,\"engaged\":false,\"sequenceTime\":-1,\"order\":[],\"performed\":false,\"lightSide\":1,\"lights\":[{\"x\":0.1,\"y\":0.43,\"opacity\":0,\"radius\":9.1,\"travel\":0},{\"x\":0.1,\"y\":0.43,\"opacity\":0,\"radius\":11,\"travel\":0},{\"x\":0.1,\"y\":0.43,\"opacity\":0,\"radius\":7.0200000000000005,\"travel\":0},{\"x\":0.1,\"y\":0.43,\"opacity\":0,\"radius\":9.75,\"travel\":0},{\"x\":0.1,\"y\":0.43,\"opacity\":0,\"radius\":7.800000000000001,\"travel\":0}],\"warmth\":[0,0,0,0,0],\"opening\":[0,0,0,0,0],\"lean\":[0,0,0,0,0]}",
+          "orangeRest": "{\"phase\":\"idle\",\"elapsed\":0,\"liquid\":0.82,\"completed\":false,\"amount\":0,\"leanX\":0,\"leanY\":0,\"requestCount\":0,\"actor\":{\"x\":-1281.1145940982756,\"y\":2915.4597749365253},\"origin\":null}",
+          "paperGuide": "{\"leader\":-1,\"met\":false,\"perch\":0,\"target\":0,\"s\":0,\"speed\":0,\"quiet\":0,\"approachTime\":0,\"lift\":4,\"ready\":false,\"finished\":false,\"farewellAge\":-1,\"farewellSide\":1,\"x\":null,\"y\":null,\"opacity\":1,\"departureProgress\":0,\"departed\":false,\"farewellLean\":0,\"leftWingAngle\":0,\"rightWingAngle\":0}",
+          "pondListening": "{\"engaged\":true,\"discovered\":true,\"dream\":{\"phase\":\"play\",\"engaged\":true,\"presence\":0.991,\"playfulness\":1,\"time\":19.722,\"quiet\":0.125,\"coastStarted\":true,\"reflection\":{\"x\":-1270.556,\"y\":3105.897,\"vx\":11.167,\"vy\":11.322},\"target\":{\"x\":-1364.502,\"y\":3154.203},\"trail\":[{\"x\":-1109.105,\"y\":3076.613,\"age\":7.883,\"strength\":0.662},{\"x\":-1121.191,\"y\":3075.705,\"age\":7.741,\"strength\":0.769},{\"x\":-1133.972,\"y\":3076.22,\"age\":7.615,\"strength\":0.851},{\"x\":-1147.056,\"y\":3077.802,\"age\":7.496,\"strength\":0.902},{\"x\":-1158.945,\"y\":3079.878,\"age\":7.391,\"strength\":0.933},{\"x\":-1170.983,\"y\":3082.429,\"age\":7.283,\"strength\":0.954},{\"x\":-1183.247,\"y\":3085.372,\"age\":7.167,\"strength\":0.97},{\"x\":-1195.528,\"y\":3088.087,\"age\":7.058,\"strength\":0.98},{\"x\":-1208.147,\"y\":3090.016,\"age\":6.969,\"strength\":0.985},{\"x\":-1220.728,\"y\":3091.601,\"age\":6.883,\"strength\":0.989},{\"x\":-1233.582,\"y\":3093.025,\"age\":6.791,\"strength\":0.992},{\"x\":-1246.108,\"y\":3094.284,\"age\":6.691,\"strength\":0.994},{\"x\":-1258.392,\"y\":3095.424,\"age\":6.575,\"strength\":0.996},{\"x\":-1270.748,\"y\":3096.494,\"age\":6.424,\"strength\":0.998},{\"x\":-1282.726,\"y\":3097.464,\"age\":6.208,\"strength\":0.999},{\"x\":-1294.765,\"y\":3098.369,\"age\":5.703,\"strength\":1},{\"x\":-1283.22,\"y\":3102.514,\"age\":0.375,\"strength\":1},{\"x\":-1271.436,\"y\":3105.576,\"age\":0.042,\"strength\":1}]},\"secretQuiet\":0,\"secretAge\":-1,\"secretAmount\":0.001,\"secretSeen\":true,\"quiet\":0,\"calm\":0.121,\"presence\":0.925,\"serial\":3,\"source\":{\"x\":-1258.78,\"y\":2998.71},\"ripples\":[{\"x\":-1243.27,\"y\":2996.99,\"age\":0.67,\"touched\":0,\"opacity\":0.22},{\"x\":-1148.81,\"y\":2997.79,\"age\":4.8,\"touched\":7,\"opacity\":0},{\"x\":-914.7,\"y\":3117.57,\"age\":4.8,\"touched\":0,\"opacity\":0},{\"x\":-914.7,\"y\":3117.57,\"age\":4.8,\"touched\":0,\"opacity\":0}],\"petals\":[{\"x\":-1305.08,\"y\":3130.06,\"rotation\":0.714,\"lift\":0,\"speed\":0.127},{\"x\":-1019.91,\"y\":3238.18,\"rotation\":2.385,\"lift\":0,\"speed\":0.243},{\"x\":-1104,\"y\":3076.01,\"rotation\":1.502,\"lift\":0,\"speed\":0.015}]}"
+        }
+      ],
+      "dialogs": [],
+      "main": {
+        "actorX": "-1281.114594",
+        "actorY": "2915.459775",
+        "artVersion": "floof-clearing-v1",
+        "atlasPulse": "",
+        "cameraX": "-1286.470307",
+        "cameraY": "3099.610366",
+        "cameraZoom": "1.000000",
+        "discovered": "music",
+        "entered": "true",
+        "envelopeStored": "true",
+        "giftUnlocked": "false",
+        "headingX": "-0.020857",
+        "headingY": "0.999782",
+        "lastDrawId": "9ddd7bb5-f944-4988-a59e-cf0ea120d06c:2",
+        "lastSongId": "7",
+        "motionVersion": "point-to-walk-v1",
+        "moving": "false",
+        "progressMode": "walk",
+        "puzzleSolved": "true",
+        "puzzleVersion": "computer-knowledge-v1",
+        "questionsSolved": "4",
+        "region": "pond",
+        "renderer": "webgl",
+        "sleepMaskFound": "false",
+        "sound": "off",
+        "storageStatus": "saved",
+        "view": "overview",
+        "visited": "entry,orchard,pond",
+        "walkId": "e80579e5-21a6-40cc-b89f-e700c979f3f7",
+        "worldEvents": "orchard-petals,pond-lilies"
+      },
+      "viewport": {
+        "height": 793,
+        "width": 319
+      }
+    }
+  },
+  {
+    "label": "18-pond-reflection-desktop",
+    "data": {
+      "canvas": [
+        {
+          "chimeListening": "{\"engaged\":false,\"quiet\":0,\"travel\":0,\"responseAge\":-1,\"responseStrength\":1,\"side\":1,\"bellAngle\":-0.01,\"paperAngle\":0.017,\"noteSerial\":0}",
+          "engine": "three.js r180",
+          "floofAttention": "{\"amount\":0,\"directionX\":0,\"directionY\":1,\"leanX\":0,\"leanY\":0,\"puff\":0,\"stretch\":0}",
+          "moonClearing": "{\"phase\":0,\"age\":-1,\"completed\":false,\"armed\":false}",
+          "mushroomState": "{\"focus\":0,\"quiet\":0,\"engaged\":false,\"sequenceTime\":-1,\"order\":[],\"performed\":false,\"lightSide\":1,\"lights\":[{\"x\":0.1,\"y\":0.43,\"opacity\":0,\"radius\":9.1,\"travel\":0},{\"x\":0.1,\"y\":0.43,\"opacity\":0,\"radius\":11,\"travel\":0},{\"x\":0.1,\"y\":0.43,\"opacity\":0,\"radius\":7.0200000000000005,\"travel\":0},{\"x\":0.1,\"y\":0.43,\"opacity\":0,\"radius\":9.75,\"travel\":0},{\"x\":0.1,\"y\":0.43,\"opacity\":0,\"radius\":7.800000000000001,\"travel\":0}],\"warmth\":[0,0,0,0,0],\"opening\":[0,0,0,0,0],\"lean\":[0,0,0,0,0]}",
+          "orangeRest": "{\"phase\":\"idle\",\"elapsed\":0,\"liquid\":0.82,\"completed\":false,\"amount\":0,\"leanX\":0,\"leanY\":0,\"requestCount\":0,\"actor\":{\"x\":-1281.1145940982756,\"y\":2915.4597749365253},\"origin\":null}",
+          "paperGuide": "{\"leader\":-1,\"met\":false,\"perch\":0,\"target\":0,\"s\":0,\"speed\":0,\"quiet\":0,\"approachTime\":0,\"lift\":4,\"ready\":false,\"finished\":false,\"farewellAge\":-1,\"farewellSide\":1,\"x\":null,\"y\":null,\"opacity\":1,\"departureProgress\":0,\"departed\":false,\"farewellLean\":0,\"leftWingAngle\":0,\"rightWingAngle\":0}",
+          "pondListening": "{\"engaged\":true,\"discovered\":true,\"dream\":{\"phase\":\"rest\",\"engaged\":true,\"presence\":1,\"playfulness\":1,\"time\":38.596,\"quiet\":19,\"coastStarted\":true,\"reflection\":{\"x\":-1364.501,\"y\":3154.202,\"vx\":0,\"vy\":0},\"target\":{\"x\":-1364.502,\"y\":3154.203},\"trail\":[]},\"secretQuiet\":12,\"secretAge\":-1,\"secretAmount\":0,\"secretSeen\":true,\"quiet\":12,\"calm\":1,\"presence\":1,\"serial\":3,\"source\":{\"x\":-1262.17,\"y\":2999.12},\"ripples\":[{\"x\":-1243.27,\"y\":2996.99,\"age\":4.8,\"touched\":7,\"opacity\":0},{\"x\":-1148.81,\"y\":2997.79,\"age\":4.8,\"touched\":7,\"opacity\":0},{\"x\":-914.7,\"y\":3117.57,\"age\":4.8,\"touched\":0,\"opacity\":0},{\"x\":-914.7,\"y\":3117.57,\"age\":4.8,\"touched\":0,\"opacity\":0}],\"petals\":[{\"x\":-1305,\"y\":3130,\"rotation\":0.7,\"lift\":0,\"speed\":0},{\"x\":-1020,\"y\":3238,\"rotation\":2.4,\"lift\":0,\"speed\":0},{\"x\":-1104,\"y\":3076,\"rotation\":1.5,\"lift\":0,\"speed\":0}]}"
+        }
+      ],
+      "dialogs": [],
+      "main": {
+        "actorX": "-1281.114594",
+        "actorY": "2915.459775",
+        "artVersion": "floof-clearing-v1",
+        "atlasPulse": "",
+        "cameraX": "-1286.470307",
+        "cameraY": "3099.610366",
+        "cameraZoom": "1.000000",
+        "discovered": "music",
+        "entered": "true",
+        "envelopeStored": "true",
+        "giftUnlocked": "false",
+        "headingX": "-0.020857",
+        "headingY": "0.999782",
+        "lastDrawId": "9ddd7bb5-f944-4988-a59e-cf0ea120d06c:2",
+        "lastSongId": "7",
+        "motionVersion": "point-to-walk-v1",
+        "moving": "false",
+        "progressMode": "walk",
+        "puzzleSolved": "true",
+        "puzzleVersion": "computer-knowledge-v1",
+        "questionsSolved": "4",
+        "region": "pond",
+        "renderer": "webgl",
+        "sleepMaskFound": "false",
+        "sound": "off",
+        "storageStatus": "saved",
+        "view": "overview",
+        "visited": "entry,orchard,pond",
+        "walkId": "e80579e5-21a6-40cc-b89f-e700c979f3f7",
+        "worldEvents": "orchard-petals,pond-lilies"
+      },
+      "viewport": {
+        "height": 800,
+        "width": 1280
+      }
+    }
+  },
+  {
+    "label": "19-rest-approach",
+    "data": {
+      "canvas": [
+        {
+          "chimeListening": "{\"engaged\":false,\"quiet\":0,\"travel\":0,\"responseAge\":-1,\"responseStrength\":1,\"side\":1,\"bellAngle\":0.018,\"paperAngle\":-0.002,\"noteSerial\":0}",
+          "engine": "three.js r180",
+          "floofAttention": "{\"amount\":0,\"directionX\":0,\"directionY\":1,\"leanX\":0,\"leanY\":0,\"puff\":0,\"stretch\":0}",
+          "moonClearing": "{\"phase\":0,\"age\":-1,\"completed\":false,\"armed\":false}",
+          "mushroomState": "{\"focus\":0,\"quiet\":0,\"engaged\":false,\"sequenceTime\":-1,\"order\":[],\"performed\":false,\"lightSide\":1,\"lights\":[{\"x\":0.1,\"y\":0.43,\"opacity\":0,\"radius\":9.1,\"travel\":0},{\"x\":0.1,\"y\":0.43,\"opacity\":0,\"radius\":11,\"travel\":0},{\"x\":0.1,\"y\":0.43,\"opacity\":0,\"radius\":7.0200000000000005,\"travel\":0},{\"x\":0.1,\"y\":0.43,\"opacity\":0,\"radius\":9.75,\"travel\":0},{\"x\":0.1,\"y\":0.43,\"opacity\":0,\"radius\":7.800000000000001,\"travel\":0}],\"warmth\":[0,0,0,0,0],\"opening\":[0,0,0,0,0],\"lean\":[0,0,0,0,0]}",
+          "orangeRest": "{\"phase\":\"idle\",\"elapsed\":0,\"liquid\":0.82,\"completed\":false,\"amount\":0,\"leanX\":0,\"leanY\":0,\"requestCount\":0,\"actor\":{\"x\":389.22751489761407,\"y\":3869.4821635982935},\"origin\":null}",
+          "paperGuide": "{\"leader\":-1,\"met\":false,\"perch\":0,\"target\":0,\"s\":0,\"speed\":0,\"quiet\":0,\"approachTime\":0,\"lift\":4,\"ready\":false,\"finished\":false,\"farewellAge\":-1,\"farewellSide\":1,\"x\":null,\"y\":null,\"opacity\":1,\"departureProgress\":0,\"departed\":false,\"farewellLean\":0,\"leftWingAngle\":0,\"rightWingAngle\":0}",
+          "pondListening": "{\"engaged\":false,\"discovered\":true,\"dream\":{\"phase\":\"dormant\",\"engaged\":false,\"presence\":0,\"playfulness\":0,\"time\":64.213,\"quiet\":0,\"coastStarted\":false,\"reflection\":{\"x\":-1322.908,\"y\":3142.365,\"vx\":0,\"vy\":0},\"target\":{\"x\":-1322.908,\"y\":3142.365},\"trail\":[]},\"secretQuiet\":0,\"secretAge\":-1,\"secretAmount\":0,\"secretSeen\":true,\"quiet\":0,\"calm\":1,\"presence\":0,\"serial\":5,\"source\":{\"x\":-901.93,\"y\":3259.65},\"ripples\":[{\"x\":-1269.3,\"y\":3000.13,\"age\":4.8,\"touched\":7,\"opacity\":0},{\"x\":-1417.31,\"y\":3053.08,\"age\":4.8,\"touched\":5,\"opacity\":0},{\"x\":-914.7,\"y\":3117.57,\"age\":4.8,\"touched\":0,\"opacity\":0},{\"x\":-914.7,\"y\":3117.57,\"age\":4.8,\"touched\":0,\"opacity\":0}],\"petals\":[{\"x\":-1305,\"y\":3130,\"rotation\":0.7,\"lift\":0,\"speed\":0},{\"x\":-1020,\"y\":3238,\"rotation\":2.4,\"lift\":0,\"speed\":0},{\"x\":-1104,\"y\":3076,\"rotation\":1.5,\"lift\":0,\"speed\":0}]}"
+        }
+      ],
+      "dialogs": [],
+      "main": {
+        "actorX": "389.227515",
+        "actorY": "3869.482164",
+        "artVersion": "floof-clearing-v1",
+        "atlasPulse": "",
+        "cameraX": "400.392616",
+        "cameraY": "4058.118658",
+        "cameraZoom": "1.000000",
+        "discovered": "music",
+        "entered": "true",
+        "envelopeStored": "true",
+        "giftUnlocked": "false",
+        "headingX": "0.001627",
+        "headingY": "0.999999",
+        "lastDrawId": "9ddd7bb5-f944-4988-a59e-cf0ea120d06c:2",
+        "lastSongId": "7",
+        "motionVersion": "point-to-walk-v1",
+        "moving": "false",
+        "progressMode": "walk",
+        "puzzleSolved": "true",
+        "puzzleVersion": "computer-knowledge-v1",
+        "questionsSolved": "4",
+        "region": "hollow",
+        "renderer": "webgl",
+        "sleepMaskFound": "false",
+        "sound": "off",
+        "storageStatus": "saved",
+        "view": "overview",
+        "visited": "entry,orchard,pond",
+        "walkId": "e80579e5-21a6-40cc-b89f-e700c979f3f7",
+        "worldEvents": "orchard-petals,pond-lilies"
+      },
+      "viewport": {
+        "height": 800,
+        "width": 1280
+      }
+    }
+  },
+  {
+    "label": "20-drink-near",
+    "data": {
+      "canvas": [
+        {
+          "chimeListening": "{\"engaged\":false,\"quiet\":0,\"travel\":0,\"responseAge\":-1,\"responseStrength\":1,\"side\":1,\"bellAngle\":0.01,\"paperAngle\":-0.005,\"noteSerial\":0}",
+          "engine": "three.js r180",
+          "floofAttention": "{\"amount\":0,\"directionX\":0,\"directionY\":1,\"leanX\":0,\"leanY\":0,\"puff\":0,\"stretch\":0}",
+          "moonClearing": "{\"phase\":0,\"age\":-1,\"completed\":false,\"armed\":false}",
+          "mushroomState": "{\"focus\":0,\"quiet\":0,\"engaged\":false,\"sequenceTime\":-1,\"order\":[],\"performed\":false,\"lightSide\":1,\"lights\":[{\"x\":0.1,\"y\":0.43,\"opacity\":0,\"radius\":9.1,\"travel\":0},{\"x\":0.1,\"y\":0.43,\"opacity\":0,\"radius\":11,\"travel\":0},{\"x\":0.1,\"y\":0.43,\"opacity\":0,\"radius\":7.0200000000000005,\"travel\":0},{\"x\":0.1,\"y\":0.43,\"opacity\":0,\"radius\":9.75,\"travel\":0},{\"x\":0.1,\"y\":0.43,\"opacity\":0,\"radius\":7.800000000000001,\"travel\":0}],\"warmth\":[0,0,0,0,0],\"opening\":[0,0,0,0,0],\"lean\":[0,0,0,0,0]}",
+          "orangeRest": "{\"phase\":\"idle\",\"elapsed\":0,\"liquid\":0.82,\"completed\":false,\"amount\":0,\"leanX\":0,\"leanY\":0,\"requestCount\":0,\"actor\":{\"x\":341.3298051187686,\"y\":3887.917221966265},\"origin\":null}",
+          "paperGuide": "{\"leader\":-1,\"met\":false,\"perch\":0,\"target\":0,\"s\":0,\"speed\":0,\"quiet\":0,\"approachTime\":0,\"lift\":4,\"ready\":false,\"finished\":false,\"farewellAge\":-1,\"farewellSide\":1,\"x\":null,\"y\":null,\"opacity\":1,\"departureProgress\":0,\"departed\":false,\"farewellLean\":0,\"leftWingAngle\":0,\"rightWingAngle\":0}",
+          "pondListening": "{\"engaged\":false,\"discovered\":true,\"dream\":{\"phase\":\"dormant\",\"engaged\":false,\"presence\":0,\"playfulness\":0,\"time\":72.214,\"quiet\":0,\"coastStarted\":false,\"reflection\":{\"x\":-1322.908,\"y\":3142.365,\"vx\":0,\"vy\":0},\"target\":{\"x\":-1322.908,\"y\":3142.365},\"trail\":[]},\"secretQuiet\":0,\"secretAge\":-1,\"secretAmount\":0,\"secretSeen\":true,\"quiet\":0,\"calm\":1,\"presence\":0,\"serial\":5,\"source\":{\"x\":-904.38,\"y\":3264.8},\"ripples\":[{\"x\":-1269.3,\"y\":3000.13,\"age\":4.8,\"touched\":7,\"opacity\":0},{\"x\":-1417.31,\"y\":3053.08,\"age\":4.8,\"touched\":5,\"opacity\":0},{\"x\":-914.7,\"y\":3117.57,\"age\":4.8,\"touched\":0,\"opacity\":0},{\"x\":-914.7,\"y\":3117.57,\"age\":4.8,\"touched\":0,\"opacity\":0}],\"petals\":[{\"x\":-1305,\"y\":3130,\"rotation\":0.7,\"lift\":0,\"speed\":0},{\"x\":-1020,\"y\":3238,\"rotation\":2.4,\"lift\":0,\"speed\":0},{\"x\":-1104,\"y\":3076,\"rotation\":1.5,\"lift\":0,\"speed\":0}]}"
+        }
+      ],
+      "dialogs": [],
+      "main": {
+        "actorX": "341.329805",
+        "actorY": "3887.917222",
+        "artVersion": "floof-clearing-v1",
+        "atlasPulse": "",
+        "cameraX": "384.316969",
+        "cameraY": "4092.229974",
+        "cameraZoom": "1.000000",
+        "discovered": "music",
+        "entered": "true",
+        "envelopeStored": "true",
+        "giftUnlocked": "false",
+        "headingX": "-0.995555",
+        "headingY": "0.094181",
+        "lastDrawId": "9ddd7bb5-f944-4988-a59e-cf0ea120d06c:2",
+        "lastSongId": "7",
+        "motionVersion": "point-to-walk-v1",
+        "moving": "false",
+        "progressMode": "walk",
+        "puzzleSolved": "true",
+        "puzzleVersion": "computer-knowledge-v1",
+        "questionsSolved": "4",
+        "region": "hollow",
+        "renderer": "webgl",
+        "sleepMaskFound": "false",
+        "sound": "off",
+        "storageStatus": "saved",
+        "view": "overview",
+        "visited": "entry,orchard,pond",
+        "walkId": "e80579e5-21a6-40cc-b89f-e700c979f3f7",
+        "worldEvents": "orchard-petals,pond-lilies"
+      },
+      "viewport": {
+        "height": 800,
+        "width": 1280
+      }
+    }
+  },
+  {
+    "label": "21-orange-sip",
+    "data": {
+      "canvas": [
+        {
+          "chimeListening": "{\"engaged\":false,\"quiet\":0,\"travel\":0,\"responseAge\":-1,\"responseStrength\":1,\"side\":1,\"bellAngle\":-0.003,\"paperAngle\":0.016,\"noteSerial\":0}",
+          "engine": "three.js r180",
+          "floofAttention": "{\"amount\":0,\"directionX\":0,\"directionY\":1,\"leanX\":0,\"leanY\":0,\"puff\":0,\"stretch\":0}",
+          "moonClearing": "{\"phase\":0,\"age\":-1,\"completed\":false,\"armed\":false}",
+          "mushroomState": "{\"focus\":0,\"quiet\":0,\"engaged\":false,\"sequenceTime\":-1,\"order\":[],\"performed\":false,\"lightSide\":1,\"lights\":[{\"x\":0.1,\"y\":0.43,\"opacity\":0,\"radius\":9.1,\"travel\":0},{\"x\":0.1,\"y\":0.43,\"opacity\":0,\"radius\":11,\"travel\":0},{\"x\":0.1,\"y\":0.43,\"opacity\":0,\"radius\":7.0200000000000005,\"travel\":0},{\"x\":0.1,\"y\":0.43,\"opacity\":0,\"radius\":9.75,\"travel\":0},{\"x\":0.1,\"y\":0.43,\"opacity\":0,\"radius\":7.800000000000001,\"travel\":0}],\"warmth\":[0,0,0,0,0],\"opening\":[0,0,0,0,0],\"lean\":[0,0,0,0,0]}",
+          "orangeRest": "{\"phase\":\"lean\",\"elapsed\":0.1588,\"liquid\":0.82,\"completed\":false,\"amount\":0.2857,\"leanX\":-0.237,\"leanY\":7.996,\"requestCount\":1,\"actor\":{\"x\":341.3298051187686,\"y\":3887.917221966265},\"origin\":{\"x\":341.3298051187686,\"y\":3887.917221966265}}",
+          "paperGuide": "{\"leader\":-1,\"met\":false,\"perch\":0,\"target\":0,\"s\":0,\"speed\":0,\"quiet\":0,\"approachTime\":0,\"lift\":4,\"ready\":false,\"finished\":false,\"farewellAge\":-1,\"farewellSide\":1,\"x\":null,\"y\":null,\"opacity\":1,\"departureProgress\":0,\"departed\":false,\"farewellLean\":0,\"leftWingAngle\":0,\"rightWingAngle\":0}",
+          "pondListening": "{\"engaged\":false,\"discovered\":true,\"dream\":{\"phase\":\"dormant\",\"engaged\":false,\"presence\":0,\"playfulness\":0,\"time\":77.464,\"quiet\":0,\"coastStarted\":false,\"reflection\":{\"x\":-1322.908,\"y\":3142.365,\"vx\":0,\"vy\":0},\"target\":{\"x\":-1322.908,\"y\":3142.365},\"trail\":[]},\"secretQuiet\":0,\"secretAge\":-1,\"secretAmount\":0,\"secretSeen\":true,\"quiet\":0,\"calm\":1,\"presence\":0,\"serial\":5,\"source\":{\"x\":-904.85,\"y\":3265.72},\"ripples\":[{\"x\":-1269.3,\"y\":3000.13,\"age\":4.8,\"touched\":7,\"opacity\":0},{\"x\":-1417.31,\"y\":3053.08,\"age\":4.8,\"touched\":5,\"opacity\":0},{\"x\":-914.7,\"y\":3117.57,\"age\":4.8,\"touched\":0,\"opacity\":0},{\"x\":-914.7,\"y\":3117.57,\"age\":4.8,\"touched\":0,\"opacity\":0}],\"petals\":[{\"x\":-1305,\"y\":3130,\"rotation\":0.7,\"lift\":0,\"speed\":0},{\"x\":-1020,\"y\":3238,\"rotation\":2.4,\"lift\":0,\"speed\":0},{\"x\":-1104,\"y\":3076,\"rotation\":1.5,\"lift\":0,\"speed\":0}]}"
+        }
+      ],
+      "dialogs": [],
+      "main": {
+        "actorX": "341.329805",
+        "actorY": "3887.917222",
+        "artVersion": "floof-clearing-v1",
+        "atlasPulse": "",
+        "cameraX": "384.316969",
+        "cameraY": "4092.229974",
+        "cameraZoom": "1.000000",
+        "discovered": "music",
+        "entered": "true",
+        "envelopeStored": "true",
+        "giftUnlocked": "false",
+        "headingX": "-0.995555",
+        "headingY": "0.094181",
+        "lastDrawId": "9ddd7bb5-f944-4988-a59e-cf0ea120d06c:2",
+        "lastSongId": "7",
+        "motionVersion": "point-to-walk-v1",
+        "moving": "false",
+        "progressMode": "walk",
+        "puzzleSolved": "true",
+        "puzzleVersion": "computer-knowledge-v1",
+        "questionsSolved": "4",
+        "region": "hollow",
+        "renderer": "webgl",
+        "sleepMaskFound": "false",
+        "sound": "off",
+        "storageStatus": "saved",
+        "view": "overview",
+        "visited": "entry,orchard,pond",
+        "walkId": "e80579e5-21a6-40cc-b89f-e700c979f3f7",
+        "worldEvents": "orchard-petals,pond-lilies"
+      },
+      "viewport": {
+        "height": 800,
+        "width": 1280
+      }
+    }
+  },
+  {
+    "label": "22-rest-opening",
+    "data": {
+      "canvas": [
+        {
+          "chimeListening": "{\"engaged\":false,\"quiet\":0,\"travel\":0,\"responseAge\":-1,\"responseStrength\":1,\"side\":1,\"bellAngle\":-0.003,\"paperAngle\":0.016,\"noteSerial\":0}",
+          "engine": "three.js r180",
+          "floofAttention": "{\"amount\":0,\"directionX\":0,\"directionY\":1,\"leanX\":0,\"leanY\":0,\"puff\":0,\"stretch\":0}",
+          "moonClearing": "{\"phase\":0,\"age\":-1,\"completed\":false,\"armed\":false}",
+          "mushroomState": "{\"focus\":0,\"quiet\":0,\"engaged\":false,\"sequenceTime\":-1,\"order\":[],\"performed\":false,\"lightSide\":1,\"lights\":[{\"x\":0.1,\"y\":0.43,\"opacity\":0,\"radius\":9.1,\"travel\":0},{\"x\":0.1,\"y\":0.43,\"opacity\":0,\"radius\":11,\"travel\":0},{\"x\":0.1,\"y\":0.43,\"opacity\":0,\"radius\":7.0200000000000005,\"travel\":0},{\"x\":0.1,\"y\":0.43,\"opacity\":0,\"radius\":9.75,\"travel\":0},{\"x\":0.1,\"y\":0.43,\"opacity\":0,\"radius\":7.800000000000001,\"travel\":0}],\"warmth\":[0,0,0,0,0],\"opening\":[0,0,0,0,0],\"lean\":[0,0,0,0,0]}",
+          "orangeRest": "{\"phase\":\"lean\",\"elapsed\":0.3179,\"liquid\":0.82,\"completed\":false,\"amount\":0.7921,\"leanX\":-0.658,\"leanY\":22.168,\"requestCount\":1,\"actor\":{\"x\":341.3298051187686,\"y\":3887.917221966265},\"origin\":{\"x\":341.3298051187686,\"y\":3887.917221966265}}",
+          "paperGuide": "{\"leader\":-1,\"met\":false,\"perch\":0,\"target\":0,\"s\":0,\"speed\":0,\"quiet\":0,\"approachTime\":0,\"lift\":4,\"ready\":false,\"finished\":false,\"farewellAge\":-1,\"farewellSide\":1,\"x\":null,\"y\":null,\"opacity\":1,\"departureProgress\":0,\"departed\":false,\"farewellLean\":0,\"leftWingAngle\":0,\"rightWingAngle\":0}",
+          "pondListening": "{\"engaged\":false,\"discovered\":true,\"dream\":{\"phase\":\"dormant\",\"engaged\":false,\"presence\":0,\"playfulness\":0,\"time\":77.464,\"quiet\":0,\"coastStarted\":false,\"reflection\":{\"x\":-1322.908,\"y\":3142.365,\"vx\":0,\"vy\":0},\"target\":{\"x\":-1322.908,\"y\":3142.365},\"trail\":[]},\"secretQuiet\":0,\"secretAge\":-1,\"secretAmount\":0,\"secretSeen\":true,\"quiet\":0,\"calm\":1,\"presence\":0,\"serial\":5,\"source\":{\"x\":-904.85,\"y\":3265.72},\"ripples\":[{\"x\":-1269.3,\"y\":3000.13,\"age\":4.8,\"touched\":7,\"opacity\":0},{\"x\":-1417.31,\"y\":3053.08,\"age\":4.8,\"touched\":5,\"opacity\":0},{\"x\":-914.7,\"y\":3117.57,\"age\":4.8,\"touched\":0,\"opacity\":0},{\"x\":-914.7,\"y\":3117.57,\"age\":4.8,\"touched\":0,\"opacity\":0}],\"petals\":[{\"x\":-1305,\"y\":3130,\"rotation\":0.7,\"lift\":0,\"speed\":0},{\"x\":-1020,\"y\":3238,\"rotation\":2.4,\"lift\":0,\"speed\":0},{\"x\":-1104,\"y\":3076,\"rotation\":1.5,\"lift\":0,\"speed\":0}]}"
+        }
+      ],
+      "dialogs": [
+        {
+          "clientHeight": 414,
+          "height": 414,
+          "scrollHeight": 476,
+          "width": 700
+        }
+      ],
+      "main": {
+        "actorX": "341.329805",
+        "actorY": "3887.917222",
+        "artVersion": "floof-clearing-v1",
+        "atlasPulse": "",
+        "cameraX": "384.316969",
+        "cameraY": "4092.229974",
+        "cameraZoom": "1.000000",
+        "discovered": "music",
+        "entered": "true",
+        "envelopeStored": "true",
+        "giftUnlocked": "false",
+        "headingX": "-0.995555",
+        "headingY": "0.094181",
+        "lastDrawId": "9ddd7bb5-f944-4988-a59e-cf0ea120d06c:2",
+        "lastSongId": "7",
+        "motionVersion": "point-to-walk-v1",
+        "moving": "false",
+        "progressMode": "walk",
+        "puzzleSolved": "true",
+        "puzzleVersion": "computer-knowledge-v1",
+        "questionsSolved": "4",
+        "region": "hollow",
+        "renderer": "webgl",
+        "sleepMaskFound": "false",
+        "sound": "off",
+        "storageStatus": "saved",
+        "view": "rest",
+        "visited": "entry,orchard,pond",
+        "walkId": "e80579e5-21a6-40cc-b89f-e700c979f3f7",
+        "worldEvents": "orchard-petals,pond-lilies"
+      },
+      "viewport": {
+        "height": 800,
+        "width": 1280
+      }
+    }
+  },
+  {
+    "label": "23-eye-mask-reveal",
+    "data": {
+      "canvas": [
+        {
+          "chimeListening": "{\"engaged\":false,\"quiet\":0,\"travel\":0,\"responseAge\":-1,\"responseStrength\":1,\"side\":1,\"bellAngle\":-0.003,\"paperAngle\":0.016,\"noteSerial\":0}",
+          "engine": "three.js r180",
+          "floofAttention": "{\"amount\":0,\"directionX\":0,\"directionY\":1,\"leanX\":0,\"leanY\":0,\"puff\":0,\"stretch\":0}",
+          "moonClearing": "{\"phase\":0,\"age\":-1,\"completed\":false,\"armed\":false}",
+          "mushroomState": "{\"focus\":0,\"quiet\":0,\"engaged\":false,\"sequenceTime\":-1,\"order\":[],\"performed\":false,\"lightSide\":1,\"lights\":[{\"x\":0.1,\"y\":0.43,\"opacity\":0,\"radius\":9.1,\"travel\":0},{\"x\":0.1,\"y\":0.43,\"opacity\":0,\"radius\":11,\"travel\":0},{\"x\":0.1,\"y\":0.43,\"opacity\":0,\"radius\":7.0200000000000005,\"travel\":0},{\"x\":0.1,\"y\":0.43,\"opacity\":0,\"radius\":9.75,\"travel\":0},{\"x\":0.1,\"y\":0.43,\"opacity\":0,\"radius\":7.800000000000001,\"travel\":0}],\"warmth\":[0,0,0,0,0],\"opening\":[0,0,0,0,0],\"lean\":[0,0,0,0,0]}",
+          "orangeRest": "{\"phase\":\"lean\",\"elapsed\":0.3179,\"liquid\":0.82,\"completed\":false,\"amount\":0.7921,\"leanX\":-0.658,\"leanY\":22.168,\"requestCount\":1,\"actor\":{\"x\":341.3298051187686,\"y\":3887.917221966265},\"origin\":{\"x\":341.3298051187686,\"y\":3887.917221966265}}",
+          "paperGuide": "{\"leader\":-1,\"met\":false,\"perch\":0,\"target\":0,\"s\":0,\"speed\":0,\"quiet\":0,\"approachTime\":0,\"lift\":4,\"ready\":false,\"finished\":false,\"farewellAge\":-1,\"farewellSide\":1,\"x\":null,\"y\":null,\"opacity\":1,\"departureProgress\":0,\"departed\":false,\"farewellLean\":0,\"leftWingAngle\":0,\"rightWingAngle\":0}",
+          "pondListening": "{\"engaged\":false,\"discovered\":true,\"dream\":{\"phase\":\"dormant\",\"engaged\":false,\"presence\":0,\"playfulness\":0,\"time\":77.464,\"quiet\":0,\"coastStarted\":false,\"reflection\":{\"x\":-1322.908,\"y\":3142.365,\"vx\":0,\"vy\":0},\"target\":{\"x\":-1322.908,\"y\":3142.365},\"trail\":[]},\"secretQuiet\":0,\"secretAge\":-1,\"secretAmount\":0,\"secretSeen\":true,\"quiet\":0,\"calm\":1,\"presence\":0,\"serial\":5,\"source\":{\"x\":-904.85,\"y\":3265.72},\"ripples\":[{\"x\":-1269.3,\"y\":3000.13,\"age\":4.8,\"touched\":7,\"opacity\":0},{\"x\":-1417.31,\"y\":3053.08,\"age\":4.8,\"touched\":5,\"opacity\":0},{\"x\":-914.7,\"y\":3117.57,\"age\":4.8,\"touched\":0,\"opacity\":0},{\"x\":-914.7,\"y\":3117.57,\"age\":4.8,\"touched\":0,\"opacity\":0}],\"petals\":[{\"x\":-1305,\"y\":3130,\"rotation\":0.7,\"lift\":0,\"speed\":0},{\"x\":-1020,\"y\":3238,\"rotation\":2.4,\"lift\":0,\"speed\":0},{\"x\":-1104,\"y\":3076,\"rotation\":1.5,\"lift\":0,\"speed\":0}]}"
+        }
+      ],
+      "dialogs": [
+        {
+          "clientHeight": 414,
+          "height": 414,
+          "scrollHeight": 476,
+          "width": 700
+        }
+      ],
+      "main": {
+        "actorX": "341.329805",
+        "actorY": "3887.917222",
+        "artVersion": "floof-clearing-v1",
+        "atlasPulse": "",
+        "cameraX": "384.316969",
+        "cameraY": "4092.229974",
+        "cameraZoom": "1.000000",
+        "discovered": "music",
+        "entered": "true",
+        "envelopeStored": "true",
+        "giftUnlocked": "false",
+        "headingX": "-0.995555",
+        "headingY": "0.094181",
+        "lastDrawId": "9ddd7bb5-f944-4988-a59e-cf0ea120d06c:2",
+        "lastSongId": "7",
+        "motionVersion": "point-to-walk-v1",
+        "moving": "false",
+        "progressMode": "walk",
+        "puzzleSolved": "true",
+        "puzzleVersion": "computer-knowledge-v1",
+        "questionsSolved": "4",
+        "region": "hollow",
+        "renderer": "webgl",
+        "sleepMaskFound": "true",
+        "sound": "off",
+        "storageStatus": "saved",
+        "view": "rest",
+        "visited": "entry,orchard,pond",
+        "walkId": "e80579e5-21a6-40cc-b89f-e700c979f3f7",
+        "worldEvents": "orchard-petals,pond-lilies"
+      },
+      "viewport": {
+        "height": 800,
+        "width": 1280
+      }
+    }
+  },
+  {
+    "label": "24-rest-return",
+    "data": {
+      "canvas": [
+        {
+          "chimeListening": "{\"engaged\":false,\"quiet\":0,\"travel\":0,\"responseAge\":-1,\"responseStrength\":1,\"side\":1,\"bellAngle\":-0.005,\"paperAngle\":0.015,\"noteSerial\":0}",
+          "engine": "three.js r180",
+          "floofAttention": "{\"amount\":0,\"directionX\":0,\"directionY\":1,\"leanX\":0,\"leanY\":0,\"puff\":0,\"stretch\":0}",
+          "moonClearing": "{\"phase\":0,\"age\":-1,\"completed\":false,\"armed\":false}",
+          "mushroomState": "{\"focus\":0,\"quiet\":0,\"engaged\":false,\"sequenceTime\":-1,\"order\":[],\"performed\":false,\"lightSide\":1,\"lights\":[{\"x\":0.1,\"y\":0.43,\"opacity\":0,\"radius\":9.1,\"travel\":0},{\"x\":0.1,\"y\":0.43,\"opacity\":0,\"radius\":11,\"travel\":0},{\"x\":0.1,\"y\":0.43,\"opacity\":0,\"radius\":7.0200000000000005,\"travel\":0},{\"x\":0.1,\"y\":0.43,\"opacity\":0,\"radius\":9.75,\"travel\":0},{\"x\":0.1,\"y\":0.43,\"opacity\":0,\"radius\":7.800000000000001,\"travel\":0}],\"warmth\":[0,0,0,0,0],\"opening\":[0,0,0,0,0],\"lean\":[0,0,0,0,0]}",
+          "orangeRest": "{\"phase\":\"lean\",\"elapsed\":0.3923,\"liquid\":0.82,\"completed\":false,\"amount\":0.9549,\"leanX\":-0.793,\"leanY\":26.725,\"requestCount\":1,\"actor\":{\"x\":341.3298051187686,\"y\":3887.917221966265},\"origin\":{\"x\":341.3298051187686,\"y\":3887.917221966265}}",
+          "paperGuide": "{\"leader\":-1,\"met\":false,\"perch\":0,\"target\":0,\"s\":0,\"speed\":0,\"quiet\":0,\"approachTime\":0,\"lift\":4,\"ready\":false,\"finished\":false,\"farewellAge\":-1,\"farewellSide\":1,\"x\":null,\"y\":null,\"opacity\":1,\"departureProgress\":0,\"departed\":false,\"farewellLean\":0,\"leftWingAngle\":0,\"rightWingAngle\":0}",
+          "pondListening": "{\"engaged\":false,\"discovered\":true,\"dream\":{\"phase\":\"dormant\",\"engaged\":false,\"presence\":0,\"playfulness\":0,\"time\":77.588,\"quiet\":0,\"coastStarted\":false,\"reflection\":{\"x\":-1322.908,\"y\":3142.365,\"vx\":0,\"vy\":0},\"target\":{\"x\":-1322.908,\"y\":3142.365},\"trail\":[]},\"secretQuiet\":0,\"secretAge\":-1,\"secretAmount\":0,\"secretSeen\":true,\"quiet\":0,\"calm\":1,\"presence\":0,\"serial\":5,\"source\":{\"x\":-904.85,\"y\":3265.72},\"ripples\":[{\"x\":-1269.3,\"y\":3000.13,\"age\":4.8,\"touched\":7,\"opacity\":0},{\"x\":-1417.31,\"y\":3053.08,\"age\":4.8,\"touched\":5,\"opacity\":0},{\"x\":-914.7,\"y\":3117.57,\"age\":4.8,\"touched\":0,\"opacity\":0},{\"x\":-914.7,\"y\":3117.57,\"age\":4.8,\"touched\":0,\"opacity\":0}],\"petals\":[{\"x\":-1305,\"y\":3130,\"rotation\":0.7,\"lift\":0,\"speed\":0},{\"x\":-1020,\"y\":3238,\"rotation\":2.4,\"lift\":0,\"speed\":0},{\"x\":-1104,\"y\":3076,\"rotation\":1.5,\"lift\":0,\"speed\":0}]}"
+        }
+      ],
+      "dialogs": [],
+      "main": {
+        "actorX": "341.329805",
+        "actorY": "3887.917222",
+        "artVersion": "floof-clearing-v1",
+        "atlasPulse": "",
+        "cameraX": "384.316969",
+        "cameraY": "4092.229974",
+        "cameraZoom": "1.000000",
+        "discovered": "music",
+        "entered": "true",
+        "envelopeStored": "true",
+        "giftUnlocked": "false",
+        "headingX": "-0.995555",
+        "headingY": "0.094181",
+        "lastDrawId": "9ddd7bb5-f944-4988-a59e-cf0ea120d06c:2",
+        "lastSongId": "7",
+        "motionVersion": "point-to-walk-v1",
+        "moving": "false",
+        "progressMode": "walk",
+        "puzzleSolved": "true",
+        "puzzleVersion": "computer-knowledge-v1",
+        "questionsSolved": "4",
+        "region": "hollow",
+        "renderer": "webgl",
+        "sleepMaskFound": "true",
+        "sound": "off",
+        "storageStatus": "saved",
+        "view": "overview",
+        "visited": "entry,orchard,pond",
+        "walkId": "e80579e5-21a6-40cc-b89f-e700c979f3f7",
+        "worldEvents": "orchard-petals,pond-lilies"
+      },
+      "viewport": {
+        "height": 800,
+        "width": 1280
+      }
+    }
+  },
+  {
+    "label": "25-mushrooms-approach",
+    "data": {
+      "canvas": [
+        {
+          "chimeListening": "{\"engaged\":false,\"quiet\":0,\"travel\":0,\"responseAge\":-1,\"responseStrength\":1,\"side\":1,\"bellAngle\":0.002,\"paperAngle\":0.008,\"noteSerial\":0}",
+          "engine": "three.js r180",
+          "floofAttention": "{\"amount\":0,\"directionX\":0,\"directionY\":1,\"leanX\":0,\"leanY\":0,\"puff\":0,\"stretch\":0}",
+          "moonClearing": "{\"phase\":0,\"age\":-1,\"completed\":false,\"armed\":false}",
+          "mushroomState": "{\"focus\":0,\"quiet\":0,\"engaged\":true,\"sequenceTime\":-1,\"order\":[],\"performed\":false,\"lightSide\":1,\"lights\":[{\"x\":0.1,\"y\":0.43,\"opacity\":0,\"radius\":9.1,\"travel\":0},{\"x\":0.1,\"y\":0.43,\"opacity\":0,\"radius\":11,\"travel\":0},{\"x\":0.1,\"y\":0.43,\"opacity\":0,\"radius\":7.0200000000000005,\"travel\":0},{\"x\":0.1,\"y\":0.43,\"opacity\":0,\"radius\":9.75,\"travel\":0},{\"x\":0.1,\"y\":0.43,\"opacity\":0,\"radius\":7.800000000000001,\"travel\":0}],\"warmth\":[0.46,0,0,0,0],\"opening\":[0.212,0,0,0,0],\"lean\":[0.0002,0,0,0,0]}",
+          "orangeRest": "{\"phase\":\"idle\",\"elapsed\":0,\"liquid\":0.7781,\"completed\":false,\"amount\":0,\"leanX\":0,\"leanY\":0,\"requestCount\":1,\"actor\":{\"x\":1255.5824728984626,\"y\":4262.127301929331},\"origin\":null}",
+          "paperGuide": "{\"leader\":-1,\"met\":false,\"perch\":0,\"target\":0,\"s\":0,\"speed\":0,\"quiet\":0,\"approachTime\":0,\"lift\":4,\"ready\":false,\"finished\":false,\"farewellAge\":-1,\"farewellSide\":1,\"x\":null,\"y\":null,\"opacity\":1,\"departureProgress\":0,\"departed\":false,\"farewellLean\":0,\"leftWingAngle\":0,\"rightWingAngle\":0}",
+          "pondListening": "{\"engaged\":false,\"discovered\":true,\"dream\":{\"phase\":\"dormant\",\"engaged\":false,\"presence\":0,\"playfulness\":0,\"time\":83.714,\"quiet\":0,\"coastStarted\":false,\"reflection\":{\"x\":-1322.908,\"y\":3142.365,\"vx\":0,\"vy\":0},\"target\":{\"x\":-1322.908,\"y\":3142.365},\"trail\":[]},\"secretQuiet\":0,\"secretAge\":-1,\"secretAmount\":0,\"secretSeen\":true,\"quiet\":0,\"calm\":1,\"presence\":0,\"serial\":5,\"source\":{\"x\":-902.83,\"y\":3261.66},\"ripples\":[{\"x\":-1269.3,\"y\":3000.13,\"age\":4.8,\"touched\":7,\"opacity\":0},{\"x\":-1417.31,\"y\":3053.08,\"age\":4.8,\"touched\":5,\"opacity\":0},{\"x\":-914.7,\"y\":3117.57,\"age\":4.8,\"touched\":0,\"opacity\":0},{\"x\":-914.7,\"y\":3117.57,\"age\":4.8,\"touched\":0,\"opacity\":0}],\"petals\":[{\"x\":-1305,\"y\":3130,\"rotation\":0.7,\"lift\":0,\"speed\":0},{\"x\":-1020,\"y\":3238,\"rotation\":2.4,\"lift\":0,\"speed\":0},{\"x\":-1104,\"y\":3076,\"rotation\":1.5,\"lift\":0,\"speed\":0}]}"
+        }
+      ],
+      "dialogs": [],
+      "main": {
+        "actorX": "1255.582473",
+        "actorY": "4262.127302",
+        "artVersion": "floof-clearing-v1",
+        "atlasPulse": "",
+        "cameraX": "1251.192481",
+        "cameraY": "4483.622046",
+        "cameraZoom": "1.000000",
+        "discovered": "music",
+        "entered": "true",
+        "envelopeStored": "true",
+        "giftUnlocked": "false",
+        "headingX": "0.999999",
+        "headingY": "0.001532",
+        "lastDrawId": "9ddd7bb5-f944-4988-a59e-cf0ea120d06c:2",
+        "lastSongId": "7",
+        "motionVersion": "point-to-walk-v1",
+        "moving": "false",
+        "progressMode": "walk",
+        "puzzleSolved": "true",
+        "puzzleVersion": "computer-knowledge-v1",
+        "questionsSolved": "4",
+        "region": "hollow",
+        "renderer": "webgl",
+        "sleepMaskFound": "true",
+        "sound": "off",
+        "storageStatus": "saved",
+        "view": "overview",
+        "visited": "entry,orchard,pond,hollow",
+        "walkId": "e80579e5-21a6-40cc-b89f-e700c979f3f7",
+        "worldEvents": "orchard-petals,pond-lilies,mushroom-chime"
+      },
+      "viewport": {
+        "height": 800,
+        "width": 1280
+      }
+    }
+  },
+  {
+    "label": "26-mushroom-response",
+    "data": {
+      "canvas": [
+        {
+          "chimeListening": "{\"engaged\":false,\"quiet\":0,\"travel\":0,\"responseAge\":-1,\"responseStrength\":1,\"side\":1,\"bellAngle\":0.002,\"paperAngle\":-0.011,\"noteSerial\":0}",
+          "engine": "three.js r180",
+          "floofAttention": "{\"amount\":0.004356142677714739,\"directionX\":0.38220514894750296,\"directionY\":0.8928841898260917,\"leanX\":0.018314341770697896,\"leanY\":0.02333718555334912,\"puff\":0.00037027212760575284,\"stretch\":0.00015246499372001588}",
+          "moonClearing": "{\"phase\":0,\"age\":-1,\"completed\":false,\"armed\":false}",
+          "mushroomState": "{\"focus\":0,\"quiet\":4.62,\"engaged\":true,\"sequenceTime\":3.97,\"order\":[0,1,2],\"performed\":true,\"lightSide\":1,\"lights\":[{\"x\":0.1,\"y\":0.43,\"opacity\":0,\"radius\":9.1,\"travel\":0},{\"x\":0.1,\"y\":0.43,\"opacity\":0,\"radius\":11,\"travel\":0},{\"x\":0.1,\"y\":0.43,\"opacity\":0,\"radius\":7.0200000000000005,\"travel\":0},{\"x\":0.1,\"y\":0.43,\"opacity\":0,\"radius\":9.75,\"travel\":0},{\"x\":0.1,\"y\":0.43,\"opacity\":0,\"radius\":7.800000000000001,\"travel\":0}],\"warmth\":[0.735,0.438,0,0,0],\"opening\":[0.344,0.367,0,0,0],\"lean\":[-0.0046,0.005,0,0,0]}",
+          "orangeRest": "{\"phase\":\"idle\",\"elapsed\":0,\"liquid\":0.7781,\"completed\":false,\"amount\":0,\"leanX\":0,\"leanY\":0,\"requestCount\":1,\"actor\":{\"x\":1255.5824728984626,\"y\":4262.127301929331},\"origin\":null}",
+          "paperGuide": "{\"leader\":-1,\"met\":false,\"perch\":0,\"target\":0,\"s\":0,\"speed\":0,\"quiet\":0,\"approachTime\":0,\"lift\":4,\"ready\":false,\"finished\":false,\"farewellAge\":-1,\"farewellSide\":1,\"x\":null,\"y\":null,\"opacity\":1,\"departureProgress\":0,\"departed\":false,\"farewellLean\":0,\"leftWingAngle\":0,\"rightWingAngle\":0}",
+          "pondListening": "{\"engaged\":false,\"discovered\":true,\"dream\":{\"phase\":\"dormant\",\"engaged\":false,\"presence\":0,\"playfulness\":0,\"time\":88.714,\"quiet\":0,\"coastStarted\":false,\"reflection\":{\"x\":-1322.908,\"y\":3142.365,\"vx\":0,\"vy\":0},\"target\":{\"x\":-1322.908,\"y\":3142.365},\"trail\":[]},\"secretQuiet\":0,\"secretAge\":-1,\"secretAmount\":0,\"secretSeen\":true,\"quiet\":0,\"calm\":1,\"presence\":0,\"serial\":5,\"source\":{\"x\":-902.42,\"y\":3260.81},\"ripples\":[{\"x\":-1269.3,\"y\":3000.13,\"age\":4.8,\"touched\":7,\"opacity\":0},{\"x\":-1417.31,\"y\":3053.08,\"age\":4.8,\"touched\":5,\"opacity\":0},{\"x\":-914.7,\"y\":3117.57,\"age\":4.8,\"touched\":0,\"opacity\":0},{\"x\":-914.7,\"y\":3117.57,\"age\":4.8,\"touched\":0,\"opacity\":0}],\"petals\":[{\"x\":-1305,\"y\":3130,\"rotation\":0.7,\"lift\":0,\"speed\":0},{\"x\":-1020,\"y\":3238,\"rotation\":2.4,\"lift\":0,\"speed\":0},{\"x\":-1104,\"y\":3076,\"rotation\":1.5,\"lift\":0,\"speed\":0}]}"
+        }
+      ],
+      "dialogs": [],
+      "main": {
+        "actorX": "1255.582473",
+        "actorY": "4262.127302",
+        "artVersion": "floof-clearing-v1",
+        "atlasPulse": "",
+        "cameraX": "1251.192481",
+        "cameraY": "4483.622046",
+        "cameraZoom": "1.000000",
+        "discovered": "music",
+        "entered": "true",
+        "envelopeStored": "true",
+        "giftUnlocked": "false",
+        "headingX": "0.999999",
+        "headingY": "0.001532",
+        "lastDrawId": "9ddd7bb5-f944-4988-a59e-cf0ea120d06c:2",
+        "lastSongId": "7",
+        "motionVersion": "point-to-walk-v1",
+        "moving": "false",
+        "progressMode": "walk",
+        "puzzleSolved": "true",
+        "puzzleVersion": "computer-knowledge-v1",
+        "questionsSolved": "4",
+        "region": "hollow",
+        "renderer": "webgl",
+        "sleepMaskFound": "true",
+        "sound": "off",
+        "storageStatus": "saved",
+        "view": "overview",
+        "visited": "entry,orchard,pond,hollow",
+        "walkId": "e80579e5-21a6-40cc-b89f-e700c979f3f7",
+        "worldEvents": "orchard-petals,pond-lilies,mushroom-chime"
+      },
+      "viewport": {
+        "height": 800,
+        "width": 1280
+      }
+    }
+  },
+  {
+    "label": "27-chime-approach",
+    "data": {
+      "canvas": [
+        {
+          "chimeListening": "{\"engaged\":true,\"quiet\":0,\"travel\":36,\"responseAge\":-1,\"responseStrength\":1,\"side\":1,\"bellAngle\":-0.018,\"paperAngle\":-0.006,\"noteSerial\":0}",
+          "engine": "three.js r180",
+          "floofAttention": "{\"amount\":0,\"directionX\":0.38220514894750296,\"directionY\":0.8928841898260917,\"leanX\":0,\"leanY\":0,\"puff\":0,\"stretch\":0}",
+          "moonClearing": "{\"phase\":0,\"age\":-1,\"completed\":false,\"armed\":false}",
+          "mushroomState": "{\"focus\":0,\"quiet\":0,\"engaged\":false,\"sequenceTime\":-1,\"order\":[0,1,2],\"performed\":true,\"lightSide\":1,\"lights\":[{\"x\":0.1,\"y\":0.43,\"opacity\":0,\"radius\":9.1,\"travel\":0},{\"x\":0.1,\"y\":0.43,\"opacity\":0,\"radius\":11,\"travel\":0},{\"x\":0.1,\"y\":0.43,\"opacity\":0,\"radius\":7.0200000000000005,\"travel\":0},{\"x\":0.1,\"y\":0.43,\"opacity\":0,\"radius\":9.75,\"travel\":0},{\"x\":0.1,\"y\":0.43,\"opacity\":0,\"radius\":7.800000000000001,\"travel\":0}],\"warmth\":[0,0,0,0,0],\"opening\":[0,0,0,0,0],\"lean\":[0,0,0,0,0]}",
+          "orangeRest": "{\"phase\":\"idle\",\"elapsed\":0,\"liquid\":0.7781,\"completed\":false,\"amount\":0,\"leanX\":0,\"leanY\":0,\"requestCount\":1,\"actor\":{\"x\":-767.684069823981,\"y\":5305.748023904583},\"origin\":null}",
+          "paperGuide": "{\"leader\":-1,\"met\":false,\"perch\":0,\"target\":0,\"s\":0,\"speed\":0,\"quiet\":0,\"approachTime\":0,\"lift\":4,\"ready\":false,\"finished\":false,\"farewellAge\":-1,\"farewellSide\":1,\"x\":null,\"y\":null,\"opacity\":1,\"departureProgress\":0,\"departed\":false,\"farewellLean\":0,\"leftWingAngle\":0,\"rightWingAngle\":0}",
+          "pondListening": "{\"engaged\":false,\"discovered\":true,\"dream\":{\"phase\":\"dormant\",\"engaged\":false,\"presence\":0,\"playfulness\":0,\"time\":109.214,\"quiet\":0,\"coastStarted\":false,\"reflection\":{\"x\":-1322.908,\"y\":3142.365,\"vx\":0,\"vy\":0},\"target\":{\"x\":-1322.908,\"y\":3142.365},\"trail\":[]},\"secretQuiet\":0,\"secretAge\":-1,\"secretAmount\":0,\"secretSeen\":true,\"quiet\":0,\"calm\":1,\"presence\":0,\"serial\":5,\"source\":{\"x\":-1113.15,\"y\":3396.82},\"ripples\":[{\"x\":-1269.3,\"y\":3000.13,\"age\":4.8,\"touched\":7,\"opacity\":0},{\"x\":-1417.31,\"y\":3053.08,\"age\":4.8,\"touched\":5,\"opacity\":0},{\"x\":-914.7,\"y\":3117.57,\"age\":4.8,\"touched\":0,\"opacity\":0},{\"x\":-914.7,\"y\":3117.57,\"age\":4.8,\"touched\":0,\"opacity\":0}],\"petals\":[{\"x\":-1305,\"y\":3130,\"rotation\":0.7,\"lift\":0,\"speed\":0},{\"x\":-1020,\"y\":3238,\"rotation\":2.4,\"lift\":0,\"speed\":0},{\"x\":-1104,\"y\":3076,\"rotation\":1.5,\"lift\":0,\"speed\":0}]}"
+        }
+      ],
+      "dialogs": [],
+      "main": {
+        "actorX": "-767.684070",
+        "actorY": "5305.748024",
+        "artVersion": "floof-clearing-v1",
+        "atlasPulse": "",
+        "cameraX": "-763.907987",
+        "cameraY": "5525.880253",
+        "cameraZoom": "1.000000",
+        "discovered": "music",
+        "entered": "true",
+        "envelopeStored": "true",
+        "giftUnlocked": "false",
+        "headingX": "-0.999999",
+        "headingY": "0.001419",
+        "lastDrawId": "9ddd7bb5-f944-4988-a59e-cf0ea120d06c:2",
+        "lastSongId": "7",
+        "motionVersion": "point-to-walk-v1",
+        "moving": "false",
+        "progressMode": "walk",
+        "puzzleSolved": "true",
+        "puzzleVersion": "computer-knowledge-v1",
+        "questionsSolved": "4",
+        "region": "arch",
+        "renderer": "webgl",
+        "sleepMaskFound": "true",
+        "sound": "off",
+        "storageStatus": "saved",
+        "view": "overview",
+        "visited": "entry,orchard,pond,hollow,arch",
+        "walkId": "e80579e5-21a6-40cc-b89f-e700c979f3f7",
+        "worldEvents": "orchard-petals,pond-lilies,mushroom-chime,mushroom-listened"
+      },
+      "viewport": {
+        "height": 800,
+        "width": 1280
+      }
+    }
+  },
+  {
+    "label": "28-chime-keyboard",
+    "data": {
+      "canvas": [
+        {
+          "chimeListening": "{\"engaged\":true,\"quiet\":6.79,\"travel\":36,\"responseAge\":0.07,\"responseStrength\":1,\"side\":1,\"bellAngle\":0.012,\"paperAngle\":0.064,\"noteSerial\":0}",
+          "engine": "three.js r180",
+          "floofAttention": "{\"amount\":0,\"directionX\":0.38220514894750296,\"directionY\":0.8928841898260917,\"leanX\":0,\"leanY\":0,\"puff\":0,\"stretch\":0}",
+          "moonClearing": "{\"phase\":0,\"age\":-1,\"completed\":false,\"armed\":false}",
+          "mushroomState": "{\"focus\":0,\"quiet\":0,\"engaged\":false,\"sequenceTime\":-1,\"order\":[0,1,2],\"performed\":true,\"lightSide\":1,\"lights\":[{\"x\":0.1,\"y\":0.43,\"opacity\":0,\"radius\":9.1,\"travel\":0},{\"x\":0.1,\"y\":0.43,\"opacity\":0,\"radius\":11,\"travel\":0},{\"x\":0.1,\"y\":0.43,\"opacity\":0,\"radius\":7.0200000000000005,\"travel\":0},{\"x\":0.1,\"y\":0.43,\"opacity\":0,\"radius\":9.75,\"travel\":0},{\"x\":0.1,\"y\":0.43,\"opacity\":0,\"radius\":7.800000000000001,\"travel\":0}],\"warmth\":[0,0,0,0,0],\"opening\":[0,0,0,0,0],\"lean\":[0,0,0,0,0]}",
+          "orangeRest": "{\"phase\":\"idle\",\"elapsed\":0,\"liquid\":0.7781,\"completed\":false,\"amount\":0,\"leanX\":0,\"leanY\":0,\"requestCount\":1,\"actor\":{\"x\":-767.684069823981,\"y\":5305.748023904583},\"origin\":null}",
+          "paperGuide": "{\"leader\":-1,\"met\":false,\"perch\":0,\"target\":0,\"s\":0,\"speed\":0,\"quiet\":0,\"approachTime\":0,\"lift\":4,\"ready\":false,\"finished\":false,\"farewellAge\":-1,\"farewellSide\":1,\"x\":null,\"y\":null,\"opacity\":1,\"departureProgress\":0,\"departed\":false,\"farewellLean\":0,\"leftWingAngle\":0,\"rightWingAngle\":0}",
+          "pondListening": "{\"engaged\":false,\"discovered\":true,\"dream\":{\"phase\":\"dormant\",\"engaged\":false,\"presence\":0,\"playfulness\":0,\"time\":116.338,\"quiet\":0,\"coastStarted\":false,\"reflection\":{\"x\":-1322.908,\"y\":3142.365,\"vx\":0,\"vy\":0},\"target\":{\"x\":-1322.908,\"y\":3142.365},\"trail\":[]},\"secretQuiet\":0,\"secretAge\":-1,\"secretAmount\":0,\"secretSeen\":true,\"quiet\":0,\"calm\":1,\"presence\":0,\"serial\":5,\"source\":{\"x\":-1118.41,\"y\":3397.85},\"ripples\":[{\"x\":-1269.3,\"y\":3000.13,\"age\":4.8,\"touched\":7,\"opacity\":0},{\"x\":-1417.31,\"y\":3053.08,\"age\":4.8,\"touched\":5,\"opacity\":0},{\"x\":-914.7,\"y\":3117.57,\"age\":4.8,\"touched\":0,\"opacity\":0},{\"x\":-914.7,\"y\":3117.57,\"age\":4.8,\"touched\":0,\"opacity\":0}],\"petals\":[{\"x\":-1305,\"y\":3130,\"rotation\":0.7,\"lift\":0,\"speed\":0},{\"x\":-1020,\"y\":3238,\"rotation\":2.4,\"lift\":0,\"speed\":0},{\"x\":-1104,\"y\":3076,\"rotation\":1.5,\"lift\":0,\"speed\":0}]}"
+        }
+      ],
+      "dialogs": [],
+      "main": {
+        "actorX": "-767.684070",
+        "actorY": "5305.748024",
+        "artVersion": "floof-clearing-v1",
+        "atlasPulse": "arch:1",
+        "cameraX": "-763.907987",
+        "cameraY": "5525.880253",
+        "cameraZoom": "1.000000",
+        "discovered": "music",
+        "entered": "true",
+        "envelopeStored": "true",
+        "giftUnlocked": "false",
+        "headingX": "-0.999999",
+        "headingY": "0.001419",
+        "lastDrawId": "9ddd7bb5-f944-4988-a59e-cf0ea120d06c:2",
+        "lastSongId": "7",
+        "motionVersion": "point-to-walk-v1",
+        "moving": "false",
+        "progressMode": "walk",
+        "puzzleSolved": "true",
+        "puzzleVersion": "computer-knowledge-v1",
+        "questionsSolved": "4",
+        "region": "arch",
+        "renderer": "webgl",
+        "sleepMaskFound": "true",
+        "sound": "off",
+        "storageStatus": "saved",
+        "view": "overview",
+        "visited": "entry,orchard,pond,hollow,arch",
+        "walkId": "e80579e5-21a6-40cc-b89f-e700c979f3f7",
+        "worldEvents": "orchard-petals,pond-lilies,mushroom-chime,mushroom-listened,arch-awake"
+      },
+      "viewport": {
+        "height": 800,
+        "width": 1280
+      }
+    }
+  },
+  {
+    "label": "29-chime-click",
+    "data": {
+      "canvas": [
+        {
+          "chimeListening": "{\"engaged\":true,\"quiet\":7.17,\"travel\":36,\"responseAge\":0.44,\"responseStrength\":1,\"side\":1,\"bellAngle\":0.137,\"paperAngle\":0.506,\"noteSerial\":0}",
+          "engine": "three.js r180",
+          "floofAttention": "{\"amount\":0,\"directionX\":0.38220514894750296,\"directionY\":0.8928841898260917,\"leanX\":0,\"leanY\":0,\"puff\":0,\"stretch\":0}",
+          "moonClearing": "{\"phase\":0,\"age\":-1,\"completed\":false,\"armed\":false}",
+          "mushroomState": "{\"focus\":0,\"quiet\":0,\"engaged\":false,\"sequenceTime\":-1,\"order\":[0,1,2],\"performed\":true,\"lightSide\":1,\"lights\":[{\"x\":0.1,\"y\":0.43,\"opacity\":0,\"radius\":9.1,\"travel\":0},{\"x\":0.1,\"y\":0.43,\"opacity\":0,\"radius\":11,\"travel\":0},{\"x\":0.1,\"y\":0.43,\"opacity\":0,\"radius\":7.0200000000000005,\"travel\":0},{\"x\":0.1,\"y\":0.43,\"opacity\":0,\"radius\":9.75,\"travel\":0},{\"x\":0.1,\"y\":0.43,\"opacity\":0,\"radius\":7.800000000000001,\"travel\":0}],\"warmth\":[0,0,0,0,0],\"opening\":[0,0,0,0,0],\"lean\":[0,0,0,0,0]}",
+          "orangeRest": "{\"phase\":\"idle\",\"elapsed\":0,\"liquid\":0.7781,\"completed\":false,\"amount\":0,\"leanX\":0,\"leanY\":0,\"requestCount\":1,\"actor\":{\"x\":-767.684069823981,\"y\":5305.748023904583},\"origin\":null}",
+          "paperGuide": "{\"leader\":-1,\"met\":false,\"perch\":0,\"target\":0,\"s\":0,\"speed\":0,\"quiet\":0,\"approachTime\":0,\"lift\":4,\"ready\":false,\"finished\":false,\"farewellAge\":-1,\"farewellSide\":1,\"x\":null,\"y\":null,\"opacity\":1,\"departureProgress\":0,\"departed\":false,\"farewellLean\":0,\"leftWingAngle\":0,\"rightWingAngle\":0}",
+          "pondListening": "{\"engaged\":false,\"discovered\":true,\"dream\":{\"phase\":\"dormant\",\"engaged\":false,\"presence\":0,\"playfulness\":0,\"time\":116.713,\"quiet\":0,\"coastStarted\":false,\"reflection\":{\"x\":-1322.908,\"y\":3142.365,\"vx\":0,\"vy\":0},\"target\":{\"x\":-1322.908,\"y\":3142.365},\"trail\":[]},\"secretQuiet\":0,\"secretAge\":-1,\"secretAmount\":0,\"secretSeen\":true,\"quiet\":0,\"calm\":1,\"presence\":0,\"serial\":5,\"source\":{\"x\":-1118.41,\"y\":3397.85},\"ripples\":[{\"x\":-1269.3,\"y\":3000.13,\"age\":4.8,\"touched\":7,\"opacity\":0},{\"x\":-1417.31,\"y\":3053.08,\"age\":4.8,\"touched\":5,\"opacity\":0},{\"x\":-914.7,\"y\":3117.57,\"age\":4.8,\"touched\":0,\"opacity\":0},{\"x\":-914.7,\"y\":3117.57,\"age\":4.8,\"touched\":0,\"opacity\":0}],\"petals\":[{\"x\":-1305,\"y\":3130,\"rotation\":0.7,\"lift\":0,\"speed\":0},{\"x\":-1020,\"y\":3238,\"rotation\":2.4,\"lift\":0,\"speed\":0},{\"x\":-1104,\"y\":3076,\"rotation\":1.5,\"lift\":0,\"speed\":0}]}"
+        }
+      ],
+      "dialogs": [],
+      "main": {
+        "actorX": "-767.684070",
+        "actorY": "5305.748024",
+        "artVersion": "floof-clearing-v1",
+        "atlasPulse": "arch:2",
+        "cameraX": "-763.907987",
+        "cameraY": "5525.880253",
+        "cameraZoom": "1.000000",
+        "discovered": "music",
+        "entered": "true",
+        "envelopeStored": "true",
+        "giftUnlocked": "false",
+        "headingX": "-0.999999",
+        "headingY": "0.001419",
+        "lastDrawId": "9ddd7bb5-f944-4988-a59e-cf0ea120d06c:2",
+        "lastSongId": "7",
+        "motionVersion": "point-to-walk-v1",
+        "moving": "false",
+        "progressMode": "walk",
+        "puzzleSolved": "true",
+        "puzzleVersion": "computer-knowledge-v1",
+        "questionsSolved": "4",
+        "region": "arch",
+        "renderer": "webgl",
+        "sleepMaskFound": "true",
+        "sound": "off",
+        "storageStatus": "saved",
+        "view": "overview",
+        "visited": "entry,orchard,pond,hollow,arch",
+        "walkId": "e80579e5-21a6-40cc-b89f-e700c979f3f7",
+        "worldEvents": "orchard-petals,pond-lilies,mushroom-chime,mushroom-listened,arch-awake"
+      },
+      "viewport": {
+        "height": 800,
+        "width": 1280
+      }
+    }
+  },
+  {
+    "label": "30-paper-birds-approach",
+    "data": {
+      "canvas": [
+        {
+          "chimeListening": "{\"engaged\":false,\"quiet\":0,\"travel\":0,\"responseAge\":8.5,\"responseStrength\":1,\"side\":1,\"bellAngle\":0.002,\"paperAngle\":-0.01,\"noteSerial\":1}",
+          "engine": "three.js r180",
+          "floofAttention": "{\"amount\":0,\"directionX\":0.38220514894750296,\"directionY\":0.8928841898260917,\"leanX\":0,\"leanY\":0,\"puff\":0,\"stretch\":0}",
+          "moonClearing": "{\"phase\":0,\"age\":-1,\"completed\":false,\"armed\":false}",
+          "mushroomState": "{\"focus\":2,\"quiet\":0,\"engaged\":false,\"sequenceTime\":-1,\"order\":[0,1,2],\"performed\":true,\"lightSide\":1,\"lights\":[{\"x\":0.1,\"y\":0.43,\"opacity\":0,\"radius\":9.1,\"travel\":0},{\"x\":0.1,\"y\":0.43,\"opacity\":0,\"radius\":11,\"travel\":0},{\"x\":0.1,\"y\":0.43,\"opacity\":0,\"radius\":7.0200000000000005,\"travel\":0},{\"x\":0.1,\"y\":0.43,\"opacity\":0,\"radius\":9.75,\"travel\":0},{\"x\":0.1,\"y\":0.43,\"opacity\":0,\"radius\":7.800000000000001,\"travel\":0}],\"warmth\":[0,0,0,0,0],\"opening\":[0,0,0,0,0],\"lean\":[0,0,0,0,0]}",
+          "orangeRest": "{\"phase\":\"idle\",\"elapsed\":0,\"liquid\":0.7781,\"completed\":false,\"amount\":0,\"leanX\":0,\"leanY\":0,\"requestCount\":1,\"actor\":{\"x\":921.3520675091813,\"y\":6654.183067905855},\"origin\":null}",
+          "paperGuide": "{\"leader\":0,\"met\":true,\"perch\":0,\"target\":1,\"s\":243.106,\"speed\":180.429,\"quiet\":0,\"approachTime\":0,\"lift\":74.633,\"ready\":true,\"finished\":false,\"farewellAge\":-1,\"farewellSide\":1,\"x\":1046.783,\"y\":6898.328,\"opacity\":1,\"departureProgress\":0,\"departed\":false,\"farewellLean\":0,\"leftWingAngle\":0.792,\"rightWingAngle\":0.792}",
+          "pondListening": "{\"engaged\":false,\"discovered\":true,\"dream\":{\"phase\":\"dormant\",\"engaged\":false,\"presence\":0,\"playfulness\":0,\"time\":135.459,\"quiet\":0,\"coastStarted\":false,\"reflection\":{\"x\":-1322.908,\"y\":3142.365,\"vx\":0,\"vy\":0},\"target\":{\"x\":-1322.908,\"y\":3142.365},\"trail\":[]},\"secretQuiet\":0,\"secretAge\":-1,\"secretAmount\":0,\"secretSeen\":true,\"quiet\":0,\"calm\":1,\"presence\":0,\"serial\":5,\"source\":{\"x\":-996.77,\"y\":3355.38},\"ripples\":[{\"x\":-1269.3,\"y\":3000.13,\"age\":4.8,\"touched\":7,\"opacity\":0},{\"x\":-1417.31,\"y\":3053.08,\"age\":4.8,\"touched\":5,\"opacity\":0},{\"x\":-914.7,\"y\":3117.57,\"age\":4.8,\"touched\":0,\"opacity\":0},{\"x\":-914.7,\"y\":3117.57,\"age\":4.8,\"touched\":0,\"opacity\":0}],\"petals\":[{\"x\":-1305,\"y\":3130,\"rotation\":0.7,\"lift\":0,\"speed\":0},{\"x\":-1020,\"y\":3238,\"rotation\":2.4,\"lift\":0,\"speed\":0},{\"x\":-1104,\"y\":3076,\"rotation\":1.5,\"lift\":0,\"speed\":0}]}"
+        }
+      ],
+      "dialogs": [],
+      "main": {
+        "actorX": "921.352068",
+        "actorY": "6654.183068",
+        "artVersion": "floof-clearing-v1",
+        "atlasPulse": "arch:2",
+        "cameraX": "913.708256",
+        "cameraY": "6878.956832",
+        "cameraZoom": "1.000000",
+        "discovered": "music",
+        "entered": "true",
+        "envelopeStored": "true",
+        "giftUnlocked": "false",
+        "headingX": "0.999999",
+        "headingY": "0.001411",
+        "lastDrawId": "9ddd7bb5-f944-4988-a59e-cf0ea120d06c:2",
+        "lastSongId": "7",
+        "motionVersion": "point-to-walk-v1",
+        "moving": "false",
+        "progressMode": "walk",
+        "puzzleSolved": "true",
+        "puzzleVersion": "computer-knowledge-v1",
+        "questionsSolved": "4",
+        "region": "hill",
+        "renderer": "webgl",
+        "sleepMaskFound": "true",
+        "sound": "off",
+        "storageStatus": "saved",
+        "view": "overview",
+        "visited": "entry,orchard,pond,hollow,arch,hill",
+        "walkId": "e80579e5-21a6-40cc-b89f-e700c979f3f7",
+        "worldEvents": "orchard-petals,pond-lilies,mushroom-chime,mushroom-listened,arch-awake,chime-note-1,paper-flock"
+      },
+      "viewport": {
+        "height": 800,
+        "width": 1280
+      }
+    }
+  },
+  {
+    "label": "31-guide-midway",
+    "data": {
+      "canvas": [
+        {
+          "chimeListening": "{\"engaged\":false,\"quiet\":0,\"travel\":0,\"responseAge\":8.5,\"responseStrength\":1,\"side\":1,\"bellAngle\":0.011,\"paperAngle\":-0.017,\"noteSerial\":1}",
+          "engine": "three.js r180",
+          "floofAttention": "{\"amount\":0,\"directionX\":0.38220514894750296,\"directionY\":0.8928841898260917,\"leanX\":0,\"leanY\":0,\"puff\":0,\"stretch\":0}",
+          "moonClearing": "{\"phase\":0,\"age\":-1,\"completed\":false,\"armed\":false}",
+          "mushroomState": "{\"focus\":2,\"quiet\":0,\"engaged\":false,\"sequenceTime\":-1,\"order\":[0,1,2],\"performed\":true,\"lightSide\":1,\"lights\":[{\"x\":0.1,\"y\":0.43,\"opacity\":0,\"radius\":9.1,\"travel\":0},{\"x\":0.1,\"y\":0.43,\"opacity\":0,\"radius\":11,\"travel\":0},{\"x\":0.1,\"y\":0.43,\"opacity\":0,\"radius\":7.0200000000000005,\"travel\":0},{\"x\":0.1,\"y\":0.43,\"opacity\":0,\"radius\":9.75,\"travel\":0},{\"x\":0.1,\"y\":0.43,\"opacity\":0,\"radius\":7.800000000000001,\"travel\":0}],\"warmth\":[0,0,0,0,0],\"opening\":[0,0,0,0,0],\"lean\":[0,0,0,0,0]}",
+          "orangeRest": "{\"phase\":\"idle\",\"elapsed\":0,\"liquid\":0.7781,\"completed\":false,\"amount\":0,\"leanX\":0,\"leanY\":0,\"requestCount\":1,\"actor\":{\"x\":888.7290328628392,\"y\":7469.0683538017165},\"origin\":null}",
+          "paperGuide": "{\"leader\":0,\"met\":true,\"perch\":4,\"target\":5,\"s\":1455.856,\"speed\":170.626,\"quiet\":0,\"approachTime\":0,\"lift\":70.634,\"ready\":true,\"finished\":false,\"farewellAge\":-1,\"farewellSide\":1,\"x\":662.277,\"y\":7745.268,\"opacity\":1,\"departureProgress\":0,\"departed\":false,\"farewellLean\":0,\"leftWingAngle\":0.159,\"rightWingAngle\":0.159}",
+          "pondListening": "{\"engaged\":false,\"discovered\":true,\"dream\":{\"phase\":\"dormant\",\"engaged\":false,\"presence\":0,\"playfulness\":0,\"time\":157.084,\"quiet\":0,\"coastStarted\":false,\"reflection\":{\"x\":-1322.908,\"y\":3142.365,\"vx\":0,\"vy\":0},\"target\":{\"x\":-1322.908,\"y\":3142.365},\"trail\":[]},\"secretQuiet\":0,\"secretAge\":-1,\"secretAmount\":0,\"secretSeen\":true,\"quiet\":0,\"calm\":1,\"presence\":0,\"serial\":5,\"source\":{\"x\":-1019.62,\"y\":3367.15},\"ripples\":[{\"x\":-1269.3,\"y\":3000.13,\"age\":4.8,\"touched\":7,\"opacity\":0},{\"x\":-1417.31,\"y\":3053.08,\"age\":4.8,\"touched\":5,\"opacity\":0},{\"x\":-914.7,\"y\":3117.57,\"age\":4.8,\"touched\":0,\"opacity\":0},{\"x\":-914.7,\"y\":3117.57,\"age\":4.8,\"touched\":0,\"opacity\":0}],\"petals\":[{\"x\":-1305,\"y\":3130,\"rotation\":0.7,\"lift\":0,\"speed\":0},{\"x\":-1020,\"y\":3238,\"rotation\":2.4,\"lift\":0,\"speed\":0},{\"x\":-1104,\"y\":3076,\"rotation\":1.5,\"lift\":0,\"speed\":0}]}"
+        }
+      ],
+      "dialogs": [],
+      "main": {
+        "actorX": "888.729033",
+        "actorY": "7469.068354",
+        "artVersion": "floof-clearing-v1",
+        "atlasPulse": "arch:2",
+        "cameraX": "894.341016",
+        "cameraY": "7686.965828",
+        "cameraZoom": "1.000000",
+        "discovered": "music",
+        "entered": "true",
+        "envelopeStored": "true",
+        "giftUnlocked": "false",
+        "headingX": "-0.706078",
+        "headingY": "0.708134",
+        "lastDrawId": "9ddd7bb5-f944-4988-a59e-cf0ea120d06c:2",
+        "lastSongId": "7",
+        "motionVersion": "point-to-walk-v1",
+        "moving": "false",
+        "progressMode": "walk",
+        "puzzleSolved": "true",
+        "puzzleVersion": "computer-knowledge-v1",
+        "questionsSolved": "4",
+        "region": "hill",
+        "renderer": "webgl",
+        "sleepMaskFound": "true",
+        "sound": "off",
+        "storageStatus": "saved",
+        "view": "overview",
+        "visited": "entry,orchard,pond,hollow,arch,hill",
+        "walkId": "e80579e5-21a6-40cc-b89f-e700c979f3f7",
+        "worldEvents": "orchard-petals,pond-lilies,mushroom-chime,mushroom-listened,arch-awake,chime-note-1,paper-flock,paper-guide-perch-1,paper-guide-perch-2,paper-guide-perch-3,paper-guide-perch-4"
+      },
+      "viewport": {
+        "height": 800,
+        "width": 1280
+      }
+    }
+  },
+  {
+    "label": "32-door-arrival",
+    "data": {
+      "canvas": [
+        {
+          "chimeListening": "{\"engaged\":false,\"quiet\":0,\"travel\":0,\"responseAge\":8.5,\"responseStrength\":1,\"side\":1,\"bellAngle\":-0.009,\"paperAngle\":-0.007,\"noteSerial\":1}",
+          "engine": "three.js r180",
+          "floofAttention": "{\"amount\":0,\"directionX\":0.38220514894750296,\"directionY\":0.8928841898260917,\"leanX\":0,\"leanY\":0,\"puff\":0,\"stretch\":0}",
+          "moonClearing": "{\"phase\":1,\"age\":2.4,\"completed\":true,\"armed\":true}",
+          "mushroomState": "{\"focus\":2,\"quiet\":0,\"engaged\":false,\"sequenceTime\":-1,\"order\":[0,1,2],\"performed\":true,\"lightSide\":1,\"lights\":[{\"x\":0.1,\"y\":0.43,\"opacity\":0,\"radius\":9.1,\"travel\":0},{\"x\":0.1,\"y\":0.43,\"opacity\":0,\"radius\":11,\"travel\":0},{\"x\":0.1,\"y\":0.43,\"opacity\":0,\"radius\":7.0200000000000005,\"travel\":0},{\"x\":0.1,\"y\":0.43,\"opacity\":0,\"radius\":9.75,\"travel\":0},{\"x\":0.1,\"y\":0.43,\"opacity\":0,\"radius\":7.800000000000001,\"travel\":0}],\"warmth\":[0,0,0,0,0],\"opening\":[0,0,0,0,0],\"lean\":[0,0,0,0,0]}",
+          "orangeRest": "{\"phase\":\"idle\",\"elapsed\":0,\"liquid\":0.7781,\"completed\":false,\"amount\":0,\"leanX\":0,\"leanY\":0,\"requestCount\":1,\"actor\":{\"x\":-99.02775547066956,\"y\":8230.10087091423},\"origin\":null}",
+          "paperGuide": "{\"leader\":0,\"met\":true,\"perch\":7,\"target\":7,\"s\":2573.351,\"speed\":0,\"quiet\":0,\"approachTime\":0,\"lift\":7.883,\"ready\":true,\"finished\":true,\"farewellAge\":-1,\"farewellSide\":1,\"x\":-240.133,\"y\":8310,\"opacity\":1,\"departureProgress\":0,\"departed\":false,\"farewellLean\":0,\"leftWingAngle\":0.247,\"rightWingAngle\":0.247}",
+          "pondListening": "{\"engaged\":false,\"discovered\":true,\"dream\":{\"phase\":\"dormant\",\"engaged\":false,\"presence\":0,\"playfulness\":0,\"time\":169.951,\"quiet\":0,\"coastStarted\":false,\"reflection\":{\"x\":-1322.908,\"y\":3142.365,\"vx\":0,\"vy\":0},\"target\":{\"x\":-1322.908,\"y\":3142.365},\"trail\":[]},\"secretQuiet\":0,\"secretAge\":-1,\"secretAmount\":0,\"secretSeen\":true,\"quiet\":0,\"calm\":1,\"presence\":0,\"serial\":5,\"source\":{\"x\":-1106.04,\"y\":3395.46},\"ripples\":[{\"x\":-1269.3,\"y\":3000.13,\"age\":4.8,\"touched\":7,\"opacity\":0},{\"x\":-1417.31,\"y\":3053.08,\"age\":4.8,\"touched\":5,\"opacity\":0},{\"x\":-914.7,\"y\":3117.57,\"age\":4.8,\"touched\":0,\"opacity\":0},{\"x\":-914.7,\"y\":3117.57,\"age\":4.8,\"touched\":0,\"opacity\":0}],\"petals\":[{\"x\":-1305,\"y\":3130,\"rotation\":0.7,\"lift\":0,\"speed\":0},{\"x\":-1020,\"y\":3238,\"rotation\":2.4,\"lift\":0,\"speed\":0},{\"x\":-1104,\"y\":3076,\"rotation\":1.5,\"lift\":0,\"speed\":0}]}"
+        }
+      ],
+      "dialogs": [],
+      "main": {
+        "actorX": "-99.027755",
+        "actorY": "8230.100871",
+        "artVersion": "floof-clearing-v1",
+        "atlasPulse": "arch:2",
+        "cameraX": "-108.044676",
+        "cameraY": "8417.412693",
+        "cameraZoom": "1.000000",
+        "discovered": "music",
+        "entered": "true",
+        "envelopeStored": "true",
+        "giftUnlocked": "false",
+        "headingX": "-0.016132",
+        "headingY": "0.999870",
+        "lastDrawId": "9ddd7bb5-f944-4988-a59e-cf0ea120d06c:2",
+        "lastSongId": "7",
+        "motionVersion": "point-to-walk-v1",
+        "moving": "false",
+        "progressMode": "walk",
+        "puzzleSolved": "true",
+        "puzzleVersion": "computer-knowledge-v1",
+        "questionsSolved": "4",
+        "region": "moon",
+        "renderer": "webgl",
+        "sleepMaskFound": "true",
+        "sound": "off",
+        "storageStatus": "saved",
+        "view": "overview",
+        "visited": "entry,orchard,pond,hollow,arch,hill,moon",
+        "walkId": "e80579e5-21a6-40cc-b89f-e700c979f3f7",
+        "worldEvents": "orchard-petals,pond-lilies,mushroom-chime,mushroom-listened,arch-awake,chime-note-1,paper-flock,paper-guide-perch-1,paper-guide-perch-2,paper-guide-perch-3,paper-guide-perch-4,paper-guide-perch-5,paper-guide-perch-6,moon-ring,paper-guide-perch-7"
+      },
+      "viewport": {
+        "height": 800,
+        "width": 1280
+      }
+    }
+  },
+  {
+    "label": "33-door-farewell",
+    "data": {
+      "canvas": [
+        {
+          "chimeListening": "{\"engaged\":false,\"quiet\":0,\"travel\":0,\"responseAge\":8.5,\"responseStrength\":1,\"side\":1,\"bellAngle\":0.001,\"paperAngle\":0.016,\"noteSerial\":1}",
+          "engine": "three.js r180",
+          "floofAttention": "{\"amount\":0,\"directionX\":0.38220514894750296,\"directionY\":0.8928841898260917,\"leanX\":0,\"leanY\":0,\"puff\":0,\"stretch\":0}",
+          "moonClearing": "{\"phase\":1,\"age\":2.4,\"completed\":true,\"armed\":true}",
+          "mushroomState": "{\"focus\":2,\"quiet\":0,\"engaged\":false,\"sequenceTime\":-1,\"order\":[0,1,2],\"performed\":true,\"lightSide\":1,\"lights\":[{\"x\":0.1,\"y\":0.43,\"opacity\":0,\"radius\":9.1,\"travel\":0},{\"x\":0.1,\"y\":0.43,\"opacity\":0,\"radius\":11,\"travel\":0},{\"x\":0.1,\"y\":0.43,\"opacity\":0,\"radius\":7.0200000000000005,\"travel\":0},{\"x\":0.1,\"y\":0.43,\"opacity\":0,\"radius\":9.75,\"travel\":0},{\"x\":0.1,\"y\":0.43,\"opacity\":0,\"radius\":7.800000000000001,\"travel\":0}],\"warmth\":[0,0,0,0,0],\"opening\":[0,0,0,0,0],\"lean\":[0,0,0,0,0]}",
+          "orangeRest": "{\"phase\":\"idle\",\"elapsed\":0,\"liquid\":0.7781,\"completed\":false,\"amount\":0,\"leanX\":0,\"leanY\":0,\"requestCount\":1,\"actor\":{\"x\":-99.02775547066956,\"y\":8230.10087091423},\"origin\":null}",
+          "paperGuide": "{\"leader\":0,\"met\":true,\"perch\":7,\"target\":7,\"s\":2573.351,\"speed\":0,\"quiet\":2,\"approachTime\":0,\"lift\":4,\"ready\":true,\"finished\":true,\"farewellAge\":3.192,\"farewellSide\":1,\"x\":-240.133,\"y\":8310,\"opacity\":1,\"departureProgress\":0,\"departed\":false,\"farewellLean\":0,\"leftWingAngle\":0.308,\"rightWingAngle\":0.308}",
+          "pondListening": "{\"engaged\":false,\"discovered\":true,\"dream\":{\"phase\":\"dormant\",\"engaged\":false,\"presence\":0,\"playfulness\":0,\"time\":175.676,\"quiet\":0,\"coastStarted\":false,\"reflection\":{\"x\":-1322.908,\"y\":3142.365,\"vx\":0,\"vy\":0},\"target\":{\"x\":-1322.908,\"y\":3142.365},\"trail\":[]},\"secretQuiet\":0,\"secretAge\":-1,\"secretAmount\":0,\"secretSeen\":true,\"quiet\":0,\"calm\":1,\"presence\":0,\"serial\":5,\"source\":{\"x\":-1106.86,\"y\":3395.63},\"ripples\":[{\"x\":-1269.3,\"y\":3000.13,\"age\":4.8,\"touched\":7,\"opacity\":0},{\"x\":-1417.31,\"y\":3053.08,\"age\":4.8,\"touched\":5,\"opacity\":0},{\"x\":-914.7,\"y\":3117.57,\"age\":4.8,\"touched\":0,\"opacity\":0},{\"x\":-914.7,\"y\":3117.57,\"age\":4.8,\"touched\":0,\"opacity\":0}],\"petals\":[{\"x\":-1305,\"y\":3130,\"rotation\":0.7,\"lift\":0,\"speed\":0},{\"x\":-1020,\"y\":3238,\"rotation\":2.4,\"lift\":0,\"speed\":0},{\"x\":-1104,\"y\":3076,\"rotation\":1.5,\"lift\":0,\"speed\":0}]}"
+        }
+      ],
+      "dialogs": [],
+      "main": {
+        "actorX": "-99.027755",
+        "actorY": "8230.100871",
+        "artVersion": "floof-clearing-v1",
+        "atlasPulse": "arch:2",
+        "cameraX": "-108.044676",
+        "cameraY": "8417.412693",
+        "cameraZoom": "1.000000",
+        "discovered": "music",
+        "entered": "true",
+        "envelopeStored": "true",
+        "giftUnlocked": "false",
+        "headingX": "-0.016132",
+        "headingY": "0.999870",
+        "lastDrawId": "9ddd7bb5-f944-4988-a59e-cf0ea120d06c:2",
+        "lastSongId": "7",
+        "motionVersion": "point-to-walk-v1",
+        "moving": "false",
+        "progressMode": "walk",
+        "puzzleSolved": "true",
+        "puzzleVersion": "computer-knowledge-v1",
+        "questionsSolved": "4",
+        "region": "moon",
+        "renderer": "webgl",
+        "sleepMaskFound": "true",
+        "sound": "off",
+        "storageStatus": "saved",
+        "view": "overview",
+        "visited": "entry,orchard,pond,hollow,arch,hill,moon",
+        "walkId": "e80579e5-21a6-40cc-b89f-e700c979f3f7",
+        "worldEvents": "orchard-petals,pond-lilies,mushroom-chime,mushroom-listened,arch-awake,chime-note-1,paper-flock,paper-guide-perch-1,paper-guide-perch-2,paper-guide-perch-3,paper-guide-perch-4,paper-guide-perch-5,paper-guide-perch-6,moon-ring,paper-guide-perch-7"
+      },
+      "viewport": {
+        "height": 800,
+        "width": 1280
+      }
+    }
+  },
+  {
+    "label": "34-lock-wrong",
+    "data": {
+      "canvas": [
+        {
+          "chimeListening": "{\"engaged\":false,\"quiet\":0,\"travel\":0,\"responseAge\":8.5,\"responseStrength\":1,\"side\":1,\"bellAngle\":0.002,\"paperAngle\":0.016,\"noteSerial\":1}",
+          "engine": "three.js r180",
+          "floofAttention": "{\"amount\":0,\"directionX\":0.38220514894750296,\"directionY\":0.8928841898260917,\"leanX\":0,\"leanY\":0,\"puff\":0,\"stretch\":0}",
+          "moonClearing": "{\"phase\":1,\"age\":2.4,\"completed\":true,\"armed\":true}",
+          "mushroomState": "{\"focus\":2,\"quiet\":0,\"engaged\":false,\"sequenceTime\":-1,\"order\":[0,1,2],\"performed\":true,\"lightSide\":1,\"lights\":[{\"x\":0.1,\"y\":0.43,\"opacity\":0,\"radius\":9.1,\"travel\":0},{\"x\":0.1,\"y\":0.43,\"opacity\":0,\"radius\":11,\"travel\":0},{\"x\":0.1,\"y\":0.43,\"opacity\":0,\"radius\":7.0200000000000005,\"travel\":0},{\"x\":0.1,\"y\":0.43,\"opacity\":0,\"radius\":9.75,\"travel\":0},{\"x\":0.1,\"y\":0.43,\"opacity\":0,\"radius\":7.800000000000001,\"travel\":0}],\"warmth\":[0,0,0,0,0],\"opening\":[0,0,0,0,0],\"lean\":[0,0,0,0,0]}",
+          "orangeRest": "{\"phase\":\"idle\",\"elapsed\":0,\"liquid\":0.7781,\"completed\":false,\"amount\":0,\"leanX\":0,\"leanY\":0,\"requestCount\":1,\"actor\":{\"x\":-99.02775547066956,\"y\":8230.10087091423},\"origin\":null}",
+          "paperGuide": "{\"leader\":0,\"met\":true,\"perch\":7,\"target\":7,\"s\":2573.351,\"speed\":0,\"quiet\":2,\"approachTime\":0,\"lift\":4,\"ready\":true,\"finished\":true,\"farewellAge\":3.318,\"farewellSide\":1,\"x\":-240.133,\"y\":8310,\"opacity\":1,\"departureProgress\":0,\"departed\":false,\"farewellLean\":0,\"leftWingAngle\":0.403,\"rightWingAngle\":0.403}",
+          "pondListening": "{\"engaged\":false,\"discovered\":true,\"dream\":{\"phase\":\"dormant\",\"engaged\":false,\"presence\":0,\"playfulness\":0,\"time\":175.803,\"quiet\":0,\"coastStarted\":false,\"reflection\":{\"x\":-1322.908,\"y\":3142.365,\"vx\":0,\"vy\":0},\"target\":{\"x\":-1322.908,\"y\":3142.365},\"trail\":[]},\"secretQuiet\":0,\"secretAge\":-1,\"secretAmount\":0,\"secretSeen\":true,\"quiet\":0,\"calm\":1,\"presence\":0,\"serial\":5,\"source\":{\"x\":-1106.86,\"y\":3395.63},\"ripples\":[{\"x\":-1269.3,\"y\":3000.13,\"age\":4.8,\"touched\":7,\"opacity\":0},{\"x\":-1417.31,\"y\":3053.08,\"age\":4.8,\"touched\":5,\"opacity\":0},{\"x\":-914.7,\"y\":3117.57,\"age\":4.8,\"touched\":0,\"opacity\":0},{\"x\":-914.7,\"y\":3117.57,\"age\":4.8,\"touched\":0,\"opacity\":0}],\"petals\":[{\"x\":-1305,\"y\":3130,\"rotation\":0.7,\"lift\":0,\"speed\":0},{\"x\":-1020,\"y\":3238,\"rotation\":2.4,\"lift\":0,\"speed\":0},{\"x\":-1104,\"y\":3076,\"rotation\":1.5,\"lift\":0,\"speed\":0}]}"
+        }
+      ],
+      "dialogs": [
+        {
+          "clientHeight": 480,
+          "height": 482.4921875,
+          "scrollHeight": 480,
+          "width": 620
+        }
+      ],
+      "main": {
+        "actorX": "-99.027755",
+        "actorY": "8230.100871",
+        "artVersion": "floof-clearing-v1",
+        "atlasPulse": "arch:2",
+        "cameraX": "181.160959",
+        "cameraY": "8720.000000",
+        "cameraZoom": "1.180000",
+        "discovered": "music",
+        "entered": "true",
+        "envelopeStored": "true",
+        "giftUnlocked": "false",
+        "headingX": "-0.016132",
+        "headingY": "0.999870",
+        "lastDrawId": "9ddd7bb5-f944-4988-a59e-cf0ea120d06c:2",
+        "lastSongId": "7",
+        "motionVersion": "point-to-walk-v1",
+        "moving": "false",
+        "progressMode": "walk",
+        "puzzleSolved": "true",
+        "puzzleVersion": "computer-knowledge-v1",
+        "questionsSolved": "4",
+        "region": "moon",
+        "renderer": "webgl",
+        "sleepMaskFound": "true",
+        "sound": "off",
+        "storageStatus": "saved",
+        "view": "lock",
+        "visited": "entry,orchard,pond,hollow,arch,hill,moon",
+        "walkId": "e80579e5-21a6-40cc-b89f-e700c979f3f7",
+        "worldEvents": "orchard-petals,pond-lilies,mushroom-chime,mushroom-listened,arch-awake,chime-note-1,paper-flock,paper-guide-perch-1,paper-guide-perch-2,paper-guide-perch-3,paper-guide-perch-4,paper-guide-perch-5,paper-guide-perch-6,moon-ring,paper-guide-perch-7"
+      },
+      "viewport": {
+        "height": 800,
+        "width": 1280
+      }
+    }
+  },
+  {
+    "label": "35-lock-correct",
+    "data": {
+      "canvas": [
+        {
+          "chimeListening": "{\"engaged\":false,\"quiet\":0,\"travel\":0,\"responseAge\":8.5,\"responseStrength\":1,\"side\":1,\"bellAngle\":0.002,\"paperAngle\":0.016,\"noteSerial\":1}",
+          "engine": "three.js r180",
+          "floofAttention": "{\"amount\":0,\"directionX\":0.38220514894750296,\"directionY\":0.8928841898260917,\"leanX\":0,\"leanY\":0,\"puff\":0,\"stretch\":0}",
+          "moonClearing": "{\"phase\":1,\"age\":2.4,\"completed\":true,\"armed\":true}",
+          "mushroomState": "{\"focus\":2,\"quiet\":0,\"engaged\":false,\"sequenceTime\":-1,\"order\":[0,1,2],\"performed\":true,\"lightSide\":1,\"lights\":[{\"x\":0.1,\"y\":0.43,\"opacity\":0,\"radius\":9.1,\"travel\":0},{\"x\":0.1,\"y\":0.43,\"opacity\":0,\"radius\":11,\"travel\":0},{\"x\":0.1,\"y\":0.43,\"opacity\":0,\"radius\":7.0200000000000005,\"travel\":0},{\"x\":0.1,\"y\":0.43,\"opacity\":0,\"radius\":9.75,\"travel\":0},{\"x\":0.1,\"y\":0.43,\"opacity\":0,\"radius\":7.800000000000001,\"travel\":0}],\"warmth\":[0,0,0,0,0],\"opening\":[0,0,0,0,0],\"lean\":[0,0,0,0,0]}",
+          "orangeRest": "{\"phase\":\"idle\",\"elapsed\":0,\"liquid\":0.7781,\"completed\":false,\"amount\":0,\"leanX\":0,\"leanY\":0,\"requestCount\":1,\"actor\":{\"x\":-99.02775547066956,\"y\":8230.10087091423},\"origin\":null}",
+          "paperGuide": "{\"leader\":0,\"met\":true,\"perch\":7,\"target\":7,\"s\":2573.351,\"speed\":0,\"quiet\":2,\"approachTime\":0,\"lift\":4,\"ready\":true,\"finished\":true,\"farewellAge\":3.318,\"farewellSide\":1,\"x\":-240.133,\"y\":8310,\"opacity\":1,\"departureProgress\":0,\"departed\":false,\"farewellLean\":0,\"leftWingAngle\":0.403,\"rightWingAngle\":0.403}",
+          "pondListening": "{\"engaged\":false,\"discovered\":true,\"dream\":{\"phase\":\"dormant\",\"engaged\":false,\"presence\":0,\"playfulness\":0,\"time\":175.803,\"quiet\":0,\"coastStarted\":false,\"reflection\":{\"x\":-1322.908,\"y\":3142.365,\"vx\":0,\"vy\":0},\"target\":{\"x\":-1322.908,\"y\":3142.365},\"trail\":[]},\"secretQuiet\":0,\"secretAge\":-1,\"secretAmount\":0,\"secretSeen\":true,\"quiet\":0,\"calm\":1,\"presence\":0,\"serial\":5,\"source\":{\"x\":-1106.86,\"y\":3395.63},\"ripples\":[{\"x\":-1269.3,\"y\":3000.13,\"age\":4.8,\"touched\":7,\"opacity\":0},{\"x\":-1417.31,\"y\":3053.08,\"age\":4.8,\"touched\":5,\"opacity\":0},{\"x\":-914.7,\"y\":3117.57,\"age\":4.8,\"touched\":0,\"opacity\":0},{\"x\":-914.7,\"y\":3117.57,\"age\":4.8,\"touched\":0,\"opacity\":0}],\"petals\":[{\"x\":-1305,\"y\":3130,\"rotation\":0.7,\"lift\":0,\"speed\":0},{\"x\":-1020,\"y\":3238,\"rotation\":2.4,\"lift\":0,\"speed\":0},{\"x\":-1104,\"y\":3076,\"rotation\":1.5,\"lift\":0,\"speed\":0}]}"
+        }
+      ],
+      "dialogs": [
+        {
+          "clientHeight": 549,
+          "height": 550.8984375,
+          "scrollHeight": 549,
+          "width": 620
+        }
+      ],
+      "main": {
+        "actorX": "-99.027755",
+        "actorY": "8230.100871",
+        "artVersion": "floof-clearing-v1",
+        "atlasPulse": "arch:2",
+        "cameraX": "181.160959",
+        "cameraY": "8720.000000",
+        "cameraZoom": "1.180000",
+        "discovered": "music",
+        "entered": "true",
+        "envelopeStored": "true",
+        "giftUnlocked": "true",
+        "headingX": "-0.016132",
+        "headingY": "0.999870",
+        "lastDrawId": "9ddd7bb5-f944-4988-a59e-cf0ea120d06c:2",
+        "lastSongId": "7",
+        "motionVersion": "point-to-walk-v1",
+        "moving": "false",
+        "progressMode": "walk",
+        "puzzleSolved": "true",
+        "puzzleVersion": "computer-knowledge-v1",
+        "questionsSolved": "4",
+        "region": "moon",
+        "renderer": "webgl",
+        "sleepMaskFound": "true",
+        "sound": "off",
+        "storageStatus": "saved",
+        "view": "lock",
+        "visited": "entry,orchard,pond,hollow,arch,hill,moon",
+        "walkId": "e80579e5-21a6-40cc-b89f-e700c979f3f7",
+        "worldEvents": "orchard-petals,pond-lilies,mushroom-chime,mushroom-listened,arch-awake,chime-note-1,paper-flock,paper-guide-perch-1,paper-guide-perch-2,paper-guide-perch-3,paper-guide-perch-4,paper-guide-perch-5,paper-guide-perch-6,moon-ring,paper-guide-perch-7"
+      },
+      "viewport": {
+        "height": 800,
+        "width": 1280
+      }
+    }
+  },
+  {
+    "label": "36-passport-reveal",
+    "data": {
+      "canvas": [
+        {
+          "chimeListening": "{\"engaged\":false,\"quiet\":0,\"travel\":0,\"responseAge\":8.5,\"responseStrength\":1,\"side\":1,\"bellAngle\":0.002,\"paperAngle\":0.016,\"noteSerial\":1}",
+          "engine": "three.js r180",
+          "floofAttention": "{\"amount\":0,\"directionX\":0.38220514894750296,\"directionY\":0.8928841898260917,\"leanX\":0,\"leanY\":0,\"puff\":0,\"stretch\":0}",
+          "moonClearing": "{\"phase\":1,\"age\":2.4,\"completed\":true,\"armed\":true}",
+          "mushroomState": "{\"focus\":2,\"quiet\":0,\"engaged\":false,\"sequenceTime\":-1,\"order\":[0,1,2],\"performed\":true,\"lightSide\":1,\"lights\":[{\"x\":0.1,\"y\":0.43,\"opacity\":0,\"radius\":9.1,\"travel\":0},{\"x\":0.1,\"y\":0.43,\"opacity\":0,\"radius\":11,\"travel\":0},{\"x\":0.1,\"y\":0.43,\"opacity\":0,\"radius\":7.0200000000000005,\"travel\":0},{\"x\":0.1,\"y\":0.43,\"opacity\":0,\"radius\":9.75,\"travel\":0},{\"x\":0.1,\"y\":0.43,\"opacity\":0,\"radius\":7.800000000000001,\"travel\":0}],\"warmth\":[0,0,0,0,0],\"opening\":[0,0,0,0,0],\"lean\":[0,0,0,0,0]}",
+          "orangeRest": "{\"phase\":\"idle\",\"elapsed\":0,\"liquid\":0.7781,\"completed\":false,\"amount\":0,\"leanX\":0,\"leanY\":0,\"requestCount\":1,\"actor\":{\"x\":-99.02775547066956,\"y\":8230.10087091423},\"origin\":null}",
+          "paperGuide": "{\"leader\":0,\"met\":true,\"perch\":7,\"target\":7,\"s\":2573.351,\"speed\":0,\"quiet\":2,\"approachTime\":0,\"lift\":4,\"ready\":true,\"finished\":true,\"farewellAge\":3.318,\"farewellSide\":1,\"x\":-240.133,\"y\":8310,\"opacity\":1,\"departureProgress\":0,\"departed\":false,\"farewellLean\":0,\"leftWingAngle\":0.403,\"rightWingAngle\":0.403}",
+          "pondListening": "{\"engaged\":false,\"discovered\":true,\"dream\":{\"phase\":\"dormant\",\"engaged\":false,\"presence\":0,\"playfulness\":0,\"time\":175.803,\"quiet\":0,\"coastStarted\":false,\"reflection\":{\"x\":-1322.908,\"y\":3142.365,\"vx\":0,\"vy\":0},\"target\":{\"x\":-1322.908,\"y\":3142.365},\"trail\":[]},\"secretQuiet\":0,\"secretAge\":-1,\"secretAmount\":0,\"secretSeen\":true,\"quiet\":0,\"calm\":1,\"presence\":0,\"serial\":5,\"source\":{\"x\":-1106.86,\"y\":3395.63},\"ripples\":[{\"x\":-1269.3,\"y\":3000.13,\"age\":4.8,\"touched\":7,\"opacity\":0},{\"x\":-1417.31,\"y\":3053.08,\"age\":4.8,\"touched\":5,\"opacity\":0},{\"x\":-914.7,\"y\":3117.57,\"age\":4.8,\"touched\":0,\"opacity\":0},{\"x\":-914.7,\"y\":3117.57,\"age\":4.8,\"touched\":0,\"opacity\":0}],\"petals\":[{\"x\":-1305,\"y\":3130,\"rotation\":0.7,\"lift\":0,\"speed\":0},{\"x\":-1020,\"y\":3238,\"rotation\":2.4,\"lift\":0,\"speed\":0},{\"x\":-1104,\"y\":3076,\"rotation\":1.5,\"lift\":0,\"speed\":0}]}"
+        }
+      ],
+      "dialogs": [
+        {
+          "clientHeight": 547,
+          "height": 549.09375,
+          "scrollHeight": 547,
+          "width": 620
+        }
+      ],
+      "main": {
+        "actorX": "-99.027755",
+        "actorY": "8230.100871",
+        "artVersion": "floof-clearing-v1",
+        "atlasPulse": "arch:2",
+        "cameraX": "181.160959",
+        "cameraY": "8720.000000",
+        "cameraZoom": "1.180000",
+        "discovered": "music",
+        "entered": "true",
+        "envelopeStored": "true",
+        "giftUnlocked": "true",
+        "headingX": "-0.016132",
+        "headingY": "0.999870",
+        "lastDrawId": "9ddd7bb5-f944-4988-a59e-cf0ea120d06c:2",
+        "lastSongId": "7",
+        "motionVersion": "point-to-walk-v1",
+        "moving": "false",
+        "progressMode": "walk",
+        "puzzleSolved": "true",
+        "puzzleVersion": "computer-knowledge-v1",
+        "questionsSolved": "4",
+        "region": "moon",
+        "renderer": "webgl",
+        "sleepMaskFound": "true",
+        "sound": "off",
+        "storageStatus": "saved",
+        "view": "gift",
+        "visited": "entry,orchard,pond,hollow,arch,hill,moon",
+        "walkId": "e80579e5-21a6-40cc-b89f-e700c979f3f7",
+        "worldEvents": "orchard-petals,pond-lilies,mushroom-chime,mushroom-listened,arch-awake,chime-note-1,paper-flock,paper-guide-perch-1,paper-guide-perch-2,paper-guide-perch-3,paper-guide-perch-4,paper-guide-perch-5,paper-guide-perch-6,moon-ring,paper-guide-perch-7"
+      },
+      "viewport": {
+        "height": 800,
+        "width": 1280
+      }
+    }
+  },
+  {
+    "label": "37-gift-return",
+    "data": {
+      "canvas": [
+        {
+          "chimeListening": "{\"engaged\":false,\"quiet\":0,\"travel\":0,\"responseAge\":8.5,\"responseStrength\":1,\"side\":1,\"bellAngle\":0.004,\"paperAngle\":0.016,\"noteSerial\":1}",
+          "engine": "three.js r180",
+          "floofAttention": "{\"amount\":0,\"directionX\":0.38220514894750296,\"directionY\":0.8928841898260917,\"leanX\":0,\"leanY\":0,\"puff\":0,\"stretch\":0}",
+          "moonClearing": "{\"phase\":1,\"age\":2.4,\"completed\":true,\"armed\":true}",
+          "mushroomState": "{\"focus\":2,\"quiet\":0,\"engaged\":false,\"sequenceTime\":-1,\"order\":[0,1,2],\"performed\":true,\"lightSide\":1,\"lights\":[{\"x\":0.1,\"y\":0.43,\"opacity\":0,\"radius\":9.1,\"travel\":0},{\"x\":0.1,\"y\":0.43,\"opacity\":0,\"radius\":11,\"travel\":0},{\"x\":0.1,\"y\":0.43,\"opacity\":0,\"radius\":7.0200000000000005,\"travel\":0},{\"x\":0.1,\"y\":0.43,\"opacity\":0,\"radius\":9.75,\"travel\":0},{\"x\":0.1,\"y\":0.43,\"opacity\":0,\"radius\":7.800000000000001,\"travel\":0}],\"warmth\":[0,0,0,0,0],\"opening\":[0,0,0,0,0],\"lean\":[0,0,0,0,0]}",
+          "orangeRest": "{\"phase\":\"idle\",\"elapsed\":0,\"liquid\":0.7781,\"completed\":false,\"amount\":0,\"leanX\":0,\"leanY\":0,\"requestCount\":1,\"actor\":{\"x\":-99.02775547066956,\"y\":8230.10087091423},\"origin\":null}",
+          "paperGuide": "{\"leader\":0,\"met\":true,\"perch\":7,\"target\":7,\"s\":2573.351,\"speed\":0,\"quiet\":2,\"approachTime\":0,\"lift\":4,\"ready\":true,\"finished\":true,\"farewellAge\":3.442,\"farewellSide\":1,\"x\":-240.133,\"y\":8310,\"opacity\":1,\"departureProgress\":0,\"departed\":false,\"farewellLean\":0,\"leftWingAngle\":0.478,\"rightWingAngle\":0.478}",
+          "pondListening": "{\"engaged\":false,\"discovered\":true,\"dream\":{\"phase\":\"dormant\",\"engaged\":false,\"presence\":0,\"playfulness\":0,\"time\":175.927,\"quiet\":0,\"coastStarted\":false,\"reflection\":{\"x\":-1322.908,\"y\":3142.365,\"vx\":0,\"vy\":0},\"target\":{\"x\":-1322.908,\"y\":3142.365},\"trail\":[]},\"secretQuiet\":0,\"secretAge\":-1,\"secretAmount\":0,\"secretSeen\":true,\"quiet\":0,\"calm\":1,\"presence\":0,\"serial\":5,\"source\":{\"x\":-1106.86,\"y\":3395.63},\"ripples\":[{\"x\":-1269.3,\"y\":3000.13,\"age\":4.8,\"touched\":7,\"opacity\":0},{\"x\":-1417.31,\"y\":3053.08,\"age\":4.8,\"touched\":5,\"opacity\":0},{\"x\":-914.7,\"y\":3117.57,\"age\":4.8,\"touched\":0,\"opacity\":0},{\"x\":-914.7,\"y\":3117.57,\"age\":4.8,\"touched\":0,\"opacity\":0}],\"petals\":[{\"x\":-1305,\"y\":3130,\"rotation\":0.7,\"lift\":0,\"speed\":0},{\"x\":-1020,\"y\":3238,\"rotation\":2.4,\"lift\":0,\"speed\":0},{\"x\":-1104,\"y\":3076,\"rotation\":1.5,\"lift\":0,\"speed\":0}]}"
+        }
+      ],
+      "dialogs": [],
+      "main": {
+        "actorX": "-99.027755",
+        "actorY": "8230.100871",
+        "artVersion": "floof-clearing-v1",
+        "atlasPulse": "arch:2",
+        "cameraX": "-108.044676",
+        "cameraY": "8417.412693",
+        "cameraZoom": "1.000000",
+        "discovered": "music",
+        "entered": "true",
+        "envelopeStored": "true",
+        "giftUnlocked": "true",
+        "headingX": "-0.016132",
+        "headingY": "0.999870",
+        "lastDrawId": "9ddd7bb5-f944-4988-a59e-cf0ea120d06c:2",
+        "lastSongId": "7",
+        "motionVersion": "point-to-walk-v1",
+        "moving": "false",
+        "progressMode": "walk",
+        "puzzleSolved": "true",
+        "puzzleVersion": "computer-knowledge-v1",
+        "questionsSolved": "4",
+        "region": "moon",
+        "renderer": "webgl",
+        "sleepMaskFound": "true",
+        "sound": "off",
+        "storageStatus": "saved",
+        "view": "overview",
+        "visited": "entry,orchard,pond,hollow,arch,hill,moon",
+        "walkId": "e80579e5-21a6-40cc-b89f-e700c979f3f7",
+        "worldEvents": "orchard-petals,pond-lilies,mushroom-chime,mushroom-listened,arch-awake,chime-note-1,paper-flock,paper-guide-perch-1,paper-guide-perch-2,paper-guide-perch-3,paper-guide-perch-4,paper-guide-perch-5,paper-guide-perch-6,moon-ring,paper-guide-perch-7"
+      },
+      "viewport": {
+        "height": 800,
+        "width": 1280
+      }
+    }
+  },
+  {
+    "label": "38-farewell-finished",
+    "data": {
+      "canvas": [
+        {
+          "chimeListening": "{\"engaged\":false,\"quiet\":0,\"travel\":0,\"responseAge\":8.5,\"responseStrength\":1,\"side\":1,\"bellAngle\":0.009,\"paperAngle\":0.024,\"noteSerial\":1}",
+          "engine": "three.js r180",
+          "floofAttention": "{\"amount\":0,\"directionX\":0.38220514894750296,\"directionY\":0.8928841898260917,\"leanX\":0,\"leanY\":0,\"puff\":0,\"stretch\":0}",
+          "moonClearing": "{\"phase\":1,\"age\":2.4,\"completed\":true,\"armed\":true}",
+          "mushroomState": "{\"focus\":2,\"quiet\":0,\"engaged\":false,\"sequenceTime\":-1,\"order\":[0,1,2],\"performed\":true,\"lightSide\":1,\"lights\":[{\"x\":0.1,\"y\":0.43,\"opacity\":0,\"radius\":9.1,\"travel\":0},{\"x\":0.1,\"y\":0.43,\"opacity\":0,\"radius\":11,\"travel\":0},{\"x\":0.1,\"y\":0.43,\"opacity\":0,\"radius\":7.0200000000000005,\"travel\":0},{\"x\":0.1,\"y\":0.43,\"opacity\":0,\"radius\":9.75,\"travel\":0},{\"x\":0.1,\"y\":0.43,\"opacity\":0,\"radius\":7.800000000000001,\"travel\":0}],\"warmth\":[0,0,0,0,0],\"opening\":[0,0,0,0,0],\"lean\":[0,0,0,0,0]}",
+          "orangeRest": "{\"phase\":\"idle\",\"elapsed\":0,\"liquid\":0.7781,\"completed\":false,\"amount\":0,\"leanX\":0,\"leanY\":0,\"requestCount\":1,\"actor\":{\"x\":-99.02775547066956,\"y\":8230.10087091423},\"origin\":null}",
+          "paperGuide": "{\"leader\":0,\"met\":true,\"perch\":7,\"target\":7,\"s\":2573.351,\"speed\":0,\"quiet\":2,\"approachTime\":0,\"lift\":4,\"ready\":true,\"finished\":true,\"farewellAge\":6.5,\"farewellSide\":1,\"x\":-600.133,\"y\":8455,\"opacity\":0,\"departureProgress\":1,\"departed\":true,\"farewellLean\":0,\"leftWingAngle\":0.52,\"rightWingAngle\":0.52}",
+          "pondListening": "{\"engaged\":false,\"discovered\":true,\"dream\":{\"phase\":\"dormant\",\"engaged\":false,\"presence\":0,\"playfulness\":0,\"time\":191.419,\"quiet\":0,\"coastStarted\":false,\"reflection\":{\"x\":-1322.908,\"y\":3142.365,\"vx\":0,\"vy\":0},\"target\":{\"x\":-1322.908,\"y\":3142.365},\"trail\":[]},\"secretQuiet\":0,\"secretAge\":-1,\"secretAmount\":0,\"secretSeen\":true,\"quiet\":0,\"calm\":1,\"presence\":0,\"serial\":5,\"source\":{\"x\":-1106.86,\"y\":3395.63},\"ripples\":[{\"x\":-1269.3,\"y\":3000.13,\"age\":4.8,\"touched\":7,\"opacity\":0},{\"x\":-1417.31,\"y\":3053.08,\"age\":4.8,\"touched\":5,\"opacity\":0},{\"x\":-914.7,\"y\":3117.57,\"age\":4.8,\"touched\":0,\"opacity\":0},{\"x\":-914.7,\"y\":3117.57,\"age\":4.8,\"touched\":0,\"opacity\":0}],\"petals\":[{\"x\":-1305,\"y\":3130,\"rotation\":0.7,\"lift\":0,\"speed\":0},{\"x\":-1020,\"y\":3238,\"rotation\":2.4,\"lift\":0,\"speed\":0},{\"x\":-1104,\"y\":3076,\"rotation\":1.5,\"lift\":0,\"speed\":0}]}"
+        }
+      ],
+      "dialogs": [],
+      "main": {
+        "actorX": "-99.027755",
+        "actorY": "8230.100871",
+        "artVersion": "floof-clearing-v1",
+        "atlasPulse": "arch:2",
+        "cameraX": "-108.044676",
+        "cameraY": "8417.412693",
+        "cameraZoom": "1.000000",
+        "discovered": "music",
+        "entered": "true",
+        "envelopeStored": "true",
+        "giftUnlocked": "true",
+        "headingX": "-0.016132",
+        "headingY": "0.999870",
+        "lastDrawId": "9ddd7bb5-f944-4988-a59e-cf0ea120d06c:2",
+        "lastSongId": "7",
+        "motionVersion": "point-to-walk-v1",
+        "moving": "false",
+        "progressMode": "walk",
+        "puzzleSolved": "true",
+        "puzzleVersion": "computer-knowledge-v1",
+        "questionsSolved": "4",
+        "region": "moon",
+        "renderer": "webgl",
+        "sleepMaskFound": "true",
+        "sound": "off",
+        "storageStatus": "saved",
+        "view": "overview",
+        "visited": "entry,orchard,pond,hollow,arch,hill,moon",
+        "walkId": "e80579e5-21a6-40cc-b89f-e700c979f3f7",
+        "worldEvents": "orchard-petals,pond-lilies,mushroom-chime,mushroom-listened,arch-awake,chime-note-1,paper-flock,paper-guide-perch-1,paper-guide-perch-2,paper-guide-perch-3,paper-guide-perch-4,paper-guide-perch-5,paper-guide-perch-6,moon-ring,paper-guide-perch-7"
+      },
+      "viewport": {
+        "height": 800,
+        "width": 1280
+      }
+    }
+  },
+  {
+    "label": "39-completed-refresh",
+    "data": {
+      "canvas": [],
+      "dialogs": [],
+      "main": {
+        "actorX": "-99.027755",
+        "actorY": "8230.100871",
+        "artVersion": "floof-clearing-v1",
+        "atlasPulse": "",
+        "cameraX": "-108.044676",
+        "cameraY": "8417.412693",
+        "cameraZoom": "1.000000",
+        "discovered": "",
+        "entered": "true",
+        "envelopeStored": "true",
+        "giftUnlocked": "true",
+        "headingX": "-0.016132",
+        "headingY": "0.999870",
+        "lastDrawId": "9ddd7bb5-f944-4988-a59e-cf0ea120d06c:2",
+        "lastSongId": "7",
+        "motionVersion": "point-to-walk-v1",
+        "moving": "false",
+        "progressMode": "walk",
+        "puzzleSolved": "true",
+        "puzzleVersion": "computer-knowledge-v1",
+        "questionsSolved": "4",
+        "region": "moon",
+        "renderer": "static",
+        "sleepMaskFound": "true",
+        "sound": "off",
+        "storageStatus": "saved",
+        "view": "overview",
+        "visited": "entry,moon",
+        "walkId": "e80579e5-21a6-40cc-b89f-e700c979f3f7",
+        "worldEvents": ""
+      },
+      "viewport": {
+        "height": 800,
+        "width": 1280
+      }
+    }
+  },
+  {
+    "label": "40-gift-revisit",
+    "data": {
+      "canvas": [
+        {
+          "chimeListening": "{\"engaged\":false,\"quiet\":0,\"travel\":0,\"responseAge\":-1,\"responseStrength\":1,\"side\":1,\"bellAngle\":0.002,\"paperAngle\":-0.017,\"noteSerial\":0}",
+          "engine": "three.js r180",
+          "floofAttention": "{\"amount\":0,\"directionX\":0,\"directionY\":1,\"leanX\":0,\"leanY\":0,\"puff\":0,\"stretch\":0}",
+          "moonClearing": "{\"phase\":0,\"age\":-1,\"completed\":false,\"armed\":false}",
+          "mushroomState": "{\"focus\":2,\"quiet\":0,\"engaged\":false,\"sequenceTime\":-1,\"order\":[],\"performed\":false,\"lightSide\":1,\"lights\":[{\"x\":0.1,\"y\":0.43,\"opacity\":0,\"radius\":9.1,\"travel\":0},{\"x\":0.1,\"y\":0.43,\"opacity\":0,\"radius\":11,\"travel\":0},{\"x\":0.1,\"y\":0.43,\"opacity\":0,\"radius\":7.0200000000000005,\"travel\":0},{\"x\":0.1,\"y\":0.43,\"opacity\":0,\"radius\":9.75,\"travel\":0},{\"x\":0.1,\"y\":0.43,\"opacity\":0,\"radius\":7.800000000000001,\"travel\":0}],\"warmth\":[0,0,0,0,0],\"opening\":[0,0,0,0,0],\"lean\":[0,0,0,0,0]}",
+          "orangeRest": "{\"phase\":\"idle\",\"elapsed\":0,\"liquid\":0.82,\"completed\":false,\"amount\":0,\"leanX\":0,\"leanY\":0,\"requestCount\":0,\"actor\":{\"x\":-99.02775547066956,\"y\":8230.10087091423},\"origin\":null}",
+          "paperGuide": "{\"leader\":-1,\"met\":false,\"perch\":0,\"target\":0,\"s\":0,\"speed\":0,\"quiet\":0,\"approachTime\":0,\"lift\":4,\"ready\":false,\"finished\":false,\"farewellAge\":-1,\"farewellSide\":1,\"x\":null,\"y\":null,\"opacity\":1,\"departureProgress\":0,\"departed\":false,\"farewellLean\":0,\"leftWingAngle\":0,\"rightWingAngle\":0}",
+          "pondListening": "{\"engaged\":false,\"discovered\":false,\"dream\":{\"phase\":\"dormant\",\"engaged\":false,\"presence\":0,\"playfulness\":0,\"time\":4.551,\"quiet\":0,\"coastStarted\":false,\"reflection\":{\"x\":-1169.67,\"y\":3338.571,\"vx\":0,\"vy\":0},\"target\":{\"x\":-1169.67,\"y\":3338.571},\"trail\":[]},\"secretQuiet\":0,\"secretAge\":-1,\"secretAmount\":0,\"secretSeen\":false,\"quiet\":0,\"calm\":1,\"presence\":0,\"serial\":0,\"source\":{\"x\":-1106.86,\"y\":3395.63},\"ripples\":[{\"x\":-1106.86,\"y\":3395.63,\"age\":4.8,\"touched\":0,\"opacity\":0},{\"x\":-1106.86,\"y\":3395.63,\"age\":4.8,\"touched\":0,\"opacity\":0},{\"x\":-1106.86,\"y\":3395.63,\"age\":4.8,\"touched\":0,\"opacity\":0},{\"x\":-1106.86,\"y\":3395.63,\"age\":4.8,\"touched\":0,\"opacity\":0}],\"petals\":[{\"x\":-1305,\"y\":3130,\"rotation\":0.7,\"lift\":0,\"speed\":0},{\"x\":-1020,\"y\":3238,\"rotation\":2.4,\"lift\":0,\"speed\":0},{\"x\":-1104,\"y\":3076,\"rotation\":1.5,\"lift\":0,\"speed\":0}]}"
+        }
+      ],
+      "dialogs": [
+        {
+          "clientHeight": 463,
+          "height": 465.3984375,
+          "scrollHeight": 463,
+          "width": 620
+        }
+      ],
+      "main": {
+        "actorX": "-99.027755",
+        "actorY": "8230.100871",
+        "artVersion": "floof-clearing-v1",
+        "atlasPulse": "",
+        "cameraX": "-105.906271",
+        "cameraY": "8419.650043",
+        "cameraZoom": "1.001331",
+        "discovered": "",
+        "entered": "true",
+        "envelopeStored": "true",
+        "giftUnlocked": "true",
+        "headingX": "-0.016132",
+        "headingY": "0.999870",
+        "lastDrawId": "9ddd7bb5-f944-4988-a59e-cf0ea120d06c:2",
+        "lastSongId": "7",
+        "motionVersion": "point-to-walk-v1",
+        "moving": "false",
+        "progressMode": "walk",
+        "puzzleSolved": "true",
+        "puzzleVersion": "computer-knowledge-v1",
+        "questionsSolved": "4",
+        "region": "moon",
+        "renderer": "webgl",
+        "sleepMaskFound": "true",
+        "sound": "off",
+        "storageStatus": "saved",
+        "view": "lock",
+        "visited": "entry,moon",
+        "walkId": "e80579e5-21a6-40cc-b89f-e700c979f3f7",
+        "worldEvents": ""
+      },
+      "viewport": {
+        "height": 800,
+        "width": 1280
+      }
+    }
+  }
+]

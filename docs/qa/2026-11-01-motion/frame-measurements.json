@@ -1,0 +1,41 @@
+{
+  "baseline": {
+    "status": "complete",
+    "elapsedMs": 8000,
+    "durationMs": 8000,
+    "warmupMs": 500,
+    "frames": 751,
+    "meanFrameMs": 9.99,
+    "p95FrameMs": 19.9,
+    "maxFrameMs": 28.9,
+    "framesOver25Ms": 2,
+    "appCommits": 582,
+    "movingSamples": 750,
+    "duplicateMovingFrames": 192,
+    "maxDuplicateRun": 1,
+    "meanStep": 2.39,
+    "p95Step": 6.7,
+    "maxStep": 10.3,
+    "meanDrawCalls": 52.74
+  },
+  "synchronized": {
+    "status": "complete",
+    "elapsedMs": 8000,
+    "durationMs": 8000,
+    "warmupMs": 500,
+    "frames": 899,
+    "meanFrameMs": 8.34,
+    "p95FrameMs": 10.2,
+    "maxFrameMs": 28.2,
+    "framesOver25Ms": 1,
+    "appCommits": 899,
+    "movingSamples": 898,
+    "duplicateMovingFrames": 0,
+    "maxDuplicateRun": 0,
+    "meanStep": 1.99,
+    "p95Step": 2.42,
+    "maxStep": 6.77,
+    "meanDrawCalls": 52.7
+  },
+  "environment": "Local Chromium automation tab, 1280x720, DEV, 8-second controlled input through real movement integrator. This is not a physical trackpad test."
+}

@@ -1,0 +1,206 @@
+{
+  "site": {
+    "title": "A little world for you",
+    "description": "A small garden to wander through, with four questions, music, and a birthday gift.",
+    "locale": "en",
+    "welcome": {
+      "title": "A little world for you",
+      "body": "There is something hidden here.\nShall we take a look?",
+      "startLabel": "Step inside",
+      "continueLabel": "Wander on",
+      "musicShortcutLabel": "Choose a song"
+    }
+  },
+  "people": {
+    "recipientName": "",
+    "senderName": ""
+  },
+  "garden": {
+    "direction": "walk-in-garden",
+    "overviewHint": "A few questions, tucked beside the path.",
+    "approachLabel": "Come closer",
+    "returnLabel": "Return to the garden",
+    "soundOnLabel": "Turn sound on",
+    "soundOffLabel": "Turn sound off",
+    "landmarks": [
+      {
+        "view": "puzzle",
+        "label": "The puzzle desk",
+        "hint": "Four questions and a note to keep."
+      },
+      {
+        "view": "music",
+        "label": "The music garden",
+        "hint": "Come here whenever you would like a song."
+      },
+      {
+        "view": "lock",
+        "label": "The gift",
+        "hint": "A gift is waiting for you to open it."
+      }
+    ]
+  },
+  "puzzle": {
+    "kind": "computer-knowledge-v1",
+    "code": "0305",
+    "title": "Four small questions.",
+    "intro": "One answer, one digit.",
+    "questions": [
+      {
+        "id": "python",
+        "topic": "Python",
+        "prompt": "In Python, what number is the first index of a list?",
+        "answer": "0",
+        "hint": "Think of the index in items[...].",
+        "explanation": "Python lists start at index 0."
+      },
+      {
+        "id": "tcp",
+        "topic": "TCP",
+        "prompt": "In TCP, how many steps make up the handshake that opens a connection?",
+        "answer": "3",
+        "hint": "A request, a reply, and an acknowledgement.",
+        "explanation": "SYN → SYN-ACK → ACK. Three steps establish the connection."
+      },
+      {
+        "id": "xor",
+        "topic": "Logic gates",
+        "prompt": "This gate outputs 1 only when its two inputs differ. What does it output when they are the same?",
+        "answer": "0",
+        "hint": "Equal inputs take the other output.",
+        "explanation": "XOR outputs 0 when both inputs match."
+      },
+      {
+        "id": "binary",
+        "topic": "Binary",
+        "prompt": "A binary signal reads 101. What number is that in decimal?",
+        "answer": "5",
+        "hint": "The place values, from left to right, are 4, 2 and 1.",
+        "explanation": "1 × 4 + 0 × 2 + 1 × 1 = 5."
+      }
+    ],
+    "envelopeLabel": "For later",
+    "keepLabel": "Keep the note"
+  },
+  "music": {
+    "mode": "independent-with-replacement",
+    "title": "A song, whenever you like",
+    "description": "Here are nine pieces I would like to play for you.\nChoose one today, or come back whenever you feel like listening.",
+    "ruleText": "Every draw chooses at random from all nine pieces. You may meet the same one again.",
+    "invitationText": "When you would like to hear it, send me this card. I can record it for you, or play it when we meet.",
+    "copyTextTemplate": "I drew No. {{id}}, “{{title}}”. When you have a moment, I would love to hear you play it.",
+    "songs": [
+      {
+        "id": 1,
+        "title": "Piece 1 (to be added)",
+        "reason": "",
+        "placeholder": true
+      },
+      {
+        "id": 2,
+        "title": "Piece 2 (to be added)",
+        "reason": "",
+        "placeholder": true
+      },
+      {
+        "id": 3,
+        "title": "Piece 3 (to be added)",
+        "reason": "",
+        "placeholder": true
+      },
+      {
+        "id": 4,
+        "title": "Piece 4 (to be added)",
+        "reason": "",
+        "placeholder": true
+      },
+      {
+        "id": 5,
+        "title": "Piece 5 (to be added)",
+        "reason": "",
+        "placeholder": true
+      },
+      {
+        "id": 6,
+        "title": "Piece 6 (to be added)",
+        "reason": "",
+        "placeholder": true
+      },
+      {
+        "id": 7,
+        "title": "Piece 7 (to be added)",
+        "reason": "",
+        "placeholder": true
+      },
+      {
+        "id": 8,
+        "title": "Piece 8 (to be added)",
+        "reason": "",
+        "placeholder": true
+      },
+      {
+        "id": 9,
+        "title": "Piece 9 (to be added)",
+        "reason": "",
+        "placeholder": true
+      }
+    ],
+    "drawLabel": "Let the garden choose",
+    "redrawLabel": "Choose another",
+    "giftLabel": "Visit the gift first",
+    "copyLabel": "Copy song request"
+  },
+  "gift": {
+    "name": "A passport holder & a sleep mask",
+    "reason": "",
+    "imageSrc": null,
+    "imageAlt": "A birthday gift chosen for you",
+    "deliveryText": "",
+    "birthdayMessage": "Happy birthday.",
+    "codeMeaning": "03 / 05 — my birthday.",
+    "endingText": "",
+    "placeholder": false,
+    "screenToRealText": "",
+    "doorTitle": "Something for you.",
+    "openLabel": "Open the parcel",
+    "musicReturnLabel": "Return to the music garden",
+    "lockHintWithKey": "The code is on your note.",
+    "lockHintWithoutKey": "Four digits, from the puzzle desk.",
+    "items": [
+      {
+        "id": "passport-holder",
+        "name": "Passport holder"
+      },
+      {
+        "id": "sleep-mask",
+        "name": "Sleep mask"
+      }
+    ]
+  },
+  "theme": {
+    "background": "#D8ECF2",
+    "text": "#253B32",
+    "secondaryText": "#526657",
+    "primary": "#385B41",
+    "accent": "#E8A8BC",
+    "border": "#D7DFC8",
+    "moss": "#6E934B",
+    "sky": "#D8ECF2",
+    "cream": "#FFF8E8",
+    "petal": "#E8A8BC",
+    "sun": "#F3D98B",
+    "lavender": "#C7B8E3"
+  },
+  "assets": {
+    "overviewBackground": null,
+    "foregroundPlants": null,
+    "midgroundHills": null,
+    "distantClouds": null,
+    "signalProps": null,
+    "musicFlowers": null,
+    "giftDoor": null,
+    "fallbackPosterSrc": null,
+    "ambientAudio": null,
+    "invitationAudio": null
+  }
+}

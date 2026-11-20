@@ -1,0 +1,27 @@
+PASS: all nine fixed IDs have equally sized selection intervals, including 1 and 9
+PASS: one active draw takes one song sample and accepts consecutive identical songs
+PASS: invalid injected randomness is rejected rather than biased or silently redrawn
+PASS: recording a song leaves puzzle drafts, completion, envelope and gift state independent
+PASS: a repeated song creates a fresh result, while replaying the same event is a no-op
+PASS: malformed draw commands cannot replace a valid result
+PASS: accepted event data is copied, and extra fields cannot become persisted draw data
+PASS: refresh restores the last result without saving drawing phases or changing progress
+PASS: completed puzzle and stored envelope survive independent music draws and restoration
+PASS: request text uses the current ID and title without interpreting replacement metacharacters
+PASS: the real hook saves a draw before dispatch returns, before any React commit or animation
+PASS: batched puzzle and draw commands preserve one another before a UI commit
+PASS: a delayed mount effect cannot overwrite an already saved draw with the initial state
+PASS: storage refusal preserves the actual hook result in memory and permits the next draw
+PASS: restore, rerender and repeated event dispatch do not create or overwrite a draw
+
+Music progress: 15 passed, 0 failed.
+
+--- stderr ---
+▲ [WARNING] "import.meta" is not available with the "cjs" output format and will be empty [empty-import-meta]
+
+    src/state/useProgress.ts:13:72:
+      13 │ ...k ? null : browserPreviewProgress(import.meta.env?.DEV === true));
+         ╵                                      ~~~~~~~~~~~
+
+  You need to set the output format to "esm" for "import.meta" to work correctly.
+

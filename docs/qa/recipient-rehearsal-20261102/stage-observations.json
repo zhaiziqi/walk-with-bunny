@@ -1,0 +1,254 @@
+{
+  "provenance": "Manually transcribed summary of actual CUA tool outputs in this turn. Not raw complete sampling, synthetic events, or expected outcomes. The persistent REPL evidence closure retained an older array, so only clipboard/log output reached browser-evidence.json.",
+  "origin": "http://127.0.0.1:43861",
+  "excludedOrigin": {
+    "origin": "http://127.0.0.1:4182",
+    "reason": "Had song 7 from an earlier visit; not considered empty. No stored records removed. Temporary HMR Hook order errors were recovered by reload before using the fresh origin."
+  },
+  "stages": [
+    {
+      "stage": "empty-origin-gift-guard",
+      "url": "http://127.0.0.1:43861/#lock",
+      "questionsSolved": 0,
+      "envelopeStored": false,
+      "giftUnlocked": false,
+      "lastSongId": "",
+      "lastDrawId": "",
+      "observed": "Direct #gift was redirected to #lock; gifts absent from the visible dialog."
+    },
+    {
+      "stage": "question1-wrong",
+      "input": "1",
+      "questionsSolved": 0,
+      "feedback": "Not quite. Try again, or take a hint."
+    },
+    {
+      "stage": "question1-draft-after-refresh",
+      "input": "1",
+      "questionsSolved": 0
+    },
+    {
+      "stage": "first-digit-confirmed",
+      "questionsSolved": 1,
+      "digits": [
+        "0",
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "stage": "four-digits-before-packing",
+      "questionsSolved": 4,
+      "digits": [
+        "0",
+        "3",
+        "0",
+        "5"
+      ],
+      "envelopeStored": false,
+      "giftUnlocked": false,
+      "screenshot": "02-four-digits.png"
+    },
+    {
+      "stage": "four-digits-refresh-before-packing",
+      "questionsSolved": 4,
+      "envelopeStored": false,
+      "giftUnlocked": false,
+      "visibleAction": "Keep the note"
+    },
+    {
+      "stage": "packing-committed",
+      "questionsSolved": 4,
+      "envelopeStored": true,
+      "giftUnlocked": false,
+      "visibleAction": "Tucking it away…"
+    },
+    {
+      "stage": "envelope-after-interruption",
+      "questionsSolved": 4,
+      "envelopeStored": true,
+      "giftUnlocked": false,
+      "visibleAction": "Read note"
+    },
+    {
+      "stage": "envelope-read-note",
+      "digits": [
+        "0",
+        "3",
+        "0",
+        "5"
+      ],
+      "envelopeStored": true,
+      "screenshot": "03-envelope.png"
+    },
+    {
+      "stage": "draw-committed-before-animation",
+      "lastSongId": 7,
+      "lastDrawId": "eee66b3c-f6cd-4f57-a843-971d82a7847f:1",
+      "visibleAction": "Following a little breeze…"
+    },
+    {
+      "stage": "draw-after-refresh",
+      "lastSongId": 7,
+      "lastDrawId": "eee66b3c-f6cd-4f57-a843-971d82a7847f:1",
+      "title": "Lu Xiao Yu",
+      "questionsSolved": 4,
+      "envelopeStored": true,
+      "giftUnlocked": false
+    },
+    {
+      "stage": "manual-copy-selected",
+      "text": "Could you play “Lu Xiao Yu” (No. 07) for me?",
+      "selectionStart": 0,
+      "selectionEnd": 44,
+      "focus": "song-request",
+      "screenshot": "05-song-request.png"
+    },
+    {
+      "stage": "other-tab-redraw-clears-copy-feedback",
+      "lastSongId": 5,
+      "lastDrawId": "785facb7-9053-4237-a1e5-e385c8a0b4eb:1",
+      "questionsSolved": 4,
+      "envelopeStored": true,
+      "giftUnlocked": false,
+      "visibleAction": "Copy song request",
+      "manualTextarea": false
+    },
+    {
+      "stage": "missing-leading-zero-rejected",
+      "input": "305",
+      "giftUnlocked": false,
+      "alert": "Not quite. Check the four digits on your note."
+    },
+    {
+      "stage": "envelope-open-preserves-lock-input",
+      "input": "305",
+      "digits": [
+        "0",
+        "3",
+        "0",
+        "5"
+      ],
+      "giftUnlocked": false
+    },
+    {
+      "stage": "wrong-four-digit-code-rejected",
+      "input": "9999",
+      "giftUnlocked": false,
+      "alert": "Not quite. Check the four digits on your note."
+    },
+    {
+      "stage": "note-collapse-preserves-0305",
+      "input": "0305",
+      "giftUnlocked": false,
+      "screenshot": "06-lock-ready.png"
+    },
+    {
+      "stage": "unlock-committed-during-opening",
+      "input": "0305",
+      "giftUnlocked": true,
+      "visibleAction": "Unwrapping…"
+    },
+    {
+      "stage": "unlock-after-interruption",
+      "url": "http://127.0.0.1:43861/#lock",
+      "giftUnlocked": true,
+      "visibleAction": "See your gifts"
+    },
+    {
+      "stage": "gift-revealed-and-refreshed",
+      "url": "http://127.0.0.1:43861/#gift",
+      "giftUnlocked": true,
+      "gifts": [
+        "Passport holder",
+        "Sleep mask"
+      ],
+      "screenshot": "07-gifts.png"
+    },
+    {
+      "stage": "other-tab-redraw-after-unlock",
+      "lastSongId": 6,
+      "lastDrawId": "b10e9fd7-9c36-4f8d-a207-1ee4c02dee45:2",
+      "questionsSolved": 4,
+      "envelopeStored": true,
+      "giftUnlocked": true
+    },
+    {
+      "stage": "gift-return-to-music",
+      "lastSongId": 6,
+      "title": "Secret",
+      "questionsSolved": 4,
+      "envelopeStored": true,
+      "giftUnlocked": true
+    },
+    {
+      "stage": "return-after-direct-linked-panels",
+      "url": "http://127.0.0.1:43861/#garden",
+      "actorX": "1323.512177",
+      "actorY": "2100.000000",
+      "focus": "journey-surface",
+      "note": "This direct-linked journey had no prior garden return snapshot; not a natural route traversal."
+    },
+    {
+      "stage": "garden-walking-after-reading",
+      "actorX": "1327.080590",
+      "actorY": "1874.173441",
+      "moving": false
+    },
+    {
+      "stage": "garden-rest-before-panel-and-after-panel-refresh",
+      "before": {
+        "actorX": "1327.080590",
+        "actorY": "1874.173441",
+        "cameraX": "1326.811883",
+        "cameraY": "2123.018181",
+        "cameraZoom": "1.180000",
+        "headingX": "0.001259",
+        "headingY": "-0.999999"
+      },
+      "after": {
+        "actorX": "1327.080590",
+        "actorY": "1874.173441",
+        "cameraX": "1326.811883",
+        "cameraY": "2123.018181",
+        "cameraZoom": "1.180000",
+        "headingX": "0.001259",
+        "headingY": "-0.999999"
+      },
+      "focusAfter": "journey-surface"
+    },
+    {
+      "stage": "reduced-note-before-and-after-keys",
+      "renderer": "static",
+      "unchanged": {
+        "actorX": "1327.080590",
+        "actorY": "1874.173441",
+        "cameraX": "-226.487823",
+        "cameraY": "970.000000",
+        "cameraZoom": "1.180000",
+        "headingX": "0.001259",
+        "headingY": "-0.999999"
+      }
+    },
+    {
+      "stage": "reduced-note-return",
+      "actorX": "1327.080590",
+      "actorY": "1874.173441",
+      "cameraX": "1326.811883",
+      "cameraY": "2123.018181",
+      "cameraZoom": "1.180000",
+      "headingX": "0.001259",
+      "headingY": "-0.999999",
+      "focus": "password-shortcut"
+    },
+    {
+      "stage": "webgl-restored",
+      "renderer": "webgl",
+      "questionsSolved": 4,
+      "envelopeStored": true,
+      "giftUnlocked": true,
+      "lastSongId": 6
+    }
+  ]
+}

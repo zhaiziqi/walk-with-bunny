@@ -1,0 +1,47 @@
+[
+  {
+    "check": "First approach starts without a button or injected application state",
+    "pass": true
+  },
+  {
+    "check": "One leading cap and two delayed replies",
+    "pass": true
+  },
+  {
+    "check": "Only one peeking light at a time",
+    "pass": true
+  },
+  {
+    "check": "Light visibly clears the cap and waits",
+    "pass": true,
+    "observed_hold_ms": 680
+  },
+  {
+    "check": "First greeting not consumed before the peek",
+    "pass": true
+  },
+  {
+    "check": "Light returns and vanishes after its finite outing",
+    "pass": true
+  },
+  {
+    "check": "Reading freezes the in-progress response",
+    "pass": true
+  },
+  {
+    "check": "Static mode keeps the same light and does not advance",
+    "pass": true
+  },
+  {
+    "check": "Static switch preserves actor and camera pose",
+    "pass": true
+  },
+  {
+    "check": "Actual keyboard walking preserves the full response",
+    "pass": true
+  },
+  {
+    "check": "No captured browser errors or warnings",
+    "pass": true
+  }
+]

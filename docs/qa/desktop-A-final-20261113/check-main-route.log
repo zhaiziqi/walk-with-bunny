@@ -1,0 +1,15 @@
+PASS: progress chooses desk, packing, music, gift, then quiet without granting any progress
+PASS: closing a music panel at the desk routes from the desk rather than assuming arrival at music
+PASS: music directions work in both directions and end at the existing flower landmark
+PASS: side-path approaches join their nearby trail instead of teleporting or forcing the main centreline
+PASS: the gift journey from music keeps the pond, hollow, arch and hill in order
+PASS: early steps on main trails continue forward rather than turning back to a shortcut
+PASS: the pond bank and stone arch keep the onward main trail instead of skipping the hill
+PASS: a walker deep in a chosen side path continues to its forward end then rejoins the main trail
+PASS: advised trail segments never cut through the pond, even though its graph node is the water centre
+PASS: advice remains finite at all map corners and reachable hints do not precede arrival
+PASS: a shore arrow itself points along dry ground rather than cutting across the curved route
+
+Main route: 11 passed.
+
+--- stderr ---

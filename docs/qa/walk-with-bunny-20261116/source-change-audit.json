@@ -1,0 +1,9 @@
+{
+  "changed": [
+    "index.html",
+    "src/App.tsx",
+    "src/scene/FloofStatic.tsx"
+  ],
+  "newTest": "scripts/check-static-viewport.mjs",
+  "artAndFontsUnchanged": true
+}

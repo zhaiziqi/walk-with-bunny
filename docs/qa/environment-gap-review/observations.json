@@ -1,0 +1,158 @@
+[
+  {
+    "step": "entry",
+    "state": {
+      "actorX": "0.000000",
+      "actorY": "-1800.000000",
+      "atlasPulse": "",
+      "cameraX": "0.000000",
+      "cameraY": "-1580.000000",
+      "cameraZoom": "1.000000",
+      "discovered": "puzzle",
+      "entered": "true",
+      "headingX": "0.218063",
+      "headingY": "-0.975935",
+      "moving": "false",
+      "region": "entry",
+      "renderer": "webgl",
+      "sound": "off",
+      "view": "overview",
+      "viewport": {
+        "height": 720,
+        "width": 1280
+      },
+      "visited": "entry,lantern",
+      "worldEvents": "pond-ripple,stones-awake,trail-passage-7,trail-lantern-awake"
+    }
+  },
+  {
+    "step": "toward-entry-ferns",
+    "state": {
+      "actorX": "-270.052719",
+      "actorY": "-1580.327015",
+      "atlasPulse": "",
+      "cameraX": "-276.092046",
+      "cameraY": "-1354.233797",
+      "cameraZoom": "1.000000",
+      "discovered": "puzzle",
+      "entered": "true",
+      "headingX": "-0.774376",
+      "headingY": "0.632725",
+      "moving": "false",
+      "region": "entry",
+      "renderer": "webgl",
+      "sound": "off",
+      "view": "overview",
+      "viewport": {
+        "height": 720,
+        "width": 1280
+      },
+      "visited": "entry,lantern",
+      "worldEvents": "pond-ripple,stones-awake,trail-passage-7,trail-lantern-awake"
+    }
+  },
+  {
+    "step": "through-entry-ferns",
+    "state": {
+      "actorX": "-405.404286",
+      "actorY": "-1566.431838",
+      "atlasPulse": "",
+      "cameraX": "-386.120500",
+      "cameraY": "-1335.459736",
+      "cameraZoom": "1.000000",
+      "discovered": "puzzle",
+      "entered": "true",
+      "headingX": "-0.998687",
+      "headingY": "0.051227",
+      "moving": "false",
+      "region": "entry",
+      "renderer": "webgl",
+      "sound": "off",
+      "view": "overview",
+      "viewport": {
+        "height": 720,
+        "width": 1280
+      },
+      "visited": "entry,lantern",
+      "worldEvents": "pond-ripple,stones-awake,trail-passage-7,trail-lantern-awake"
+    }
+  },
+  {
+    "step": "toward-first-flower",
+    "state": {
+      "actorX": "115.469957",
+      "actorY": "-1077.305582",
+      "atlasPulse": "",
+      "cameraX": "132.509428",
+      "cameraY": "-841.540097",
+      "cameraZoom": "1.000000",
+      "discovered": "puzzle",
+      "entered": "true",
+      "headingX": "0.734369",
+      "headingY": "0.678750",
+      "moving": "false",
+      "region": "entry",
+      "renderer": "webgl",
+      "sound": "off",
+      "view": "overview",
+      "viewport": {
+        "height": 720,
+        "width": 1280
+      },
+      "visited": "entry,lantern",
+      "worldEvents": "pond-ripple,stones-awake,trail-passage-7,trail-lantern-awake"
+    }
+  },
+  {
+    "step": "flower-close",
+    "state": {
+      "actorX": "271.714718",
+      "actorY": "-1061.817867",
+      "atlasPulse": "",
+      "cameraX": "271.508699",
+      "cameraY": "-825.367374",
+      "cameraZoom": "1.000000",
+      "discovered": "puzzle",
+      "entered": "true",
+      "headingX": "0.997428",
+      "headingY": "0.071679",
+      "moving": "false",
+      "region": "entry",
+      "renderer": "webgl",
+      "sound": "off",
+      "view": "overview",
+      "viewport": {
+        "height": 720,
+        "width": 1280
+      },
+      "visited": "entry,lantern",
+      "worldEvents": "pond-ripple,stones-awake,trail-passage-7,trail-lantern-awake,trail-returned"
+    }
+  },
+  {
+    "step": "flower-dwell",
+    "state": {
+      "actorX": "271.714718",
+      "actorY": "-1061.817867",
+      "atlasPulse": "",
+      "cameraX": "271.508699",
+      "cameraY": "-825.367374",
+      "cameraZoom": "1.000000",
+      "discovered": "puzzle",
+      "entered": "true",
+      "headingX": "0.997428",
+      "headingY": "0.071679",
+      "moving": "false",
+      "region": "entry",
+      "renderer": "webgl",
+      "sound": "off",
+      "view": "overview",
+      "viewport": {
+        "height": 720,
+        "width": 1280
+      },
+      "visited": "entry,lantern",
+      "worldEvents": "pond-ripple,stones-awake,trail-passage-7,trail-lantern-awake,trail-returned,trail-flower-open"
+    }
+  }
+]

@@ -1,0 +1,17 @@
+{
+  "buildFilesMatched": 52,
+  "businessContentUnchanged": true,
+  "contentSha256": "976aae6cac292789c9c350d99d1264830af0fb6e2ba93cd4cad3a49202d9a84e",
+  "giftArtworkSha256": "7788279e809c90125e4c776ab6c3632b2d4ea7a0a5045ce4bb429f898f2c0c02",
+  "archiveSha256": "ff6c2f41e9f8b1c3aa8ada29f5af2092fbfa07662527fa62061e4dcd04f7e297",
+  "browserEvidenceVerified": [
+    "fresh gift route stays locked",
+    "short and wrong codes rejected",
+    "correct code reveals",
+    "replay cannot bypass invalid code",
+    "main progress unchanged",
+    "close restores full pose",
+    "reading freezes pose",
+    "reduced motion reveals after correct code"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "date": "2026-10-30",
+  "mode": "built-in image_gen; transparent_background=true",
+  "reference": "public/assets/garden/quiet-rabbit.webp",
+  "prompt": "Use case: identity-preserve. Asset type: single transparent watercolor rabbit sprite for a gentle interactive garden website. Input image 1 is the exact current original character identity and watercolor style reference. Create ONE alternate pose of this same cute cream-white rabbit, seen from the rear in three-quarter view, walking away toward the upper-left into the distance. We mostly see its round soft back and fluffy tail; its face is turned away and only a tiny hint of cheek profile is acceptable. Keep the same proportions, one long upright ear and one softly floppy ear, delicate blush-pink inner ears, tiny round tail, soft lavender-gray watercolor shading, warm cream fur with hand-painted paper granulation. One hind foot is slightly lifted in a gentle walking step; the other foot is planted. Keep the little pink cosmos flower held in a front paw, partially glimpsed on the far side, not a new accessory. Whole body, ears and feet fully visible, centered with comfortable transparent margin. Quiet fine watercolor children's-book illustration, elegant soft feathered handpainted edges. Genuinely transparent background (alpha). NO floor, NO ground, NO environment, NO cast shadow, NO halo, NO text, NO decorative elements, NO extra rabbits, NO borders, NO watermark. This must clearly look like the same rabbit turned around, not a front-facing rabbit with eyes aimed at the viewer.",
+  "source": "docs/art-source/living-rabbit-back.png",
+  "runtime": "public/assets/garden/living-rabbit-back.webp",
+  "processing": "PNG copied from image_gen output; WebP format encoding only, no crop, recolor, or alpha edit."
+}

@@ -1,0 +1,15 @@
+PASS: copy uses the current two-digit number and configured title, and only confirms after success
+PASS: clipboard rejection reveals selectable text identical to the attempted request
+PASS: an unavailable clipboard API still provides the current song request without claiming success
+PASS: manual selection works independently of clipboard permission and never draws a song
+PASS: an old clipboard resolve cannot change a newly drawn card
+PASS: an old clipboard reject cannot change a newly drawn card
+PASS: an old clipboard resolve cannot mark a piece received from another tab as copied
+PASS: an old clipboard reject cannot mark a piece received from another tab as copied
+PASS: another tab choosing the same piece clears copied feedback for the new draw
+PASS: an old clipboard resolve after unmount cannot update UI state
+PASS: an old clipboard reject after unmount cannot update UI state
+
+Music copy component: 11 passed, 0 failed.
+
+--- stderr ---

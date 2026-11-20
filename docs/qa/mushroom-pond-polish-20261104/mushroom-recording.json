@@ -1,0 +1,317 @@
+[
+  {
+    "t": 0,
+    "path": "/Users/admin/Desktop/birthday-garden/docs/qa/mushroom-pond-polish-20261104/mushroom-frames/000.jpg",
+    "state": "{\"focus\":1,\"quiet\":0.9,\"engaged\":true,\"sequenceTime\":0.25,\"order\":[1,0,3,2],\"performed\":true,\"warmth\":[0,0.567,0,0,0],\"opening\":[0,0.603,0,0,0],\"lean\":[0,0.0021,0,0,0]}"
+  },
+  {
+    "t": 70,
+    "path": "/Users/admin/Desktop/birthday-garden/docs/qa/mushroom-pond-polish-20261104/mushroom-frames/001.jpg",
+    "state": "{\"focus\":1,\"quiet\":1.16,\"engaged\":true,\"sequenceTime\":0.51,\"order\":[1,0,3,2],\"performed\":true,\"warmth\":[0,0.912,0,0,0],\"opening\":[0,0.944,0,0,0],\"lean\":[0,0.0043,0,0,0]}"
+  },
+  {
+    "t": 209,
+    "path": "/Users/admin/Desktop/birthday-garden/docs/qa/mushroom-pond-polish-20261104/mushroom-frames/002.jpg",
+    "state": "{\"focus\":1,\"quiet\":1.16,\"engaged\":true,\"sequenceTime\":0.51,\"order\":[1,0,3,2],\"performed\":true,\"warmth\":[0,0.912,0,0,0],\"opening\":[0,0.944,0,0,0],\"lean\":[0,0.0043,0,0,0]}"
+  },
+  {
+    "t": 312,
+    "path": "/Users/admin/Desktop/birthday-garden/docs/qa/mushroom-pond-polish-20261104/mushroom-frames/003.jpg",
+    "state": "{\"focus\":1,\"quiet\":1.28,\"engaged\":true,\"sequenceTime\":0.63,\"order\":[1,0,3,2],\"performed\":true,\"warmth\":[0,0.951,0,0,0],\"opening\":[0,0.969,0,0,0],\"lean\":[0,0.0049,0,0,0]}"
+  },
+  {
+    "t": 417,
+    "path": "/Users/admin/Desktop/birthday-garden/docs/qa/mushroom-pond-polish-20261104/mushroom-frames/004.jpg",
+    "state": "{\"focus\":1,\"quiet\":1.41,\"engaged\":true,\"sequenceTime\":0.76,\"order\":[1,0,3,2],\"performed\":true,\"warmth\":[0.041,0.938,0,0,0],\"opening\":[0.05,0.93,0,0,0],\"lean\":[-0.0003,0.0052,0,0,0]}"
+  },
+  {
+    "t": 522,
+    "path": "/Users/admin/Desktop/birthday-garden/docs/qa/mushroom-pond-polish-20261104/mushroom-frames/005.jpg",
+    "state": "{\"focus\":1,\"quiet\":1.53,\"engaged\":true,\"sequenceTime\":0.88,\"order\":[1,0,3,2],\"performed\":true,\"warmth\":[0.358,0.893,0,0,0],\"opening\":[0.411,0.825,0,0,0],\"lean\":[-0.003,0.0049,0,0,0]}"
+  },
+  {
+    "t": 626,
+    "path": "/Users/admin/Desktop/birthday-garden/docs/qa/mushroom-pond-polish-20261104/mushroom-frames/006.jpg",
+    "state": "{\"focus\":1,\"quiet\":1.66,\"engaged\":true,\"sequenceTime\":1.01,\"order\":[1,0,3,2],\"performed\":true,\"warmth\":[0.702,0.815,0,0,0],\"opening\":[0.77,0.661,0,0,0],\"lean\":[-0.0068,0.0042,0,0,0]}"
+  },
+  {
+    "t": 728,
+    "path": "/Users/admin/Desktop/birthday-garden/docs/qa/mushroom-pond-polish-20261104/mushroom-frames/007.jpg",
+    "state": "{\"focus\":1,\"quiet\":1.66,\"engaged\":true,\"sequenceTime\":1.01,\"order\":[1,0,3,2],\"performed\":true,\"warmth\":[0.702,0.815,0,0,0],\"opening\":[0.77,0.661,0,0,0],\"lean\":[-0.0068,0.0042,0,0,0]}"
+  },
+  {
+    "t": 831,
+    "path": "/Users/admin/Desktop/birthday-garden/docs/qa/mushroom-pond-polish-20261104/mushroom-frames/008.jpg",
+    "state": "{\"focus\":1,\"quiet\":1.78,\"engaged\":true,\"sequenceTime\":1.13,\"order\":[1,0,3,2],\"performed\":true,\"warmth\":[0.863,0.717,0,0,0],\"opening\":[0.912,0.478,0,0,0],\"lean\":[-0.0096,0.0032,0,0,0]}"
+  },
+  {
+    "t": 936,
+    "path": "/Users/admin/Desktop/birthday-garden/docs/qa/mushroom-pond-polish-20261104/mushroom-frames/009.jpg",
+    "state": "{\"focus\":1,\"quiet\":1.91,\"engaged\":true,\"sequenceTime\":1.26,\"order\":[1,0,3,2],\"performed\":true,\"warmth\":[0.936,0.621,0,0,0],\"opening\":[0.965,0.327,0,0,0],\"lean\":[-0.0116,0.0024,0,0,0]}"
+  },
+  {
+    "t": 1042,
+    "path": "/Users/admin/Desktop/birthday-garden/docs/qa/mushroom-pond-polish-20261104/mushroom-frames/010.jpg",
+    "state": "{\"focus\":1,\"quiet\":2.03,\"engaged\":true,\"sequenceTime\":1.38,\"order\":[1,0,3,2],\"performed\":true,\"warmth\":[0.944,0.535,0,0.002,0],\"opening\":[0.956,0.22,0,0.002,0],\"lean\":[-0.0128,0.0017,0,0,0]}"
+  },
+  {
+    "t": 1146,
+    "path": "/Users/admin/Desktop/birthday-garden/docs/qa/mushroom-pond-polish-20261104/mushroom-frames/011.jpg",
+    "state": "{\"focus\":1,\"quiet\":2.16,\"engaged\":true,\"sequenceTime\":1.51,\"order\":[1,0,3,2],\"performed\":true,\"warmth\":[0.915,0.463,0,0.18,0],\"opening\":[0.881,0.15,0,0.21,0],\"lean\":[-0.0127,0.0013,0,0.0021,0]}"
+  },
+  {
+    "t": 1244,
+    "path": "/Users/admin/Desktop/birthday-garden/docs/qa/mushroom-pond-polish-20261104/mushroom-frames/012.jpg",
+    "state": "{\"focus\":1,\"quiet\":2.28,\"engaged\":true,\"sequenceTime\":1.63,\"order\":[1,0,3,2],\"performed\":true,\"warmth\":[0.851,0.399,0,0.577,0],\"opening\":[0.739,0.101,0,0.646,0],\"lean\":[-0.0113,0.0009,0,0.0075,0]}"
+  },
+  {
+    "t": 1336,
+    "path": "/Users/admin/Desktop/birthday-garden/docs/qa/mushroom-pond-polish-20261104/mushroom-frames/013.jpg",
+    "state": "{\"focus\":1,\"quiet\":2.28,\"engaged\":true,\"sequenceTime\":1.63,\"order\":[1,0,3,2],\"performed\":true,\"warmth\":[0.851,0.399,0,0.577,0],\"opening\":[0.739,0.101,0,0.646,0],\"lean\":[-0.0113,0.0009,0,0.0075,0]}"
+  },
+  {
+    "t": 1453,
+    "path": "/Users/admin/Desktop/birthday-garden/docs/qa/mushroom-pond-polish-20261104/mushroom-frames/014.jpg",
+    "state": "{\"focus\":1,\"quiet\":2.41,\"engaged\":true,\"sequenceTime\":1.76,\"order\":[1,0,3,2],\"performed\":true,\"warmth\":[0.759,0.344,0,0.808,0],\"opening\":[0.557,0.068,0,0.866,0],\"lean\":[-0.0091,0.0007,0,0.0123,0]}"
+  },
+  {
+    "t": 1559,
+    "path": "/Users/admin/Desktop/birthday-garden/docs/qa/mushroom-pond-polish-20261104/mushroom-frames/015.jpg",
+    "state": "{\"focus\":1,\"quiet\":2.54,\"engaged\":true,\"sequenceTime\":1.89,\"order\":[1,0,3,2],\"performed\":true,\"warmth\":[0.655,0.295,0,0.915,0],\"opening\":[0.379,0.045,0,0.951,0],\"lean\":[-0.0067,0.0005,0,0.0158,0]}"
+  },
+  {
+    "t": 1663,
+    "path": "/Users/admin/Desktop/birthday-garden/docs/qa/mushroom-pond-polish-20261104/mushroom-frames/016.jpg",
+    "state": "{\"focus\":1,\"quiet\":2.67,\"engaged\":true,\"sequenceTime\":2.02,\"order\":[1,0,3,2],\"performed\":true,\"warmth\":[0.565,0.254,0,0.947,0],\"opening\":[0.256,0.031,0,0.967,0],\"lean\":[-0.0049,0.0004,0,0.0181,0]}"
+  },
+  {
+    "t": 1763,
+    "path": "/Users/admin/Desktop/birthday-garden/docs/qa/mushroom-pond-polish-20261104/mushroom-frames/017.jpg",
+    "state": "{\"focus\":1,\"quiet\":2.79,\"engaged\":true,\"sequenceTime\":2.14,\"order\":[1,0,3,2],\"performed\":true,\"warmth\":[0.489,0.22,0,0.93,0],\"opening\":[0.174,0.021,0,0.919,0],\"lean\":[-0.0036,0.0003,0,0.0187,0]}"
+  },
+  {
+    "t": 1838,
+    "path": "/Users/admin/Desktop/birthday-garden/docs/qa/mushroom-pond-polish-20261104/mushroom-frames/018.jpg",
+    "state": "{\"focus\":1,\"quiet\":2.91,\"engaged\":true,\"sequenceTime\":2.26,\"order\":[1,0,3,2],\"performed\":true,\"warmth\":[0.422,0.19,0,0.88,0],\"opening\":[0.118,0.014,0,0.803,0],\"lean\":[-0.0026,0.0002,0,0.0175,0]}"
+  },
+  {
+    "t": 1968,
+    "path": "/Users/admin/Desktop/birthday-garden/docs/qa/mushroom-pond-polish-20261104/mushroom-frames/019.jpg",
+    "state": "{\"focus\":1,\"quiet\":2.91,\"engaged\":true,\"sequenceTime\":2.26,\"order\":[1,0,3,2],\"performed\":true,\"warmth\":[0.422,0.19,0,0.88,0],\"opening\":[0.118,0.014,0,0.803,0],\"lean\":[-0.0026,0.0002,0,0.0175,0]}"
+  },
+  {
+    "t": 2070,
+    "path": "/Users/admin/Desktop/birthday-garden/docs/qa/mushroom-pond-polish-20261104/mushroom-frames/020.jpg",
+    "state": "{\"focus\":1,\"quiet\":3.04,\"engaged\":true,\"sequenceTime\":2.39,\"order\":[1,0,3,2],\"performed\":true,\"warmth\":[0.365,0.164,0,0.799,0],\"opening\":[0.08,0.01,0,0.635,0],\"lean\":[-0.0019,0.0001,0,0.0147,0]}"
+  },
+  {
+    "t": 2191,
+    "path": "/Users/admin/Desktop/birthday-garden/docs/qa/mushroom-pond-polish-20261104/mushroom-frames/021.jpg",
+    "state": "{\"focus\":1,\"quiet\":3.16,\"engaged\":true,\"sequenceTime\":2.51,\"order\":[1,0,3,2],\"performed\":true,\"warmth\":[0.315,0.142,0.021,0.7,0],\"opening\":[0.054,0.006,0.026,0.453,0],\"lean\":[-0.0014,0.0001,0.0002,0.0112,0]}"
+  },
+  {
+    "t": 2280,
+    "path": "/Users/admin/Desktop/birthday-garden/docs/qa/mushroom-pond-polish-20261104/mushroom-frames/022.jpg",
+    "state": "{\"focus\":1,\"quiet\":3.29,\"engaged\":true,\"sequenceTime\":2.64,\"order\":[1,0,3,2],\"performed\":true,\"warmth\":[0.271,0.122,0.309,0.604,0],\"opening\":[0.036,0.004,0.356,0.305,0],\"lean\":[-0.001,0.0001,0.0031,0.0082,0]}"
+  },
+  {
+    "t": 2344,
+    "path": "/Users/admin/Desktop/birthday-garden/docs/qa/mushroom-pond-polish-20261104/mushroom-frames/023.jpg",
+    "state": "{\"focus\":1,\"quiet\":3.41,\"engaged\":true,\"sequenceTime\":2.76,\"order\":[1,0,3,2],\"performed\":true,\"warmth\":[0.234,0.105,0.672,0.521,0],\"opening\":[0.025,0.003,0.742,0.206,0],\"lean\":[-0.0008,0.0001,0.0077,0.006,0]}"
+  },
+  {
+    "t": 2487,
+    "path": "/Users/admin/Desktop/birthday-garden/docs/qa/mushroom-pond-polish-20261104/mushroom-frames/024.jpg",
+    "state": "{\"focus\":1,\"quiet\":3.54,\"engaged\":true,\"sequenceTime\":2.89,\"order\":[1,0,3,2],\"performed\":true,\"warmth\":[0.201,0.091,0.852,0.448,0],\"opening\":[0.017,0.002,0.903,0.138,0],\"lean\":[-0.0005,0,0.0113,0.0044,0]}"
+  },
+  {
+    "t": 2596,
+    "path": "/Users/admin/Desktop/birthday-garden/docs/qa/mushroom-pond-polish-20261104/mushroom-frames/025.jpg",
+    "state": "{\"focus\":1,\"quiet\":3.54,\"engaged\":true,\"sequenceTime\":2.89,\"order\":[1,0,3,2],\"performed\":true,\"warmth\":[0.201,0.091,0.852,0.448,0],\"opening\":[0.017,0.002,0.903,0.138,0],\"lean\":[-0.0005,0,0.0113,0.0044,0]}"
+  },
+  {
+    "t": 2699,
+    "path": "/Users/admin/Desktop/birthday-garden/docs/qa/mushroom-pond-polish-20261104/mushroom-frames/026.jpg",
+    "state": "{\"focus\":1,\"quiet\":3.67,\"engaged\":true,\"sequenceTime\":3.02,\"order\":[1,0,3,2],\"performed\":true,\"warmth\":[0.174,0.078,0.933,0.386,0],\"opening\":[0.011,0.001,0.963,0.093,0],\"lean\":[-0.0004,0,0.0139,0.0032,0]}"
+  },
+  {
+    "t": 2797,
+    "path": "/Users/admin/Desktop/birthday-garden/docs/qa/mushroom-pond-polish-20261104/mushroom-frames/027.jpg",
+    "state": "{\"focus\":1,\"quiet\":3.79,\"engaged\":true,\"sequenceTime\":3.14,\"order\":[1,0,3,2],\"performed\":true,\"warmth\":[0.15,0.068,0.945,0.334,0],\"opening\":[0.008,0.001,0.96,0.064,0],\"lean\":[-0.0003,0,0.0154,0.0023,0]}"
+  },
+  {
+    "t": 2901,
+    "path": "/Users/admin/Desktop/birthday-garden/docs/qa/mushroom-pond-polish-20261104/mushroom-frames/028.jpg",
+    "state": "{\"focus\":1,\"quiet\":3.91,\"engaged\":true,\"sequenceTime\":3.26,\"order\":[1,0,3,2],\"performed\":true,\"warmth\":[0.13,0.059,0.919,0.289,0],\"opening\":[0.005,0.001,0.892,0.043,0],\"lean\":[-0.0002,0,0.0154,0.0017,0]}"
+  },
+  {
+    "t": 3003,
+    "path": "/Users/admin/Desktop/birthday-garden/docs/qa/mushroom-pond-polish-20261104/mushroom-frames/029.jpg",
+    "state": "{\"focus\":1,\"quiet\":4.04,\"engaged\":true,\"sequenceTime\":3.39,\"order\":[1,0,3,2],\"performed\":true,\"warmth\":[0.112,0.05,0.858,0.249,0],\"opening\":[0.003,0,0.754,0.029,0],\"lean\":[-0.0002,0,0.0139,0.0012,0]}"
+  },
+  {
+    "t": 3091,
+    "path": "/Users/admin/Desktop/birthday-garden/docs/qa/mushroom-pond-polish-20261104/mushroom-frames/030.jpg",
+    "state": "{\"focus\":1,\"quiet\":4.04,\"engaged\":true,\"sequenceTime\":3.39,\"order\":[1,0,3,2],\"performed\":true,\"warmth\":[0.112,0.05,0.858,0.249,0],\"opening\":[0.003,0,0.754,0.029,0],\"lean\":[-0.0002,0,0.0139,0.0012,0]}"
+  },
+  {
+    "t": 3209,
+    "path": "/Users/admin/Desktop/birthday-garden/docs/qa/mushroom-pond-polish-20261104/mushroom-frames/031.jpg",
+    "state": "{\"focus\":1,\"quiet\":4.17,\"engaged\":true,\"sequenceTime\":3.52,\"order\":[1,0,3,2],\"performed\":true,\"warmth\":[0.096,0.043,0.767,0.214,0],\"opening\":[0.002,0,0.572,0.019,0],\"lean\":[-0.0001,0,0.0113,0.0009,0]}"
+  },
+  {
+    "t": 3314,
+    "path": "/Users/admin/Desktop/birthday-garden/docs/qa/mushroom-pond-polish-20261104/mushroom-frames/032.jpg",
+    "state": "{\"focus\":1,\"quiet\":4.3,\"engaged\":true,\"sequenceTime\":3.65,\"order\":[1,0,3,2],\"performed\":true,\"warmth\":[0.083,0.037,0.665,0.184,0],\"opening\":[0.002,0,0.395,0.013,0],\"lean\":[-0.0001,0,0.0084,0.0007,0]}"
+  },
+  {
+    "t": 3414,
+    "path": "/Users/admin/Desktop/birthday-garden/docs/qa/mushroom-pond-polish-20261104/mushroom-frames/033.jpg",
+    "state": "{\"focus\":1,\"quiet\":4.43,\"engaged\":true,\"sequenceTime\":3.78,\"order\":[1,0,3,2],\"performed\":true,\"warmth\":[0.071,0.032,0.571,0.158,0],\"opening\":[0.001,0,0.263,0.009,0],\"lean\":[-0.0001,0,0.0061,0.0005,0]}"
+  },
+  {
+    "t": 3525,
+    "path": "/Users/admin/Desktop/birthday-garden/docs/qa/mushroom-pond-polish-20261104/mushroom-frames/034.jpg",
+    "state": "{\"focus\":1,\"quiet\":4.55,\"engaged\":true,\"sequenceTime\":3.9,\"order\":[1,0,3,2],\"performed\":true,\"warmth\":[0.061,0.028,0.493,0.137,0],\"opening\":[0.001,0,0.178,0.006,0],\"lean\":[0,0,0.0044,0.0003,0]}"
+  },
+  {
+    "t": 3606,
+    "path": "/Users/admin/Desktop/birthday-garden/docs/qa/mushroom-pond-polish-20261104/mushroom-frames/035.jpg",
+    "state": "{\"focus\":1,\"quiet\":4.55,\"engaged\":true,\"sequenceTime\":3.9,\"order\":[1,0,3,2],\"performed\":true,\"warmth\":[0.061,0.028,0.493,0.137,0],\"opening\":[0.001,0,0.178,0.006,0],\"lean\":[0,0,0.0044,0.0003,0]}"
+  },
+  {
+    "t": 3723,
+    "path": "/Users/admin/Desktop/birthday-garden/docs/qa/mushroom-pond-polish-20261104/mushroom-frames/036.jpg",
+    "state": "{\"focus\":1,\"quiet\":4.68,\"engaged\":true,\"sequenceTime\":4.03,\"order\":[1,0,3,2],\"performed\":true,\"warmth\":[0.053,0.024,0.425,0.118,0],\"opening\":[0,0,0.12,0.004,0],\"lean\":[0,0,0.0032,0.0003,0]}"
+  },
+  {
+    "t": 3826,
+    "path": "/Users/admin/Desktop/birthday-garden/docs/qa/mushroom-pond-polish-20261104/mushroom-frames/037.jpg",
+    "state": "{\"focus\":1,\"quiet\":4.8,\"engaged\":true,\"sequenceTime\":4.15,\"order\":[1,0,3,2],\"performed\":true,\"warmth\":[0.046,0.021,0.368,0.102,0],\"opening\":[0,0,0.082,0.003,0],\"lean\":[0,0,0.0024,0.0002,0]}"
+  },
+  {
+    "t": 3929,
+    "path": "/Users/admin/Desktop/birthday-garden/docs/qa/mushroom-pond-polish-20261104/mushroom-frames/038.jpg",
+    "state": "{\"focus\":1,\"quiet\":4.93,\"engaged\":true,\"sequenceTime\":4.28,\"order\":[1,0,3,2],\"performed\":true,\"warmth\":[0.039,0.018,0.317,0.088,0],\"opening\":[0,0,0.055,0.002,0],\"lean\":[0,0,0.0017,0.0001,0]}"
+  },
+  {
+    "t": 4033,
+    "path": "/Users/admin/Desktop/birthday-garden/docs/qa/mushroom-pond-polish-20261104/mushroom-frames/039.jpg",
+    "state": "{\"focus\":1,\"quiet\":5.05,\"engaged\":true,\"sequenceTime\":4.4,\"order\":[1,0,3,2],\"performed\":true,\"warmth\":[0.034,0.015,0.274,0.076,0],\"opening\":[0,0,0.038,0.001,0],\"lean\":[0,0,0.0013,0.0001,0]}"
+  },
+  {
+    "t": 4102,
+    "path": "/Users/admin/Desktop/birthday-garden/docs/qa/mushroom-pond-polish-20261104/mushroom-frames/040.jpg",
+    "state": "{\"focus\":1,\"quiet\":5.18,\"engaged\":true,\"sequenceTime\":4.53,\"order\":[1,0,3,2],\"performed\":true,\"warmth\":[0.029,0.013,0.236,0.065,0],\"opening\":[0,0,0.025,0.001,0],\"lean\":[0,0,0.0009,0.0001,0]}"
+  },
+  {
+    "t": 4226,
+    "path": "/Users/admin/Desktop/birthday-garden/docs/qa/mushroom-pond-polish-20261104/mushroom-frames/041.jpg",
+    "state": "{\"focus\":1,\"quiet\":5.3,\"engaged\":true,\"sequenceTime\":4.65,\"order\":[1,0,3,2],\"performed\":true,\"warmth\":[0.026,0.012,0.205,0.057,0],\"opening\":[0,0,0.017,0.001,0],\"lean\":[0,0,0.0007,0.0001,0]}"
+  },
+  {
+    "t": 4350,
+    "path": "/Users/admin/Desktop/birthday-garden/docs/qa/mushroom-pond-polish-20261104/mushroom-frames/042.jpg",
+    "state": "{\"focus\":1,\"quiet\":5.3,\"engaged\":true,\"sequenceTime\":4.65,\"order\":[1,0,3,2],\"performed\":true,\"warmth\":[0.026,0.012,0.205,0.057,0],\"opening\":[0,0,0.017,0.001,0],\"lean\":[0,0,0.0007,0.0001,0]}"
+  },
+  {
+    "t": 4452,
+    "path": "/Users/admin/Desktop/birthday-garden/docs/qa/mushroom-pond-polish-20261104/mushroom-frames/043.jpg",
+    "state": "{\"focus\":1,\"quiet\":5.42,\"engaged\":true,\"sequenceTime\":4.77,\"order\":[1,0,3,2],\"performed\":true,\"warmth\":[0.022,0.01,0.177,0.049,0],\"opening\":[0,0,0.012,0,0],\"lean\":[0,0,0.0005,0,0]}"
+  },
+  {
+    "t": 4549,
+    "path": "/Users/admin/Desktop/birthday-garden/docs/qa/mushroom-pond-polish-20261104/mushroom-frames/044.jpg",
+    "state": "{\"focus\":1,\"quiet\":5.55,\"engaged\":true,\"sequenceTime\":4.9,\"order\":[1,0,3,2],\"performed\":true,\"warmth\":[0.019,0.009,0.152,0.042,0],\"opening\":[0,0,0.008,0,0],\"lean\":[0,0,0.0004,0,0]}"
+  },
+  {
+    "t": 4680,
+    "path": "/Users/admin/Desktop/birthday-garden/docs/qa/mushroom-pond-polish-20261104/mushroom-frames/045.jpg",
+    "state": "{\"focus\":1,\"quiet\":5.68,\"engaged\":true,\"sequenceTime\":5.03,\"order\":[1,0,3,2],\"performed\":true,\"warmth\":[0.016,0.007,0.131,0.036,0],\"opening\":[0,0,0.005,0,0],\"lean\":[0,0,0.0003,0,0]}"
+  },
+  {
+    "t": 4746,
+    "path": "/Users/admin/Desktop/birthday-garden/docs/qa/mushroom-pond-polish-20261104/mushroom-frames/046.jpg",
+    "state": "{\"focus\":1,\"quiet\":5.8,\"engaged\":true,\"sequenceTime\":5.15,\"order\":[1,0,3,2],\"performed\":true,\"warmth\":[0.014,0.006,0.113,0.031,0],\"opening\":[0,0,0.004,0,0],\"lean\":[0,0,0.0002,0,0]}"
+  },
+  {
+    "t": 4856,
+    "path": "/Users/admin/Desktop/birthday-garden/docs/qa/mushroom-pond-polish-20261104/mushroom-frames/047.jpg",
+    "state": "{\"focus\":1,\"quiet\":5.8,\"engaged\":true,\"sequenceTime\":5.15,\"order\":[1,0,3,2],\"performed\":true,\"warmth\":[0.014,0.006,0.113,0.031,0],\"opening\":[0,0,0.004,0,0],\"lean\":[0,0,0.0002,0,0]}"
+  },
+  {
+    "t": 4956,
+    "path": "/Users/admin/Desktop/birthday-garden/docs/qa/mushroom-pond-polish-20261104/mushroom-frames/048.jpg",
+    "state": "{\"focus\":1,\"quiet\":5.93,\"engaged\":true,\"sequenceTime\":5.28,\"order\":[1,0,3,2],\"performed\":true,\"warmth\":[0.012,0.005,0.098,0.027,0],\"opening\":[0,0,0.002,0,0],\"lean\":[0,0,0.0001,0,0]}"
+  },
+  {
+    "t": 5058,
+    "path": "/Users/admin/Desktop/birthday-garden/docs/qa/mushroom-pond-polish-20261104/mushroom-frames/049.jpg",
+    "state": "{\"focus\":1,\"quiet\":6.05,\"engaged\":true,\"sequenceTime\":5.4,\"order\":[1,0,3,2],\"performed\":true,\"warmth\":[0.01,0.005,0.084,0.023,0],\"opening\":[0,0,0.002,0,0],\"lean\":[0,0,0.0001,0,0]}"
+  },
+  {
+    "t": 5161,
+    "path": "/Users/admin/Desktop/birthday-garden/docs/qa/mushroom-pond-polish-20261104/mushroom-frames/050.jpg",
+    "state": "{\"focus\":1,\"quiet\":6.18,\"engaged\":true,\"sequenceTime\":5.53,\"order\":[1,0,3,2],\"performed\":true,\"warmth\":[0.009,0.004,0.073,0.02,0],\"opening\":[0,0,0.001,0,0],\"lean\":[0,0,0.0001,0,0]}"
+  },
+  {
+    "t": 5267,
+    "path": "/Users/admin/Desktop/birthday-garden/docs/qa/mushroom-pond-polish-20261104/mushroom-frames/051.jpg",
+    "state": "{\"focus\":1,\"quiet\":6.3,\"engaged\":true,\"sequenceTime\":5.65,\"order\":[1,0,3,2],\"performed\":true,\"warmth\":[0.008,0.004,0.063,0.017,0],\"opening\":[0,0,0.001,0,0],\"lean\":[0,0,0.0001,0,0]}"
+  },
+  {
+    "t": 5357,
+    "path": "/Users/admin/Desktop/birthday-garden/docs/qa/mushroom-pond-polish-20261104/mushroom-frames/052.jpg",
+    "state": "{\"focus\":1,\"quiet\":6.3,\"engaged\":true,\"sequenceTime\":5.65,\"order\":[1,0,3,2],\"performed\":true,\"warmth\":[0.008,0.004,0.063,0.017,0],\"opening\":[0,0,0.001,0,0],\"lean\":[0,0,0.0001,0,0]}"
+  },
+  {
+    "t": 5473,
+    "path": "/Users/admin/Desktop/birthday-garden/docs/qa/mushroom-pond-polish-20261104/mushroom-frames/053.jpg",
+    "state": "{\"focus\":1,\"quiet\":6.43,\"engaged\":true,\"sequenceTime\":5.78,\"order\":[1,0,3,2],\"performed\":true,\"warmth\":[0.007,0.003,0.054,0.015,0],\"opening\":[0,0,0.001,0,0],\"lean\":[0,0,0,0,0]}"
+  },
+  {
+    "t": 5575,
+    "path": "/Users/admin/Desktop/birthday-garden/docs/qa/mushroom-pond-polish-20261104/mushroom-frames/054.jpg",
+    "state": "{\"focus\":1,\"quiet\":6.56,\"engaged\":true,\"sequenceTime\":5.91,\"order\":[1,0,3,2],\"performed\":true,\"warmth\":[0.006,0.003,0.046,0.013,0],\"opening\":[0,0,0,0,0],\"lean\":[0,0,0,0,0]}"
+  },
+  {
+    "t": 5679,
+    "path": "/Users/admin/Desktop/birthday-garden/docs/qa/mushroom-pond-polish-20261104/mushroom-frames/055.jpg",
+    "state": "{\"focus\":1,\"quiet\":6.68,\"engaged\":true,\"sequenceTime\":6.03,\"order\":[1,0,3,2],\"performed\":true,\"warmth\":[0.005,0.002,0.04,0.011,0],\"opening\":[0,0,0,0,0],\"lean\":[0,0,0,0,0]}"
+  },
+  {
+    "t": 5778,
+    "path": "/Users/admin/Desktop/birthday-garden/docs/qa/mushroom-pond-polish-20261104/mushroom-frames/056.jpg",
+    "state": "{\"focus\":1,\"quiet\":6.8,\"engaged\":true,\"sequenceTime\":6.15,\"order\":[1,0,3,2],\"performed\":true,\"warmth\":[0.004,0.002,0.035,0.01,0],\"opening\":[0,0,0,0,0],\"lean\":[0,0,0,0,0]}"
+  },
+  {
+    "t": 5863,
+    "path": "/Users/admin/Desktop/birthday-garden/docs/qa/mushroom-pond-polish-20261104/mushroom-frames/057.jpg",
+    "state": "{\"focus\":1,\"quiet\":6.93,\"engaged\":true,\"sequenceTime\":6.28,\"order\":[1,0,3,2],\"performed\":true,\"warmth\":[0.004,0.002,0.03,0.008,0],\"opening\":[0,0,0,0,0],\"lean\":[0,0,0,0,0]}"
+  },
+  {
+    "t": 5984,
+    "path": "/Users/admin/Desktop/birthday-garden/docs/qa/mushroom-pond-polish-20261104/mushroom-frames/058.jpg",
+    "state": "{\"focus\":1,\"quiet\":6.93,\"engaged\":true,\"sequenceTime\":6.28,\"order\":[1,0,3,2],\"performed\":true,\"warmth\":[0.004,0.002,0.03,0.008,0],\"opening\":[0,0,0,0,0],\"lean\":[0,0,0,0,0]}"
+  },
+  {
+    "t": 6091,
+    "path": "/Users/admin/Desktop/birthday-garden/docs/qa/mushroom-pond-polish-20261104/mushroom-frames/059.jpg",
+    "state": "{\"focus\":1,\"quiet\":7.05,\"engaged\":true,\"sequenceTime\":6.4,\"order\":[1,0,3,2],\"performed\":true,\"warmth\":[0.003,0.001,0.026,0.007,0],\"opening\":[0,0,0,0,0],\"lean\":[0,0,0,0,0]}"
+  },
+  {
+    "t": 6194,
+    "path": "/Users/admin/Desktop/birthday-garden/docs/qa/mushroom-pond-polish-20261104/mushroom-frames/060.jpg",
+    "state": "{\"focus\":1,\"quiet\":7.18,\"engaged\":true,\"sequenceTime\":6.53,\"order\":[1,0,3,2],\"performed\":true,\"warmth\":[0.003,0.001,0.022,0.006,0],\"opening\":[0,0,0,0,0],\"lean\":[0,0,0,0,0]}"
+  },
+  {
+    "t": 6303,
+    "path": "/Users/admin/Desktop/birthday-garden/docs/qa/mushroom-pond-polish-20261104/mushroom-frames/061.jpg",
+    "state": "{\"focus\":1,\"quiet\":7.3,\"engaged\":true,\"sequenceTime\":6.65,\"order\":[1,0,3,2],\"performed\":true,\"warmth\":[0.002,0.001,0.019,0.005,0],\"opening\":[0,0,0,0,0],\"lean\":[0,0,0,0,0]}"
+  },
+  {
+    "t": 6367,
+    "path": "/Users/admin/Desktop/birthday-garden/docs/qa/mushroom-pond-polish-20261104/mushroom-frames/062.jpg",
+    "state": "{\"focus\":1,\"quiet\":7.43,\"engaged\":true,\"sequenceTime\":6.78,\"order\":[1,0,3,2],\"performed\":true,\"warmth\":[0.002,0.001,0.017,0.005,0],\"opening\":[0,0,0,0,0],\"lean\":[0,0,0,0,0]}"
+  }
+]

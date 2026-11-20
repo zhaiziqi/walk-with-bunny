@@ -1,0 +1,13 @@
+Release holds position — PASS
+reading-background-drag — PASS
+panel-return — PASS
+final-panel-return — PASS
+static-memories — PASS
+final-static-retention — PASS
+Final idle — PASS
+Refresh preserves location — PASS
+Refresh clears session ecology — PASS
+Natural round trip records flower, guide, lantern, homeward, returned — PASS
+Diagonal drag moves both world axes — PASS
+Keyboard release and wheel settle — PASS
+Captured browser warning/error list empty — PASS

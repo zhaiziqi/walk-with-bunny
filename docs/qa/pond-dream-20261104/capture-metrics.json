@@ -1,0 +1,11 @@
+{
+  "realBrowserFrames": 143,
+  "sampledGifFrames": 61,
+  "durationMs": 10967,
+  "stopReflectionTravelWorldUnits": 76.09080801910314,
+  "stopActorTravelWorldUnits": 0.0,
+  "waterTrailMax": 18,
+  "width": 1280,
+  "height": 720,
+  "captureInput": "native keyboard, unchanged movement controller"
+}

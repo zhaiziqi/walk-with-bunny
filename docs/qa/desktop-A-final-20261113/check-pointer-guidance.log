@@ -1,0 +1,47 @@
+PASS: a panel, UI target, pressed mouse or touch cannot arm hover guidance
+PASS: zero movementX/Y still guides from changing client coordinates
+PASS: welcome pointer travel cannot arm guidance even when enabled is mistakenly true
+PASS: fresh coordinate travel guides immediately after the baseline, without pressing
+PASS: entering or restoring the surface without motion does not start a walk
+PASS: same-position events and tiny noise cannot change the chosen direction
+PASS: a deliberately placed pointer remains active without repeated motion events
+PASS: finger lifts of any duration preserve the chosen direction until explicitly cancelled
+PASS: target smoothing reduces small alternating noise without delaying a deliberate reversal
+PASS: smoothed target catches up consistently at ordinary desktop frame rates
+PASS: sparse strokes and a fixed pointer keep steady intent across desktop frame rates
+PASS: a new diagonal or reverse gesture replaces the chosen pointer direction
+PASS: moving into a control cancels the chosen direction and stale events cannot restart it
+PASS: a one-frame timestamp skew stays fresh; invalid input and large clock errors are rejected
+PASS: zero-button direction persists, then an explicit neutral target brings actor and camera to rest
+PASS: actual App requires explicit entry before enabling or exposing the walking surface
+PASS: actual encounter click and meadow E each dispatch one pulse and return focus to walking
+PASS: E works when the visible encounter button or its key label has keyboard focus
+PASS: encounter keyboard handling preserves unrelated controls and native button Space/Enter
+PASS: encounter E rejects repeats and blocked scenes while allowing a moving chime visitor
+PASS: welcome ignores pointer, mouse, wheel, keyboard and touch input without entering or moving
+PASS: after explicit Begin a zero-button pointer keeps walking in both event and frame paths
+PASS: returning to the invitation clears all motion and a new Begin never revives old input
+PASS: first keyboard hold after explicit entry survives return and motion-preference changes
+PASS: mounted hook survives input after the RAF timestamp and keeps the placed direction
+PASS: mounted mousemove-only stream works, controls cancel it and fresh motion resumes
+PASS: returning to the little light stops, duplicate coordinates do not restart, and fresh motion resumes
+PASS: mounted hook passes through world hitboxes continuously and still stops for their click
+PASS: wheel alone travels identically over a world object and blank ground in both frame drivers
+PASS: wheel over UI controls, dialog content, blocked scenes or zoom gestures never starts walking
+PASS: movement keys resume directly from restored landmark focus in both frame drivers
+PASS: reading shortcuts retain focus until a walking key hands off to the surface in both frame drivers
+PASS: shortcut activation and traversal keys, modifiers and unrelated controls never start walking
+PASS: reading, an open map and a hidden page block shortcut movement without consuming its key
+PASS: blur and hidden-page cancellation require fresh movement after a shortcut handoff
+PASS: landmark activation keys and UI editing keys retain their defaults without walking
+PASS: walking hands landmark focus to the surface before the landmark leaves the view
+PASS: mounted edge pointer continues for eight seconds with no renewed events or finger movement
+PASS: the drawing frame advances a live sample before React commits, with no second RAF owner
+PASS: render-driven stationary pointer stays continuous until deliberately returned to the little light
+PASS: panel cancellation and exact restoration update the live sample immediately
+PASS: changing frame drivers transfers input without a second RAF or a doubled step
+PASS: a near pointer keeps its slow pace instead of being caught by the moving character and camera
+PASS: desktop clicking blank ground never starts or re-arms a walk
+PASS: leaving the canvas, controls, reading and focus loss cancel a persistent direction safely
+
+--- stderr ---

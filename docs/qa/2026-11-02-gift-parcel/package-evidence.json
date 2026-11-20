@@ -1,0 +1,31 @@
+{
+  "bytes": 17667399,
+  "sha256": "525f4bf2de6f57be8bc9fc2d61070a24666fe4402eb0f68bc03d70621d19da1a",
+  "packageInfo": {
+    "kind": "birthday-garden-desktop-preview",
+    "builtAt": "2026-11-02T07:37:53.870Z",
+    "contentSha256": "a4aa67f9e43bf89b2f68641293378d80d72a165df1c211016c2c9aafb9e6b245",
+    "status": "Desktop rehearsal build; see pending content below. Not a final gift delivery.",
+    "puzzleKind": "computer-knowledge-v1",
+    "progressVersion": 2,
+    "pendingSongIds": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "giftPlaceholder": false,
+    "giftName": "A passport holder & a sleep mask",
+    "giftReasonProvided": false,
+    "giftPhotoProvided": false,
+    "recipientNamePending": true,
+    "senderNamePending": true,
+    "note": "Original references, development source, dependencies and QA records are not included. The complete built local assets are retained."
+  },
+  "builtIndexMatches": true
+}

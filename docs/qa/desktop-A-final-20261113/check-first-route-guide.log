@@ -1,0 +1,6 @@
+PASS: resting wherever the flower hint appears actually opens the flower
+PASS: paper and keep-note prompts only appear while the landmark can be clicked
+PASS: static scenes and the returning butterfly use a path hint, not impossible animation instructions
+PASS: solved questions and a stored envelope never restart the first task
+
+--- stderr ---

@@ -1,0 +1,33 @@
+{
+  "copy": "You opened this gift earlier.",
+  "revealPresent": false,
+  "state": {
+    "actorX": "0.000000",
+    "actorY": "-1800.000000",
+    "artVersion": "floof-clearing-v1",
+    "atlasPulse": "",
+    "cameraX": "26.400969",
+    "cameraY": "-363.377310",
+    "cameraZoom": "1.021261",
+    "discovered": "",
+    "entered": "true",
+    "envelopeStored": "true",
+    "giftUnlocked": "true",
+    "headingX": "0.000000",
+    "headingY": "-1.000000",
+    "lastDrawId": "b34cc731-31fc-4f8c-999b-c42c87c3fef2:1",
+    "lastSongId": "2",
+    "motionVersion": "soft-turn-stop-v3",
+    "moving": "false",
+    "puzzleSolved": "true",
+    "puzzleVersion": "computer-knowledge-v1",
+    "questionsSolved": "4",
+    "region": "entry",
+    "renderer": "webgl",
+    "sound": "off",
+    "storageStatus": "saved",
+    "view": "lock",
+    "visited": "entry",
+    "worldEvents": ""
+  }
+}

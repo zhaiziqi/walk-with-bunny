@@ -1,0 +1,89 @@
+{
+  "date": "2026-11-10",
+  "checks": [
+    {
+      "check": "Map link starts a new production walk with no old achievements",
+      "result": {
+        "draw": "",
+        "entered": "false",
+        "envelope": "false",
+        "gift": "false",
+        "id": "22abcf0d-11d5-41c7-b1ee-312d91701de1",
+        "mask": "false",
+        "mode": "walk",
+        "questions": "0",
+        "visited": "entry"
+      }
+    },
+    {
+      "check": "Walked to puzzle desk: starts at question 1 with four empty slots",
+      "result": {
+        "question": "1",
+        "slots": [
+          "Digit 1: not found yet",
+          "Digit 2: not found yet",
+          "Digit 3: not found yet",
+          "Digit 4: not found yet"
+        ],
+        "stage": "question"
+      }
+    },
+    {
+      "check": "Refresh keeps this walk ID and the first solved digit",
+      "result": {
+        "id": "22abcf0d-11d5-41c7-b1ee-312d91701de1",
+        "question": "2",
+        "questions": "1",
+        "slots": [
+          "Digit 1: 0",
+          "Digit 2: not found yet",
+          "Digit 3: not found yet",
+          "Digit 4: not found yet"
+        ]
+      }
+    },
+    {
+      "check": "Second click creates different ID and zero answers again",
+      "result": {
+        "draw": "",
+        "entered": "false",
+        "envelope": "false",
+        "gift": "false",
+        "id": "3e442b88-87d9-4764-84c9-378a56f09975",
+        "mask": "false",
+        "questions": "0"
+      }
+    },
+    {
+      "check": "Original saved garden unchanged after new walks and reload",
+      "pass": true,
+      "before": {
+        "draw": "",
+        "envelope": "false",
+        "gift": "false",
+        "mask": "true",
+        "questions": "0"
+      },
+      "after": {
+        "draw": "",
+        "envelope": "false",
+        "gift": "false",
+        "mask": "true",
+        "questions": "0"
+      }
+    },
+    {
+      "check": "Fresh walk gift URL still requires password",
+      "result": {
+        "codeField": true,
+        "unlocked": "false",
+        "view": "lock"
+      }
+    }
+  ],
+  "logs": {
+    "original": [],
+    "testWalk": [],
+    "newWalk": []
+  }
+}

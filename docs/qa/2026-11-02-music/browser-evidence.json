@@ -1,0 +1,175 @@
+{
+  "testedAt": "2026-11-01T16:11:25.973Z",
+  "viewport": "1280×720",
+  "doubleClickThenReload": {
+    "during": {
+      "drawId": "39c18a21-605d-4790-bc12-5ee15723d3f1:1",
+      "drawPhase": "drawing",
+      "songId": "9"
+    },
+    "restored": {
+      "drawId": "39c18a21-605d-4790-bc12-5ee15723d3f1:1",
+      "drawPhase": "result",
+      "songId": "9"
+    }
+  },
+  "navigation": {
+    "origin": {
+      "actorX": "1323.512177",
+      "actorY": "2100.000000",
+      "artVersion": "floof-clearing-v1",
+      "atlasPulse": "",
+      "bridgeSeen": "false",
+      "cameraX": "1323.512177",
+      "cameraY": "2320.000000",
+      "cameraZoom": "1.180000",
+      "cardAStage": "bits",
+      "cardBStage": "bits",
+      "discovered": "",
+      "entered": "true",
+      "headingX": "0.000000",
+      "headingY": "-1.000000",
+      "motionVersion": "soft-turn-stop-v3",
+      "moving": "false",
+      "puzzleSolved": "false",
+      "region": "orchard",
+      "renderer": "webgl",
+      "sound": "off",
+      "storageStatus": "saved",
+      "view": "overview",
+      "visited": "entry,orchard",
+      "worldEvents": ""
+    },
+    "revisit": {
+      "drawId": "39c18a21-605d-4790-bc12-5ee15723d3f1:1",
+      "drawPhase": "result",
+      "songId": "9"
+    },
+    "returned": {
+      "actorX": "1323.512177",
+      "actorY": "2100.000000",
+      "artVersion": "floof-clearing-v1",
+      "atlasPulse": "",
+      "bridgeSeen": "false",
+      "cameraX": "1323.512177",
+      "cameraY": "2320.000000",
+      "cameraZoom": "1.180000",
+      "cardAStage": "bits",
+      "cardBStage": "bits",
+      "discovered": "",
+      "entered": "true",
+      "headingX": "0.000000",
+      "headingY": "-1.000000",
+      "motionVersion": "soft-turn-stop-v3",
+      "moving": "false",
+      "puzzleSolved": "false",
+      "region": "orchard",
+      "renderer": "webgl",
+      "sound": "off",
+      "storageStatus": "saved",
+      "view": "overview",
+      "visited": "entry,orchard",
+      "worldEvents": ""
+    },
+    "keys": [
+      "actorX",
+      "actorY",
+      "cameraX",
+      "cameraY",
+      "cameraZoom",
+      "headingX",
+      "headingY"
+    ]
+  },
+  "reduced": {
+    "draw": {
+      "drawId": "a9205c30-3daf-4bb2-a6d1-33905aea51c8:1",
+      "drawPhase": "result",
+      "songId": "2"
+    },
+    "puzzle": "false",
+    "renderer": "static"
+  },
+  "keyboard": {
+    "resultHeadingFocused": true,
+    "tabWrap": true,
+    "shiftTabWrap": true,
+    "escapeReturn": true
+  },
+  "final": {
+    "dialog": [
+      {
+        "clientHeight": 641,
+        "scrollHeight": 641
+      }
+    ],
+    "draw": {
+      "drawId": "a9205c30-3daf-4bb2-a6d1-33905aea51c8:1",
+      "drawPhase": "result",
+      "songId": "2"
+    },
+    "flowers": [
+      {
+        "loaded": true
+      },
+      {
+        "loaded": true
+      },
+      {
+        "loaded": true
+      },
+      {
+        "loaded": true
+      },
+      {
+        "loaded": true
+      },
+      {
+        "loaded": true
+      },
+      {
+        "loaded": true
+      },
+      {
+        "loaded": true
+      },
+      {
+        "loaded": true
+      }
+    ],
+    "main": {
+      "actorX": "1323.512177",
+      "actorY": "2100.000000",
+      "artVersion": "floof-clearing-v1",
+      "atlasPulse": "",
+      "bridgeSeen": "false",
+      "cameraX": "1323.512177",
+      "cameraY": "2320.000000",
+      "cameraZoom": "1.180000",
+      "cardAStage": "bits",
+      "cardBStage": "bits",
+      "discovered": "",
+      "entered": "true",
+      "headingX": "0.000000",
+      "headingY": "-1.000000",
+      "motionVersion": "soft-turn-stop-v3",
+      "moving": "false",
+      "puzzleSolved": "false",
+      "region": "orchard",
+      "renderer": "webgl",
+      "sound": "off",
+      "storageStatus": "saved",
+      "view": "music",
+      "visited": "entry,orchard",
+      "worldEvents": ""
+    },
+    "url": "http://localhost:5173/#music"
+  },
+  "console": [],
+  "clipboard": {
+    "webWriteResolved": true,
+    "readbackVerified": false,
+    "manualSelectionVerified": true,
+    "rejection": "actual component handler tested with rejected API promise; not browser permission denial"
+  }
+}

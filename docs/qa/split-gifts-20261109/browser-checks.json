@@ -1,0 +1,191 @@
+[
+  {
+    "name": "Explicit unwrap reveals only mask and keeps final locked",
+    "state": {
+      "focus": "Turn the paper tag over",
+      "images": [
+        {
+          "alt": "A small keepsake resting on soft paper.",
+          "loaded": true,
+          "src": "/art/gifts/sleep-mask-v1.png"
+        }
+      ],
+      "main": {
+        "actorX": "350.239189",
+        "actorY": "3777.169675",
+        "artVersion": "floof-clearing-v1",
+        "atlasPulse": "",
+        "cameraX": "335.351438",
+        "cameraY": "4004.131110",
+        "cameraZoom": "1.000000",
+        "discovered": "",
+        "entered": "true",
+        "envelopeStored": "false",
+        "giftUnlocked": "false",
+        "headingX": "0.999999",
+        "headingY": "0.001465",
+        "lastDrawId": "",
+        "lastSongId": "",
+        "motionVersion": "point-to-walk-v1",
+        "moving": "false",
+        "progressMode": "saved",
+        "puzzleSolved": "false",
+        "puzzleVersion": "computer-knowledge-v1",
+        "questionsSolved": "0",
+        "region": "hollow",
+        "renderer": "webgl",
+        "sleepMaskFound": "true",
+        "sound": "off",
+        "storageStatus": "saved",
+        "view": "rest",
+        "visited": "entry",
+        "worldEvents": ""
+      },
+      "text": "×\nA small parcel\nBack to the garden ↗"
+    },
+    "pass": true
+  },
+  {
+    "name": "Flip tag shows only the midway gift name",
+    "pass": true
+  },
+  {
+    "name": "Close restores exact place and heading",
+    "pass": true,
+    "before": {
+      "actorX": "350.239189",
+      "actorY": "3777.169675",
+      "artVersion": "floof-clearing-v1",
+      "atlasPulse": "",
+      "cameraX": "335.351438",
+      "cameraY": "4004.131110",
+      "cameraZoom": "1.000000",
+      "discovered": "",
+      "entered": "true",
+      "envelopeStored": "false",
+      "giftUnlocked": "false",
+      "headingX": "0.999999",
+      "headingY": "0.001465",
+      "lastDrawId": "",
+      "lastSongId": "",
+      "motionVersion": "point-to-walk-v1",
+      "moving": "false",
+      "progressMode": "saved",
+      "puzzleSolved": "false",
+      "puzzleVersion": "computer-knowledge-v1",
+      "questionsSolved": "0",
+      "region": "hollow",
+      "renderer": "static",
+      "sleepMaskFound": "false",
+      "sound": "off",
+      "storageStatus": "saved",
+      "view": "overview",
+      "visited": "entry",
+      "worldEvents": ""
+    },
+    "after": {
+      "actorX": "350.239189",
+      "actorY": "3777.169675",
+      "artVersion": "floof-clearing-v1",
+      "atlasPulse": "",
+      "cameraX": "335.351438",
+      "cameraY": "4004.131110",
+      "cameraZoom": "1.000000",
+      "discovered": "",
+      "entered": "true",
+      "envelopeStored": "false",
+      "giftUnlocked": "false",
+      "headingX": "0.999999",
+      "headingY": "0.001465",
+      "lastDrawId": "",
+      "lastSongId": "",
+      "motionVersion": "point-to-walk-v1",
+      "moving": "false",
+      "progressMode": "saved",
+      "puzzleSolved": "false",
+      "puzzleVersion": "computer-knowledge-v1",
+      "questionsSolved": "0",
+      "region": "hollow",
+      "renderer": "webgl",
+      "sleepMaskFound": "true",
+      "sound": "off",
+      "storageStatus": "saved",
+      "view": "overview",
+      "visited": "entry",
+      "worldEvents": ""
+    }
+  },
+  {
+    "name": "Refresh keeps eye-mask discovery and final remains locked",
+    "pass": true
+  },
+  {
+    "name": "Reduced motion preserves the resting keepsake and accessible target",
+    "pass": true
+  },
+  {
+    "name": "Fresh direct gift URL stays locked even without midway discovery",
+    "pass": true
+  },
+  {
+    "name": "Wrong code cannot reveal the remaining gift",
+    "pass": true
+  },
+  {
+    "name": "Finale reveals only passport, optional mask still undiscovered",
+    "pass": true,
+    "state": {
+      "images": [
+        {
+          "loaded": true,
+          "src": "/art/gifts/passport-holder-v1.png"
+        }
+      ],
+      "main": {
+        "actorX": "223.512177",
+        "actorY": "8500.000000",
+        "artVersion": "floof-clearing-v1",
+        "atlasPulse": "",
+        "cameraX": "223.512177",
+        "cameraY": "8720.000000",
+        "cameraZoom": "1.180000",
+        "discovered": "",
+        "entered": "true",
+        "envelopeStored": "false",
+        "giftUnlocked": "true",
+        "headingX": "0.000000",
+        "headingY": "-1.000000",
+        "lastDrawId": "",
+        "lastSongId": "",
+        "motionVersion": "point-to-walk-v1",
+        "moving": "false",
+        "progressMode": "saved",
+        "puzzleSolved": "false",
+        "puzzleVersion": "computer-knowledge-v1",
+        "questionsSolved": "0",
+        "region": "moon",
+        "renderer": "webgl",
+        "sleepMaskFound": "false",
+        "sound": "off",
+        "storageStatus": "saved",
+        "view": "gift",
+        "visited": "entry",
+        "worldEvents": ""
+      },
+      "text": "03 / The gift\n×\nHappy birthday.\nBack to the garden ↗\nMusic garden ↗"
+    }
+  },
+  {
+    "name": "Final flip tag reveals passport only",
+    "pass": true
+  },
+  {
+    "name": "Reload retains final unlock without marking optional mask found",
+    "pass": true
+  },
+  {
+    "name": "No browser errors or warnings",
+    "pass": true,
+    "logs": []
+  }
+]

@@ -1,0 +1,40 @@
+{
+  "fixedDownEnd": {
+    "actorX": "-570.930971",
+    "actorY": "646.737481",
+    "atlasPulse": "",
+    "cameraX": "-570.182138",
+    "cameraY": "860.257410",
+    "cameraZoom": "1.000000",
+    "discovered": "puzzle",
+    "entered": "true",
+    "headingX": "0.000000",
+    "headingY": "1.000000",
+    "moving": "false",
+    "region": "lantern",
+    "renderer": "webgl",
+    "sound": "on",
+    "view": "overview",
+    "visited": "entry,lantern",
+    "worldEvents": "trail-butterfly-met,trail-passage-0,seeds-rise,pond-ripple,trail-passage-2,trail-flower-open,trail-passage-3,trail-guide-perch-1,trail-lantern-awake,stones-awake,trail-passage-4"
+  },
+  "fixedUpEnd": {
+    "actorX": "-563.442849",
+    "actorY": "585.799824",
+    "atlasPulse": "",
+    "cameraX": "-566.589161",
+    "cameraY": "801.878399",
+    "cameraZoom": "1.000000",
+    "discovered": "puzzle",
+    "entered": "true",
+    "headingX": "0.000000",
+    "headingY": "-1.000000",
+    "moving": "false",
+    "region": "lantern",
+    "renderer": "webgl",
+    "sound": "on",
+    "view": "overview",
+    "visited": "entry,lantern",
+    "worldEvents": "trail-butterfly-met,trail-passage-0,seeds-rise,pond-ripple,trail-passage-2,trail-flower-open,trail-passage-3,trail-guide-perch-1,trail-lantern-awake,stones-awake,trail-passage-4"
+  }
+}

@@ -1,0 +1,12 @@
+PASS: same-tick rapid clicks commit exactly one result before scheduling visual feedback
+PASS: the fallback timer unlocks exactly once without an animation-end event or a second draw
+PASS: reduced motion exposes the result immediately but retains a 180 ms click guard
+PASS: unmount removes its timer and listener, and stale draw closures cannot dispatch
+PASS: hiding the page finishes feedback, preserves the committed draw, and never redraws on return
+PASS: enabling reduced motion interrupts feedback without changing or losing the result
+PASS: mounts and rerenders never draw, and effect replay retains one functional listener
+PASS: a rejected dispatch leaves no animation lock or timer and permits a later explicit retry
+
+Song draw lifecycle: 8 passed, 0 failed.
+
+--- stderr ---

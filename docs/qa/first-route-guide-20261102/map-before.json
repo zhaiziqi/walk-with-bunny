@@ -1,0 +1,35 @@
+{
+  "buttons": [
+    "return toWhere the breeze begins"
+  ],
+  "clue": "Next along the pathThe puzzle deskFollow the pale path to the lantern. Four small questions wait there.",
+  "state": {
+    "actorX": "0.000000",
+    "actorY": "-1800.000000",
+    "artVersion": "floof-clearing-v1",
+    "atlasPulse": "",
+    "cameraX": "0.000000",
+    "cameraY": "-1580.000000",
+    "cameraZoom": "1.000000",
+    "discovered": "",
+    "entered": "true",
+    "envelopeStored": "false",
+    "giftUnlocked": "true",
+    "headingX": "0.000000",
+    "headingY": "-1.000000",
+    "lastDrawId": "",
+    "lastSongId": "",
+    "motionVersion": "soft-turn-stop-v3",
+    "moving": "false",
+    "puzzleSolved": "false",
+    "puzzleVersion": "computer-knowledge-v1",
+    "questionsSolved": "0",
+    "region": "entry",
+    "renderer": "webgl",
+    "sound": "off",
+    "storageStatus": "saved",
+    "view": "overview",
+    "visited": "entry",
+    "worldEvents": ""
+  }
+}

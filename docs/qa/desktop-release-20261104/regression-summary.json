@@ -1,0 +1,117 @@
+[
+  {
+    "name": "content",
+    "exit": 0,
+    "passes": 1
+  },
+  {
+    "name": "preview-progress",
+    "exit": 0,
+    "passes": 12
+  },
+  {
+    "name": "cross-tab-progress",
+    "exit": 0,
+    "passes": 14
+  },
+  {
+    "name": "puzzle-progress",
+    "exit": 0,
+    "passes": 18
+  },
+  {
+    "name": "music-progress",
+    "exit": 0,
+    "passes": 15
+  },
+  {
+    "name": "song-draw",
+    "exit": 0,
+    "passes": 8
+  },
+  {
+    "name": "music-copy",
+    "exit": 0,
+    "passes": 11
+  },
+  {
+    "name": "gift-progress",
+    "exit": 0,
+    "passes": 13
+  },
+  {
+    "name": "gift-unlock",
+    "exit": 0,
+    "passes": 10
+  },
+  {
+    "name": "gift-entry",
+    "exit": 0,
+    "passes": 7
+  },
+  {
+    "name": "gift-note",
+    "exit": 0,
+    "passes": 8
+  },
+  {
+    "name": "gift-gate",
+    "exit": 0,
+    "passes": 6
+  },
+  {
+    "name": "pointer-guidance",
+    "exit": 0,
+    "passes": 38
+  },
+  {
+    "name": "turn-stop",
+    "exit": 0,
+    "passes": 9
+  },
+  {
+    "name": "floof-frame",
+    "exit": 0,
+    "passes": 7
+  },
+  {
+    "name": "main-route",
+    "exit": 0,
+    "passes": 11
+  },
+  {
+    "name": "map-guidance",
+    "exit": 0,
+    "passes": 8
+  },
+  {
+    "name": "walkable-ground",
+    "exit": 0,
+    "passes": 7
+  },
+  {
+    "name": "first-route-guide",
+    "exit": 0,
+    "passes": 4
+  },
+  {
+    "name": "paper-guide",
+    "exit": 0,
+    "passes": 18
+  },
+  {
+    "name": "pond-listening",
+    "exit": 0,
+    "passes": 15
+  },
+  {
+    "name": "mushroom-listening",
+    "exit": 0,
+    "passes": 15
+  },
+  {
+    "name": "art-loading",
+    "exit": 0,
+    "passes": 10
+  }
+]

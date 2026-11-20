@@ -1,0 +1,642 @@
+[
+  {
+    "file": "frame-000.jpg",
+    "ms": 42
+  },
+  {
+    "file": "frame-001.jpg",
+    "ms": 65
+  },
+  {
+    "file": "frame-002.jpg",
+    "ms": 85
+  },
+  {
+    "file": "frame-003.jpg",
+    "ms": 107
+  },
+  {
+    "file": "frame-004.jpg",
+    "ms": 126
+  },
+  {
+    "file": "frame-005.jpg",
+    "ms": 147
+  },
+  {
+    "file": "frame-006.jpg",
+    "ms": 164
+  },
+  {
+    "file": "frame-007.jpg",
+    "ms": 182
+  },
+  {
+    "file": "frame-008.jpg",
+    "ms": 201
+  },
+  {
+    "file": "frame-009.jpg",
+    "ms": 232
+  },
+  {
+    "file": "frame-010.jpg",
+    "ms": 717
+  },
+  {
+    "file": "frame-011.jpg",
+    "ms": 820
+  },
+  {
+    "file": "frame-012.jpg",
+    "ms": 856
+  },
+  {
+    "file": "frame-013.jpg",
+    "ms": 883
+  },
+  {
+    "file": "frame-014.jpg",
+    "ms": 912
+  },
+  {
+    "file": "frame-015.jpg",
+    "ms": 934
+  },
+  {
+    "file": "frame-016.jpg",
+    "ms": 958
+  },
+  {
+    "file": "frame-017.jpg",
+    "ms": 984
+  },
+  {
+    "file": "frame-018.jpg",
+    "ms": 1009
+  },
+  {
+    "file": "frame-019.jpg",
+    "ms": 1033
+  },
+  {
+    "file": "frame-020.jpg",
+    "ms": 1050
+  },
+  {
+    "file": "frame-021.jpg",
+    "ms": 1076
+  },
+  {
+    "file": "frame-022.jpg",
+    "ms": 1100
+  },
+  {
+    "file": "frame-023.jpg",
+    "ms": 1115
+  },
+  {
+    "file": "frame-024.jpg",
+    "ms": 1133
+  },
+  {
+    "file": "frame-025.jpg",
+    "ms": 1151
+  },
+  {
+    "file": "frame-026.jpg",
+    "ms": 1184
+  },
+  {
+    "file": "frame-027.jpg",
+    "ms": 1243
+  },
+  {
+    "file": "frame-028.jpg",
+    "ms": 1300
+  },
+  {
+    "file": "frame-029.jpg",
+    "ms": 1344
+  },
+  {
+    "file": "frame-030.jpg",
+    "ms": 1393
+  },
+  {
+    "file": "frame-031.jpg",
+    "ms": 1444
+  },
+  {
+    "file": "frame-032.jpg",
+    "ms": 1488
+  },
+  {
+    "file": "frame-033.jpg",
+    "ms": 1549
+  },
+  {
+    "file": "frame-034.jpg",
+    "ms": 1597
+  },
+  {
+    "file": "frame-035.jpg",
+    "ms": 1659
+  },
+  {
+    "file": "frame-036.jpg",
+    "ms": 1750
+  },
+  {
+    "file": "frame-037.jpg",
+    "ms": 1822
+  },
+  {
+    "file": "frame-038.jpg",
+    "ms": 1871
+  },
+  {
+    "file": "frame-039.jpg",
+    "ms": 1923
+  },
+  {
+    "file": "frame-040.jpg",
+    "ms": 1970
+  },
+  {
+    "file": "frame-041.jpg",
+    "ms": 2029
+  },
+  {
+    "file": "frame-042.jpg",
+    "ms": 2078
+  },
+  {
+    "file": "frame-043.jpg",
+    "ms": 2127
+  },
+  {
+    "file": "frame-044.jpg",
+    "ms": 2169
+  },
+  {
+    "file": "frame-045.jpg",
+    "ms": 2204
+  },
+  {
+    "file": "frame-046.jpg",
+    "ms": 2237
+  },
+  {
+    "file": "frame-047.jpg",
+    "ms": 2272
+  },
+  {
+    "file": "frame-048.jpg",
+    "ms": 2313
+  },
+  {
+    "file": "frame-049.jpg",
+    "ms": 2353
+  },
+  {
+    "file": "frame-050.jpg",
+    "ms": 2396
+  },
+  {
+    "file": "frame-051.jpg",
+    "ms": 2437
+  },
+  {
+    "file": "frame-052.jpg",
+    "ms": 2479
+  },
+  {
+    "file": "frame-053.jpg",
+    "ms": 2520
+  },
+  {
+    "file": "frame-054.jpg",
+    "ms": 2550
+  },
+  {
+    "file": "frame-055.jpg",
+    "ms": 2595
+  },
+  {
+    "file": "frame-056.jpg",
+    "ms": 2626
+  },
+  {
+    "file": "frame-057.jpg",
+    "ms": 2663
+  },
+  {
+    "file": "frame-058.jpg",
+    "ms": 2704
+  },
+  {
+    "file": "frame-059.jpg",
+    "ms": 2752
+  },
+  {
+    "file": "frame-060.jpg",
+    "ms": 2785
+  },
+  {
+    "file": "frame-061.jpg",
+    "ms": 2824
+  },
+  {
+    "file": "frame-062.jpg",
+    "ms": 2855
+  },
+  {
+    "file": "frame-063.jpg",
+    "ms": 2888
+  },
+  {
+    "file": "frame-064.jpg",
+    "ms": 2921
+  },
+  {
+    "file": "frame-065.jpg",
+    "ms": 2954
+  },
+  {
+    "file": "frame-066.jpg",
+    "ms": 2991
+  },
+  {
+    "file": "frame-067.jpg",
+    "ms": 3027
+  },
+  {
+    "file": "frame-068.jpg",
+    "ms": 3063
+  },
+  {
+    "file": "frame-069.jpg",
+    "ms": 3099
+  },
+  {
+    "file": "frame-070.jpg",
+    "ms": 3130
+  },
+  {
+    "file": "frame-071.jpg",
+    "ms": 3165
+  },
+  {
+    "file": "frame-072.jpg",
+    "ms": 3196
+  },
+  {
+    "file": "frame-073.jpg",
+    "ms": 3220
+  },
+  {
+    "file": "frame-074.jpg",
+    "ms": 3246
+  },
+  {
+    "file": "frame-075.jpg",
+    "ms": 3279
+  },
+  {
+    "file": "frame-076.jpg",
+    "ms": 3313
+  },
+  {
+    "file": "frame-077.jpg",
+    "ms": 3347
+  },
+  {
+    "file": "frame-078.jpg",
+    "ms": 3379
+  },
+  {
+    "file": "frame-079.jpg",
+    "ms": 3404
+  },
+  {
+    "file": "frame-080.jpg",
+    "ms": 3431
+  },
+  {
+    "file": "frame-081.jpg",
+    "ms": 3464
+  },
+  {
+    "file": "frame-082.jpg",
+    "ms": 3496
+  },
+  {
+    "file": "frame-083.jpg",
+    "ms": 3521
+  },
+  {
+    "file": "frame-084.jpg",
+    "ms": 3555
+  },
+  {
+    "file": "frame-085.jpg",
+    "ms": 3592
+  },
+  {
+    "file": "frame-086.jpg",
+    "ms": 3620
+  },
+  {
+    "file": "frame-087.jpg",
+    "ms": 3645
+  },
+  {
+    "file": "frame-088.jpg",
+    "ms": 3671
+  },
+  {
+    "file": "frame-089.jpg",
+    "ms": 3715
+  },
+  {
+    "file": "frame-090.jpg",
+    "ms": 3750
+  },
+  {
+    "file": "frame-091.jpg",
+    "ms": 3780
+  },
+  {
+    "file": "frame-092.jpg",
+    "ms": 3812
+  },
+  {
+    "file": "frame-093.jpg",
+    "ms": 3849
+  },
+  {
+    "file": "frame-094.jpg",
+    "ms": 3879
+  },
+  {
+    "file": "frame-095.jpg",
+    "ms": 3911
+  },
+  {
+    "file": "frame-096.jpg",
+    "ms": 3936
+  },
+  {
+    "file": "frame-097.jpg",
+    "ms": 3962
+  },
+  {
+    "file": "frame-098.jpg",
+    "ms": 3995
+  },
+  {
+    "file": "frame-099.jpg",
+    "ms": 4022
+  },
+  {
+    "file": "frame-100.jpg",
+    "ms": 4046
+  },
+  {
+    "file": "frame-101.jpg",
+    "ms": 4081
+  },
+  {
+    "file": "frame-102.jpg",
+    "ms": 4116
+  },
+  {
+    "file": "frame-103.jpg",
+    "ms": 4150
+  },
+  {
+    "file": "frame-104.jpg",
+    "ms": 4184
+  },
+  {
+    "file": "frame-105.jpg",
+    "ms": 4218
+  },
+  {
+    "file": "frame-106.jpg",
+    "ms": 4257
+  },
+  {
+    "file": "frame-107.jpg",
+    "ms": 4292
+  },
+  {
+    "file": "frame-108.jpg",
+    "ms": 4320
+  },
+  {
+    "file": "frame-109.jpg",
+    "ms": 4346
+  },
+  {
+    "file": "frame-110.jpg",
+    "ms": 4371
+  },
+  {
+    "file": "frame-111.jpg",
+    "ms": 4398
+  },
+  {
+    "file": "frame-112.jpg",
+    "ms": 4429
+  },
+  {
+    "file": "frame-113.jpg",
+    "ms": 4463
+  },
+  {
+    "file": "frame-114.jpg",
+    "ms": 4489
+  },
+  {
+    "file": "frame-115.jpg",
+    "ms": 4524
+  },
+  {
+    "file": "frame-116.jpg",
+    "ms": 4559
+  },
+  {
+    "file": "frame-117.jpg",
+    "ms": 4591
+  },
+  {
+    "file": "frame-118.jpg",
+    "ms": 4623
+  },
+  {
+    "file": "frame-119.jpg",
+    "ms": 4660
+  },
+  {
+    "file": "frame-120.jpg",
+    "ms": 4689
+  },
+  {
+    "file": "frame-121.jpg",
+    "ms": 4724
+  },
+  {
+    "file": "frame-122.jpg",
+    "ms": 4758
+  },
+  {
+    "file": "frame-123.jpg",
+    "ms": 4791
+  },
+  {
+    "file": "frame-124.jpg",
+    "ms": 4825
+  },
+  {
+    "file": "frame-125.jpg",
+    "ms": 4858
+  },
+  {
+    "file": "frame-126.jpg",
+    "ms": 4890
+  },
+  {
+    "file": "frame-127.jpg",
+    "ms": 4924
+  },
+  {
+    "file": "frame-128.jpg",
+    "ms": 4957
+  },
+  {
+    "file": "frame-129.jpg",
+    "ms": 4992
+  },
+  {
+    "file": "frame-130.jpg",
+    "ms": 5022
+  },
+  {
+    "file": "frame-131.jpg",
+    "ms": 5047
+  },
+  {
+    "file": "frame-132.jpg",
+    "ms": 5070
+  },
+  {
+    "file": "frame-133.jpg",
+    "ms": 5098
+  },
+  {
+    "file": "frame-134.jpg",
+    "ms": 5134
+  },
+  {
+    "file": "frame-135.jpg",
+    "ms": 5165
+  },
+  {
+    "file": "frame-136.jpg",
+    "ms": 5199
+  },
+  {
+    "file": "frame-137.jpg",
+    "ms": 5230
+  },
+  {
+    "file": "frame-138.jpg",
+    "ms": 5262
+  },
+  {
+    "file": "frame-139.jpg",
+    "ms": 5291
+  },
+  {
+    "file": "frame-140.jpg",
+    "ms": 5321
+  },
+  {
+    "file": "frame-141.jpg",
+    "ms": 5348
+  },
+  {
+    "file": "frame-142.jpg",
+    "ms": 5382
+  },
+  {
+    "file": "frame-143.jpg",
+    "ms": 5410
+  },
+  {
+    "file": "frame-144.jpg",
+    "ms": 5440
+  },
+  {
+    "file": "frame-145.jpg",
+    "ms": 5477
+  },
+  {
+    "file": "frame-146.jpg",
+    "ms": 5505
+  },
+  {
+    "file": "frame-147.jpg",
+    "ms": 5529
+  },
+  {
+    "file": "frame-148.jpg",
+    "ms": 5554
+  },
+  {
+    "file": "frame-149.jpg",
+    "ms": 5584
+  },
+  {
+    "file": "frame-150.jpg",
+    "ms": 5617
+  },
+  {
+    "file": "frame-151.jpg",
+    "ms": 5651
+  },
+  {
+    "file": "frame-152.jpg",
+    "ms": 5681
+  },
+  {
+    "file": "frame-153.jpg",
+    "ms": 5716
+  },
+  {
+    "file": "frame-154.jpg",
+    "ms": 5751
+  },
+  {
+    "file": "frame-155.jpg",
+    "ms": 5783
+  },
+  {
+    "file": "frame-156.jpg",
+    "ms": 5818
+  },
+  {
+    "file": "frame-157.jpg",
+    "ms": 5847
+  },
+  {
+    "file": "frame-158.jpg",
+    "ms": 5877
+  },
+  {
+    "file": "frame-159.jpg",
+    "ms": 5907
+  }
+]

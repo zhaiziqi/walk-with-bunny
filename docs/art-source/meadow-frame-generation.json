@@ -1,0 +1,14 @@
+{
+  "generated_at": "2026-11-01",
+  "mode": "built-in imagegen",
+  "use_case": "illustration-story foreground framing",
+  "transparent_background": true,
+  "original_art": true,
+  "prompt_summary": "A genuinely transparent, restrained watercolor-and-colored-pencil foreground meadow edge for a misty dawn garden: sparse sage grasses, blush cosmos, pale blue delphiniums and ferns, with an open center for the rabbit and path. Fine paper-grain pigment stays inside the plants; no rabbit, tree, door, text, border, photorealism, glossy 3D rendering or dense bouquet wall.",
+  "generated_source": "/Users/admin/.codex/generated_images/01a182b7-7195-7990-a8f7-341d47cc8041/exec-d119452e-a46d-4afb-a73b-6a30e90b9467.png",
+  "runtime": "public/assets/garden/meadow-frame-v1.png",
+  "actual_width": 2172,
+  "actual_height": 724,
+  "alpha": true,
+  "postprocessing": "Copied without repainting or compositing; source alpha preserved."
+}

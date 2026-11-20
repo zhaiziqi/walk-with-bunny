@@ -1,0 +1,208 @@
+{
+  "before": {
+    "main": {
+      "actorX": "1193.118218",
+      "actorY": "4110.315125",
+      "artVersion": "floof-clearing-v1",
+      "atlasPulse": "hollow:1",
+      "cameraX": "1197.232780",
+      "cameraY": "4312.030199",
+      "cameraZoom": "1.180000",
+      "discovered": "",
+      "entered": "true",
+      "envelopeStored": "false",
+      "giftUnlocked": "false",
+      "headingX": "-0.751460",
+      "headingY": "0.659778",
+      "lastDrawId": "",
+      "lastSongId": "",
+      "motionVersion": "point-to-walk-v1",
+      "moving": "false",
+      "progressMode": "saved",
+      "puzzleSolved": "false",
+      "puzzleVersion": "computer-knowledge-v1",
+      "questionsSolved": "0",
+      "region": "hollow",
+      "renderer": "webgl",
+      "sound": "off",
+      "storageStatus": "saved",
+      "view": "overview",
+      "visited": "entry,hollow",
+      "worldEvents": "mushroom-chime,mushroom-listened"
+    },
+    "state": {
+      "engaged": true,
+      "focus": 1,
+      "lean": [
+        0,
+        0.0199,
+        0,
+        0,
+        0
+      ],
+      "lightSide": -1,
+      "lights": [
+        {
+          "opacity": 0,
+          "radius": 9.1,
+          "travel": 0,
+          "x": -0.3685985866758823,
+          "y": 0.5404228515105591
+        },
+        {
+          "opacity": 1,
+          "radius": 11,
+          "travel": 0.44766431112647054,
+          "x": -0.3685985866758823,
+          "y": 0.5404228515105591
+        },
+        {
+          "opacity": 0,
+          "radius": 7.0200000000000005,
+          "travel": 0,
+          "x": -0.3685985866758823,
+          "y": 0.5404228515105591
+        },
+        {
+          "opacity": 0,
+          "radius": 9.75,
+          "travel": 0,
+          "x": -0.3685985866758823,
+          "y": 0.5404228515105591
+        },
+        {
+          "opacity": 0,
+          "radius": 7.800000000000001,
+          "travel": 0,
+          "x": -0.3685985866758823,
+          "y": 0.5404228515105591
+        }
+      ],
+      "opening": [
+        0,
+        0.99,
+        0,
+        0,
+        0
+      ],
+      "order": [
+        1,
+        0,
+        2
+      ],
+      "performed": true,
+      "quiet": 1.69,
+      "sequenceTime": 1.04,
+      "warmth": [
+        0,
+        0.977,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  "after": {
+    "main": {
+      "actorX": "1110.578925",
+      "actorY": "4123.827474",
+      "artVersion": "floof-clearing-v1",
+      "atlasPulse": "hollow:1",
+      "cameraX": "1161.751048",
+      "cameraY": "4322.674202",
+      "cameraZoom": "1.180000",
+      "discovered": "",
+      "entered": "true",
+      "envelopeStored": "false",
+      "giftUnlocked": "false",
+      "headingX": "-0.999775",
+      "headingY": "0.021193",
+      "lastDrawId": "",
+      "lastSongId": "",
+      "motionVersion": "point-to-walk-v1",
+      "moving": "false",
+      "progressMode": "saved",
+      "puzzleSolved": "false",
+      "puzzleVersion": "computer-knowledge-v1",
+      "questionsSolved": "0",
+      "region": "hollow",
+      "renderer": "webgl",
+      "sound": "off",
+      "storageStatus": "saved",
+      "view": "overview",
+      "visited": "entry,hollow",
+      "worldEvents": "mushroom-chime,mushroom-listened"
+    },
+    "state": {
+      "engaged": true,
+      "focus": 1,
+      "lean": [
+        0,
+        0.0242,
+        0,
+        0,
+        0
+      ],
+      "lightSide": -1,
+      "lights": [
+        {
+          "opacity": 0,
+          "radius": 9.1,
+          "travel": 0,
+          "x": -0.7,
+          "y": 0.28
+        },
+        {
+          "opacity": 1,
+          "radius": 11,
+          "travel": 1,
+          "x": -0.7,
+          "y": 0.28
+        },
+        {
+          "opacity": 0,
+          "radius": 7.0200000000000005,
+          "travel": 0,
+          "x": -0.7,
+          "y": 0.28
+        },
+        {
+          "opacity": 0,
+          "radius": 9.75,
+          "travel": 0,
+          "x": -0.7,
+          "y": 0.28
+        },
+        {
+          "opacity": 0,
+          "radius": 7.800000000000001,
+          "travel": 0,
+          "x": -0.7,
+          "y": 0.28
+        }
+      ],
+      "opening": [
+        0,
+        1,
+        0,
+        0,
+        0
+      ],
+      "order": [
+        1,
+        0,
+        2
+      ],
+      "performed": true,
+      "quiet": 0,
+      "sequenceTime": 1.79,
+      "warmth": [
+        0,
+        1,
+        0,
+        0,
+        0
+      ]
+    }
+  }
+}

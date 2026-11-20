@@ -1,0 +1,15 @@
+{
+  "changedExistingSourceFiles": [
+    "src/scene/FloofStatic.tsx",
+    "src/scene/pondListening.ts",
+    "src/scene/PondEncounter.tsx"
+  ],
+  "newSourceFiles": [
+    "src/scene/pondDreamArt.ts",
+    "src/scene/PondDreamLayer.tsx",
+    "src/scene/pondDream.ts"
+  ],
+  "contentSha256": "976aae6cac292789c9c350d99d1264830af0fb6e2ba93cd4cad3a49202d9a84e",
+  "controllerUnchanged": true,
+  "businessFilesUnchanged": true
+}

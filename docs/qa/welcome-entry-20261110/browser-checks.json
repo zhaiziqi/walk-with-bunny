@@ -1,0 +1,422 @@
+[
+  {
+    "name": "initial",
+    "snapshot": {
+      "focus": "",
+      "state": {
+        "actorX": "0.000000",
+        "actorY": "-1800.000000",
+        "artVersion": "floof-clearing-v1",
+        "atlasPulse": "",
+        "cameraX": "0.000000",
+        "cameraY": "-1580.000000",
+        "cameraZoom": "1.000000",
+        "discovered": "",
+        "entered": "false",
+        "envelopeStored": "false",
+        "giftUnlocked": "false",
+        "headingX": "0.000000",
+        "headingY": "-1.000000",
+        "lastDrawId": "",
+        "lastSongId": "",
+        "motionVersion": "point-to-walk-v1",
+        "moving": "false",
+        "progressMode": "walk",
+        "puzzleSolved": "false",
+        "puzzleVersion": "computer-knowledge-v1",
+        "questionsSolved": "0",
+        "region": "entry",
+        "renderer": "webgl",
+        "sleepMaskFound": "false",
+        "sound": "off",
+        "storageStatus": "saved",
+        "view": "overview",
+        "visited": "entry",
+        "walkId": "a5e94c1a-1ffb-448c-9b83-f1d01ebacb33",
+        "worldEvents": ""
+      },
+      "surface": {
+        "tabIndex": -1
+      },
+      "welcome": true
+    }
+  },
+  {
+    "name": "welcome_after_heading_click_arrow_scroll",
+    "snapshot": {
+      "focus": "",
+      "state": {
+        "actorX": "0.000000",
+        "actorY": "-1800.000000",
+        "artVersion": "floof-clearing-v1",
+        "atlasPulse": "",
+        "cameraX": "0.000000",
+        "cameraY": "-1580.000000",
+        "cameraZoom": "1.000000",
+        "discovered": "",
+        "entered": "false",
+        "envelopeStored": "false",
+        "giftUnlocked": "false",
+        "headingX": "0.000000",
+        "headingY": "-1.000000",
+        "lastDrawId": "",
+        "lastSongId": "",
+        "motionVersion": "point-to-walk-v1",
+        "moving": "false",
+        "progressMode": "walk",
+        "puzzleSolved": "false",
+        "puzzleVersion": "computer-knowledge-v1",
+        "questionsSolved": "0",
+        "region": "entry",
+        "renderer": "webgl",
+        "sleepMaskFound": "false",
+        "sound": "off",
+        "storageStatus": "saved",
+        "view": "overview",
+        "visited": "entry",
+        "walkId": "a5e94c1a-1ffb-448c-9b83-f1d01ebacb33",
+        "worldEvents": ""
+      },
+      "surface": {
+        "tabIndex": -1
+      },
+      "welcome": true
+    }
+  },
+  {
+    "name": "begin_click",
+    "snapshot": {
+      "focus": "journey-surface",
+      "state": {
+        "actorX": "0.000000",
+        "actorY": "-1800.000000",
+        "artVersion": "floof-clearing-v1",
+        "atlasPulse": "",
+        "cameraX": "0.000000",
+        "cameraY": "-1580.000000",
+        "cameraZoom": "1.000000",
+        "discovered": "",
+        "entered": "true",
+        "envelopeStored": "false",
+        "giftUnlocked": "false",
+        "headingX": "0.000000",
+        "headingY": "-1.000000",
+        "lastDrawId": "",
+        "lastSongId": "",
+        "motionVersion": "point-to-walk-v1",
+        "moving": "false",
+        "progressMode": "walk",
+        "puzzleSolved": "false",
+        "puzzleVersion": "computer-knowledge-v1",
+        "questionsSolved": "0",
+        "region": "entry",
+        "renderer": "webgl",
+        "sleepMaskFound": "false",
+        "sound": "off",
+        "storageStatus": "saved",
+        "view": "overview",
+        "visited": "entry",
+        "walkId": "a5e94c1a-1ffb-448c-9b83-f1d01ebacb33",
+        "worldEvents": ""
+      },
+      "surface": {
+        "tabIndex": 0
+      },
+      "welcome": false
+    }
+  },
+  {
+    "name": "walking_after_begin",
+    "snapshot": {
+      "focus": "journey-surface",
+      "state": {
+        "actorX": "22.027826",
+        "actorY": "-1717.606049",
+        "artVersion": "floof-clearing-v1",
+        "atlasPulse": "",
+        "cameraX": "8.622646",
+        "cameraY": "-1546.481066",
+        "cameraZoom": "1.000000",
+        "discovered": "",
+        "entered": "true",
+        "envelopeStored": "false",
+        "giftUnlocked": "false",
+        "headingX": "0.020469",
+        "headingY": "0.999790",
+        "lastDrawId": "",
+        "lastSongId": "",
+        "motionVersion": "point-to-walk-v1",
+        "moving": "false",
+        "progressMode": "walk",
+        "puzzleSolved": "false",
+        "puzzleVersion": "computer-knowledge-v1",
+        "questionsSolved": "0",
+        "region": "entry",
+        "renderer": "webgl",
+        "sleepMaskFound": "false",
+        "sound": "off",
+        "storageStatus": "saved",
+        "view": "overview",
+        "visited": "entry",
+        "walkId": "a5e94c1a-1ffb-448c-9b83-f1d01ebacb33",
+        "worldEvents": ""
+      },
+      "surface": {
+        "tabIndex": 0
+      },
+      "welcome": false
+    }
+  },
+  {
+    "name": "return_to_entrance",
+    "snapshot": {
+      "focus": "enter-garden",
+      "state": {
+        "actorX": "0.000000",
+        "actorY": "-1800.000000",
+        "artVersion": "floof-clearing-v1",
+        "atlasPulse": "",
+        "cameraX": "0.000000",
+        "cameraY": "-1580.000000",
+        "cameraZoom": "1.000000",
+        "discovered": "",
+        "entered": "false",
+        "envelopeStored": "false",
+        "giftUnlocked": "false",
+        "headingX": "-0.258277",
+        "headingY": "-0.966071",
+        "lastDrawId": "",
+        "lastSongId": "",
+        "motionVersion": "point-to-walk-v1",
+        "moving": "false",
+        "progressMode": "walk",
+        "puzzleSolved": "false",
+        "puzzleVersion": "computer-knowledge-v1",
+        "questionsSolved": "0",
+        "region": "entry",
+        "renderer": "webgl",
+        "sleepMaskFound": "false",
+        "sound": "off",
+        "storageStatus": "saved",
+        "view": "overview",
+        "visited": "entry",
+        "walkId": "a5e94c1a-1ffb-448c-9b83-f1d01ebacb33",
+        "worldEvents": ""
+      },
+      "surface": {
+        "tabIndex": -1
+      },
+      "welcome": true
+    }
+  },
+  {
+    "name": "keyboard_reentry",
+    "snapshot": {
+      "focus": "journey-surface",
+      "state": {
+        "actorX": "0.000000",
+        "actorY": "-1800.000000",
+        "artVersion": "floof-clearing-v1",
+        "atlasPulse": "",
+        "cameraX": "0.000000",
+        "cameraY": "-1580.000000",
+        "cameraZoom": "1.000000",
+        "discovered": "",
+        "entered": "true",
+        "envelopeStored": "false",
+        "giftUnlocked": "false",
+        "headingX": "-0.258277",
+        "headingY": "-0.966071",
+        "lastDrawId": "",
+        "lastSongId": "",
+        "motionVersion": "point-to-walk-v1",
+        "moving": "false",
+        "progressMode": "walk",
+        "puzzleSolved": "false",
+        "puzzleVersion": "computer-knowledge-v1",
+        "questionsSolved": "0",
+        "region": "entry",
+        "renderer": "webgl",
+        "sleepMaskFound": "false",
+        "sound": "off",
+        "storageStatus": "saved",
+        "view": "overview",
+        "visited": "entry",
+        "walkId": "a5e94c1a-1ffb-448c-9b83-f1d01ebacb33",
+        "worldEvents": ""
+      },
+      "surface": {
+        "tabIndex": 0
+      },
+      "welcome": false
+    }
+  },
+  {
+    "name": "reentry_without_new_movement",
+    "snapshot": {
+      "focus": "journey-surface",
+      "state": {
+        "actorX": "0.000000",
+        "actorY": "-1800.000000",
+        "artVersion": "floof-clearing-v1",
+        "atlasPulse": "",
+        "cameraX": "0.000000",
+        "cameraY": "-1580.000000",
+        "cameraZoom": "1.000000",
+        "discovered": "",
+        "entered": "true",
+        "envelopeStored": "false",
+        "giftUnlocked": "false",
+        "headingX": "-0.258277",
+        "headingY": "-0.966071",
+        "lastDrawId": "",
+        "lastSongId": "",
+        "motionVersion": "point-to-walk-v1",
+        "moving": "false",
+        "progressMode": "walk",
+        "puzzleSolved": "false",
+        "puzzleVersion": "computer-knowledge-v1",
+        "questionsSolved": "0",
+        "region": "entry",
+        "renderer": "webgl",
+        "sleepMaskFound": "false",
+        "sound": "off",
+        "storageStatus": "saved",
+        "view": "overview",
+        "visited": "entry",
+        "walkId": "a5e94c1a-1ffb-448c-9b83-f1d01ebacb33",
+        "worldEvents": ""
+      },
+      "surface": {
+        "tabIndex": 0
+      },
+      "welcome": false
+    }
+  },
+  {
+    "name": "music_shortcut_from_welcome",
+    "snapshot": {
+      "focus": "scene-title",
+      "state": {
+        "actorX": "0.000000",
+        "actorY": "-1800.000000",
+        "artVersion": "floof-clearing-v1",
+        "atlasPulse": "",
+        "cameraX": "1323.512177",
+        "cameraY": "2320.000000",
+        "cameraZoom": "1.180000",
+        "discovered": "",
+        "entered": "true",
+        "envelopeStored": "false",
+        "giftUnlocked": "false",
+        "headingX": "-0.258277",
+        "headingY": "-0.966071",
+        "lastDrawId": "",
+        "lastSongId": "",
+        "motionVersion": "point-to-walk-v1",
+        "moving": "false",
+        "progressMode": "walk",
+        "puzzleSolved": "false",
+        "puzzleVersion": "computer-knowledge-v1",
+        "questionsSolved": "0",
+        "region": "entry",
+        "renderer": "webgl",
+        "sleepMaskFound": "false",
+        "sound": "off",
+        "storageStatus": "saved",
+        "view": "music",
+        "visited": "entry",
+        "walkId": "a5e94c1a-1ffb-448c-9b83-f1d01ebacb33",
+        "worldEvents": ""
+      },
+      "surface": {
+        "tabIndex": -1
+      },
+      "welcome": false
+    }
+  },
+  {
+    "name": "return_from_music_restores_entry_position",
+    "snapshot": {
+      "focus": "music-shortcut",
+      "state": {
+        "actorX": "0.000000",
+        "actorY": "-1800.000000",
+        "artVersion": "floof-clearing-v1",
+        "atlasPulse": "",
+        "cameraX": "0.000000",
+        "cameraY": "-1580.000000",
+        "cameraZoom": "1.000000",
+        "discovered": "",
+        "entered": "true",
+        "envelopeStored": "false",
+        "giftUnlocked": "false",
+        "headingX": "-0.258277",
+        "headingY": "-0.966071",
+        "lastDrawId": "",
+        "lastSongId": "",
+        "motionVersion": "point-to-walk-v1",
+        "moving": "false",
+        "progressMode": "walk",
+        "puzzleSolved": "false",
+        "puzzleVersion": "computer-knowledge-v1",
+        "questionsSolved": "0",
+        "region": "entry",
+        "renderer": "webgl",
+        "sleepMaskFound": "false",
+        "sound": "off",
+        "storageStatus": "saved",
+        "view": "overview",
+        "visited": "entry",
+        "walkId": "a5e94c1a-1ffb-448c-9b83-f1d01ebacb33",
+        "worldEvents": ""
+      },
+      "surface": {
+        "tabIndex": 0
+      },
+      "welcome": false
+    }
+  },
+  {
+    "name": "fresh_welcome_after_reload",
+    "snapshot": {
+      "focus": "",
+      "state": {
+        "actorX": "0.000000",
+        "actorY": "-1800.000000",
+        "artVersion": "floof-clearing-v1",
+        "atlasPulse": "",
+        "cameraX": "0.000000",
+        "cameraY": "-1580.000000",
+        "cameraZoom": "1.000000",
+        "discovered": "",
+        "entered": "false",
+        "envelopeStored": "false",
+        "giftUnlocked": "false",
+        "headingX": "0.000000",
+        "headingY": "-1.000000",
+        "lastDrawId": "",
+        "lastSongId": "",
+        "motionVersion": "point-to-walk-v1",
+        "moving": "false",
+        "progressMode": "walk",
+        "puzzleSolved": "false",
+        "puzzleVersion": "computer-knowledge-v1",
+        "questionsSolved": "0",
+        "region": "entry",
+        "renderer": "static",
+        "sleepMaskFound": "false",
+        "sound": "off",
+        "storageStatus": "saved",
+        "view": "overview",
+        "visited": "entry",
+        "walkId": "a5e94c1a-1ffb-448c-9b83-f1d01ebacb33",
+        "worldEvents": ""
+      },
+      "surface": {
+        "tabIndex": -1
+      },
+      "welcome": true
+    }
+  }
+]

@@ -1,0 +1,10 @@
+.new-walk { pointer-events:auto; color:#718176; }
+.new-walk a { display:inline-flex; align-items:center; gap:8px; min-height:38px; color:#556c5d; font:400 17px/1.4 var(--serif); text-decoration:none; }
+.new-walk a:hover { color:#304e40; }
+.new-walk a:focus-visible { outline:1px solid #77887a; outline-offset:4px; border-radius:2px; }
+.new-walk a svg { flex:0 0 18px; display:block; width:18px; height:18px; margin:0; }
+.new-walk-arrow { margin-left:4px; opacity:.65; font-size:17px; }
+.new-walk small { display:block; font:400 10px/1.6 sans-serif; color:#79877b; }
+.welcome .new-walk { margin-top:15px; }
+.guide-map .new-walk { margin-top:15px; padding-top:10px; border-top:1px solid #a2a89940; }
+.guide-map .new-walk a svg { width:18px; height:18px; margin:0; }

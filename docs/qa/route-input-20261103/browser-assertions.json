@@ -1,0 +1,22 @@
+{
+  "fresh_starts_unsolved": true,
+  "entry_goal_desk": true,
+  "walked_to_desk": true,
+  "note_redirects_music": true,
+  "desk_panel_restores_pose": true,
+  "map_next_music": true,
+  "map_pauses": true,
+  "walked_to_music": true,
+  "draw_redirects_gift": true,
+  "music_panel_restores_pose": true,
+  "map_next_gift": true,
+  "note_does_not_fill_lock": true,
+  "wrong_code_rejected": true,
+  "correct_code_unlocks": true,
+  "cross_panel_restores_actual_desk_pose": true,
+  "complete_hides_next_goal": true,
+  "reduced_walks": true,
+  "reduced_reading_pauses": true,
+  "reduced_panel_restores_pose": true,
+  "saved_progress_preserved": true
+}

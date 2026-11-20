@@ -1,0 +1,22 @@
+PASS: fresh and previously found visits both begin with a closed gift box
+PASS: delayed box layers gate opening until both are loaded, while an error enables the fallback
+PASS: one opening completes before recording the eye mask and never bypasses the final password
+PASS: rapid repeated activation cannot restart the sequence or record discovery twice
+PASS: reopening a found gift plays the full reveal without recording another discovery
+PASS: remounting after discovery starts closed and the name is hidden again on the next reveal
+PASS: an incoming found flag cannot unwrap the current visit without a click
+PASS: a discovery arriving from another tab during opening prevents a duplicate write
+PASS: the midway rabbit tag reveals only Sleep mask and can hide its name again
+PASS: the finale loads only the passport illustration and reveals only its own name
+PASS: failed revealed images retain one neutral keepsake until its name tag is flipped
+PASS: either failed box layer retains an accessible closed box and still completes the opening
+PASS: a reveal-image failure during opening does not leak names or complete early
+PASS: reduced motion remains closed until a click and then reveals with no delayed work
+PASS: switching to reduced motion during any part of opening finishes once and cancels its timer
+PASS: leaving during any part of opening cancels reveal, focus and new discovery
+PASS: returning without opening does not award a keepsake
+PASS: the midway discovery preserves an existing envelope, song and final unlock exactly
+PASS: world renderers cannot select the revealed gift artwork or change box size with discovery
+19 split-gift UI checks passed.
+
+--- stderr ---

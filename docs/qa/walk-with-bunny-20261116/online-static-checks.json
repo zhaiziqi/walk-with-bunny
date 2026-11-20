@@ -1,0 +1,397 @@
+{
+  "baseUrl": "https://walk-with-bunny.vercel.app",
+  "anonymousHttp": true,
+  "assetCount": 62,
+  "files": [
+    {
+      "path": "art/floof/arch-painting-v1.png",
+      "status": 200,
+      "bytes": 863627,
+      "sha256Matches": true
+    },
+    {
+      "path": "art/floof/gift-door-painting-v1.png",
+      "status": 200,
+      "bytes": 2274566,
+      "sha256Matches": true
+    },
+    {
+      "path": "art/floof/gift-keepsakes-painting-v2.png",
+      "status": 200,
+      "bytes": 2424297,
+      "sha256Matches": true
+    },
+    {
+      "path": "art/floof/mushroom-painting-v1.png",
+      "status": 200,
+      "bytes": 1034153,
+      "sha256Matches": true
+    },
+    {
+      "path": "art/floof/painted-ground-material-v1.png",
+      "status": 200,
+      "bytes": 3014113,
+      "sha256Matches": true
+    },
+    {
+      "path": "art/floof/painted-leaf-bank-v1.png",
+      "status": 200,
+      "bytes": 2214774,
+      "sha256Matches": true
+    },
+    {
+      "path": "art/floof/pond-painting-v1.png",
+      "status": 200,
+      "bytes": 1864165,
+      "sha256Matches": true
+    },
+    {
+      "path": "art/floof/puzzle-desk-painting-v1.png",
+      "status": 200,
+      "bytes": 2049732,
+      "sha256Matches": true
+    },
+    {
+      "path": "art/gifts/dream-box-base-v1.png",
+      "status": 200,
+      "bytes": 1184593,
+      "sha256Matches": true
+    },
+    {
+      "path": "art/gifts/dream-box-lid-v1.png",
+      "status": 200,
+      "bytes": 852597,
+      "sha256Matches": true
+    },
+    {
+      "path": "art/gifts/dream-ground-v1.png",
+      "status": 200,
+      "bytes": 1712582,
+      "sha256Matches": true
+    },
+    {
+      "path": "art/gifts/dream-mask-v1.png",
+      "status": 200,
+      "bytes": 1104241,
+      "sha256Matches": true
+    },
+    {
+      "path": "art/gifts/passport-holder-v1.png",
+      "status": 200,
+      "bytes": 1831235,
+      "sha256Matches": true
+    },
+    {
+      "path": "art/gifts/rest-gift-box-v1.png",
+      "status": 200,
+      "bytes": 1769017,
+      "sha256Matches": true
+    },
+    {
+      "path": "art/gifts/rest-parcel-v1.png",
+      "status": 200,
+      "bytes": 1654379,
+      "sha256Matches": true
+    },
+    {
+      "path": "art/gifts/sleep-mask-cutout-v2.png",
+      "status": 200,
+      "bytes": 833306,
+      "sha256Matches": true
+    },
+    {
+      "path": "art/gifts/sleep-mask-v1.png",
+      "status": 200,
+      "bytes": 1362006,
+      "sha256Matches": true
+    },
+    {
+      "path": "art/rest/orange-table-v1.png",
+      "status": 200,
+      "bytes": 1928197,
+      "sha256Matches": true
+    },
+    {
+      "path": "assets/GardenCanvas-Cb1B8auI.js",
+      "status": 200,
+      "bytes": 57465,
+      "sha256Matches": true
+    },
+    {
+      "path": "assets/fonts/OFL-CormorantGaramond.txt",
+      "status": 200,
+      "bytes": 4387,
+      "sha256Matches": true
+    },
+    {
+      "path": "assets/fonts/cormorant-garamond-latin.woff2",
+      "status": 200,
+      "bytes": 37776,
+      "sha256Matches": true
+    },
+    {
+      "path": "assets/garden/atlas-arch.webp",
+      "status": 200,
+      "bytes": 567150,
+      "sha256Matches": true
+    },
+    {
+      "path": "assets/garden/atlas-blossom.webp",
+      "status": 200,
+      "bytes": 612938,
+      "sha256Matches": true
+    },
+    {
+      "path": "assets/garden/atlas-fern.webp",
+      "status": 200,
+      "bytes": 625220,
+      "sha256Matches": true
+    },
+    {
+      "path": "assets/garden/atlas-willow.webp",
+      "status": 200,
+      "bytes": 942598,
+      "sha256Matches": true
+    },
+    {
+      "path": "assets/garden/cloud-wisp.svg",
+      "status": 200,
+      "bytes": 900,
+      "sha256Matches": true
+    },
+    {
+      "path": "assets/garden/door.webp",
+      "status": 200,
+      "bytes": 305250,
+      "sha256Matches": true
+    },
+    {
+      "path": "assets/garden/dream-foreground-v2.webp",
+      "status": 200,
+      "bytes": 561112,
+      "sha256Matches": true
+    },
+    {
+      "path": "assets/garden/dream-garden-v2.webp",
+      "status": 200,
+      "bytes": 583832,
+      "sha256Matches": true
+    },
+    {
+      "path": "assets/garden/dream-glow.svg",
+      "status": 200,
+      "bytes": 396,
+      "sha256Matches": true
+    },
+    {
+      "path": "assets/garden/dream-mist.svg",
+      "status": 200,
+      "bytes": 493,
+      "sha256Matches": true
+    },
+    {
+      "path": "assets/garden/environment.webp",
+      "status": 200,
+      "bytes": 291236,
+      "sha256Matches": true
+    },
+    {
+      "path": "assets/garden/favicon.svg",
+      "status": 200,
+      "bytes": 512,
+      "sha256Matches": true
+    },
+    {
+      "path": "assets/garden/flower.webp",
+      "status": 200,
+      "bytes": 209880,
+      "sha256Matches": true
+    },
+    {
+      "path": "assets/garden/foliage.svg",
+      "status": 200,
+      "bytes": 1863,
+      "sha256Matches": true
+    },
+    {
+      "path": "assets/garden/ground-contact.svg",
+      "status": 200,
+      "bytes": 1172,
+      "sha256Matches": true
+    },
+    {
+      "path": "assets/garden/ground-moss.webp",
+      "status": 200,
+      "bytes": 654924,
+      "sha256Matches": true
+    },
+    {
+      "path": "assets/garden/journey-panorama.webp",
+      "status": 200,
+      "bytes": 409756,
+      "sha256Matches": true
+    },
+    {
+      "path": "assets/garden/lantern.svg",
+      "status": 200,
+      "bytes": 2662,
+      "sha256Matches": true
+    },
+    {
+      "path": "assets/garden/lantern.webp",
+      "status": 200,
+      "bytes": 274978,
+      "sha256Matches": true
+    },
+    {
+      "path": "assets/garden/living-rabbit-back.webp",
+      "status": 200,
+      "bytes": 262782,
+      "sha256Matches": true
+    },
+    {
+      "path": "assets/garden/meadow-frame-v1.png",
+      "status": 200,
+      "bytes": 1955132,
+      "sha256Matches": true
+    },
+    {
+      "path": "assets/garden/path-bank.webp",
+      "status": 200,
+      "bytes": 349436,
+      "sha256Matches": true
+    },
+    {
+      "path": "assets/garden/quiet-clearing.svg",
+      "status": 200,
+      "bytes": 1050,
+      "sha256Matches": true
+    },
+    {
+      "path": "assets/garden/quiet-door.webp",
+      "status": 200,
+      "bytes": 369076,
+      "sha256Matches": true
+    },
+    {
+      "path": "assets/garden/quiet-flower.webp",
+      "status": 200,
+      "bytes": 334780,
+      "sha256Matches": true
+    },
+    {
+      "path": "assets/garden/quiet-garden.webp",
+      "status": 200,
+      "bytes": 303972,
+      "sha256Matches": true
+    },
+    {
+      "path": "assets/garden/quiet-lantern.webp",
+      "status": 200,
+      "bytes": 319090,
+      "sha256Matches": true
+    },
+    {
+      "path": "assets/garden/quiet-rabbit.webp",
+      "status": 200,
+      "bytes": 264398,
+      "sha256Matches": true
+    },
+    {
+      "path": "assets/garden/rabbit-atlas-v2.webp",
+      "status": 200,
+      "bytes": 325606,
+      "sha256Matches": true
+    },
+    {
+      "path": "assets/garden/rabbit-diagonal-v1.webp",
+      "status": 200,
+      "bytes": 356510,
+      "sha256Matches": true
+    },
+    {
+      "path": "assets/garden/root-grass.svg",
+      "status": 200,
+      "bytes": 3344,
+      "sha256Matches": true
+    },
+    {
+      "path": "assets/garden/threshold.svg",
+      "status": 200,
+      "bytes": 2723,
+      "sha256Matches": true
+    },
+    {
+      "path": "assets/garden/walk-meadow-v2.webp",
+      "status": 200,
+      "bytes": 387290,
+      "sha256Matches": true
+    },
+    {
+      "path": "assets/garden/walk-meadow.webp",
+      "status": 200,
+      "bytes": 553060,
+      "sha256Matches": true
+    },
+    {
+      "path": "assets/garden/walk-tree.webp",
+      "status": 200,
+      "bytes": 339366,
+      "sha256Matches": true
+    },
+    {
+      "path": "assets/index-C1_Kc8DI.js",
+      "status": 200,
+      "bytes": 195588,
+      "sha256Matches": true
+    },
+    {
+      "path": "assets/index-CWDSphH6.css",
+      "status": 200,
+      "bytes": 54276,
+      "sha256Matches": true
+    },
+    {
+      "path": "assets/motion-xgxdCp6f.js",
+      "status": 200,
+      "bytes": 70040,
+      "sha256Matches": true
+    },
+    {
+      "path": "assets/react-CtHdWGji.js",
+      "status": 200,
+      "bytes": 221904,
+      "sha256Matches": true
+    },
+    {
+      "path": "assets/three-By1l9eDx.js",
+      "status": 200,
+      "bytes": 882260,
+      "sha256Matches": true
+    },
+    {
+      "path": "index.html",
+      "status": 200,
+      "bytes": 907,
+      "sha256Matches": true
+    }
+  ],
+  "privatePaths": [
+    {
+      "path": "/docs/DEPLOYMENT_A_20261114.md",
+      "status": 404
+    },
+    {
+      "path": "/src/config/content.json",
+      "status": 404
+    },
+    {
+      "path": "/.openai/hosting.json",
+      "status": 404
+    },
+    {
+      "path": "/vercel.json",
+      "status": 404
+    }
+  ]
+}

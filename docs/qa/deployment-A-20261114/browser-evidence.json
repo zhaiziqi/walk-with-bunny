@@ -1,0 +1,416 @@
+[
+  {
+    "label": "01-online-empty-entry",
+    "state": {
+      "images": [],
+      "main": {
+        "actorX": "0.000000",
+        "actorY": "-1800.000000",
+        "artVersion": "floof-clearing-v1",
+        "atlasPulse": "",
+        "cameraX": "0.000000",
+        "cameraY": "-1580.000000",
+        "cameraZoom": "1.000000",
+        "discovered": "",
+        "entered": "false",
+        "envelopeStored": "false",
+        "giftUnlocked": "false",
+        "headingX": "0.000000",
+        "headingY": "-1.000000",
+        "lastDrawId": "",
+        "lastSongId": "",
+        "motionVersion": "point-to-walk-v1",
+        "moving": "false",
+        "progressMode": "walk",
+        "puzzleSolved": "false",
+        "puzzleVersion": "computer-knowledge-v1",
+        "questionsSolved": "0",
+        "region": "entry",
+        "renderer": "static",
+        "sleepMaskFound": "false",
+        "sound": "off",
+        "storageStatus": "saved",
+        "view": "overview",
+        "visited": "entry",
+        "walkId": "b201c720-08dd-4ec5-9a8b-e1730cca0c8d",
+        "worldEvents": ""
+      },
+      "scripts": [
+        "https://a-little-secret-garden.rationalbay.chatgpt.site/assets/index-BKBXYiMZ.js"
+      ],
+      "viewport": {
+        "height": 793,
+        "width": 319
+      }
+    },
+    "url": "https://a-little-secret-garden.rationalbay.chatgpt.site/?walk=b201c720-08dd-4ec5-9a8b-e1730cca0c8d#garden"
+  },
+  {
+    "label": "02-online-puzzle-approach",
+    "state": {
+      "images": [],
+      "main": {
+        "actorX": "-624.528975",
+        "actorY": "651.415658",
+        "artVersion": "floof-clearing-v1",
+        "atlasPulse": "",
+        "cameraX": "-624.528342",
+        "cameraY": "867.656933",
+        "cameraZoom": "1.000000",
+        "discovered": "puzzle",
+        "entered": "true",
+        "envelopeStored": "false",
+        "giftUnlocked": "false",
+        "headingX": "-0.000516",
+        "headingY": "1.000000",
+        "lastDrawId": "",
+        "lastSongId": "",
+        "motionVersion": "point-to-walk-v1",
+        "moving": "false",
+        "progressMode": "walk",
+        "puzzleSolved": "false",
+        "puzzleVersion": "computer-knowledge-v1",
+        "questionsSolved": "0",
+        "region": "lantern",
+        "renderer": "webgl",
+        "sleepMaskFound": "false",
+        "sound": "off",
+        "storageStatus": "saved",
+        "view": "overview",
+        "visited": "entry,lantern",
+        "walkId": "b201c720-08dd-4ec5-9a8b-e1730cca0c8d",
+        "worldEvents": "trail-passage-5,trail-lantern-awake"
+      },
+      "scripts": [
+        "https://a-little-secret-garden.rationalbay.chatgpt.site/assets/index-BKBXYiMZ.js"
+      ],
+      "viewport": {
+        "height": 800,
+        "width": 1280
+      }
+    },
+    "url": "https://a-little-secret-garden.rationalbay.chatgpt.site/?walk=b201c720-08dd-4ec5-9a8b-e1730cca0c8d#garden"
+  },
+  {
+    "label": "03-online-first-digit",
+    "state": {
+      "images": [],
+      "main": {
+        "actorX": "-624.528975",
+        "actorY": "651.415658",
+        "artVersion": "floof-clearing-v1",
+        "atlasPulse": "",
+        "cameraX": "-268.839041",
+        "cameraY": "970.000000",
+        "cameraZoom": "1.180000",
+        "discovered": "puzzle",
+        "entered": "true",
+        "envelopeStored": "false",
+        "giftUnlocked": "false",
+        "headingX": "-0.000516",
+        "headingY": "1.000000",
+        "lastDrawId": "",
+        "lastSongId": "",
+        "motionVersion": "point-to-walk-v1",
+        "moving": "false",
+        "progressMode": "walk",
+        "puzzleSolved": "false",
+        "puzzleVersion": "computer-knowledge-v1",
+        "questionsSolved": "1",
+        "region": "lantern",
+        "renderer": "webgl",
+        "sleepMaskFound": "false",
+        "sound": "off",
+        "storageStatus": "saved",
+        "view": "puzzle",
+        "visited": "entry,lantern",
+        "walkId": "b201c720-08dd-4ec5-9a8b-e1730cca0c8d",
+        "worldEvents": "trail-passage-5,trail-lantern-awake"
+      },
+      "scripts": [
+        "https://a-little-secret-garden.rationalbay.chatgpt.site/assets/index-BKBXYiMZ.js"
+      ],
+      "viewport": {
+        "height": 800,
+        "width": 1280
+      }
+    },
+    "url": "https://a-little-secret-garden.rationalbay.chatgpt.site/?walk=b201c720-08dd-4ec5-9a8b-e1730cca0c8d#puzzle"
+  },
+  {
+    "label": "04-online-refresh",
+    "state": {
+      "images": [],
+      "main": {
+        "actorX": "-624.528975",
+        "actorY": "651.415658",
+        "artVersion": "floof-clearing-v1",
+        "atlasPulse": "",
+        "cameraX": "-268.839041",
+        "cameraY": "970.000000",
+        "cameraZoom": "1.180000",
+        "discovered": "",
+        "entered": "true",
+        "envelopeStored": "false",
+        "giftUnlocked": "false",
+        "headingX": "-0.000516",
+        "headingY": "1.000000",
+        "lastDrawId": "",
+        "lastSongId": "",
+        "motionVersion": "point-to-walk-v1",
+        "moving": "false",
+        "progressMode": "walk",
+        "puzzleSolved": "false",
+        "puzzleVersion": "computer-knowledge-v1",
+        "questionsSolved": "1",
+        "region": "lantern",
+        "renderer": "static",
+        "sleepMaskFound": "false",
+        "sound": "off",
+        "storageStatus": "saved",
+        "view": "puzzle",
+        "visited": "entry",
+        "walkId": "b201c720-08dd-4ec5-9a8b-e1730cca0c8d",
+        "worldEvents": ""
+      },
+      "scripts": [
+        "https://a-little-secret-garden.rationalbay.chatgpt.site/assets/index-BKBXYiMZ.js"
+      ],
+      "viewport": {
+        "height": 800,
+        "width": 1280
+      }
+    },
+    "url": "https://a-little-secret-garden.rationalbay.chatgpt.site/?walk=b201c720-08dd-4ec5-9a8b-e1730cca0c8d#puzzle"
+  },
+  {
+    "label": "05-online-return",
+    "state": {
+      "images": [],
+      "main": {
+        "actorX": "-624.528975",
+        "actorY": "651.415658",
+        "artVersion": "floof-clearing-v1",
+        "atlasPulse": "",
+        "cameraX": "-624.528342",
+        "cameraY": "867.656933",
+        "cameraZoom": "1.000000",
+        "discovered": "puzzle",
+        "entered": "true",
+        "envelopeStored": "false",
+        "giftUnlocked": "false",
+        "headingX": "-0.000516",
+        "headingY": "1.000000",
+        "lastDrawId": "",
+        "lastSongId": "",
+        "motionVersion": "point-to-walk-v1",
+        "moving": "false",
+        "progressMode": "walk",
+        "puzzleSolved": "false",
+        "puzzleVersion": "computer-knowledge-v1",
+        "questionsSolved": "1",
+        "region": "lantern",
+        "renderer": "webgl",
+        "sleepMaskFound": "false",
+        "sound": "off",
+        "storageStatus": "saved",
+        "view": "overview",
+        "visited": "entry,lantern",
+        "walkId": "b201c720-08dd-4ec5-9a8b-e1730cca0c8d",
+        "worldEvents": ""
+      },
+      "scripts": [
+        "https://a-little-secret-garden.rationalbay.chatgpt.site/assets/index-BKBXYiMZ.js"
+      ],
+      "viewport": {
+        "height": 800,
+        "width": 1280
+      }
+    },
+    "url": "https://a-little-secret-garden.rationalbay.chatgpt.site/?walk=b201c720-08dd-4ec5-9a8b-e1730cca0c8d#garden"
+  },
+  {
+    "label": "06-online-song",
+    "state": {
+      "images": [
+        {
+          "complete": true,
+          "src": "https://a-little-secret-garden.rationalbay.chatgpt.site/assets/garden/quiet-flower.webp",
+          "width": 1024
+        },
+        {
+          "complete": true,
+          "src": "https://a-little-secret-garden.rationalbay.chatgpt.site/assets/garden/quiet-flower.webp",
+          "width": 1024
+        },
+        {
+          "complete": true,
+          "src": "https://a-little-secret-garden.rationalbay.chatgpt.site/assets/garden/quiet-flower.webp",
+          "width": 1024
+        },
+        {
+          "complete": true,
+          "src": "https://a-little-secret-garden.rationalbay.chatgpt.site/assets/garden/quiet-flower.webp",
+          "width": 1024
+        },
+        {
+          "complete": true,
+          "src": "https://a-little-secret-garden.rationalbay.chatgpt.site/assets/garden/quiet-flower.webp",
+          "width": 1024
+        },
+        {
+          "complete": true,
+          "src": "https://a-little-secret-garden.rationalbay.chatgpt.site/assets/garden/quiet-flower.webp",
+          "width": 1024
+        },
+        {
+          "complete": true,
+          "src": "https://a-little-secret-garden.rationalbay.chatgpt.site/assets/garden/quiet-flower.webp",
+          "width": 1024
+        },
+        {
+          "complete": true,
+          "src": "https://a-little-secret-garden.rationalbay.chatgpt.site/assets/garden/quiet-flower.webp",
+          "width": 1024
+        },
+        {
+          "complete": true,
+          "src": "https://a-little-secret-garden.rationalbay.chatgpt.site/assets/garden/quiet-flower.webp",
+          "width": 1024
+        }
+      ],
+      "main": {
+        "actorX": "-624.528975",
+        "actorY": "651.415658",
+        "artVersion": "floof-clearing-v1",
+        "atlasPulse": "",
+        "cameraX": "1281.160959",
+        "cameraY": "2320.000000",
+        "cameraZoom": "1.180000",
+        "discovered": "puzzle",
+        "entered": "true",
+        "envelopeStored": "false",
+        "giftUnlocked": "false",
+        "headingX": "-0.000516",
+        "headingY": "1.000000",
+        "lastDrawId": "566e734b-e0d7-4c6f-ad23-0a5ed3a7b540:1",
+        "lastSongId": "8",
+        "motionVersion": "point-to-walk-v1",
+        "moving": "false",
+        "progressMode": "walk",
+        "puzzleSolved": "false",
+        "puzzleVersion": "computer-knowledge-v1",
+        "questionsSolved": "1",
+        "region": "lantern",
+        "renderer": "webgl",
+        "sleepMaskFound": "false",
+        "sound": "off",
+        "storageStatus": "saved",
+        "view": "music",
+        "visited": "entry,lantern",
+        "walkId": "b201c720-08dd-4ec5-9a8b-e1730cca0c8d",
+        "worldEvents": "trail-lantern-awake"
+      },
+      "scripts": [
+        "https://a-little-secret-garden.rationalbay.chatgpt.site/assets/index-BKBXYiMZ.js"
+      ],
+      "viewport": {
+        "height": 800,
+        "width": 1280
+      }
+    },
+    "url": "https://a-little-secret-garden.rationalbay.chatgpt.site/?walk=b201c720-08dd-4ec5-9a8b-e1730cca0c8d#music"
+  },
+  {
+    "label": "07-online-lock-rejects",
+    "state": {
+      "images": [],
+      "main": {
+        "actorX": "-624.528975",
+        "actorY": "651.415658",
+        "artVersion": "floof-clearing-v1",
+        "atlasPulse": "",
+        "cameraX": "181.160959",
+        "cameraY": "8720.000000",
+        "cameraZoom": "1.180000",
+        "discovered": "puzzle",
+        "entered": "true",
+        "envelopeStored": "false",
+        "giftUnlocked": "false",
+        "headingX": "-0.000516",
+        "headingY": "1.000000",
+        "lastDrawId": "566e734b-e0d7-4c6f-ad23-0a5ed3a7b540:1",
+        "lastSongId": "8",
+        "motionVersion": "point-to-walk-v1",
+        "moving": "false",
+        "progressMode": "walk",
+        "puzzleSolved": "false",
+        "puzzleVersion": "computer-knowledge-v1",
+        "questionsSolved": "1",
+        "region": "lantern",
+        "renderer": "webgl",
+        "sleepMaskFound": "false",
+        "sound": "off",
+        "storageStatus": "saved",
+        "view": "lock",
+        "visited": "entry,lantern",
+        "walkId": "b201c720-08dd-4ec5-9a8b-e1730cca0c8d",
+        "worldEvents": "trail-lantern-awake"
+      },
+      "scripts": [
+        "https://a-little-secret-garden.rationalbay.chatgpt.site/assets/index-BKBXYiMZ.js"
+      ],
+      "viewport": {
+        "height": 800,
+        "width": 1280
+      }
+    },
+    "url": "https://a-little-secret-garden.rationalbay.chatgpt.site/?walk=b201c720-08dd-4ec5-9a8b-e1730cca0c8d#lock"
+  },
+  {
+    "label": "08-online-cross-panel-return",
+    "state": {
+      "images": [],
+      "main": {
+        "actorX": "-624.528975",
+        "actorY": "651.415658",
+        "artVersion": "floof-clearing-v1",
+        "atlasPulse": "",
+        "cameraX": "-624.528342",
+        "cameraY": "867.656933",
+        "cameraZoom": "1.000000",
+        "discovered": "puzzle",
+        "entered": "true",
+        "envelopeStored": "false",
+        "giftUnlocked": "false",
+        "headingX": "-0.000516",
+        "headingY": "1.000000",
+        "lastDrawId": "566e734b-e0d7-4c6f-ad23-0a5ed3a7b540:1",
+        "lastSongId": "8",
+        "motionVersion": "point-to-walk-v1",
+        "moving": "false",
+        "progressMode": "walk",
+        "puzzleSolved": "false",
+        "puzzleVersion": "computer-knowledge-v1",
+        "questionsSolved": "1",
+        "region": "lantern",
+        "renderer": "webgl",
+        "sleepMaskFound": "false",
+        "sound": "off",
+        "storageStatus": "saved",
+        "view": "overview",
+        "visited": "entry,lantern",
+        "walkId": "b201c720-08dd-4ec5-9a8b-e1730cca0c8d",
+        "worldEvents": "trail-lantern-awake"
+      },
+      "scripts": [
+        "https://a-little-secret-garden.rationalbay.chatgpt.site/assets/index-BKBXYiMZ.js"
+      ],
+      "viewport": {
+        "height": 800,
+        "width": 1280
+      }
+    },
+    "url": "https://a-little-secret-garden.rationalbay.chatgpt.site/?walk=b201c720-08dd-4ec5-9a8b-e1730cca0c8d#garden"
+  }
+]

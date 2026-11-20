@@ -1,0 +1,21 @@
+PASS: four original topics independently yield 0, 3, 0, 5
+PASS: fresh question inputs and slip digits are genuinely blank and independent
+PASS: only a single ASCII answer digit is accepted; leading zeros cannot pad a wrong answer
+PASS: wrong answer remains editable and does not add a digit or advance
+PASS: future questions and envelope cannot be completed out of order
+PASS: confirmed digits remain on the slip and cannot be edited by duplicate/stale submits
+PASS: only an explicit envelope action packs completed paper; no gift or song side effects
+PASS: question updates are immutable and reject malformed or oversized draft commands
+PASS: valid partial input, completed slip, and stored envelope survive normalization
+PASS: forged completion flags do not award digits or an envelope
+PASS: damaged middle answer keeps the valid prefix but cannot restore later answers
+PASS: malformed arrays and unknown schema versions remain conservative
+PASS: legacy two-card completion migrates only gift and valid song, never new question completion
+PASS: missing v2 reads v1 once while saving leaves the complete original record untouched
+PASS: existing v2 always wins and a corrupted v2 never silently imports older state
+PASS: blocked storage preserves the current in-memory journey and reports failure
+PASS: saving strips transient or foreign fields and normalizes before writing
+PASS: music and gift stay independent of four-question completion and the envelope
+18 four-question progress and storage checks passed.
+
+--- stderr ---

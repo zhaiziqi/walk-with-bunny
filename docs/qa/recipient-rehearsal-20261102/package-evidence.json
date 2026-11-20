@@ -1,0 +1,210 @@
+{
+  "distFileCount": 50,
+  "allDistAndArchiveBytesMatch": true,
+  "contentSha256": "976aae6cac292789c9c350d99d1264830af0fb6e2ba93cd4cad3a49202d9a84e",
+  "puzzleSongsGiftRulesUnchanged": true,
+  "archiveSha256": "b5441de815d7e31cb9c8ceba6910c765121c39042038b8263c22dbbd30a472f8",
+  "archiveBytes": 23591708,
+  "files": [
+    {
+      "path": "art/floof/arch-painting-v1.png",
+      "sha256": "4a81b3e80b18c7c135097a3f88e8ac2cec3d4f945930a8305772a596c901ec6a"
+    },
+    {
+      "path": "art/floof/gift-door-painting-v1.png",
+      "sha256": "3c36709a3053f824f4e97b9fb241309f2126b56335718935ed13fc6c90997c58"
+    },
+    {
+      "path": "art/floof/mushroom-painting-v1.png",
+      "sha256": "9b47e721f13028f59a12c59c83f0b31cdd569459e77afbbe901a174f1a878536"
+    },
+    {
+      "path": "art/floof/painted-ground-material-v1.png",
+      "sha256": "84723333fc7927c8f0be44df9d680a0bb19bf571d912dafb334f794cca0c2feb"
+    },
+    {
+      "path": "art/floof/painted-leaf-bank-v1.png",
+      "sha256": "707f28aad78b3e72e157802cf7403ba3ff7d4322f94688df4a0b8304cd342f79"
+    },
+    {
+      "path": "art/floof/pond-painting-v1.png",
+      "sha256": "f2758d57e6c92fe4af820ea63f9c5c817cf0ca9449644dcc0f53e44c1c9d2580"
+    },
+    {
+      "path": "assets/GardenCanvas-DhqNtWhn.js",
+      "sha256": "7e48ab8bb06a09b566cd3037a57a199fabd7f07c4b9395f4d167f1a6dc853af6"
+    },
+    {
+      "path": "assets/fonts/OFL-CormorantGaramond.txt",
+      "sha256": "60700d351cac4650c51f3f9db318d2a420f8b45052dba2715eb5fec41f0f6956"
+    },
+    {
+      "path": "assets/fonts/cormorant-garamond-latin.woff2",
+      "sha256": "5d618c462b7a5b74f442e1548880086af71764d9cc7d35c16ab45353da934621"
+    },
+    {
+      "path": "assets/garden/atlas-arch.webp",
+      "sha256": "177d10376aa44eb1f40d2a23c2398211ac768507fc0d10ae6d7bb9359eda2c89"
+    },
+    {
+      "path": "assets/garden/atlas-blossom.webp",
+      "sha256": "2cd63e7cbc70ec7dc20939f125ea9462e29e34a77f02879bbfa07547124043d0"
+    },
+    {
+      "path": "assets/garden/atlas-fern.webp",
+      "sha256": "53589399329e2746a9485ae36958ff12ae879fec762c06f847cec871a387dafd"
+    },
+    {
+      "path": "assets/garden/atlas-willow.webp",
+      "sha256": "b7624e2e639cd89001bc2822374b006bf0c57b0a311a890346d8ea2bf4f63888"
+    },
+    {
+      "path": "assets/garden/cloud-wisp.svg",
+      "sha256": "fc3e99b8ef7bdd033d174bc48efc7a1dc2f352078ac07a3f7390059ac4e316e5"
+    },
+    {
+      "path": "assets/garden/door.webp",
+      "sha256": "ecc1a4d79cf48a4b87393091a7f3808a1ecb90acd0324b80dc09722666dc83f4"
+    },
+    {
+      "path": "assets/garden/dream-foreground-v2.webp",
+      "sha256": "dee58b57824bcfc5932fe093db21df4e8f445e33140b6dff03eb551d2198e889"
+    },
+    {
+      "path": "assets/garden/dream-garden-v2.webp",
+      "sha256": "4b238140bf3851c825532bd0fcb9093570f5ff2d2436b5afceb0fc3431b5a855"
+    },
+    {
+      "path": "assets/garden/dream-glow.svg",
+      "sha256": "84f2793253a2a0ed1fcb20c036f0f16c58f113a3c1eae137fd239447b1ded790"
+    },
+    {
+      "path": "assets/garden/dream-mist.svg",
+      "sha256": "01034291c5aa8ea7a9cd41114301b576244ddd63d54f1d737a94926f8d06301a"
+    },
+    {
+      "path": "assets/garden/environment.webp",
+      "sha256": "764a3d4e4f6dac717d5d1ef74d145a488e0d359aa37e8230994b3580d51a0acc"
+    },
+    {
+      "path": "assets/garden/favicon.svg",
+      "sha256": "8bcf155a2a58a8bc7433a4f14f6b7f1cae78d2ecb2b2bbc93e837bcab720b0c8"
+    },
+    {
+      "path": "assets/garden/flower.webp",
+      "sha256": "7c62aa1807da3b54d211d0055010a1a6a546df291f6bf660c489e11172fdb2e5"
+    },
+    {
+      "path": "assets/garden/foliage.svg",
+      "sha256": "d01b7505d67a91d857afb45ca5752a85304c84e130ef7be37bf7c44c0040d945"
+    },
+    {
+      "path": "assets/garden/ground-contact.svg",
+      "sha256": "0dff046eab79a1c4c0f0c34339ee96d0240f327c01fa84c333423a403a7ea253"
+    },
+    {
+      "path": "assets/garden/ground-moss.webp",
+      "sha256": "4ac5376bd9e7c305d480ffeedb3d36d38ae45adf37fe5c24b1a089486470a324"
+    },
+    {
+      "path": "assets/garden/journey-panorama.webp",
+      "sha256": "ff1b282675b98b80bd0920b74a8f5dd2fb317f126b120107405e799f1acfbfcb"
+    },
+    {
+      "path": "assets/garden/lantern.svg",
+      "sha256": "e9279348ef9819255869930a7ef01baaa7502eefce39d27aa159145af2caab1b"
+    },
+    {
+      "path": "assets/garden/lantern.webp",
+      "sha256": "67a86d022684e40e9ea2bcd73a351790895e05dd825e9ed864656ebbc7e213bc"
+    },
+    {
+      "path": "assets/garden/living-rabbit-back.webp",
+      "sha256": "a096a909dbb1324a96bc6025d12dc9350b30fa5ce04dba5b6871ca415253ab6a"
+    },
+    {
+      "path": "assets/garden/meadow-frame-v1.png",
+      "sha256": "a92a2d36d1d744d8d3eea92d76833c9774742551f9c6b94f7108634427db9b6b"
+    },
+    {
+      "path": "assets/garden/path-bank.webp",
+      "sha256": "063c57b585026559fe97d16fb69c93f12bac3165d3be0d4ffeb7601c10e7c7c4"
+    },
+    {
+      "path": "assets/garden/quiet-clearing.svg",
+      "sha256": "5f7857cf70ef62fb3595ad28050dd965308e259f7a1c23d1717655da4059ea5d"
+    },
+    {
+      "path": "assets/garden/quiet-door.webp",
+      "sha256": "00dbd5b67f5ebb50c572ec69006f427ee1e1704e4e63bdf36482bfa22f3cb8ab"
+    },
+    {
+      "path": "assets/garden/quiet-flower.webp",
+      "sha256": "edb328ba727356645278d06b1d2bc5e3198ba28efb4a16a9d8876eba2a5c6787"
+    },
+    {
+      "path": "assets/garden/quiet-garden.webp",
+      "sha256": "d3fe237b3f14960be13a894436402e36abbc87575b80846288a0b13423dcc4e2"
+    },
+    {
+      "path": "assets/garden/quiet-lantern.webp",
+      "sha256": "d22020fa4a91763ccdfa08896e252ad898e7ccd4c79d725a335d963699314173"
+    },
+    {
+      "path": "assets/garden/quiet-rabbit.webp",
+      "sha256": "d109205da363bcbf35b89170e9564136f5e92fa7c7c9d2ec15303155ed8776ce"
+    },
+    {
+      "path": "assets/garden/rabbit-atlas-v2.webp",
+      "sha256": "bf0a379a8cf44654cd00fa26f8d9c5327e789b419350099e637693135bc96e60"
+    },
+    {
+      "path": "assets/garden/rabbit-diagonal-v1.webp",
+      "sha256": "d371399200f8d345a8d415cf227969c5e998355b3eaaa5fc8853ec80c7ccbce4"
+    },
+    {
+      "path": "assets/garden/root-grass.svg",
+      "sha256": "c31a0b7c340210a4fddd6f504c8e019be1f39240c37e220df3454d0aae7ec26f"
+    },
+    {
+      "path": "assets/garden/threshold.svg",
+      "sha256": "0cc9a27128a201d1487f0c419e4e60a156f48b4812c9ff757f05afe905a58a8f"
+    },
+    {
+      "path": "assets/garden/walk-meadow-v2.webp",
+      "sha256": "aef1dc9883e6f029086e06701d15506a6614d3658f7ba6a3dbe8fd0c2caeeb27"
+    },
+    {
+      "path": "assets/garden/walk-meadow.webp",
+      "sha256": "63d5a70fbe03a3c0e0002d6fbaacc8fef10437e59983e1a589bb0543b33fea28"
+    },
+    {
+      "path": "assets/garden/walk-tree.webp",
+      "sha256": "71e8b378f1259bb9f6d6524ea3778bc505e41e26bfd8224bf56510244ccc82f7"
+    },
+    {
+      "path": "assets/index-BQxcIJ5n.js",
+      "sha256": "269d419d10eeb6602f030c3b947cc8b8aea5ebe6df3e43dba64e505541bc341c"
+    },
+    {
+      "path": "assets/index-D5nYwsDG.css",
+      "sha256": "869b014211390e78548fe15dd6d26b75bee994f223e26e7fa1ad6629e3d94a2a"
+    },
+    {
+      "path": "assets/motion-xgxdCp6f.js",
+      "sha256": "83d7752fd9a43b4f4bbc3e7ef1e218a3e04bae72f3d71aaedd437403c743aa6c"
+    },
+    {
+      "path": "assets/react-CtHdWGji.js",
+      "sha256": "7ad8abb819d2576b4a85356d5e8e81bdf51c3083d05eebba23bbbf9b40dfcab1"
+    },
+    {
+      "path": "assets/three-BVLHpjZv.js",
+      "sha256": "652ce49dc72f5613bade97c672269d4ba30788d9c1d637ba8836dd74af0c9332"
+    },
+    {
+      "path": "index.html",
+      "sha256": "5c1a5340727d1d7466107ce0abc94359f5ee3ed9556832d78e28a487009d7f9b"
+    }
+  ]
+}

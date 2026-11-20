@@ -1,0 +1,198 @@
+M5 desktop rehearsal — source regression
+Date: 2026-11-02 (Asia/Shanghai)
+Workspace: /Users/admin/Desktop/birthday-garden
+Scope: requested regression scripts and TypeScript check only; no build or source changes.
+
+=== check-art-loading ===
+Command: "$HOME/.cache/codex-runtimes/codex-primary-runtime/dependencies/node/bin/node" scripts/check-art-loading.mjs
+Exit code: 0
+PASS: successful artwork resolves once and removes its timeout and listeners
+PASS: an image error promptly keeps fallback available and releases the request
+PASS: an empty or undecoded image is rejected rather than used as a texture
+PASS: a stalled request settles at the deadline and a late load cannot replace fallback
+PASS: unmount cancellation is idempotent and cannot later report a successful image
+PASS: a refused source assignment resolves fallback without a rejected promise or live timer
+PASS: development fault injection covers all current painting URLs and ordinary mode keeps them unchanged
+PASS: production ignores the development fault query
+PASS: WebGL and static leaf consumers share one successful image request
+PASS: shared leaf failure resolves for every consumer without an automatic retry loop
+
+Artwork loading: 10 passed, 0 failed.
+
+=== check-floof-frame ===
+Command: "$HOME/.cache/codex-runtimes/codex-primary-runtime/dependencies/node/bin/node" scripts/check-floof-frame.mjs
+Exit code: 0
+PASS: authoritative speed preserves gait with duplicated and batched position samples
+PASS: the same one-second speed and turn produce matching shapes at 30/60/120 fps
+PASS: rest gives one soft settling cycle and returns to a finite neutral shape
+PASS: reported speed is bounded; invalid speed cannot poison the shape; teleports reset it
+PASS: the real anchor follows every live controller frame without React prop commits
+PASS: reading uses the saved scene position, ignores live motion, and freezes body geometry
+PASS: teleporting the real component clears trailing flecks rather than drawing a long trail
+
+=== check-pointer-guidance ===
+Command: "$HOME/.cache/codex-runtimes/codex-primary-runtime/dependencies/node/bin/node" scripts/check-pointer-guidance.mjs
+Exit code: 0
+PASS: a panel, UI target, pressed mouse or touch cannot arm hover guidance
+PASS: zero movementX/Y still guides from changing client coordinates
+PASS: the invitation starts after deliberate client travel without any mouse press
+PASS: one event or repeated layout coordinates cannot dismiss the invitation
+PASS: fresh coordinate travel guides immediately after the baseline, without pressing
+PASS: entering or restoring the surface without motion does not start a walk
+PASS: same-position events and tiny noise never refresh the expiry
+PASS: a stopped pointer eases within the lease and becomes exactly zero
+PASS: brief trackpad repositioning preserves intent instead of repeatedly restarting a walk
+PASS: target smoothing reduces small alternating noise without delaying a deliberate reversal
+PASS: smoothed target catches up consistently at ordinary desktop frame rates
+PASS: repeated short strokes maintain stride through finger lifts, then settle within the input lease
+PASS: a new diagonal or reverse gesture changes both target axes and renews the lease
+PASS: moving into a control cancels a live lease and stale events cannot restart it
+PASS: a one-frame timestamp skew stays fresh; invalid input and large clock errors are rejected
+PASS: zero-button strokes move the real integrator on both axes, then actor and camera settle
+PASS: first keyboard hold survives invitation entry, return to beginning and motion-preference changes
+PASS: mounted hook survives input delivered after the RAF timestamp, then moves and rests
+PASS: mounted mousemove-only stream works, controls cancel it and fresh motion resumes
+PASS: natural rest preserves a baseline for the next stroke; panel restoration still needs fresh travel
+PASS: mounted hook passes through world hitboxes continuously and still stops for their click
+PASS: mounted 300 ms trackpad strokes keep full intent and stride, then rest at the lease boundary
+PASS: the drawing frame advances a live sample before React commits, with no second RAF owner
+PASS: render-driven zero-button strokes stay continuous and settle exactly at rest
+PASS: panel cancellation and exact restoration update the live sample immediately
+PASS: changing frame drivers transfers input without a second RAF or a doubled step
+
+=== check-turn-stop ===
+Command: "$HOME/.cache/codex-runtimes/codex-primary-runtime/dependencies/node/bin/node" scripts/check-turn-stop.mjs
+Exit code: 0
+PASS: 90° and 180° turns enter gradually and finish without an angular-speed snap
+PASS: small pointer noise around a 180° reversal preserves the chosen turn arc
+  Route endpoints: 30 fps (489.13, 112.34); 60 fps (485.44, 110.62); 120 fps (483.45, 109.84).
+PASS: a changing route stays close at 30, 60 and 120 fps
+PASS: natural braking begins and ends softly, reaches exact zero, and never resumes by itself
+PASS: trackpad braking meets the existing lease deadline at every tested frame rate
+PASS: braking also eases angular motion instead of freezing a mid-turn heading instantly
+  Camera final moving-frame speed (world units/s): 30 fps 0.076; 60 fps 0.084; 120 fps 0.095.
+PASS: camera movement becomes small before the input deadline and remains exactly still afterwards
+PASS: fresh guidance cancels a partial brake without resetting velocity or snapping to full pace
+PASS: invalid values and a stalled render frame cannot create an unbounded step
+
+=== check-puzzle-progress ===
+Command: "$HOME/.cache/codex-runtimes/codex-primary-runtime/dependencies/node/bin/node" scripts/check-puzzle-progress.mjs
+Exit code: 0
+PASS: each card starts unanswered; null is never a selected zero
+PASS: configured signals decode independently and preserve the leading-zero segments
+PASS: incomplete and wrong outputs retain every answer without advancing
+PASS: decimal answers cannot skip bit verification or unlock B before A
+PASS: wrong decimal input is kept and never marks a card complete
+PASS: 3/03 and 5/05 are accepted; only two validated cards award the key
+PASS: bit edits are immutable and ignored once verified; solved cards are read-only
+PASS: explicit assistance writes one complete consistent card, never a bare solved flag
+PASS: the optional bridge requires both cards and does not change music or gift state
+PASS: navigation alone cannot solve the puzzle or unlock a gift
+PASS: partial, decimal, single-card and complete progress survive a real JSON round trip
+PASS: corrupt JSON, missing records and unsupported versions safely restore defaults
+PASS: restoration derives puzzle completion and rejects forged completion flags
+PASS: invalid solved outputs, numeric answers and segments never create a key
+PASS: valid bits remain recoverable without auto-promoting an unverified draft
+PASS: storage contains only business fields and keeps independent valid music/gift progress
+PASS: storage denial and quota failure do not interrupt completing the puzzle in memory
+PASS: failure while accessing the browser storage getter is caught before any read
+
+Puzzle progress: 18 passed, 0 failed.
+
+=== check-music-progress ===
+Command: "$HOME/.cache/codex-runtimes/codex-primary-runtime/dependencies/node/bin/node" scripts/check-music-progress.mjs
+Exit code: 0
+PASS: all nine fixed IDs have equally sized selection intervals, including 1 and 9
+PASS: one active draw takes one song sample and accepts consecutive identical songs
+PASS: invalid injected randomness is rejected rather than biased or silently redrawn
+PASS: recording a song leaves puzzle drafts, completion, bridge and gift state independent
+PASS: a repeated song creates a fresh result, while replaying the same event is a no-op
+PASS: malformed draw commands cannot replace a valid result
+PASS: accepted event data is copied, and extra fields cannot become persisted draw data
+PASS: refresh restores the last result without saving drawing phases or changing progress
+PASS: completed puzzle and optional bridge survive independent music draws and restoration
+PASS: request text uses the current ID and title without interpreting replacement metacharacters
+PASS: the real hook saves a draw before dispatch returns, before any React commit or animation
+PASS: batched puzzle and draw commands preserve one another before a UI commit
+PASS: a delayed mount effect cannot overwrite an already saved draw with the initial state
+PASS: storage refusal preserves the actual hook result in memory and permits the next draw
+PASS: restore, rerender and repeated event dispatch do not create or overwrite a draw
+
+Music progress: 15 passed, 0 failed.
+
+=== check-song-draw ===
+Command: "$HOME/.cache/codex-runtimes/codex-primary-runtime/dependencies/node/bin/node" scripts/check-song-draw.mjs
+Exit code: 0
+PASS: same-tick rapid clicks commit exactly one result before scheduling visual feedback
+PASS: the fallback timer unlocks exactly once without an animation-end event or a second draw
+PASS: reduced motion exposes the result immediately but retains a 180 ms click guard
+PASS: unmount removes its timer and listener, and stale draw closures cannot dispatch
+PASS: hiding the page finishes feedback, preserves the committed draw, and never redraws on return
+PASS: enabling reduced motion interrupts feedback without changing or losing the result
+PASS: mounts and rerenders never draw, and effect replay retains one functional listener
+PASS: a rejected dispatch leaves no animation lock or timer and permits a later explicit retry
+
+Song draw lifecycle: 8 passed, 0 failed.
+
+=== check-music-copy ===
+Command: "$HOME/.cache/codex-runtimes/codex-primary-runtime/dependencies/node/bin/node" scripts/check-music-copy.mjs
+Exit code: 0
+PASS: copy uses the current two-digit number and configured title, and only confirms after success
+PASS: clipboard rejection reveals selectable text identical to the attempted request
+PASS: an unavailable clipboard API still provides the current song request without claiming success
+PASS: manual selection works independently of clipboard permission and never draws a song
+PASS: an old clipboard resolve cannot change a newly drawn card
+PASS: an old clipboard reject cannot change a newly drawn card
+PASS: an old clipboard resolve after unmount cannot update UI state
+PASS: an old clipboard reject after unmount cannot update UI state
+
+Music copy component: 8 passed, 0 failed.
+
+=== check-gift-progress ===
+Command: "$HOME/.cache/codex-runtimes/codex-primary-runtime/dependencies/node/bin/node" scripts/check-gift-progress.mjs
+Exit code: 0
+PASS: the four-character password preserves its leading zero and allows surrounding whitespace
+PASS: non-string inputs cannot be coerced or padded into a password
+PASS: wrong attempts remain retryable and never change business progress
+PASS: knowing the password on a fresh device unlocks only the gift
+PASS: unlocking preserves partial and completed puzzles plus the last chosen song
+PASS: gift routes are guarded without creating progress or requiring a song
+PASS: refresh restores unlock independently and stores no input or opening animation
+PASS: malformed or legacy fields cannot masquerade as the saved unlock flag
+PASS: the real hook saves unlock before dispatch returns and before React commits
+PASS: batched puzzle, unlock and song commands preserve each other before a UI commit
+PASS: a delayed mount effect cannot overwrite an unlock with initial locked state
+PASS: storage refusal still unlocks the real hook in memory without solving the puzzle
+PASS: restoring and rerendering an unlocked gift never invents a puzzle card or song
+
+Gift progress: 13 passed, 0 failed.
+
+=== check-gift-unlock ===
+Command: "$HOME/.cache/codex-runtimes/codex-primary-runtime/dependencies/node/bin/node" scripts/check-gift-unlock.mjs
+Exit code: 0
+PASS: wrong or incomplete input has no action, timer, permission or opening feedback
+PASS: same-tick rapid submissions dispatch once before opening state or a reveal timer
+PASS: opening ends once at its fallback timeout without needing an animation-end event
+PASS: reduced motion yields one task after dispatch, then reveals without the opening duration
+PASS: unmount during opening cancels navigation and blocks stale submit closures
+PASS: page hiding finishes a committed opening once and returning does not unlock or reveal again
+PASS: switching to reduced motion completes a pending opening without another unlock
+PASS: mount, rerender, visibility and effect replay cannot unlock or navigate on their own
+PASS: a changed reveal callback is used by the already-running timer
+PASS: a failed dispatch leaves no timer, no opening and no reveal, and a later retry works
+
+Gift opening lifecycle: 10 passed, 0 failed.
+
+=== check-content ===
+Command: "$HOME/.cache/codex-runtimes/codex-primary-runtime/dependencies/node/bin/node" scripts/check-content.mjs
+Exit code: 0
+PASS: English content tree, fixed rules, route guard, and independent empty progress.
+
+=== TypeScript check ===
+Command: sh scripts/project.sh check
+Exit code: 0
+(no output)
+
+Result: all 11 regression scripts and the TypeScript check passed; 125 PASS lines across regression scripts.
+Browser flow and actual trackpad behavior are verified separately by the main task.
+

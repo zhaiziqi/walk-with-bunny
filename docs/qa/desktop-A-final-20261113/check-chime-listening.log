@@ -1,0 +1,21 @@
+PASS: a stationary mount, tiny jitter, or map jump does not ring
+PASS: an actual approach and brief rest start one finite greeting
+PASS: walking through answers without forcing a pause
+PASS: the E prompt and manual response share the expanded range in every direction, even while walking
+PASS: an out-of-range E is not queued for later; a fresh E works once nearby
+PASS: the larger manual range does not create distant automatic greetings or bypass reading
+PASS: paper leads the bell and approach direction is preserved
+PASS: sound is emitted once at the bell crossing, never during the paper lift
+PASS: reading, background suspension, and same-place remount preserve the snapshot
+PASS: returning from the other side cannot reverse a response already in flight
+PASS: natural revisits are softer; a deliberate replay responds during the old settling period
+PASS: clicking during any active phase carries angle and velocity into a fresh visible response
+PASS: a double-click during the first visible lift does not stall the swing
+PASS: repeated explicit pushes stay bounded and stop after the last push without queued replays
+PASS: finite poses remain continuous and return exactly to baseline wind
+PASS: frame rates agree on trigger timing and all note crossings
+PASS: separate full-sheet artwork shares the original axis and exact hanging pivot
+PASS: invalid updates are inert and optional note memory is bounded
+18 chime-listening checks passed.
+
+--- stderr ---

@@ -1,0 +1,27 @@
+Browser tab: 26, Title: "Walk with Bunny", URL: "https://walk-with-bunny.vercel.app/?walk=470a879b-0c3c-42e4-ad16-aeb8dd5e074c#puzzle".
+0 AXWebArea Walk with Bunny, URL: walk-with-bunny.vercel.app/?walk=470a879b-0c3c-42e4-ad16-aeb8dd5e074c#puzzle
+	1 container Four small questions.
+		2 text 01  /  The puzzle desk
+		3 button Close and return to where you were
+		4 heading Four small questions., Value: 1, ID: scene-title
+			5 text Four small questions.
+		6 text One answer, one digit.
+		7 container Your collected digits
+			8 text KEEP THIS
+			9 content list
+				10 container Digit 1: not found yet
+				11 container Digit 2: not found yet
+				12 container Digit 3: not found yet
+				13 container Digit 4: not found yet
+		14 container Question 1 of 4
+			15 text 01  / 04 PYTHON
+			16 heading In Python, what number is the first index of a list?, Value: 2
+				17 text In Python, what number is the first index of a list?
+			18 container
+				19 text One digit · Answer for question  1
+				20 text field (settable) Description: Answer for question 1, ID: question-answer-0
+				21 button Keep this digit
+			22 button (collapsed) A hint, Secondary Actions: Expand
+		23 button Return to the garden
+
+The focused UI element is 4 heading Four small questions., Value: 1, ID: scene-title

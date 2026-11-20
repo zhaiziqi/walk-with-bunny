@@ -1,0 +1,123 @@
+{
+  "generated_at": "2026-10-30",
+  "mode": "built-in image_gen",
+  "use_case": "illustration-story",
+  "requested_aspect_ratio": "2:3",
+  "transparent_background": true,
+  "original_art": true,
+  "references_inspected": [
+    "public/assets/garden/quiet-garden.webp",
+    "public/assets/garden/walk-tree.webp"
+  ],
+  "postprocessing": "Format conversion only; original PNG alpha preserved; no resizing, compositing, extraction, or repainting.",
+  "assets": [
+    {
+      "name": "willow",
+      "prompt": "Use case: illustration-story.\nAsset type: original 2D watercolor game scenery cutout for an airy, quiet, dreamlike birthday garden, with a rabbit walking among the scenery.\nStyle/medium: delicate botanical watercolor with visible fine paper-grain pigment inside the painted forms, irregular hand-painted edges, subtle tonal detail, fine textured stems and branches, translucent layered leaves. Pale muted sage, cool powder blue, warm gray-brown and soft cream. A little storybook wonder, restrained and calm.\nComposition/framing: one complete isolated subject, portrait 2:3 composition. Entire silhouette including top and all ground-contact parts fully in frame, 4% clear padding around it. Upright front-three-quarter view with a slight view of its top, suitable as a billboard standing on a gently sloping meadow.\nScene/backdrop: GENUINELY TRANSPARENT background and all negative spaces. Alpha cutout, not a picture on paper. No backdrop, no white rectangle, no sky, no distant scenery, no broad wash around the silhouette, no floor plane, no oval floor mat, no cast shadow painted behind it. Paper pigment texture must remain only inside actual subject.\nConstraints: no text, no lettering, no watermark, no border, no UI. Do not depict other characters. Ground contact should be at a consistent narrow baseline near the bottom. Keep wispy details while leaving clear transparent gaps. No thick outlines, no vector simplification, no photographic realism, no glossy 3D render.\nPrimary request: A broad, airy old willow tree with a graceful slightly leaning weathered trunk and many fine open branching limbs. Its crown is asymmetric and generous, with long sparse drooping strands of small powder-blue and sage-green leaves. Branches must be visible through substantial transparent openings; do not make a dense solid green dome. Several arms arc outward at different heights. Pale warm gray bark with fine watercolor granulation, a few natural exposed root tips at the narrow base. The hanging leaf strands are elegant, finely resolved and different in length. The whole tree should feel like a lovely quiet discovery beside a pond.",
+      "generated_source": "/Users/admin/.codex/generated_images/01a18cdf-e5d1-7bd1-a3a5-7b578f99a6d5/exec-3f5f3622-2200-4a9b-b8d9-b8bbcd57b694.png",
+      "source": "docs/art-source/atlas-willow.png",
+      "runtime": "public/assets/garden/atlas-willow.webp",
+      "actual_width": 1024,
+      "actual_height": 1536,
+      "mode": "RGBA",
+      "alpha_bbox_nonzero": [
+        0,
+        0,
+        1024,
+        1536
+      ],
+      "alpha_bbox_above_200": [
+        25,
+        24,
+        1006,
+        1499
+      ],
+      "footInsetRatio": 0.02408854,
+      "fully_transparent_fraction": 0.257615,
+      "fully_opaque_fraction": 0.0,
+      "center_alpha": 5,
+      "runtime_bytes": 942598
+    },
+    {
+      "name": "blossom",
+      "prompt": "Use case: illustration-story.\nAsset type: original 2D watercolor game scenery cutout for an airy, quiet, dreamlike birthday garden, with a rabbit walking among the scenery.\nStyle/medium: delicate botanical watercolor with visible fine paper-grain pigment inside the painted forms, irregular hand-painted edges, subtle tonal detail, fine textured stems and branches, translucent layered leaves. Pale muted sage, cool powder blue, warm gray-brown and soft cream. A little storybook wonder, restrained and calm.\nComposition/framing: one complete isolated subject, portrait 2:3 composition. Entire silhouette including top and all ground-contact parts fully in frame, 4% clear padding around it. Upright front-three-quarter view with a slight view of its top, suitable as a billboard standing on a gently sloping meadow.\nScene/backdrop: GENUINELY TRANSPARENT background and all negative spaces. Alpha cutout, not a picture on paper. No backdrop, no white rectangle, no sky, no distant scenery, no broad wash around the silhouette, no floor plane, no oval floor mat, no cast shadow painted behind it. Paper pigment texture must remain only inside actual subject.\nConstraints: no text, no lettering, no watermark, no border, no UI. Do not depict other characters. Ground contact should be at a consistent narrow baseline near the bottom. Keep wispy details while leaving clear transparent gaps. No thick outlines, no vector simplification, no photographic realism, no glossy 3D render.\nPrimary request: An airy flowering crabapple tree, small and graceful, with a crooked branching warm-gray trunk and delicate loose dusty-blush pink and creamy white blossoms. Open, irregular silhouette with lots of transparent gaps between blossom sprays, several branches at different heights, one branch reaching low to the side. Tiny sage leaves among the flowers, distinct individual petal groups, not an opaque cotton-candy cloud. The trunk splits gently into fine twigs. Small natural root tips reach the narrow ground line. No round lollipop canopy, no uniformly spherical blossom clusters. A fine handmade spring botanical illustration.",
+      "generated_source": "/Users/admin/.codex/generated_images/01a18cdf-e5d1-7bd1-a3a5-7b578f99a6d5/exec-9e710b00-0cbe-4f05-b6d1-51522ac112ce.png",
+      "source": "docs/art-source/atlas-blossom.png",
+      "runtime": "public/assets/garden/atlas-blossom.webp",
+      "actual_width": 1024,
+      "actual_height": 1536,
+      "mode": "RGBA",
+      "alpha_bbox_nonzero": [
+        0,
+        0,
+        1024,
+        1536
+      ],
+      "alpha_bbox_above_200": [
+        14,
+        28,
+        1011,
+        1503
+      ],
+      "footInsetRatio": 0.02148438,
+      "fully_transparent_fraction": 0.48854,
+      "fully_opaque_fraction": 0.0,
+      "center_alpha": 250,
+      "runtime_bytes": 612938
+    },
+    {
+      "name": "fern",
+      "prompt": "Use case: illustration-story.\nAsset type: original 2D watercolor game scenery cutout for an airy, quiet, dreamlike birthday garden, with a rabbit walking among the scenery.\nStyle/medium: delicate botanical watercolor with visible fine paper-grain pigment inside the painted forms, irregular hand-painted edges, subtle tonal detail, fine textured stems and branches, translucent layered leaves. Pale muted sage, cool powder blue, warm gray-brown and soft cream. A little storybook wonder, restrained and calm.\nComposition/framing: one complete isolated subject, portrait 2:3 composition. Entire silhouette including top and all ground-contact parts fully in frame, 4% clear padding around it. Upright front-three-quarter view with a slight view of its top, suitable as a billboard standing on a gently sloping meadow.\nScene/backdrop: GENUINELY TRANSPARENT background and all negative spaces. Alpha cutout, not a picture on paper. No backdrop, no white rectangle, no sky, no distant scenery, no broad wash around the silhouette, no floor plane, no oval floor mat, no cast shadow painted behind it. Paper pigment texture must remain only inside actual subject.\nConstraints: no text, no lettering, no watermark, no border, no UI. Do not depict other characters. Ground contact should be at a consistent narrow baseline near the bottom. Keep wispy details while leaving clear transparent gaps. No thick outlines, no vector simplification, no photographic realism, no glossy 3D render.\nPrimary request: A single natural low woodland undergrowth cluster, with three to four delicately divided fern fronds unfurling outward in muted sage and cool blue-green, soft meadow leaves at the base, and three slender tall foxglove stems bearing tiny creamy white bell flowers at staggered heights. The leafy plants share one narrow natural rooted base. Many fine serrated fern leaflets and transparent spaces, asymmetrical silhouette, light airy upper stems. No huge soil clod, no flat grassy oval, no pot. A few small root and grass tips at the ground-contact line only. Delicate botanical watercolor detail, undergrowth that can partly hide a small rabbit's feet.",
+      "generated_source": "/Users/admin/.codex/generated_images/01a18cdf-e5d1-7bd1-a3a5-7b578f99a6d5/exec-b8dd0edd-b018-4aa7-bd6f-cf5de9a3fba3.png",
+      "source": "docs/art-source/atlas-fern.png",
+      "runtime": "public/assets/garden/atlas-fern.webp",
+      "actual_width": 1024,
+      "actual_height": 1536,
+      "mode": "RGBA",
+      "alpha_bbox_nonzero": [
+        0,
+        25,
+        1008,
+        1536
+      ],
+      "alpha_bbox_above_200": [
+        21,
+        32,
+        994,
+        1451
+      ],
+      "footInsetRatio": 0.05533854,
+      "fully_transparent_fraction": 0.494465,
+      "fully_opaque_fraction": 0.0,
+      "center_alpha": 1,
+      "runtime_bytes": 625220
+    },
+    {
+      "name": "arch",
+      "prompt": "Use case: illustration-story.\nAsset type: original 2D watercolor game scenery cutout for an airy, quiet, dreamlike birthday garden, with a rabbit walking among the scenery.\nStyle/medium: delicate botanical watercolor with visible fine paper-grain pigment inside the painted forms, irregular hand-painted edges, subtle tonal detail, fine textured stems and branches, translucent layered leaves. Pale muted sage, cool powder blue, warm gray-brown and soft cream. A little storybook wonder, restrained and calm.\nComposition/framing: one complete isolated subject, portrait 2:3 composition. Entire silhouette including top and all ground-contact parts fully in frame, 4% clear padding around it. Upright front-three-quarter view with a slight view of its top, suitable as a billboard standing on a gently sloping meadow.\nScene/backdrop: GENUINELY TRANSPARENT background and all negative spaces. Alpha cutout, not a picture on paper. No backdrop, no white rectangle, no sky, no distant scenery, no broad wash around the silhouette, no floor plane, no oval floor mat, no cast shadow painted behind it. Paper pigment texture must remain only inside actual subject.\nConstraints: no text, no lettering, no watermark, no border, no UI. Do not depict other characters. Ground contact should be at a consistent narrow baseline near the bottom. Keep wispy details while leaving clear transparent gaps. No thick outlines, no vector simplification, no photographic realism, no glossy 3D render.\nPrimary request: An old, small, freestanding garden stone arch with a complete walk-through arch opening but weathered missing outer stones and uneven broken edges. Understated fairytale ruin about two people tall, not a castle or grand monument. Pale warm-gray and dusty blue-gray irregular stones, subtle surface mottling and moss. The left pillar a little thicker and the top uneven, one small broken fragment at a foot. A few delicate sage ivy tendrils climb one side, with very sparse tiny cream and blush wildflowers at the feet. The large arch opening MUST be completely transparent, showing no filled wall or landscape, and the area around the exterior is transparent. No threshold slab across the opening, no ground plane. Both stone feet end at the same narrow ground line. Elegant quiet mystery with fine watercolor texture.",
+      "generated_source": "/Users/admin/.codex/generated_images/01a18cdf-e5d1-7bd1-a3a5-7b578f99a6d5/exec-0a4db187-5d04-47b6-8042-a746e12785a0.png",
+      "source": "docs/art-source/atlas-arch.png",
+      "runtime": "public/assets/garden/atlas-arch.webp",
+      "actual_width": 1024,
+      "actual_height": 1536,
+      "mode": "RGBA",
+      "alpha_bbox_nonzero": [
+        0,
+        25,
+        1012,
+        1536
+      ],
+      "alpha_bbox_above_200": [
+        23,
+        57,
+        1004,
+        1456
+      ],
+      "footInsetRatio": 0.05208333,
+      "fully_transparent_fraction": 0.472294,
+      "fully_opaque_fraction": 0.0,
+      "center_alpha": 0,
+      "runtime_bytes": 567150
+    }
+  ]
+}

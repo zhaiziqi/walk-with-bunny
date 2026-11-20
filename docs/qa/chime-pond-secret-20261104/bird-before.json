@@ -1,0 +1,33 @@
+{
+  "guide": "{\"leader\":2,\"met\":true,\"perch\":7,\"target\":7,\"s\":2309.909,\"speed\":0,\"quiet\":0,\"lift\":4,\"ready\":true,\"finished\":true,\"farewellAge\":4.2,\"farewellSide\":1,\"x\":-240.133,\"y\":8310,\"farewellLean\":0,\"leftWingAngle\":0.52,\"rightWingAngle\":0.52}",
+  "main": {
+    "actorX": "-292.242113",
+    "actorY": "8615.709392",
+    "artVersion": "floof-clearing-v1",
+    "atlasPulse": "",
+    "cameraX": "-258.847708",
+    "cameraY": "8834.472576",
+    "cameraZoom": "1.180000",
+    "discovered": "lock",
+    "entered": "true",
+    "envelopeStored": "false",
+    "giftUnlocked": "false",
+    "headingX": "0.190910",
+    "headingY": "-0.981608",
+    "lastDrawId": "",
+    "lastSongId": "",
+    "motionVersion": "point-to-walk-v1",
+    "moving": "false",
+    "progressMode": "saved",
+    "puzzleSolved": "false",
+    "puzzleVersion": "computer-knowledge-v1",
+    "questionsSolved": "0",
+    "region": "moon",
+    "renderer": "webgl",
+    "sound": "off",
+    "storageStatus": "saved",
+    "view": "overview",
+    "visited": "entry,hill,moon",
+    "worldEvents": "paper-flock,paper-guide-perch-1,paper-guide-perch-2,paper-guide-perch-3,paper-guide-perch-4,paper-guide-perch-5,paper-guide-perch-6,paper-guide-perch-7,moon-ring"
+  }
+}

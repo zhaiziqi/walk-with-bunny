@@ -1,0 +1,20 @@
+PASS: a real approach greets the nearest cap on either side, rather than a fixed first index
+PASS: waiting at the distant edge cannot consume the first close-up response
+PASS: a short rest starts one ordered exchange; the smallest neighbour answers late
+PASS: tiny real-position corrections do not continually cancel stillness
+PASS: crossing a nearest-cap bisector by a few pixels does not flicker the focus
+PASS: walking to a clearly closer cap transfers attention without resetting poses
+PASS: a fast pass creates only local greetings, not the full stationary response
+PASS: departing releases the response; a later visit receives only a brief nod
+PASS: the glow remains briefly after the cap closes, then settles without repetition
+PASS: a long rest settles, and movement afterwards still receives a fresh greeting
+PASS: reading freezes everything and returning resumes from the same point
+PASS: rendering or teleporting into the patch cannot accidentally start a full response
+PASS: a replay pulse tells the full exchange once, even after a brief revisit
+PASS: the encounter has comparable pacing at 30, 60, and 120 FPS
+PASS: a suspended or invalid frame cannot skip the quiet period or corrupt state
+PASS: invalid optional speed measurements cannot poison the animation
+PASS: all phases keep planted feet and bounded upper-body deformation
+PASS: the upper cap keeps its shape while the stalk bends below it
+PASS: static-mode return keeps the exact remembered cap pose without replaying
+19/19 mushroom listening checks passed.

@@ -1,0 +1,40 @@
+.depth-garden {
+  background: linear-gradient(#cde5ed 0%, #e8edcf 48%, #87a562 65%, #648348 100%);
+  isolation: isolate;
+}
+
+.depth-backdrop {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: 50% 32%;
+  user-select: none;
+}
+
+.depth-terrain {
+  position: absolute;
+  inset: 0;
+  overflow: hidden;
+}
+
+.depth-anchor {
+  position: absolute;
+  width: 0;
+  height: 0;
+  transform-origin: 0 0;
+  pointer-events: none;
+}
+
+.depth-contact {
+  position: absolute;
+  border-radius: 50%;
+  background: radial-gradient(ellipse, rgb(37 57 26 / 34%), rgb(45 65 27 / 12%) 48%, transparent 72%);
+}
+
+.depth-lamp-glow {
+  position: absolute;
+  border-radius: 50%;
+  background: radial-gradient(circle, rgb(255 239 170 / 60%), rgb(255 232 151 / 22%) 40%, transparent 72%);
+}

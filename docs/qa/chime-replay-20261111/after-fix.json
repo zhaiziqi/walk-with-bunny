@@ -1,0 +1,38 @@
+{
+  "phase": {
+    "chime": "{\"engaged\":true,\"quiet\":79.3,\"travel\":0,\"responseAge\":8.5,\"responseStrength\":1,\"side\":1,\"bellAngle\":-0.025,\"paperAngle\":-0.013,\"noteSerial\":3}",
+    "state": {
+      "actorX": "-1040.473614",
+      "actorY": "5249.250175",
+      "artVersion": "floof-clearing-v1",
+      "atlasPulse": "arch:3",
+      "cameraX": "-1043.321653",
+      "cameraY": "5464.841578",
+      "cameraZoom": "1.000000",
+      "discovered": "",
+      "entered": "true",
+      "envelopeStored": "false",
+      "giftUnlocked": "false",
+      "headingX": "-0.000389",
+      "headingY": "1.000000",
+      "lastDrawId": "",
+      "lastSongId": "",
+      "motionVersion": "point-to-walk-v1",
+      "moving": "false",
+      "progressMode": "saved",
+      "puzzleSolved": "false",
+      "puzzleVersion": "computer-knowledge-v1",
+      "questionsSolved": "0",
+      "region": "arch",
+      "renderer": "webgl",
+      "sleepMaskFound": "true",
+      "sound": "off",
+      "storageStatus": "saved",
+      "view": "overview",
+      "visited": "entry,arch",
+      "walkId": "",
+      "worldEvents": "arch-awake,chime-note-1,chime-note-2,chime-note-3"
+    }
+  },
+  "logs": []
+}

@@ -1,0 +1,943 @@
+[
+  {
+    "step": "entry",
+    "state": {
+      "actorX": "0.000000",
+      "actorY": "-1800.000000",
+      "atlasPulse": "",
+      "cameraX": "0.000000",
+      "cameraY": "-1580.000000",
+      "cameraZoom": "1.000000",
+      "discovered": "",
+      "entered": "true",
+      "headingX": "0.000000",
+      "headingY": "-1.000000",
+      "moving": "false",
+      "region": "entry",
+      "renderer": "webgl",
+      "sound": "off",
+      "view": "overview",
+      "viewport": {
+        "height": 720,
+        "width": 1280
+      },
+      "visited": "entry",
+      "worldEvents": ""
+    }
+  },
+  {
+    "step": "flower-approach",
+    "state": {
+      "actorX": "266.020655",
+      "actorY": "-1184.248349",
+      "atlasPulse": "",
+      "cameraX": "273.026787",
+      "cameraY": "-938.515088",
+      "cameraZoom": "1.000000",
+      "discovered": "",
+      "entered": "true",
+      "headingX": "0.484945",
+      "headingY": "0.874545",
+      "moving": "false",
+      "region": "entry",
+      "renderer": "webgl",
+      "sound": "off",
+      "view": "overview",
+      "viewport": {
+        "height": 720,
+        "width": 1280
+      },
+      "visited": "entry",
+      "worldEvents": "trail-passage-0,trail-flower-open"
+    }
+  },
+  {
+    "step": "flower-pause",
+    "state": {
+      "actorX": "266.020655",
+      "actorY": "-1184.248349",
+      "atlasPulse": "",
+      "cameraX": "273.026787",
+      "cameraY": "-938.515088",
+      "cameraZoom": "1.000000",
+      "discovered": "",
+      "entered": "true",
+      "headingX": "0.484945",
+      "headingY": "0.874545",
+      "moving": "false",
+      "region": "entry",
+      "renderer": "webgl",
+      "sound": "off",
+      "view": "overview",
+      "viewport": {
+        "height": 720,
+        "width": 1280
+      },
+      "visited": "entry",
+      "worldEvents": "trail-passage-0,trail-flower-open"
+    }
+  },
+  {
+    "step": "diagonal-drag-turn",
+    "state": {
+      "actorX": "334.318007",
+      "actorY": "-886.221990",
+      "atlasPulse": "",
+      "cameraX": "344.298905",
+      "cameraY": "-705.971620",
+      "cameraZoom": "1.000000",
+      "discovered": "",
+      "entered": "true",
+      "headingX": "-0.429495",
+      "headingY": "0.903069",
+      "moving": "false",
+      "region": "entry",
+      "renderer": "webgl",
+      "sound": "off",
+      "view": "overview",
+      "viewport": {
+        "height": 720,
+        "width": 1280
+      },
+      "visited": "entry",
+      "worldEvents": "trail-passage-0,trail-flower-open,trail-butterfly-met,trail-guide-perch-1"
+    }
+  },
+  {
+    "step": "wooded-bend",
+    "state": {
+      "actorX": "114.048390",
+      "actorY": "-592.567853",
+      "atlasPulse": "",
+      "cameraX": "104.386986",
+      "cameraY": "-375.350650",
+      "cameraZoom": "1.000000",
+      "discovered": "",
+      "entered": "true",
+      "headingX": "-0.219987",
+      "headingY": "0.975503",
+      "moving": "false",
+      "region": "entry",
+      "renderer": "webgl",
+      "sound": "off",
+      "view": "overview",
+      "viewport": {
+        "height": 720,
+        "width": 1280
+      },
+      "visited": "entry",
+      "worldEvents": "trail-passage-0,trail-flower-open,trail-butterfly-met,trail-guide-perch-1,trail-guide-perch-2,trail-passage-3"
+    }
+  },
+  {
+    "step": "bend-exit",
+    "state": {
+      "actorX": "96.991335",
+      "actorY": "-553.980353",
+      "atlasPulse": "",
+      "cameraX": "96.053258",
+      "cameraY": "-348.479970",
+      "cameraZoom": "1.000000",
+      "discovered": "",
+      "entered": "true",
+      "headingX": "-0.968519",
+      "headingY": "-0.248938",
+      "moving": "false",
+      "region": "entry",
+      "renderer": "webgl",
+      "sound": "off",
+      "view": "overview",
+      "viewport": {
+        "height": 720,
+        "width": 1280
+      },
+      "visited": "entry",
+      "worldEvents": "trail-passage-0,trail-flower-open,trail-butterfly-met,trail-guide-perch-1,trail-guide-perch-2,trail-passage-3"
+    }
+  },
+  {
+    "step": "hillside-steering-fixed",
+    "state": {
+      "actorX": "-205.661259",
+      "actorY": "-101.651631",
+      "atlasPulse": "",
+      "cameraX": "-218.822123",
+      "cameraY": "135.653238",
+      "cameraZoom": "1.000000",
+      "discovered": "",
+      "entered": "true",
+      "headingX": "-0.511855",
+      "headingY": "0.859072",
+      "moving": "false",
+      "region": "lantern",
+      "renderer": "webgl",
+      "sound": "off",
+      "view": "overview",
+      "viewport": {
+        "height": 720,
+        "width": 1280
+      },
+      "visited": "entry",
+      "worldEvents": "trail-passage-0,trail-flower-open,trail-butterfly-met,trail-guide-perch-1,trail-guide-perch-2,trail-passage-3,trail-guide-perch-3"
+    }
+  },
+  {
+    "step": "clearing-approach",
+    "state": {
+      "actorX": "-739.977579",
+      "actorY": "273.514397",
+      "atlasPulse": "",
+      "cameraX": "-750.817062",
+      "cameraY": "505.324251",
+      "cameraZoom": "1.000000",
+      "discovered": "",
+      "entered": "true",
+      "headingX": "-0.979645",
+      "headingY": "0.200740",
+      "moving": "false",
+      "region": "lantern",
+      "renderer": "webgl",
+      "sound": "off",
+      "view": "overview",
+      "viewport": {
+        "height": 720,
+        "width": 1280
+      },
+      "visited": "entry",
+      "worldEvents": "trail-passage-0,trail-flower-open,trail-butterfly-met,trail-guide-perch-1,trail-guide-perch-2,trail-passage-3,trail-guide-perch-3,trail-guide-perch-4,pond-ripple,trail-guide-perch-5"
+    }
+  },
+  {
+    "step": "lantern-arrival",
+    "state": {
+      "actorX": "-703.711563",
+      "actorY": "733.218324",
+      "atlasPulse": "",
+      "cameraX": "-706.300020",
+      "cameraY": "975.237497",
+      "cameraZoom": "1.000000",
+      "discovered": "puzzle",
+      "entered": "true",
+      "headingX": "0.098729",
+      "headingY": "0.995114",
+      "moving": "false",
+      "region": "lantern",
+      "renderer": "webgl",
+      "sound": "off",
+      "view": "overview",
+      "viewport": {
+        "height": 720,
+        "width": 1280
+      },
+      "visited": "entry,lantern",
+      "worldEvents": "trail-passage-0,trail-flower-open,trail-butterfly-met,trail-guide-perch-1,trail-guide-perch-2,trail-passage-3,trail-guide-perch-3,trail-guide-perch-4,pond-ripple,trail-guide-perch-5,trail-guide-perch-6,trail-passage-7,trail-lantern-awake,trail-guide-perch-7,trail-guide-homeward"
+    }
+  },
+  {
+    "step": "reading-background-drag",
+    "before": {
+      "actorX": "-703.711563",
+      "actorY": "733.218324",
+      "atlasPulse": "",
+      "cameraX": "-226.487823",
+      "cameraY": "970.000000",
+      "cameraZoom": "1.180000",
+      "discovered": "puzzle",
+      "entered": "true",
+      "headingX": "0.098729",
+      "headingY": "0.995114",
+      "moving": "false",
+      "region": "lantern",
+      "renderer": "webgl",
+      "sound": "off",
+      "view": "puzzle",
+      "viewport": {
+        "height": 720,
+        "width": 1280
+      },
+      "visited": "entry,lantern",
+      "worldEvents": "trail-passage-0,trail-flower-open,trail-butterfly-met,trail-guide-perch-1,trail-guide-perch-2,trail-passage-3,trail-guide-perch-3,trail-guide-perch-4,pond-ripple,trail-guide-perch-5,trail-guide-perch-6,trail-passage-7,trail-lantern-awake,trail-guide-perch-7,trail-guide-homeward"
+    },
+    "after": {
+      "actorX": "-703.711563",
+      "actorY": "733.218324",
+      "atlasPulse": "",
+      "cameraX": "-226.487823",
+      "cameraY": "970.000000",
+      "cameraZoom": "1.180000",
+      "discovered": "puzzle",
+      "entered": "true",
+      "headingX": "0.098729",
+      "headingY": "0.995114",
+      "moving": "false",
+      "region": "lantern",
+      "renderer": "webgl",
+      "sound": "off",
+      "view": "puzzle",
+      "viewport": {
+        "height": 720,
+        "width": 1280
+      },
+      "visited": "entry,lantern",
+      "worldEvents": "trail-passage-0,trail-flower-open,trail-butterfly-met,trail-guide-perch-1,trail-guide-perch-2,trail-passage-3,trail-guide-perch-3,trail-guide-perch-4,pond-ripple,trail-guide-perch-5,trail-guide-perch-6,trail-passage-7,trail-lantern-awake,trail-guide-perch-7,trail-guide-homeward"
+    }
+  },
+  {
+    "step": "panel-return",
+    "before": {
+      "actorX": "-703.711563",
+      "actorY": "733.218324",
+      "atlasPulse": "",
+      "cameraX": "-706.300020",
+      "cameraY": "975.237497",
+      "cameraZoom": "1.000000",
+      "discovered": "puzzle",
+      "entered": "true",
+      "headingX": "0.098729",
+      "headingY": "0.995114",
+      "moving": "false",
+      "region": "lantern",
+      "renderer": "webgl",
+      "sound": "off",
+      "view": "overview",
+      "viewport": {
+        "height": 720,
+        "width": 1280
+      },
+      "visited": "entry,lantern",
+      "worldEvents": "trail-passage-0,trail-flower-open,trail-butterfly-met,trail-guide-perch-1,trail-guide-perch-2,trail-passage-3,trail-guide-perch-3,trail-guide-perch-4,pond-ripple,trail-guide-perch-5,trail-guide-perch-6,trail-passage-7,trail-lantern-awake,trail-guide-perch-7,trail-guide-homeward"
+    },
+    "after": {
+      "actorX": "-703.711563",
+      "actorY": "733.218324",
+      "atlasPulse": "",
+      "cameraX": "-706.300020",
+      "cameraY": "975.237497",
+      "cameraZoom": "1.000000",
+      "discovered": "puzzle",
+      "entered": "true",
+      "headingX": "0.098729",
+      "headingY": "0.995114",
+      "moving": "false",
+      "region": "lantern",
+      "renderer": "webgl",
+      "sound": "off",
+      "view": "overview",
+      "viewport": {
+        "height": 720,
+        "width": 1280
+      },
+      "visited": "entry,lantern",
+      "worldEvents": "trail-passage-0,trail-flower-open,trail-butterfly-met,trail-guide-perch-1,trail-guide-perch-2,trail-passage-3,trail-guide-perch-3,trail-guide-perch-4,pond-ripple,trail-guide-perch-5,trail-guide-perch-6,trail-passage-7,trail-lantern-awake,trail-guide-perch-7,trail-guide-homeward"
+    }
+  },
+  {
+    "step": "return-start",
+    "state": {
+      "actorX": "-741.082981",
+      "actorY": "490.466265",
+      "atlasPulse": "",
+      "cameraX": "-742.047413",
+      "cameraY": "709.900362",
+      "cameraZoom": "1.000000",
+      "discovered": "puzzle",
+      "entered": "true",
+      "headingX": "-0.118514",
+      "headingY": "-0.992952",
+      "moving": "false",
+      "region": "lantern",
+      "renderer": "webgl",
+      "sound": "off",
+      "view": "overview",
+      "viewport": {
+        "height": 720,
+        "width": 1280
+      },
+      "visited": "entry,lantern",
+      "worldEvents": "trail-passage-0,trail-flower-open,trail-butterfly-met,trail-guide-perch-1,trail-guide-perch-2,trail-passage-3,trail-guide-perch-3,trail-guide-perch-4,pond-ripple,trail-guide-perch-5,trail-guide-perch-6,trail-passage-7,trail-lantern-awake,trail-guide-perch-7,trail-guide-homeward,trail-guide-return-6"
+    }
+  },
+  {
+    "step": "return-bend",
+    "state": {
+      "actorX": "-393.044857",
+      "actorY": "-163.151270",
+      "atlasPulse": "",
+      "cameraX": "-382.945525",
+      "cameraY": "38.809659",
+      "cameraZoom": "1.000000",
+      "discovered": "puzzle",
+      "entered": "true",
+      "headingX": "0.663444",
+      "headingY": "-0.748226",
+      "moving": "false",
+      "region": "lantern",
+      "renderer": "webgl",
+      "sound": "off",
+      "view": "overview",
+      "viewport": {
+        "height": 720,
+        "width": 1280
+      },
+      "visited": "entry,lantern",
+      "worldEvents": "trail-passage-0,trail-flower-open,trail-butterfly-met,trail-guide-perch-1,trail-guide-perch-2,trail-passage-3,trail-guide-perch-3,trail-guide-perch-4,pond-ripple,trail-guide-perch-5,trail-guide-perch-6,trail-passage-7,trail-lantern-awake,trail-guide-perch-7,trail-guide-homeward,trail-guide-return-6,trail-guide-return-5,trail-passage-5,trail-guide-return-4"
+    }
+  },
+  {
+    "step": "flower-return",
+    "state": {
+      "actorX": "322.998922",
+      "actorY": "-1085.678843",
+      "atlasPulse": "",
+      "cameraX": "322.028115",
+      "cameraY": "-876.902629",
+      "cameraZoom": "1.000000",
+      "discovered": "puzzle",
+      "entered": "true",
+      "headingX": "0.816492",
+      "headingY": "-0.577357",
+      "moving": "false",
+      "region": "entry",
+      "renderer": "webgl",
+      "sound": "off",
+      "view": "overview",
+      "viewport": {
+        "height": 720,
+        "width": 1280
+      },
+      "visited": "entry,lantern",
+      "worldEvents": "trail-passage-0,trail-flower-open,trail-butterfly-met,trail-guide-perch-1,trail-guide-perch-2,trail-passage-3,trail-guide-perch-3,trail-guide-perch-4,pond-ripple,trail-guide-perch-5,trail-guide-perch-6,trail-passage-7,trail-lantern-awake,trail-guide-perch-7,trail-guide-homeward,trail-guide-return-6,trail-guide-return-5,trail-passage-5,trail-guide-return-4,trail-passage-4,trail-guide-return-3,trail-guide-return-2,trail-returned"
+    }
+  },
+  {
+    "step": "static-memories",
+    "before": {
+      "actorX": "322.998922",
+      "actorY": "-1085.678843",
+      "atlasPulse": "",
+      "cameraX": "322.028115",
+      "cameraY": "-876.902629",
+      "cameraZoom": "1.000000",
+      "discovered": "puzzle",
+      "entered": "true",
+      "headingX": "0.816492",
+      "headingY": "-0.577357",
+      "moving": "false",
+      "region": "entry",
+      "renderer": "webgl",
+      "sound": "off",
+      "view": "overview",
+      "viewport": {
+        "height": 720,
+        "width": 1280
+      },
+      "visited": "entry,lantern",
+      "worldEvents": "trail-passage-0,trail-flower-open,trail-butterfly-met,trail-guide-perch-1,trail-guide-perch-2,trail-passage-3,trail-guide-perch-3,trail-guide-perch-4,pond-ripple,trail-guide-perch-5,trail-guide-perch-6,trail-passage-7,trail-lantern-awake,trail-guide-perch-7,trail-guide-homeward,trail-guide-return-6,trail-guide-return-5,trail-passage-5,trail-guide-return-4,trail-passage-4,trail-guide-return-3,trail-guide-return-2,trail-returned"
+    },
+    "after": {
+      "actorX": "322.998922",
+      "actorY": "-1085.678843",
+      "atlasPulse": "",
+      "cameraX": "322.028115",
+      "cameraY": "-876.902629",
+      "cameraZoom": "1.000000",
+      "discovered": "puzzle",
+      "entered": "true",
+      "headingX": "0.816492",
+      "headingY": "-0.577357",
+      "moving": "false",
+      "region": "entry",
+      "renderer": "static",
+      "sound": "off",
+      "view": "overview",
+      "viewport": {
+        "height": 720,
+        "width": 1280
+      },
+      "visited": "entry,lantern",
+      "worldEvents": "trail-passage-0,trail-flower-open,trail-butterfly-met,trail-guide-perch-1,trail-guide-perch-2,trail-passage-3,trail-guide-perch-3,trail-guide-perch-4,pond-ripple,trail-guide-perch-5,trail-guide-perch-6,trail-passage-7,trail-lantern-awake,trail-guide-perch-7,trail-guide-homeward,trail-guide-return-6,trail-guide-return-5,trail-passage-5,trail-guide-return-4,trail-passage-4,trail-guide-return-3,trail-guide-return-2,trail-returned"
+    }
+  },
+  {
+    "step": "resume-from-static",
+    "state": {
+      "actorX": "322.998922",
+      "actorY": "-1085.678843",
+      "atlasPulse": "",
+      "cameraX": "322.028115",
+      "cameraY": "-876.902629",
+      "cameraZoom": "1.000000",
+      "discovered": "puzzle",
+      "entered": "true",
+      "headingX": "0.816492",
+      "headingY": "-0.577357",
+      "moving": "false",
+      "region": "entry",
+      "renderer": "webgl",
+      "sound": "off",
+      "view": "overview",
+      "viewport": {
+        "height": 720,
+        "width": 1280
+      },
+      "visited": "entry,lantern",
+      "worldEvents": "trail-passage-0,trail-flower-open,trail-butterfly-met,trail-guide-perch-1,trail-guide-perch-2,trail-passage-3,trail-guide-perch-3,trail-guide-perch-4,pond-ripple,trail-guide-perch-5,trail-guide-perch-6,trail-passage-7,trail-lantern-awake,trail-guide-perch-7,trail-guide-homeward,trail-guide-return-6,trail-guide-return-5,trail-passage-5,trail-guide-return-4,trail-passage-4,trail-guide-return-3,trail-guide-return-2,trail-returned"
+    }
+  },
+  {
+    "step": "walk-back-to-entry",
+    "state": {
+      "actorX": "-131.059768",
+      "actorY": "-1727.183674",
+      "atlasPulse": "",
+      "cameraX": "-144.929966",
+      "cameraY": "-1526.100165",
+      "cameraZoom": "1.000000",
+      "discovered": "puzzle",
+      "entered": "true",
+      "headingX": "-0.584601",
+      "headingY": "-0.811321",
+      "moving": "false",
+      "region": "entry",
+      "renderer": "webgl",
+      "sound": "off",
+      "view": "overview",
+      "viewport": {
+        "height": 720,
+        "width": 1280
+      },
+      "visited": "entry,lantern",
+      "worldEvents": "trail-passage-0,trail-flower-open,trail-butterfly-met,trail-guide-perch-1,trail-guide-perch-2,trail-passage-3,trail-guide-perch-3,trail-guide-perch-4,pond-ripple,trail-guide-perch-5,trail-guide-perch-6,trail-passage-7,trail-lantern-awake,trail-guide-perch-7,trail-guide-homeward,trail-guide-return-6,trail-guide-return-5,trail-passage-5,trail-guide-return-4,trail-passage-4,trail-guide-return-3,trail-guide-return-2,trail-returned,trail-passage-1"
+    }
+  },
+  {
+    "step": "keyboard-release",
+    "before": {
+      "actorX": "-131.059768",
+      "actorY": "-1727.183674",
+      "atlasPulse": "",
+      "cameraX": "-144.929966",
+      "cameraY": "-1526.100165",
+      "cameraZoom": "1.000000",
+      "discovered": "puzzle",
+      "entered": "true",
+      "headingX": "-0.584601",
+      "headingY": "-0.811321",
+      "moving": "false",
+      "region": "entry",
+      "renderer": "webgl",
+      "sound": "off",
+      "view": "overview",
+      "viewport": {
+        "height": 720,
+        "width": 1280
+      },
+      "visited": "entry,lantern",
+      "worldEvents": "trail-passage-0,trail-flower-open,trail-butterfly-met,trail-guide-perch-1,trail-guide-perch-2,trail-passage-3,trail-guide-perch-3,trail-guide-perch-4,pond-ripple,trail-guide-perch-5,trail-guide-perch-6,trail-passage-7,trail-lantern-awake,trail-guide-perch-7,trail-guide-homeward,trail-guide-return-6,trail-guide-return-5,trail-passage-5,trail-guide-return-4,trail-passage-4,trail-guide-return-3,trail-guide-return-2,trail-returned,trail-passage-1"
+    },
+    "after": {
+      "actorX": "-96.608587",
+      "actorY": "-1734.525787",
+      "atlasPulse": "",
+      "cameraX": "-144.121351",
+      "cameraY": "-1529.067670",
+      "cameraZoom": "1.000000",
+      "discovered": "puzzle",
+      "entered": "true",
+      "headingX": "1.000000",
+      "headingY": "0.000000",
+      "moving": "false",
+      "region": "entry",
+      "renderer": "webgl",
+      "sound": "off",
+      "view": "overview",
+      "viewport": {
+        "height": 720,
+        "width": 1280
+      },
+      "visited": "entry,lantern",
+      "worldEvents": "trail-passage-0,trail-flower-open,trail-butterfly-met,trail-guide-perch-1,trail-guide-perch-2,trail-passage-3,trail-guide-perch-3,trail-guide-perch-4,pond-ripple,trail-guide-perch-5,trail-guide-perch-6,trail-passage-7,trail-lantern-awake,trail-guide-perch-7,trail-guide-homeward,trail-guide-return-6,trail-guide-return-5,trail-passage-5,trail-guide-return-4,trail-passage-4,trail-guide-return-3,trail-guide-return-2,trail-returned,trail-passage-1"
+    }
+  },
+  {
+    "step": "wheel-forward",
+    "state": {
+      "actorX": "-89.973338",
+      "actorY": "-1724.106660",
+      "atlasPulse": "",
+      "cameraX": "-137.761479",
+      "cameraY": "-1529.533441",
+      "cameraZoom": "1.000000",
+      "discovered": "puzzle",
+      "entered": "true",
+      "headingX": "0.264067",
+      "headingY": "0.964504",
+      "moving": "true",
+      "region": "entry",
+      "renderer": "webgl",
+      "sound": "off",
+      "view": "overview",
+      "viewport": {
+        "height": 720,
+        "width": 1280
+      },
+      "visited": "entry,lantern",
+      "worldEvents": "trail-passage-0,trail-flower-open,trail-butterfly-met,trail-guide-perch-1,trail-guide-perch-2,trail-passage-3,trail-guide-perch-3,trail-guide-perch-4,pond-ripple,trail-guide-perch-5,trail-guide-perch-6,trail-passage-7,trail-lantern-awake,trail-guide-perch-7,trail-guide-homeward,trail-guide-return-6,trail-guide-return-5,trail-passage-5,trail-guide-return-4,trail-passage-4,trail-guide-return-3,trail-guide-return-2,trail-returned,trail-passage-1"
+    }
+  },
+  {
+    "step": "wheel-settled",
+    "state": {
+      "actorX": "-89.697742",
+      "actorY": "-1672.996453",
+      "atlasPulse": "",
+      "cameraX": "-119.955243",
+      "cameraY": "-1495.928621",
+      "cameraZoom": "1.000000",
+      "discovered": "puzzle",
+      "entered": "true",
+      "headingX": "0.000000",
+      "headingY": "1.000000",
+      "moving": "false",
+      "region": "entry",
+      "renderer": "webgl",
+      "sound": "off",
+      "view": "overview",
+      "viewport": {
+        "height": 720,
+        "width": 1280
+      },
+      "visited": "entry,lantern",
+      "worldEvents": "trail-passage-0,trail-flower-open,trail-butterfly-met,trail-guide-perch-1,trail-guide-perch-2,trail-passage-3,trail-guide-perch-3,trail-guide-perch-4,pond-ripple,trail-guide-perch-5,trail-guide-perch-6,trail-passage-7,trail-lantern-awake,trail-guide-perch-7,trail-guide-homeward,trail-guide-return-6,trail-guide-return-5,trail-passage-5,trail-guide-return-4,trail-passage-4,trail-guide-return-3,trail-guide-return-2,trail-returned,trail-passage-1"
+    }
+  },
+  {
+    "step": "refresh-persistence",
+    "before": {
+      "actorX": "-89.697742",
+      "actorY": "-1672.996453",
+      "atlasPulse": "",
+      "cameraX": "-119.955243",
+      "cameraY": "-1495.928621",
+      "cameraZoom": "1.000000",
+      "discovered": "puzzle",
+      "entered": "true",
+      "headingX": "0.000000",
+      "headingY": "1.000000",
+      "moving": "false",
+      "region": "entry",
+      "renderer": "webgl",
+      "sound": "off",
+      "view": "overview",
+      "viewport": {
+        "height": 720,
+        "width": 1280
+      },
+      "visited": "entry,lantern",
+      "worldEvents": "trail-passage-0,trail-flower-open,trail-butterfly-met,trail-guide-perch-1,trail-guide-perch-2,trail-passage-3,trail-guide-perch-3,trail-guide-perch-4,pond-ripple,trail-guide-perch-5,trail-guide-perch-6,trail-passage-7,trail-lantern-awake,trail-guide-perch-7,trail-guide-homeward,trail-guide-return-6,trail-guide-return-5,trail-passage-5,trail-guide-return-4,trail-passage-4,trail-guide-return-3,trail-guide-return-2,trail-returned,trail-passage-1"
+    },
+    "after": {
+      "actorX": "-89.697742",
+      "actorY": "-1672.996453",
+      "atlasPulse": "",
+      "cameraX": "-119.955243",
+      "cameraY": "-1495.928621",
+      "cameraZoom": "1.000000",
+      "discovered": "",
+      "entered": "true",
+      "headingX": "0.000000",
+      "headingY": "1.000000",
+      "moving": "false",
+      "region": "entry",
+      "renderer": "static",
+      "sound": "off",
+      "view": "overview",
+      "viewport": {
+        "height": 720,
+        "width": 1280
+      },
+      "visited": "entry",
+      "worldEvents": ""
+    }
+  },
+  {
+    "step": "final-entry",
+    "state": {
+      "actorX": "0.000000",
+      "actorY": "-1800.000000",
+      "atlasPulse": "",
+      "cameraX": "0.000000",
+      "cameraY": "-1580.000000",
+      "cameraZoom": "1.000000",
+      "discovered": "",
+      "entered": "true",
+      "headingX": "0.576890",
+      "headingY": "-0.816822",
+      "moving": "false",
+      "region": "entry",
+      "renderer": "webgl",
+      "sound": "off",
+      "view": "overview",
+      "viewport": {
+        "height": 720,
+        "width": 1280
+      },
+      "visited": "entry",
+      "worldEvents": ""
+    }
+  },
+  {
+    "step": "final-flower-stop",
+    "state": {
+      "actorX": "318.963141",
+      "actorY": "-1145.101318",
+      "atlasPulse": "",
+      "cameraX": "328.940105",
+      "cameraY": "-903.672836",
+      "cameraZoom": "1.000000",
+      "discovered": "",
+      "entered": "true",
+      "headingX": "0.439925",
+      "headingY": "0.898034",
+      "moving": "false",
+      "region": "entry",
+      "renderer": "webgl",
+      "sound": "off",
+      "view": "overview",
+      "viewport": {
+        "height": 720,
+        "width": 1280
+      },
+      "visited": "entry",
+      "worldEvents": "trail-passage-0,trail-passage-1,trail-flower-open"
+    }
+  },
+  {
+    "step": "final-ridge-outbound",
+    "state": {
+      "actorX": "54.305733",
+      "actorY": "-410.403999",
+      "atlasPulse": "",
+      "cameraX": "43.667773",
+      "cameraY": "-170.449958",
+      "cameraZoom": "1.000000",
+      "discovered": "",
+      "entered": "true",
+      "headingX": "-0.560105",
+      "headingY": "0.828422",
+      "moving": "false",
+      "region": "lantern",
+      "renderer": "webgl",
+      "sound": "off",
+      "view": "overview",
+      "viewport": {
+        "height": 720,
+        "width": 1280
+      },
+      "visited": "entry",
+      "worldEvents": "trail-passage-0,trail-passage-1,trail-flower-open,trail-butterfly-met,trail-passage-2,trail-guide-perch-1,trail-passage-3,trail-guide-perch-2"
+    }
+  },
+  {
+    "step": "final-lantern",
+    "state": {
+      "actorX": "-629.341228",
+      "actorY": "711.882909",
+      "atlasPulse": "",
+      "cameraX": "-649.759295",
+      "cameraY": "932.626071",
+      "cameraZoom": "1.000000",
+      "discovered": "puzzle",
+      "entered": "true",
+      "headingX": "0.127355",
+      "headingY": "0.991857",
+      "moving": "false",
+      "region": "lantern",
+      "renderer": "webgl",
+      "sound": "off",
+      "view": "overview",
+      "viewport": {
+        "height": 720,
+        "width": 1280
+      },
+      "visited": "entry,lantern",
+      "worldEvents": "pond-ripple,stones-awake,trail-passage-7,trail-lantern-awake"
+    }
+  },
+  {
+    "step": "final-panel-return",
+    "before": {
+      "actorX": "-629.341228",
+      "actorY": "711.882909",
+      "atlasPulse": "",
+      "cameraX": "-649.759295",
+      "cameraY": "932.626071",
+      "cameraZoom": "1.000000",
+      "discovered": "puzzle",
+      "entered": "true",
+      "headingX": "0.127355",
+      "headingY": "0.991857",
+      "moving": "false",
+      "region": "lantern",
+      "renderer": "webgl",
+      "sound": "off",
+      "view": "overview",
+      "viewport": {
+        "height": 720,
+        "width": 1280
+      },
+      "visited": "entry,lantern",
+      "worldEvents": "pond-ripple,stones-awake,trail-passage-7,trail-lantern-awake"
+    },
+    "after": {
+      "actorX": "-629.341228",
+      "actorY": "711.882909",
+      "atlasPulse": "",
+      "cameraX": "-649.759295",
+      "cameraY": "932.626071",
+      "cameraZoom": "1.000000",
+      "discovered": "puzzle",
+      "entered": "true",
+      "headingX": "0.127355",
+      "headingY": "0.991857",
+      "moving": "false",
+      "region": "lantern",
+      "renderer": "webgl",
+      "sound": "off",
+      "view": "overview",
+      "viewport": {
+        "height": 720,
+        "width": 1280
+      },
+      "visited": "entry,lantern",
+      "worldEvents": "pond-ripple,stones-awake,trail-passage-7,trail-lantern-awake"
+    }
+  },
+  {
+    "step": "final-return-ridge",
+    "state": {
+      "actorX": "-366.330265",
+      "actorY": "-160.499654",
+      "atlasPulse": "",
+      "cameraX": "-366.670129",
+      "cameraY": "54.223407",
+      "cameraZoom": "1.000000",
+      "discovered": "puzzle",
+      "entered": "true",
+      "headingX": "0.344079",
+      "headingY": "-0.938941",
+      "moving": "false",
+      "region": "lantern",
+      "renderer": "webgl",
+      "sound": "off",
+      "view": "overview",
+      "viewport": {
+        "height": 720,
+        "width": 1280
+      },
+      "visited": "entry,lantern",
+      "worldEvents": "pond-ripple,stones-awake,trail-passage-7,trail-lantern-awake"
+    }
+  },
+  {
+    "step": "final-idle",
+    "state": {
+      "actorX": "-366.330265",
+      "actorY": "-160.499654",
+      "atlasPulse": "",
+      "cameraX": "-366.670129",
+      "cameraY": "54.223407",
+      "cameraZoom": "1.000000",
+      "discovered": "puzzle",
+      "entered": "true",
+      "headingX": "0.344079",
+      "headingY": "-0.938941",
+      "moving": "false",
+      "region": "lantern",
+      "renderer": "webgl",
+      "sound": "off",
+      "view": "overview",
+      "viewport": {
+        "height": 720,
+        "width": 1280
+      },
+      "visited": "entry,lantern",
+      "worldEvents": "pond-ripple,stones-awake,trail-passage-7,trail-lantern-awake"
+    }
+  },
+  {
+    "step": "final-static-retention",
+    "before": {
+      "actorX": "-366.330265",
+      "actorY": "-160.499654",
+      "atlasPulse": "",
+      "cameraX": "-366.670129",
+      "cameraY": "54.223407",
+      "cameraZoom": "1.000000",
+      "discovered": "puzzle",
+      "entered": "true",
+      "headingX": "0.344079",
+      "headingY": "-0.938941",
+      "moving": "false",
+      "region": "lantern",
+      "renderer": "webgl",
+      "sound": "off",
+      "view": "overview",
+      "viewport": {
+        "height": 720,
+        "width": 1280
+      },
+      "visited": "entry,lantern",
+      "worldEvents": "pond-ripple,stones-awake,trail-passage-7,trail-lantern-awake"
+    },
+    "after": {
+      "actorX": "-366.330265",
+      "actorY": "-160.499654",
+      "atlasPulse": "",
+      "cameraX": "-366.670129",
+      "cameraY": "54.223407",
+      "cameraZoom": "1.000000",
+      "discovered": "puzzle",
+      "entered": "true",
+      "headingX": "0.344079",
+      "headingY": "-0.938941",
+      "moving": "false",
+      "region": "lantern",
+      "renderer": "static",
+      "sound": "off",
+      "view": "overview",
+      "viewport": {
+        "height": 720,
+        "width": 1280
+      },
+      "visited": "entry,lantern",
+      "worldEvents": "pond-ripple,stones-awake,trail-passage-7,trail-lantern-awake"
+    }
+  },
+  {
+    "step": "delivered-entry",
+    "state": {
+      "actorX": "0.000000",
+      "actorY": "-1800.000000",
+      "atlasPulse": "",
+      "cameraX": "0.000000",
+      "cameraY": "-1580.000000",
+      "cameraZoom": "1.000000",
+      "discovered": "puzzle",
+      "entered": "true",
+      "headingX": "0.218063",
+      "headingY": "-0.975935",
+      "moving": "false",
+      "region": "entry",
+      "renderer": "webgl",
+      "sound": "off",
+      "view": "overview",
+      "viewport": {
+        "height": 720,
+        "width": 1280
+      },
+      "visited": "entry,lantern",
+      "worldEvents": "pond-ripple,stones-awake,trail-passage-7,trail-lantern-awake"
+    }
+  }
+]

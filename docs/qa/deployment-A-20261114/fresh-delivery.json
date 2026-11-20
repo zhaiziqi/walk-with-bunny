@@ -1,0 +1,44 @@
+{
+  "url": "https://a-little-secret-garden.rationalbay.chatgpt.site/?walk=313c8c3d-fc0d-4925-aeb3-97e07201cf6a#garden",
+  "state": {
+    "horizontalOverflow": false,
+    "main": {
+      "actorX": "0.000000",
+      "actorY": "-1800.000000",
+      "artVersion": "floof-clearing-v1",
+      "atlasPulse": "",
+      "cameraX": "0.000000",
+      "cameraY": "-1580.000000",
+      "cameraZoom": "1.000000",
+      "discovered": "",
+      "entered": "false",
+      "envelopeStored": "false",
+      "giftUnlocked": "false",
+      "headingX": "0.000000",
+      "headingY": "-1.000000",
+      "lastDrawId": "",
+      "lastSongId": "",
+      "motionVersion": "point-to-walk-v1",
+      "moving": "false",
+      "progressMode": "walk",
+      "puzzleSolved": "false",
+      "puzzleVersion": "computer-knowledge-v1",
+      "questionsSolved": "0",
+      "region": "entry",
+      "renderer": "webgl",
+      "sleepMaskFound": "false",
+      "sound": "off",
+      "storageStatus": "saved",
+      "view": "overview",
+      "visited": "entry",
+      "walkId": "313c8c3d-fc0d-4925-aeb3-97e07201cf6a",
+      "worldEvents": ""
+    },
+    "text": "A secret garden\n♩\nSound off\nChoose a song\nA little way into wonder.\nBegin wandering\nBegin your walk, then move your pointer to wander",
+    "viewport": {
+      "height": 800,
+      "width": 1280
+    }
+  },
+  "logs": []
+}

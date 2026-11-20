@@ -1,0 +1,20 @@
+{
+  "actorX": "-633.932235",
+  "actorY": "634.526516",
+  "artVersion": "floof-clearing-v1",
+  "atlasPulse": "",
+  "cameraX": "-633.960074",
+  "cameraY": "851.180923",
+  "cameraZoom": "1.000000",
+  "discovered": "puzzle",
+  "entered": "true",
+  "headingX": "0.000000",
+  "headingY": "1.000000",
+  "moving": "false",
+  "region": "lantern",
+  "renderer": "webgl",
+  "sound": "off",
+  "view": "overview",
+  "visited": "entry,lantern",
+  "worldEvents": "trail-passage-1,trail-flower-open,trail-butterfly-met,trail-guide-perch-1,trail-guide-perch-2,trail-passage-3,trail-guide-perch-3,trail-guide-perch-4,trail-guide-perch-5,trail-passage-5,trail-guide-perch-6,trail-lantern-awake,trail-returned,trail-guide-perch-7,trail-guide-homeward"
+}

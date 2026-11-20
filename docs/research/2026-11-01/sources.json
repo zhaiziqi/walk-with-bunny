@@ -1,0 +1,34 @@
+[
+  {
+    "file": "wayfinder-reference.jpg",
+    "url": "https://image0.commarts.com/images1/3/6/3/1/1/1136389_0_992_LTIyNTg3OTgzNDE2Njg0NzE2MDA.jpg",
+    "bytes": 126500,
+    "mime": "image/jpeg",
+    "status": 200,
+    "purpose": "Read-only reference research; not a site asset or claim of reuse permission."
+  },
+  {
+    "file": "storybook-reference.jpg",
+    "url": "https://assets.awwwards.com/awards/media/cache/thumb_880_660/submissions/2021/10/617a5a63df7f6349307103.png",
+    "bytes": 644533,
+    "mime": "image/png",
+    "status": 200,
+    "purpose": "Read-only reference research; not a site asset or claim of reuse permission."
+  },
+  {
+    "file": "card-layer-reference.webp",
+    "url": "https://cdn.recent.design/items/r7lof7q/0/poster/1200.webp",
+    "bytes": 10874,
+    "mime": "image/webp",
+    "status": 200,
+    "purpose": "Read-only reference research; not a site asset or claim of reuse permission."
+  },
+  {
+    "file": "walk-with-zilin.html",
+    "url": "https://walk-with-zilin.vercel.app/",
+    "bytes": 2035,
+    "mime": "text/html; charset=utf-8",
+    "status": 200,
+    "purpose": "Read-only reference research; not a site asset or claim of reuse permission."
+  }
+]

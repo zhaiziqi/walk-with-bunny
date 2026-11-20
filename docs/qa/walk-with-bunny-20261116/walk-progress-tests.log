@@ -1,0 +1,20 @@
+PASS: the reusable new-walk link drops every prior run, debug flag and reveal hash
+PASS: production walk=new creates a fully empty independent run and clears stale page/history
+PASS: repeated browser initialization after canonicalization reuses the same identity
+PASS: each separate walk=new load gets a different run without inheriting prior achievements
+PASS: a canonical same-ID refresh restores only that run, including all discoveries
+PASS: different canonical runs ignore each other and normal-save storage events
+PASS: same-run tabs merge achievements on only their own key and do not echo writes
+PASS: other storage areas and deletion cannot inject progress into a walk
+PASS: an older same-run tab rebases before a new command without erasing discoveries
+PASS: invalid explicit walk links remain isolated and never fall through to normal saves
+PASS: a denied localStorage getter stays playable in memory without session/normal fallback
+PASS: a failed URL canonicalization stays in memory instead of writing a hidden new run
+PASS: unreadable previous walk state is not overwritten by a blank memory fallback
+PASS: write failure remains independent and can recover within the same walk
+PASS: a malformed walk record cannot import a legacy or foreign unlocked gift
+PASS: a normal page retains its original saved progress and no walk identity
+PASS: DEV temporary previews retain tab storage and never become persistent walks
+PASS: an explicit walk request wins over leftover DEV preview flags and drops them
+PASS: unmounting an independent walk removes its storage listener
+19 isolated walk progress checks passed.

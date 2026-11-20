@@ -1,0 +1,446 @@
+[
+  {
+    "check": "fresh glass before interaction",
+    "pass": true,
+    "evidence": {
+      "hidden": false,
+      "main": {
+        "actorX": "279.964499",
+        "actorY": "3869.344460",
+        "artVersion": "floof-clearing-v1",
+        "atlasPulse": "",
+        "cameraX": "258.641953",
+        "cameraY": "4060.510754",
+        "cameraZoom": "1.180000",
+        "discovered": "",
+        "entered": "true",
+        "envelopeStored": "false",
+        "giftUnlocked": "false",
+        "headingX": "0.413846",
+        "headingY": "0.910347",
+        "lastDrawId": "",
+        "lastSongId": "",
+        "motionVersion": "point-to-walk-v1",
+        "moving": "false",
+        "progressMode": "saved",
+        "puzzleSolved": "false",
+        "puzzleVersion": "computer-knowledge-v1",
+        "questionsSolved": "0",
+        "region": "hollow",
+        "renderer": "webgl",
+        "sound": "off",
+        "storageStatus": "saved",
+        "view": "overview",
+        "visited": "entry",
+        "worldEvents": ""
+      },
+      "orange": {
+        "actor": {
+          "x": 279.9644991090706,
+          "y": 3869.3444597111466
+        },
+        "amount": 0,
+        "completed": false,
+        "elapsed": 0,
+        "leanX": 0,
+        "leanY": 0,
+        "liquid": 0.82,
+        "origin": null,
+        "phase": "idle",
+        "requestCount": 0
+      }
+    }
+  },
+  {
+    "check": "sip lowers visible liquid and leaves actor coordinates unchanged",
+    "pass": true,
+    "evidence": {
+      "i": 49,
+      "at": 1793892839371,
+      "hidden": false,
+      "main": {
+        "actorX": "279.964499",
+        "actorY": "3869.344460",
+        "artVersion": "floof-clearing-v1",
+        "atlasPulse": "",
+        "cameraX": "258.641953",
+        "cameraY": "4060.510754",
+        "cameraZoom": "1.180000",
+        "discovered": "",
+        "entered": "true",
+        "envelopeStored": "false",
+        "giftUnlocked": "false",
+        "headingX": "0.413846",
+        "headingY": "0.910347",
+        "lastDrawId": "",
+        "lastSongId": "",
+        "motionVersion": "point-to-walk-v1",
+        "moving": "false",
+        "progressMode": "saved",
+        "puzzleSolved": "false",
+        "puzzleVersion": "computer-knowledge-v1",
+        "questionsSolved": "0",
+        "region": "hollow",
+        "renderer": "webgl",
+        "sound": "off",
+        "storageStatus": "saved",
+        "view": "overview",
+        "visited": "entry",
+        "worldEvents": ""
+      },
+      "orange": {
+        "actor": {
+          "x": 279.9644991090706,
+          "y": 3869.3444597111466
+        },
+        "amount": 0,
+        "completed": true,
+        "elapsed": 0,
+        "leanX": 0,
+        "leanY": 0,
+        "liquid": 0.56,
+        "origin": null,
+        "phase": "idle",
+        "requestCount": 1
+      }
+    }
+  },
+  {
+    "check": "map pauses exact sip phase and elapsed time",
+    "pass": true,
+    "evidence": {
+      "actor": {
+        "x": 279.9644991090706,
+        "y": 3869.3444597111466
+      },
+      "amount": 0.0146,
+      "completed": true,
+      "elapsed": 0.0322,
+      "leanX": 0.226,
+      "leanY": 0.342,
+      "liquid": 0.56,
+      "origin": {
+        "x": 279.9644991090706,
+        "y": 3869.3444597111466
+      },
+      "phase": "lean",
+      "requestCount": 2
+    }
+  },
+  {
+    "check": "walking away interrupts sip and removes distant cup target",
+    "pass": true,
+    "evidence": {
+      "hidden": true,
+      "main": {
+        "actorX": "83.264324",
+        "actorY": "3889.129694",
+        "artVersion": "floof-clearing-v1",
+        "atlasPulse": "",
+        "cameraX": "111.698793",
+        "cameraY": "4093.916693",
+        "cameraZoom": "1.180000",
+        "discovered": "",
+        "entered": "true",
+        "envelopeStored": "false",
+        "giftUnlocked": "false",
+        "headingX": "-0.999999",
+        "headingY": "0.001393",
+        "lastDrawId": "",
+        "lastSongId": "",
+        "motionVersion": "point-to-walk-v1",
+        "moving": "false",
+        "progressMode": "saved",
+        "puzzleSolved": "false",
+        "puzzleVersion": "computer-knowledge-v1",
+        "questionsSolved": "0",
+        "region": "hollow",
+        "renderer": "webgl",
+        "sound": "off",
+        "storageStatus": "saved",
+        "view": "overview",
+        "visited": "entry",
+        "worldEvents": ""
+      },
+      "orange": {
+        "actor": {
+          "x": 83.26432436700941,
+          "y": 3889.129693994521
+        },
+        "amount": 0,
+        "completed": true,
+        "elapsed": 0,
+        "leanX": 0,
+        "leanY": 0,
+        "liquid": 0.56,
+        "origin": null,
+        "phase": "idle",
+        "requestCount": 3
+      }
+    }
+  },
+  {
+    "check": "reading return preserves glass and exact actor location",
+    "pass": true,
+    "evidence": {
+      "hidden": false,
+      "main": {
+        "actorX": "251.743161",
+        "actorY": "3911.582362",
+        "artVersion": "floof-clearing-v1",
+        "atlasPulse": "",
+        "cameraX": "210.068957",
+        "cameraY": "4118.616112",
+        "cameraZoom": "1.180000",
+        "discovered": "",
+        "entered": "true",
+        "envelopeStored": "false",
+        "giftUnlocked": "false",
+        "headingX": "0.999999",
+        "headingY": "0.001356",
+        "lastDrawId": "",
+        "lastSongId": "",
+        "motionVersion": "point-to-walk-v1",
+        "moving": "false",
+        "progressMode": "saved",
+        "puzzleSolved": "false",
+        "puzzleVersion": "computer-knowledge-v1",
+        "questionsSolved": "0",
+        "region": "hollow",
+        "renderer": "webgl",
+        "sound": "off",
+        "storageStatus": "saved",
+        "view": "overview",
+        "visited": "entry",
+        "worldEvents": ""
+      },
+      "orange": {
+        "actor": {
+          "x": 251.74316132207753,
+          "y": 3911.582362380035
+        },
+        "amount": 0,
+        "completed": true,
+        "elapsed": 0,
+        "leanX": 0,
+        "leanY": 0,
+        "liquid": 0.56,
+        "origin": null,
+        "phase": "idle",
+        "requestCount": 3
+      }
+    }
+  },
+  {
+    "check": "switching renderer mid-sip retains partial liquid and releases pose",
+    "pass": true,
+    "before": {
+      "hidden": false,
+      "main": {
+        "actorX": "289.532757",
+        "actorY": "3889.753846",
+        "artVersion": "floof-clearing-v1",
+        "atlasPulse": "",
+        "cameraX": "223.073608",
+        "cameraY": "4117.695689",
+        "cameraZoom": "1.180000",
+        "discovered": "",
+        "entered": "true",
+        "envelopeStored": "false",
+        "giftUnlocked": "false",
+        "headingX": "0.269782",
+        "headingY": "-0.962921",
+        "lastDrawId": "",
+        "lastSongId": "",
+        "motionVersion": "point-to-walk-v1",
+        "moving": "false",
+        "progressMode": "saved",
+        "puzzleSolved": "false",
+        "puzzleVersion": "computer-knowledge-v1",
+        "questionsSolved": "0",
+        "region": "hollow",
+        "renderer": "webgl",
+        "sound": "off",
+        "storageStatus": "saved",
+        "view": "overview",
+        "visited": "entry",
+        "worldEvents": ""
+      },
+      "orange": {
+        "actor": {
+          "x": 289.5327569100461,
+          "y": 3889.7538461135737
+        },
+        "amount": 1,
+        "completed": false,
+        "elapsed": 0.7669,
+        "leanX": 15.155,
+        "leanY": 23.544,
+        "liquid": 0.7717,
+        "origin": {
+          "x": 289.5327569100461,
+          "y": 3889.7538461135737
+        },
+        "phase": "sip",
+        "requestCount": 1
+      }
+    },
+    "after": {
+      "hidden": false,
+      "main": {
+        "actorX": "289.532757",
+        "actorY": "3889.753846",
+        "artVersion": "floof-clearing-v1",
+        "atlasPulse": "",
+        "cameraX": "223.073608",
+        "cameraY": "4117.695689",
+        "cameraZoom": "1.180000",
+        "discovered": "",
+        "entered": "true",
+        "envelopeStored": "false",
+        "giftUnlocked": "false",
+        "headingX": "0.269782",
+        "headingY": "-0.962921",
+        "lastDrawId": "",
+        "lastSongId": "",
+        "motionVersion": "point-to-walk-v1",
+        "moving": "false",
+        "progressMode": "saved",
+        "puzzleSolved": "false",
+        "puzzleVersion": "computer-knowledge-v1",
+        "questionsSolved": "0",
+        "region": "hollow",
+        "renderer": "static",
+        "sound": "off",
+        "storageStatus": "saved",
+        "view": "overview",
+        "visited": "entry",
+        "worldEvents": ""
+      },
+      "orange": {
+        "actor": {
+          "x": 289.5327569100461,
+          "y": 3889.7538461135737
+        },
+        "amount": 0,
+        "completed": false,
+        "elapsed": 0,
+        "leanX": 0,
+        "leanY": 0,
+        "liquid": 0.7621,
+        "origin": null,
+        "phase": "idle",
+        "requestCount": 1
+      }
+    }
+  },
+  {
+    "check": "static mode explicit sip completes without movement or stranded pose",
+    "pass": true,
+    "evidence": {
+      "hidden": false,
+      "main": {
+        "actorX": "289.532757",
+        "actorY": "3889.753846",
+        "artVersion": "floof-clearing-v1",
+        "atlasPulse": "",
+        "cameraX": "223.073608",
+        "cameraY": "4117.695689",
+        "cameraZoom": "1.180000",
+        "discovered": "",
+        "entered": "true",
+        "envelopeStored": "false",
+        "giftUnlocked": "false",
+        "headingX": "0.269782",
+        "headingY": "-0.962921",
+        "lastDrawId": "",
+        "lastSongId": "",
+        "motionVersion": "point-to-walk-v1",
+        "moving": "false",
+        "progressMode": "saved",
+        "puzzleSolved": "false",
+        "puzzleVersion": "computer-knowledge-v1",
+        "questionsSolved": "0",
+        "region": "hollow",
+        "renderer": "static",
+        "sound": "off",
+        "storageStatus": "saved",
+        "view": "overview",
+        "visited": "entry",
+        "worldEvents": ""
+      },
+      "orange": {
+        "actor": {
+          "x": 289.5327569100461,
+          "y": 3889.7538461135737
+        },
+        "amount": 0,
+        "completed": true,
+        "elapsed": 0,
+        "leanX": 0,
+        "leanY": 0,
+        "liquid": 0.56,
+        "origin": null,
+        "phase": "idle",
+        "requestCount": 2
+      }
+    }
+  },
+  {
+    "check": "dynamic renderer resumes with same consumed glass and neutral pose",
+    "pass": true,
+    "evidence": {
+      "hidden": false,
+      "main": {
+        "actorX": "289.532757",
+        "actorY": "3889.753846",
+        "artVersion": "floof-clearing-v1",
+        "atlasPulse": "",
+        "cameraX": "223.073608",
+        "cameraY": "4117.695689",
+        "cameraZoom": "1.180000",
+        "discovered": "",
+        "entered": "true",
+        "envelopeStored": "false",
+        "giftUnlocked": "false",
+        "headingX": "0.269782",
+        "headingY": "-0.962921",
+        "lastDrawId": "",
+        "lastSongId": "",
+        "motionVersion": "point-to-walk-v1",
+        "moving": "false",
+        "progressMode": "saved",
+        "puzzleSolved": "false",
+        "puzzleVersion": "computer-knowledge-v1",
+        "questionsSolved": "0",
+        "region": "hollow",
+        "renderer": "webgl",
+        "sound": "off",
+        "storageStatus": "saved",
+        "view": "overview",
+        "visited": "entry",
+        "worldEvents": ""
+      },
+      "orange": {
+        "actor": {
+          "x": 289.5327569100461,
+          "y": 3889.7538461135737
+        },
+        "amount": 0,
+        "completed": true,
+        "elapsed": 0,
+        "leanX": 0,
+        "leanY": 0,
+        "liquid": 0.56,
+        "origin": null,
+        "phase": "idle",
+        "requestCount": 2
+      }
+    }
+  },
+  {
+    "check": "browser console has no warnings or errors",
+    "pass": true,
+    "evidence": []
+  }
+]

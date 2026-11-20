@@ -1,0 +1,39 @@
+{
+  "recordedAt": "2026-11-02T01:59:59.275Z",
+  "renderer": "webgl",
+  "sharedAssetsSettled": true,
+  "domContentLoadedMs": 1320.2,
+  "loadEventMs": 1652.9,
+  "firstContentfulPaintMs": 1988,
+  "resourceCount": 83,
+  "transferredBytes": 21300,
+  "decodedBytes": 10288261,
+  "slowestResources": [
+    {
+      "path": "/art/floof/painted-ground-material-v1.png",
+      "durationMs": 1625.3,
+      "transferBytes": 300
+    },
+    {
+      "path": "/assets/garden/ground-contact.svg",
+      "durationMs": 1587.8,
+      "transferBytes": 300
+    },
+    {
+      "path": "/assets/garden/dream-glow.svg",
+      "durationMs": 1573,
+      "transferBytes": 300
+    },
+    {
+      "path": "/art/floof/painted-leaf-bank-v1.png",
+      "durationMs": 1564.3,
+      "transferBytes": 300
+    },
+    {
+      "path": "/assets/garden/favicon.svg",
+      "durationMs": 522.5,
+      "transferBytes": 300
+    }
+  ],
+  "externalResourceOrigins": []
+}

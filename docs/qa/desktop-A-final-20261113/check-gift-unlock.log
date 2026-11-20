@@ -1,0 +1,14 @@
+PASS: wrong or incomplete input has no action, timer, permission or opening feedback
+PASS: same-tick rapid submissions dispatch once before opening state or a reveal timer
+PASS: opening ends once at its fallback timeout without needing an animation-end event
+PASS: reduced motion yields one task after dispatch, then reveals without the opening duration
+PASS: unmount during opening cancels navigation and blocks stale submit closures
+PASS: page hiding finishes a committed opening once and returning does not unlock or reveal again
+PASS: switching to reduced motion completes a pending opening without another unlock
+PASS: mount, rerender, visibility and effect replay cannot unlock or navigate on their own
+PASS: a changed reveal callback is used by the already-running timer
+PASS: a failed dispatch leaves no timer, no opening and no reveal, and a later retry works
+
+Gift opening lifecycle: 10 passed, 0 failed.
+
+--- stderr ---

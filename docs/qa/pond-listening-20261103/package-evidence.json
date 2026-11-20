@@ -1,0 +1,9 @@
+{
+  "files": 52,
+  "differences": [],
+  "contentSha256": "976aae6cac292789c9c350d99d1264830af0fb6e2ba93cd4cad3a49202d9a84e",
+  "contentUnchanged": true,
+  "build": "TypeScript + Vite production passed; 130 modules",
+  "warning": "Existing Three chunk 882.26 kB",
+  "archive": "releases/birthday-garden-desktop-pond-20261103.tar.gz"
+}

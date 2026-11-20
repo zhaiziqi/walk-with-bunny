@@ -1,0 +1,18 @@
+{
+  "staticFilesServedAndHashVerified": 62,
+  "excludedPrivatePaths": [
+    {
+      "path": "/docs/DEPLOYMENT_A_20261114.md",
+      "status": 404
+    },
+    {
+      "path": "/src/config/content.json",
+      "status": 404
+    },
+    {
+      "path": "/.openai/hosting.json",
+      "status": 404
+    }
+  ],
+  "archive": "releases/walk-with-bunny-vercel-20261116/walk-with-bunny-static.zip"
+}

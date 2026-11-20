@@ -1,0 +1,18 @@
+{
+  "date": "2026-11-14",
+  "project_id": "appgprj_6af73dc32a248191823b6bf3d04a40cc",
+  "source_commit": "404894a4d1340da07aea3429296cb91492320df1",
+  "version_id": "appgprj_6af73dc32a248191823b6bf3d04a40cc~appgver_bc950efbe308819189646480b8b1b997",
+  "deployment_id": "appgdep_6af73ea5ca8c81918b1c0d6363b64455",
+  "deployment_status": "succeeded",
+  "access_mode": "public",
+  "access_revision": 2,
+  "url": "https://a-little-secret-garden.rationalbay.chatgpt.site",
+  "fresh_url": "https://a-little-secret-garden.rationalbay.chatgpt.site/?walk=new#garden",
+  "desktop_viewport": [
+    1280,
+    800
+  ],
+  "private_reference_files_published": false,
+  "temporary_snapshot_server_stopped": true
+}

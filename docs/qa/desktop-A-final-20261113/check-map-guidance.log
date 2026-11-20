@@ -1,0 +1,12 @@
+PASS: the next puzzle desk is a clue, not an unvisited return destination
+PASS: the current route reaches the clue, while future destinations remain hidden
+PASS: the first route, lantern marker and label stay inside the map when the player wanders
+PASS: visiting the desk replaces its clue marker with a genuine return button
+PASS: the desk remains current until packed, then music becomes the clue without unseen returns
+PASS: a drawn song points to the gift from the actual position; opened gifts end the main-line clue
+PASS: all return actions correspond exactly to visited areas and never change supplied progress
+PASS: closing the map only closes it and never moves the player
+
+Map guidance component: 8 passed, 0 failed.
+
+--- stderr ---

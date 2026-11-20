@@ -1,0 +1,808 @@
+[
+  {
+    "check": "reading pauses pond and movement",
+    "pass": true,
+    "before": {
+      "main": {
+        "actorX": "-1287.669697",
+        "actorY": "2910.129782",
+        "artVersion": "floof-clearing-v1",
+        "atlasPulse": "",
+        "cameraX": "1323.512177",
+        "cameraY": "2320.000000",
+        "cameraZoom": "1.180000",
+        "discovered": "",
+        "entered": "true",
+        "envelopeStored": "false",
+        "giftUnlocked": "false",
+        "headingX": "-0.999999",
+        "headingY": "0.001545",
+        "lastDrawId": "",
+        "lastSongId": "",
+        "motionVersion": "point-to-walk-v1",
+        "moving": "false",
+        "progressMode": "saved",
+        "puzzleSolved": "false",
+        "puzzleVersion": "computer-knowledge-v1",
+        "questionsSolved": "0",
+        "region": "pond",
+        "renderer": "webgl",
+        "sound": "off",
+        "storageStatus": "saved",
+        "view": "music",
+        "visited": "entry,pond",
+        "worldEvents": "pond-lilies"
+      },
+      "pond": {
+        "calm": 1,
+        "discovered": true,
+        "dream": {
+          "coastStarted": true,
+          "engaged": true,
+          "phase": "rest",
+          "playfulness": 1,
+          "presence": 1,
+          "quiet": 20,
+          "reflection": {
+            "vx": 0,
+            "vy": 0,
+            "x": -1319.117,
+            "y": 3125.481
+          },
+          "target": {
+            "x": -1319.118,
+            "y": 3125.481
+          },
+          "time": 93.601,
+          "trail": []
+        },
+        "engaged": true,
+        "petals": [
+          {
+            "lift": 0,
+            "rotation": 0.7,
+            "speed": 0,
+            "x": -1305,
+            "y": 3130
+          },
+          {
+            "lift": 0,
+            "rotation": 2.4,
+            "speed": 0,
+            "x": -1020,
+            "y": 3238
+          },
+          {
+            "lift": 0,
+            "rotation": 1.5,
+            "speed": 0,
+            "x": -1104,
+            "y": 3076
+          }
+        ],
+        "presence": 1,
+        "quiet": 12,
+        "ripples": [
+          {
+            "age": 4.8,
+            "opacity": 0,
+            "touched": 7,
+            "x": -1151.24,
+            "y": 2997.53
+          },
+          {
+            "age": 4.8,
+            "opacity": 0,
+            "touched": 7,
+            "x": -1023.29,
+            "y": 3031.15
+          },
+          {
+            "age": 4.8,
+            "opacity": 0,
+            "touched": 7,
+            "x": -1129.77,
+            "y": 3000.27
+          },
+          {
+            "age": 4.8,
+            "opacity": 0,
+            "touched": 0,
+            "x": -1419.36,
+            "y": 3054.4
+          }
+        ],
+        "secretAge": -1,
+        "secretAmount": 0,
+        "secretQuiet": 12,
+        "secretSeen": true,
+        "serial": 5,
+        "source": {
+          "x": -1266.51,
+          "y": 2999.72
+        }
+      }
+    },
+    "after": {
+      "main": {
+        "actorX": "-1287.669697",
+        "actorY": "2910.129782",
+        "artVersion": "floof-clearing-v1",
+        "atlasPulse": "",
+        "cameraX": "1323.512177",
+        "cameraY": "2320.000000",
+        "cameraZoom": "1.180000",
+        "discovered": "",
+        "entered": "true",
+        "envelopeStored": "false",
+        "giftUnlocked": "false",
+        "headingX": "-0.999999",
+        "headingY": "0.001545",
+        "lastDrawId": "",
+        "lastSongId": "",
+        "motionVersion": "point-to-walk-v1",
+        "moving": "false",
+        "progressMode": "saved",
+        "puzzleSolved": "false",
+        "puzzleVersion": "computer-knowledge-v1",
+        "questionsSolved": "0",
+        "region": "pond",
+        "renderer": "webgl",
+        "sound": "off",
+        "storageStatus": "saved",
+        "view": "music",
+        "visited": "entry,pond",
+        "worldEvents": "pond-lilies"
+      },
+      "pond": {
+        "calm": 1,
+        "discovered": true,
+        "dream": {
+          "coastStarted": true,
+          "engaged": true,
+          "phase": "rest",
+          "playfulness": 1,
+          "presence": 1,
+          "quiet": 20,
+          "reflection": {
+            "vx": 0,
+            "vy": 0,
+            "x": -1319.117,
+            "y": 3125.481
+          },
+          "target": {
+            "x": -1319.118,
+            "y": 3125.481
+          },
+          "time": 93.601,
+          "trail": []
+        },
+        "engaged": true,
+        "petals": [
+          {
+            "lift": 0,
+            "rotation": 0.7,
+            "speed": 0,
+            "x": -1305,
+            "y": 3130
+          },
+          {
+            "lift": 0,
+            "rotation": 2.4,
+            "speed": 0,
+            "x": -1020,
+            "y": 3238
+          },
+          {
+            "lift": 0,
+            "rotation": 1.5,
+            "speed": 0,
+            "x": -1104,
+            "y": 3076
+          }
+        ],
+        "presence": 1,
+        "quiet": 12,
+        "ripples": [
+          {
+            "age": 4.8,
+            "opacity": 0,
+            "touched": 7,
+            "x": -1151.24,
+            "y": 2997.53
+          },
+          {
+            "age": 4.8,
+            "opacity": 0,
+            "touched": 7,
+            "x": -1023.29,
+            "y": 3031.15
+          },
+          {
+            "age": 4.8,
+            "opacity": 0,
+            "touched": 7,
+            "x": -1129.77,
+            "y": 3000.27
+          },
+          {
+            "age": 4.8,
+            "opacity": 0,
+            "touched": 0,
+            "x": -1419.36,
+            "y": 3054.4
+          }
+        ],
+        "secretAge": -1,
+        "secretAmount": 0,
+        "secretQuiet": 12,
+        "secretSeen": true,
+        "serial": 5,
+        "source": {
+          "x": -1266.51,
+          "y": 2999.72
+        }
+      }
+    }
+  },
+  {
+    "check": "close panel restores actor and camera",
+    "pass": false,
+    "before": {
+      "actorX": "-1287.669697",
+      "actorY": "2910.129782",
+      "artVersion": "floof-clearing-v1",
+      "atlasPulse": "",
+      "cameraX": "1323.512177",
+      "cameraY": "2320.000000",
+      "cameraZoom": "1.180000",
+      "discovered": "",
+      "entered": "true",
+      "envelopeStored": "false",
+      "giftUnlocked": "false",
+      "headingX": "-0.999999",
+      "headingY": "0.001545",
+      "lastDrawId": "",
+      "lastSongId": "",
+      "motionVersion": "point-to-walk-v1",
+      "moving": "false",
+      "progressMode": "saved",
+      "puzzleSolved": "false",
+      "puzzleVersion": "computer-knowledge-v1",
+      "questionsSolved": "0",
+      "region": "pond",
+      "renderer": "webgl",
+      "sound": "off",
+      "storageStatus": "saved",
+      "view": "music",
+      "visited": "entry,pond",
+      "worldEvents": "pond-lilies"
+    },
+    "after": {
+      "actorX": "-1287.669697",
+      "actorY": "2910.129782",
+      "artVersion": "floof-clearing-v1",
+      "atlasPulse": "",
+      "cameraX": "-1273.410201",
+      "cameraY": "3136.863921",
+      "cameraZoom": "1.180000",
+      "discovered": "",
+      "entered": "true",
+      "envelopeStored": "false",
+      "giftUnlocked": "false",
+      "headingX": "-0.999999",
+      "headingY": "0.001545",
+      "lastDrawId": "",
+      "lastSongId": "",
+      "motionVersion": "point-to-walk-v1",
+      "moving": "false",
+      "progressMode": "saved",
+      "puzzleSolved": "false",
+      "puzzleVersion": "computer-knowledge-v1",
+      "questionsSolved": "0",
+      "region": "pond",
+      "renderer": "webgl",
+      "sound": "off",
+      "storageStatus": "saved",
+      "view": "overview",
+      "visited": "entry,pond",
+      "worldEvents": "pond-lilies"
+    }
+  },
+  {
+    "check": "leaving bank fades reflection and clears stars",
+    "pass": true,
+    "data": {
+      "main": {
+        "actorX": "-1308.766443",
+        "actorY": "2489.924260",
+        "artVersion": "floof-clearing-v1",
+        "atlasPulse": "",
+        "cameraX": "-1307.142870",
+        "cameraY": "2718.628014",
+        "cameraZoom": "1.180000",
+        "discovered": "",
+        "entered": "true",
+        "envelopeStored": "false",
+        "giftUnlocked": "false",
+        "headingX": "-0.001492",
+        "headingY": "-0.999999",
+        "lastDrawId": "",
+        "lastSongId": "",
+        "motionVersion": "point-to-walk-v1",
+        "moving": "false",
+        "progressMode": "saved",
+        "puzzleSolved": "false",
+        "puzzleVersion": "computer-knowledge-v1",
+        "questionsSolved": "0",
+        "region": "pond",
+        "renderer": "webgl",
+        "sound": "off",
+        "storageStatus": "saved",
+        "view": "overview",
+        "visited": "entry,pond",
+        "worldEvents": "pond-lilies"
+      },
+      "pond": {
+        "calm": 1,
+        "discovered": true,
+        "dream": {
+          "coastStarted": false,
+          "engaged": false,
+          "phase": "dormant",
+          "playfulness": 0,
+          "presence": 0,
+          "quiet": 0,
+          "reflection": {
+            "vx": 0,
+            "vy": 0,
+            "x": -1209.157,
+            "y": 3102.732
+          },
+          "target": {
+            "x": -1209.157,
+            "y": 3102.732
+          },
+          "time": 136.189,
+          "trail": []
+        },
+        "engaged": false,
+        "petals": [
+          {
+            "lift": 0,
+            "rotation": 0.7,
+            "speed": 0,
+            "x": -1305,
+            "y": 3130
+          },
+          {
+            "lift": 0,
+            "rotation": 2.4,
+            "speed": 0,
+            "x": -1020,
+            "y": 3238
+          },
+          {
+            "lift": 0,
+            "rotation": 1.5,
+            "speed": 0,
+            "x": -1104,
+            "y": 3076
+          }
+        ],
+        "presence": 0,
+        "quiet": 0,
+        "ripples": [
+          {
+            "age": 4.8,
+            "opacity": 0,
+            "touched": 7,
+            "x": -1269.17,
+            "y": 3000.11
+          },
+          {
+            "age": 4.8,
+            "opacity": 0,
+            "touched": 7,
+            "x": -1023.29,
+            "y": 3031.15
+          },
+          {
+            "age": 4.8,
+            "opacity": 0,
+            "touched": 7,
+            "x": -1129.77,
+            "y": 3000.27
+          },
+          {
+            "age": 4.8,
+            "opacity": 0,
+            "touched": 0,
+            "x": -1419.36,
+            "y": 3054.4
+          }
+        ],
+        "secretAge": -1,
+        "secretAmount": 0,
+        "secretQuiet": 0,
+        "secretSeen": true,
+        "serial": 6,
+        "source": {
+          "x": -1249.22,
+          "y": 2997.57
+        }
+      }
+    }
+  },
+  {
+    "check": "walking back reactivates pond without buttons",
+    "pass": true,
+    "data": {
+      "main": {
+        "actorX": "-1331.480209",
+        "actorY": "2835.920575",
+        "artVersion": "floof-clearing-v1",
+        "atlasPulse": "",
+        "cameraX": "-1330.016877",
+        "cameraY": "3040.807730",
+        "cameraZoom": "1.180000",
+        "discovered": "",
+        "entered": "true",
+        "envelopeStored": "false",
+        "giftUnlocked": "false",
+        "headingX": "-0.001530",
+        "headingY": "0.999999",
+        "lastDrawId": "",
+        "lastSongId": "",
+        "motionVersion": "point-to-walk-v1",
+        "moving": "false",
+        "progressMode": "saved",
+        "puzzleSolved": "false",
+        "puzzleVersion": "computer-knowledge-v1",
+        "questionsSolved": "0",
+        "region": "pond",
+        "renderer": "webgl",
+        "sound": "off",
+        "storageStatus": "saved",
+        "view": "overview",
+        "visited": "entry,pond",
+        "worldEvents": "pond-lilies"
+      },
+      "pond": {
+        "calm": 0.135,
+        "discovered": true,
+        "dream": {
+          "coastStarted": false,
+          "engaged": true,
+          "phase": "mirror",
+          "playfulness": 0,
+          "presence": 0.656,
+          "quiet": 0.291,
+          "reflection": {
+            "vx": -35.199,
+            "vy": -39.903,
+            "x": -1227.969,
+            "y": 3081.237
+          },
+          "target": {
+            "x": -1244.833,
+            "y": 3063.142
+          },
+          "time": 138.814,
+          "trail": []
+        },
+        "engaged": true,
+        "petals": [
+          {
+            "lift": 0,
+            "rotation": 0.7,
+            "speed": 0,
+            "x": -1305,
+            "y": 3130
+          },
+          {
+            "lift": 0,
+            "rotation": 2.4,
+            "speed": 0,
+            "x": -1020,
+            "y": 3238
+          },
+          {
+            "lift": 0,
+            "rotation": 1.5,
+            "speed": 0,
+            "x": -1104,
+            "y": 3076
+          }
+        ],
+        "presence": 0.428,
+        "quiet": 0,
+        "ripples": [
+          {
+            "age": 0.59,
+            "opacity": 0.135,
+            "touched": 0,
+            "x": -1281.25,
+            "y": 3002.09
+          },
+          {
+            "age": 4.8,
+            "opacity": 0,
+            "touched": 7,
+            "x": -1023.29,
+            "y": 3031.15
+          },
+          {
+            "age": 4.8,
+            "opacity": 0,
+            "touched": 7,
+            "x": -1129.77,
+            "y": 3000.27
+          },
+          {
+            "age": 4.8,
+            "opacity": 0,
+            "touched": 0,
+            "x": -1419.36,
+            "y": 3054.4
+          }
+        ],
+        "secretAge": -1,
+        "secretAmount": 0,
+        "secretQuiet": 0,
+        "secretSeen": true,
+        "serial": 7,
+        "source": {
+          "x": -1286.8,
+          "y": 3003.13
+        }
+      }
+    }
+  },
+  {
+    "check": "map freezes pond and actor",
+    "pass": true,
+    "before": {
+      "main": {
+        "actorX": "-1331.480209",
+        "actorY": "2835.920575",
+        "artVersion": "floof-clearing-v1",
+        "atlasPulse": "",
+        "cameraX": "-1330.016877",
+        "cameraY": "3040.807730",
+        "cameraZoom": "1.180000",
+        "discovered": "",
+        "entered": "true",
+        "envelopeStored": "false",
+        "giftUnlocked": "false",
+        "headingX": "-0.001530",
+        "headingY": "0.999999",
+        "lastDrawId": "",
+        "lastSongId": "",
+        "motionVersion": "point-to-walk-v1",
+        "moving": "false",
+        "progressMode": "saved",
+        "puzzleSolved": "false",
+        "puzzleVersion": "computer-knowledge-v1",
+        "questionsSolved": "0",
+        "region": "pond",
+        "renderer": "webgl",
+        "sound": "off",
+        "storageStatus": "saved",
+        "view": "overview",
+        "visited": "entry,pond",
+        "worldEvents": "pond-lilies"
+      },
+      "pond": {
+        "calm": 0.135,
+        "discovered": true,
+        "dream": {
+          "coastStarted": false,
+          "engaged": true,
+          "phase": "mirror",
+          "playfulness": 0,
+          "presence": 0.656,
+          "quiet": 0.291,
+          "reflection": {
+            "vx": -35.199,
+            "vy": -39.903,
+            "x": -1227.969,
+            "y": 3081.237
+          },
+          "target": {
+            "x": -1244.833,
+            "y": 3063.142
+          },
+          "time": 138.814,
+          "trail": []
+        },
+        "engaged": true,
+        "petals": [
+          {
+            "lift": 0,
+            "rotation": 0.7,
+            "speed": 0,
+            "x": -1305,
+            "y": 3130
+          },
+          {
+            "lift": 0,
+            "rotation": 2.4,
+            "speed": 0,
+            "x": -1020,
+            "y": 3238
+          },
+          {
+            "lift": 0,
+            "rotation": 1.5,
+            "speed": 0,
+            "x": -1104,
+            "y": 3076
+          }
+        ],
+        "presence": 0.428,
+        "quiet": 0,
+        "ripples": [
+          {
+            "age": 0.59,
+            "opacity": 0.135,
+            "touched": 0,
+            "x": -1281.25,
+            "y": 3002.09
+          },
+          {
+            "age": 4.8,
+            "opacity": 0,
+            "touched": 7,
+            "x": -1023.29,
+            "y": 3031.15
+          },
+          {
+            "age": 4.8,
+            "opacity": 0,
+            "touched": 7,
+            "x": -1129.77,
+            "y": 3000.27
+          },
+          {
+            "age": 4.8,
+            "opacity": 0,
+            "touched": 0,
+            "x": -1419.36,
+            "y": 3054.4
+          }
+        ],
+        "secretAge": -1,
+        "secretAmount": 0,
+        "secretQuiet": 0,
+        "secretSeen": true,
+        "serial": 7,
+        "source": {
+          "x": -1286.8,
+          "y": 3003.13
+        }
+      }
+    },
+    "after": {
+      "main": {
+        "actorX": "-1331.480209",
+        "actorY": "2835.920575",
+        "artVersion": "floof-clearing-v1",
+        "atlasPulse": "",
+        "cameraX": "-1330.016877",
+        "cameraY": "3040.807730",
+        "cameraZoom": "1.180000",
+        "discovered": "",
+        "entered": "true",
+        "envelopeStored": "false",
+        "giftUnlocked": "false",
+        "headingX": "-0.001530",
+        "headingY": "0.999999",
+        "lastDrawId": "",
+        "lastSongId": "",
+        "motionVersion": "point-to-walk-v1",
+        "moving": "false",
+        "progressMode": "saved",
+        "puzzleSolved": "false",
+        "puzzleVersion": "computer-knowledge-v1",
+        "questionsSolved": "0",
+        "region": "pond",
+        "renderer": "webgl",
+        "sound": "off",
+        "storageStatus": "saved",
+        "view": "overview",
+        "visited": "entry,pond",
+        "worldEvents": "pond-lilies"
+      },
+      "pond": {
+        "calm": 0.135,
+        "discovered": true,
+        "dream": {
+          "coastStarted": false,
+          "engaged": true,
+          "phase": "mirror",
+          "playfulness": 0,
+          "presence": 0.656,
+          "quiet": 0.291,
+          "reflection": {
+            "vx": -35.199,
+            "vy": -39.903,
+            "x": -1227.969,
+            "y": 3081.237
+          },
+          "target": {
+            "x": -1244.833,
+            "y": 3063.142
+          },
+          "time": 138.814,
+          "trail": []
+        },
+        "engaged": true,
+        "petals": [
+          {
+            "lift": 0,
+            "rotation": 0.7,
+            "speed": 0,
+            "x": -1305,
+            "y": 3130
+          },
+          {
+            "lift": 0,
+            "rotation": 2.4,
+            "speed": 0,
+            "x": -1020,
+            "y": 3238
+          },
+          {
+            "lift": 0,
+            "rotation": 1.5,
+            "speed": 0,
+            "x": -1104,
+            "y": 3076
+          }
+        ],
+        "presence": 0.428,
+        "quiet": 0,
+        "ripples": [
+          {
+            "age": 0.59,
+            "opacity": 0.135,
+            "touched": 0,
+            "x": -1281.25,
+            "y": 3002.09
+          },
+          {
+            "age": 4.8,
+            "opacity": 0,
+            "touched": 7,
+            "x": -1023.29,
+            "y": 3031.15
+          },
+          {
+            "age": 4.8,
+            "opacity": 0,
+            "touched": 7,
+            "x": -1129.77,
+            "y": 3000.27
+          },
+          {
+            "age": 4.8,
+            "opacity": 0,
+            "touched": 0,
+            "x": -1419.36,
+            "y": 3054.4
+          }
+        ],
+        "secretAge": -1,
+        "secretAmount": 0,
+        "secretQuiet": 0,
+        "secretSeen": true,
+        "serial": 7,
+        "source": {
+          "x": -1286.8,
+          "y": 3003.13
+        }
+      }
+    }
+  }
+]

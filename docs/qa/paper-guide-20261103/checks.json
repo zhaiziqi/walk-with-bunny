@@ -1,0 +1,37 @@
+[
+  {
+    "name": "paper-guide",
+    "code": 0,
+    "output": "PASS: a real step greets the nearest bird, and choosing one leaves the others at home\nPASS: initial rendering, motionless arrival, and a map teleport cannot fake a real greeting\nPASS: the first quiet invitation completes just one short hop for every possible leader\nPASS: waiting alone cannot carry the guide or the visitor to the door\nPASS: following with continuous steps reaches each resting place in order\nPASS: ordinary uninterrupted 200-unit walking along the actual path does not strand the guide\nPASS: stopping during a later hop gently lands and waits instead of continuing by time\nPASS: leaving keeps the same bird waiting, and returning continues its pending hop\nPASS: reading freezes the complete flight state and resumes without replaying\nPASS: a long frame preserves a half-finished greeting rather than skipping or cancelling it\nPASS: switching back from static mode retains the exact bird position and pending destination\nPASS: a map jump during flight does not move the bird to the visitor or restart its route\nPASS: the final landing stays before the door and produces no puzzle or gift state\nPASS: every landing follows the painted route and remains visible near the door\nPASS: flight timing and complete followability agree at 30, 60, and 120 FPS\nPASS: world position, terrain height, and landing motion remain continuous and finite\nPASS: the invitation and final arrival brake before landing instead of stopping abruptly in mid-air\nPASS: invalid optional speed samples cannot poison the next animation frame\n18/18 paper guide checks passed.\n"
+  },
+  {
+    "name": "hill-moon",
+    "code": 0,
+    "output": "PASS: four paper birds occupy different grounded perches and preserve the painted aspect ratio\nPASS: both destinations fade gradually from every direction, including when walking back\nPASS: moonlight remains a narrow approach to the gift door, with the moon beside and behind it\nPASS: six fixed motes drift locally instead of forming an orbit or an expanding ring\nPASS: restoring either encounter consumes the old pulse without replaying, but a new visit or click still works\nPASS: unvisited hill keeps its existing dwell rule and other encounters keep their original state\n6 hill-to-moon checks passed.\n"
+  },
+  {
+    "name": "mushroom-listening",
+    "code": 0,
+    "output": "PASS: a real approach greets the nearest cap on either side, rather than a fixed first index\nPASS: continued stillness spreads a visible response by spatial distance\nPASS: tiny real-position corrections do not continually cancel stillness\nPASS: crossing a nearest-cap bisector by a few pixels does not flicker the focus\nPASS: walking to a clearly closer cap transfers attention without resetting poses\nPASS: a fast pass creates only local greetings, not the full stationary response\nPASS: departing releases the response, and discovery does not disable a later visit\nPASS: a long rest settles, and movement afterwards still receives a fresh greeting\nPASS: reading freezes everything and returning resumes from the same point\nPASS: rendering or teleporting into the patch cannot accidentally start a full response\nPASS: a replay pulse acts once, remains local, and does not pin the encounter at its start\nPASS: the encounter has comparable pacing at 30, 60, and 120 FPS\nPASS: a suspended or invalid frame cannot skip the quiet period or corrupt state\nPASS: invalid optional speed measurements cannot poison the animation\nPASS: all response phases keep planted feet, fixed height, and bounded subtle lean\n15/15 mushroom listening checks passed.\n"
+  },
+  {
+    "name": "turn-stop",
+    "code": 0,
+    "output": "PASS: 90° and 180° turns enter gradually and finish without an angular-speed snap\nPASS: small pointer noise around a 180° reversal preserves the chosen turn arc\n  Route endpoints: 30 fps (489.13, 112.34); 60 fps (485.44, 110.62); 120 fps (483.45, 109.84).\nPASS: a changing route stays close at 30, 60 and 120 fps\nPASS: natural braking begins and ends softly, reaches exact zero, and never resumes by itself\nPASS: trackpad braking meets the existing lease deadline at every tested frame rate\nPASS: braking also eases angular motion instead of freezing a mid-turn heading instantly\n  Camera final moving-frame speed (world units/s): 30 fps 0.076; 60 fps 0.084; 120 fps 0.095.\nPASS: camera movement becomes small before the input deadline and remains exactly still afterwards\nPASS: fresh guidance cancels a partial brake without resetting velocity or snapping to full pace\nPASS: invalid values and a stalled render frame cannot create an unbounded step\n"
+  },
+  {
+    "name": "gift-gate",
+    "code": 0,
+    "output": "PASS: the world size preserves the supplied PNG aspect and its measured ground anchor\nPASS: painted and fallback thresholds project to the same ground point in both rendering conventions\nPASS: the full threshold and both jambs lie on the existing level terrain\nPASS: nearby approaches retain the whole door above the controls on standard and wide desktops\nPASS: the reading camera retains the complete door and leaves the right-hand gift panel clear\nPASS: the moon remains visually separate from either door artwork through approach and reading\n6 gift-gate geometry checks passed.\n"
+  },
+  {
+    "name": "gift-entry",
+    "code": 0,
+    "output": "PASS: fresh gift routes and the real parcel component require the correct code before revealing\nPASS: a saved unlock is explicitly a revisit and never reveals automatically on mounting\nPASS: replaying a saved lock focuses a blank form and wrong codes cannot use the permanent unlock to reveal\nPASS: a correct replay uses the real unlock hook while preserving all questions, envelope and chosen song\nPASS: closing a replay does not reset saved progress or leave a delayed reveal behind\nPASS: reduced-motion replay still validates the code and reveals only after the accepted submission\nPASS: actual App world and gift-entry callbacks always visit the parcel before any saved reveal\n\nGift entry and replay: 7 passed, 0 failed.\n"
+  },
+  {
+    "name": "content",
+    "code": 0,
+    "output": "PASS: English content tree, fixed rules, route guard, and independent empty progress.\n"
+  }
+]

@@ -1,0 +1,15 @@
+.garden-map.guide-map { max-width: calc(100vw - 36px); max-height: calc(100dvh - 150px); overflow-y: auto; }
+.guide-map .map-next-marker text { fill: #756e5f; font: 15px var(--serif); letter-spacing: .1px; }
+.guide-map .map-next-clue { display: grid; grid-template-columns: 110px 1fr; gap: 16px; align-items: start; border-top: 1px solid #a2a89940; padding: 15px 0 17px; }
+.guide-map .map-clue-caption { padding-top: 4px; color: #7b8175; font: 10px/1.6 sans-serif; letter-spacing: .5px; }
+.guide-map .map-next-clue h2 { margin: 0 0 5px; color: #4d6058; font: 21px/1.2 var(--serif); }
+.guide-map .map-next-clue p { margin: 0; color: #69766b; font: 11px/1.7 sans-serif; }
+.guide-map .map-next-clue + .map-places { padding-top: 13px; border-top: 1px solid #a2a89940; }
+.guide-map .map-places { grid-template-columns: repeat(auto-fit, minmax(130px, 1fr)); }
+.guide-map .map-places button:focus-visible, .guide-map .map-caption button:focus-visible { outline: 1px solid #77887a; outline-offset: 5px; }
+.first-route-guide { display: flex; align-items: center; justify-content: center; gap: 9px; }
+.first-route-guide .route-direction { flex: 0 0 18px; opacity: .72; }
+@media (max-width: 600px) {
+  .guide-map .map-next-clue { grid-template-columns: 1fr; gap: 5px; }
+  .guide-map .map-clue-caption { padding-top: 0; }
+}

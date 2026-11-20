@@ -1,0 +1,254 @@
+[
+  {
+    "label": "start",
+    "renderer": "webgl",
+    "view": "overview",
+    "x": 0,
+    "y": 0,
+    "zoom": 1
+  },
+  {
+    "label": "diagonal",
+    "renderer": "webgl",
+    "view": "overview",
+    "x": -266.666667,
+    "y": 155.555556,
+    "zoom": 1
+  },
+  {
+    "label": "reverse",
+    "renderer": "webgl",
+    "view": "overview",
+    "x": 0,
+    "y": 0,
+    "zoom": 1
+  },
+  {
+    "label": "midway",
+    "renderer": "webgl",
+    "view": "overview",
+    "x": -477.777778,
+    "y": -200,
+    "zoom": 1
+  },
+  {
+    "label": "stopped-after-other-work",
+    "renderer": "webgl",
+    "view": "overview",
+    "x": -477.777778,
+    "y": -200,
+    "zoom": 1
+  },
+  {
+    "label": "signal-destination",
+    "renderer": "webgl",
+    "view": "overview",
+    "x": -872,
+    "y": -388.888889,
+    "zoom": 1
+  },
+  {
+    "label": "panel-open",
+    "renderer": "webgl",
+    "view": "puzzle",
+    "x": -770.819672,
+    "y": -396.465,
+    "zoom": 1.22
+  },
+  {
+    "label": "panel-return",
+    "renderer": "webgl",
+    "view": "overview",
+    "x": -872,
+    "y": -388.888889,
+    "zoom": 1
+  },
+  {
+    "label": "resize-before",
+    "renderer": "webgl",
+    "view": "overview",
+    "x": -649.777778,
+    "y": -222.222222,
+    "zoom": 1
+  },
+  {
+    "label": "resize-after",
+    "renderer": "webgl",
+    "view": "overview",
+    "x": -649.777778,
+    "y": -222.222222,
+    "zoom": 1
+  },
+  {
+    "label": "music-overview",
+    "renderer": "webgl",
+    "view": "overview",
+    "x": 450,
+    "y": -731.75,
+    "zoom": 1
+  },
+  {
+    "label": "music-return",
+    "renderer": "webgl",
+    "view": "overview",
+    "x": 450,
+    "y": -731.75,
+    "zoom": 1
+  },
+  {
+    "label": "door-destination",
+    "renderer": "webgl",
+    "view": "overview",
+    "x": 1005.333333,
+    "y": -289.1,
+    "zoom": 1
+  },
+  {
+    "label": "door-grounded",
+    "renderer": "webgl",
+    "view": "overview",
+    "x": 1005.333333,
+    "y": -130,
+    "zoom": 1
+  },
+  {
+    "label": "door-panel-before-input",
+    "renderer": "webgl",
+    "view": "lock",
+    "x": 1125.551913,
+    "y": -169.672131,
+    "zoom": 1.22
+  },
+  {
+    "label": "door-panel-after-input",
+    "renderer": "webgl",
+    "view": "lock",
+    "x": 1125.551913,
+    "y": -169.672131,
+    "zoom": 1.22
+  },
+  {
+    "label": "door-return",
+    "renderer": "webgl",
+    "view": "overview",
+    "x": 1005.333333,
+    "y": -130,
+    "zoom": 1
+  },
+  {
+    "label": "drag-on-door-not-click",
+    "renderer": "webgl",
+    "view": "overview",
+    "x": 888.145833,
+    "y": -51.875,
+    "zoom": 1
+  },
+  {
+    "label": "mobile-diagonal",
+    "renderer": "webgl",
+    "view": "overview",
+    "x": -94.78673,
+    "y": 106.635071,
+    "zoom": 1
+  },
+  {
+    "label": "mobile-reverse",
+    "renderer": "webgl",
+    "view": "overview",
+    "x": 0,
+    "y": 0,
+    "zoom": 1
+  },
+  {
+    "label": "mobile-lantern-destination",
+    "renderer": "webgl",
+    "view": "overview",
+    "x": -1020,
+    "y": -250,
+    "zoom": 1
+  },
+  {
+    "label": "mobile-panel-return-after-resize",
+    "renderer": "webgl",
+    "view": "overview",
+    "x": -1020,
+    "y": -250,
+    "zoom": 1
+  },
+  {
+    "label": "static-return",
+    "cameraX": "-333.333333",
+    "cameraY": "194.444444",
+    "cameraZoom": "1.000000",
+    "renderer": "static",
+    "view": "overview",
+    "viewport": [
+      1280,
+      720
+    ]
+  },
+  {
+    "label": "wheel-down",
+    "renderer": "webgl",
+    "view": "overview",
+    "x": 0,
+    "y": -500,
+    "zoom": 1
+  },
+  {
+    "label": "keyboard-two-axes",
+    "renderer": "webgl",
+    "view": "overview",
+    "x": 71.111111,
+    "y": 71.111111,
+    "zoom": 1
+  },
+  {
+    "label": "keyboard-home",
+    "renderer": "webgl",
+    "view": "overview",
+    "x": 0,
+    "y": 0,
+    "zoom": 1
+  },
+  {
+    "label": "final-midway",
+    "renderer": "webgl",
+    "view": "overview",
+    "x": -477.777778,
+    "y": -100,
+    "zoom": 1
+  },
+  {
+    "label": "final-midway-still",
+    "renderer": "webgl",
+    "view": "overview",
+    "x": -477.777778,
+    "y": -100,
+    "zoom": 1
+  },
+  {
+    "label": "final-signal",
+    "renderer": "webgl",
+    "view": "overview",
+    "x": -872,
+    "y": -233.333333,
+    "zoom": 1
+  },
+  {
+    "label": "final-signal-return",
+    "renderer": "webgl",
+    "view": "overview",
+    "x": -872,
+    "y": -233.333333,
+    "zoom": 1
+  },
+  {
+    "label": "midway-return",
+    "renderer": "webgl",
+    "view": "overview",
+    "x": -477.555556,
+    "y": -100,
+    "zoom": 1
+  }
+]

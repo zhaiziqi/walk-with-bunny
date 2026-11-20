@@ -1,0 +1,58 @@
+PASS: English content tree, fixed rules, route guard, and independent empty progress.
+✔ scripts/check-content.mjs (104.610875ms)
+PASS: fresh gift routes and the real parcel component require the correct code before revealing
+PASS: a saved unlock is explicitly a revisit and never reveals automatically on mounting
+PASS: replaying a saved lock focuses a blank form and wrong codes cannot use the permanent unlock to reveal
+PASS: a correct replay uses the real unlock hook while preserving all questions, envelope and chosen song
+PASS: closing a replay does not reset saved progress or leave a delayed reveal behind
+PASS: reduced-motion replay still validates the code and reveals only after the accepted submission
+PASS: actual App world and gift-entry callbacks always visit the parcel before any saved reveal
+
+Gift entry and replay: 7 passed, 0 failed.
+✔ scripts/check-gift-entry.mjs (302.425833ms)
+PASS: the world size preserves the supplied PNG aspect and its measured ground anchor
+PASS: painted and fallback thresholds project to the same ground point in both rendering conventions
+PASS: the full threshold and both jambs lie on the existing level terrain
+PASS: nearby approaches retain the whole door above the controls on standard and wide desktops
+PASS: the reading camera retains the complete door and leaves the right-hand gift panel clear
+PASS: the moon remains visually separate from either door artwork through approach and reading
+6 gift-gate geometry checks passed.
+✔ scripts/check-gift-gate.mjs (115.839875ms)
+PASS: a fresh or partially answered visit exposes no complete password note
+PASS: solved or packed flags alone cannot reveal answers
+PASS: all four earned digits remain ordered strings, with both zeroes intact
+PASS: packing changes presentation only; it never changes the earned digits
+PASS: a mismatched input, wrong digit or missing submitted digit is not a complete note
+PASS: the note needs exactly four valid questions and rejects malformed records safely
+PASS: independent gift access and song draws cannot award a note
+PASS: reading a note neither mutates progress nor returns a writable reference into it
+
+Gift note lookup: 8 passed, 0 failed.
+✔ scripts/check-gift-note.mjs (99.232542ms)
+PASS: pointer direction compensates ground perspective, including off-centre shear
+PASS: rabbit accelerates into a stride without instant full-speed sliding
+PASS: sharp reversal turns smoothly and reaches the opposite direction
+PASS: ordinary quarter turns keep a continuous stride without a planted pause
+PASS: the camera follows the stride with bounded lag and directional framing
+PASS: explicit cancellation freezes actor and camera even with existing follow lag
+PASS: long frames cannot leap the character or let it outrun the camera
+PASS: turning at a world edge can reverse without getting stuck outside bounds
+PASS: camera damping is stable at ordinary desktop frame rates
+PASS: pointer speed offers a broad careful-walk range
+PASS: keyboard diagonals and wheel impulses use bounded walking velocities
+PASS: camera gives room for the first steps and direction-dependent framing
+PASS: a single wheel gesture survives a full reversal and walks in both directions
+PASS: a blank-ground press anticipates immediately without moving before the click guard
+PASS: camera look reverses gently and remains exactly frozen after release
+PASS: smooth camera look is independent of frame rate for a held direction
+PASS: ridge steering retains forward, backward and diagonal intent on a horizontal tangent
+PASS: the reported hillside hold walks northwest instead of oscillating near the ridge
+✔ scripts/check-living-motion.mjs (111.973708ms)
+ℹ tests 5
+ℹ suites 0
+ℹ pass 5
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 312.709459

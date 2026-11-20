@@ -1,0 +1,38 @@
+{
+  "viewport": [
+    1280,
+    720
+  ],
+  "beforeClose": {
+    "actorX": "440.000000",
+    "actorY": "3890.000000",
+    "cameraX": "440.000000",
+    "cameraY": "4110.000000",
+    "cameraZoom": "1.000000",
+    "envelopeStored": "false",
+    "giftUnlocked": "false",
+    "headingX": "0.077098",
+    "headingY": "0.997023",
+    "questionsSolved": "0",
+    "sleepMaskFound": "true"
+  },
+  "afterClose": {
+    "actorX": "440.000000",
+    "actorY": "3890.000000",
+    "cameraX": "440.000000",
+    "cameraY": "4110.000000",
+    "cameraZoom": "1.000000",
+    "envelopeStored": "false",
+    "giftUnlocked": "false",
+    "headingX": "0.077098",
+    "headingY": "0.997023",
+    "questionsSolved": "0",
+    "sleepMaskFound": "true"
+  },
+  "mouseTagFlip": true,
+  "keyboardTagFlip": true,
+  "revealFocus": "Your keepsake",
+  "motesGoneAtRest": true,
+  "logs": [],
+  "preview": "http://127.0.0.1:4198/?walk=af74d6b9-26a4-4cf2-b3f2-51bece5bf714#rest"
+}

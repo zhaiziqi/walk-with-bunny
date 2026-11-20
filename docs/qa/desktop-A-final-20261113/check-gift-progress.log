@@ -1,0 +1,25 @@
+PASS: the four-character password preserves its leading zero and allows surrounding whitespace
+PASS: non-string inputs cannot be coerced or padded into a password
+PASS: wrong attempts remain retryable and never change business progress
+PASS: knowing the password on a fresh device unlocks only the gift
+PASS: unlocking preserves partial and completed puzzles plus the last chosen song
+PASS: gift routes are guarded without creating progress or requiring a song
+PASS: refresh restores unlock independently and stores no input or opening animation
+PASS: malformed or legacy fields cannot masquerade as the saved unlock flag
+PASS: the real hook saves unlock before dispatch returns and before React commits
+PASS: batched puzzle, unlock and song commands preserve each other before a UI commit
+PASS: a delayed mount effect cannot overwrite an unlock with initial locked state
+PASS: storage refusal still unlocks the real hook in memory without solving the puzzle
+PASS: restoring and rerendering an unlocked gift never invents a puzzle card or song
+
+Gift progress: 13 passed, 0 failed.
+
+--- stderr ---
+▲ [WARNING] "import.meta" is not available with the "cjs" output format and will be empty [empty-import-meta]
+
+    src/state/useProgress.ts:13:72:
+      13 │ ...k ? null : browserPreviewProgress(import.meta.env?.DEV === true));
+         ╵                                      ~~~~~~~~~~~
+
+  You need to set the output format to "esm" for "import.meta" to work correctly.
+

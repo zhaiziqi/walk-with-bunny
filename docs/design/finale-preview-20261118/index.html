@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="robots" content="noindex,nofollow">
+  <meta name="description" content="An independent design study for the final moment of Walk with Bunny.">
+  <title>Walk with Bunny — A little unwrapping</title>
+  <link rel="stylesheet" href="./preview.css">
+</head>
+<body>
+  <main id="world" aria-label="A paper bird unwraps a small gift beside the garden's light-being">
+    <canvas id="painting" aria-hidden="true"></canvas>
+    <header><a href="/#garden">Walk with Bunny</a><a class="close" href="/#garden" aria-label="Return to the garden"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="m7 7 10 10M17 7 7 17"/></svg></a></header>
+    <h1 id="birthday">Happy birthday.</h1>
+    <button id="tag" type="button" aria-label="Turn the small paper tag over" aria-expanded="false" aria-controls="gift-name" hidden>
+      <svg viewBox="0 0 48 48" aria-hidden="true"><path d="M15 24C12 17 12 5 16 5c4 0 6 11 6 16h4c0-5 2-16 6-16s4 12 1 19c5 3 7 7 6 12-1 6-7 8-15 8S10 42 9 36c-1-5 1-9 6-12Z"/><path class="pink" d="M16 10c1 3 2 7 2 10m14-10c-1 3-2 7-2 10"/><circle cx="18" cy="32" r="1"/><circle cx="30" cy="32" r="1"/></svg>
+    </button>
+    <span id="gift-name" hidden>Passport holder</span>
+    <a id="garden-return" href="/#garden">Back to the garden <svg viewBox="0 0 24 24" aria-hidden="true"><path d="m5 19 14-14M6 5h13v13"/></svg></a>
+    <p id="loading" role="status">Preparing the painted scene…</p>
+    <noscript><p class="no-script">This motion study needs JavaScript. The garden has not been changed.</p></noscript>
+  </main>
+  <section class="review-controls" aria-label="Design preview controls">
+    <div class="review-title"><strong>A little unwrapping</strong><span>Local preview · not the live site</span></div>
+    <button id="play" type="button" disabled>Play the scene</button>
+    <label class="scrubber"><span class="sr-only">Preview time</span><input id="time" type="range" min="0" max="6" step="0.01" value="0" disabled><output id="clock" for="time">0.0 / 6.0s</output></label>
+    <div class="frame-buttons" aria-label="Inspect a moment"><button type="button" data-time="0" disabled>Before</button><button type="button" data-time="2.7" disabled>The pull</button><button type="button" data-time="4.2" disabled>Settling</button><button type="button" data-time="6" disabled>After</button></div>
+    <label class="quiet"><input type="checkbox" id="reduced"> Still mode</label>
+    <span class="sr-only" role="status" id="status"></span>
+  </section>
+  <script type="module" src="./preview.js"></script>
+</body>
+</html>

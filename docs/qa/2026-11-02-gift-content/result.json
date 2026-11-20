@@ -1,0 +1,24 @@
+{
+  "giftName": "A passport holder & a sleep mask",
+  "giftPlaceholder": false,
+  "pendingSongIds": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "distFilesMatch": 46,
+  "archiveBytes": 17658136,
+  "sha256": "820ad662f9803918aef0927b32a598804ea855075ef29e0634951471de13e449",
+  "checks": [
+    "English content and fixed rules passed",
+    "TypeScript and production build passed",
+    "Actual desktop reveal checked; no captured error/warn"
+  ],
+  "screenshot": "reveal.png"
+}

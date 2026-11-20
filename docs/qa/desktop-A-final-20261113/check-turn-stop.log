@@ -1,0 +1,13 @@
+PASS: 90° and 180° turns enter gradually and finish without an angular-speed snap
+PASS: small pointer noise around a 180° reversal preserves the chosen turn arc
+  Route endpoints: 30 fps (489.13, 112.34); 60 fps (485.44, 110.62); 120 fps (483.45, 109.84).
+PASS: a changing route stays close at 30, 60 and 120 fps
+PASS: natural braking begins and ends softly, reaches exact zero, and never resumes by itself
+PASS: an explicit neutral target brakes within 420ms at every tested frame rate
+PASS: braking also eases angular motion instead of freezing a mid-turn heading instantly
+  Camera final moving-frame speed (world units/s): 30 fps 1.159; 60 fps 0.189; 120 fps 0.006.
+PASS: camera settles softly after returning the pointer to neutral and stays still
+PASS: fresh guidance cancels a partial brake without resetting velocity or snapping to full pace
+PASS: invalid values and a stalled render frame cannot create an unbounded step
+
+--- stderr ---

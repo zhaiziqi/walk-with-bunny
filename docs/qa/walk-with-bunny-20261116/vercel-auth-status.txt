@@ -1,0 +1,5 @@
+2026-11-16
+Original CLI device code expired; user completed Vercel sign-in.
+Vercel connector confirms user and Hobby plan; project workspace grant not enabled on that connector.
+Official Vercel CLI login succeeded for the same account; project API calls and production deployment succeeded under the confirmed team.
+No further connection authorization needed for this deployment.

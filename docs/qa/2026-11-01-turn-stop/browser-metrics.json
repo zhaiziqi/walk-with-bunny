@@ -1,0 +1,19 @@
+{
+  "status": "complete",
+  "elapsedMs": 8000,
+  "durationMs": 8000,
+  "warmupMs": 500,
+  "frames": 852,
+  "meanFrameMs": 8.81,
+  "p95FrameMs": 11.6,
+  "maxFrameMs": 23.2,
+  "framesOver25Ms": 0,
+  "appCommits": 762,
+  "movingSamples": 757,
+  "duplicateMovingFrames": 0,
+  "maxDuplicateRun": 0,
+  "meanStep": 1.81,
+  "p95Step": 2.71,
+  "maxStep": 3.88,
+  "meanDrawCalls": 43.73
+}

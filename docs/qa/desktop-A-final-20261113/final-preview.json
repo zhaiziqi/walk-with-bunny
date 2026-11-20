@@ -1,0 +1,45 @@
+{
+  "newWalkState": {
+    "imageFailures": [],
+    "main": {
+      "actorX": "0.000000",
+      "actorY": "-1800.000000",
+      "artVersion": "floof-clearing-v1",
+      "atlasPulse": "",
+      "cameraX": "0.000000",
+      "cameraY": "-1580.000000",
+      "cameraZoom": "1.000000",
+      "discovered": "",
+      "entered": "false",
+      "envelopeStored": "false",
+      "giftUnlocked": "false",
+      "headingX": "0.000000",
+      "headingY": "-1.000000",
+      "lastDrawId": "",
+      "lastSongId": "",
+      "motionVersion": "point-to-walk-v1",
+      "moving": "false",
+      "progressMode": "walk",
+      "puzzleSolved": "false",
+      "puzzleVersion": "computer-knowledge-v1",
+      "questionsSolved": "0",
+      "region": "entry",
+      "renderer": "webgl",
+      "sleepMaskFound": "false",
+      "sound": "off",
+      "storageStatus": "saved",
+      "view": "overview",
+      "visited": "entry",
+      "walkId": "bf2aa3bc-2571-4cea-862e-afa2175be7eb",
+      "worldEvents": ""
+    },
+    "viewport": {
+      "height": 720,
+      "width": 1280
+    }
+  },
+  "url": "http://127.0.0.1:4198/?walk=bf2aa3bc-2571-4cea-862e-afa2175be7eb#garden",
+  "qaUrl": "http://127.0.0.1:4198/?walk=e80579e5-21a6-40cc-b89f-e700c979f3f7#garden",
+  "qaLogs": [],
+  "freshLogs": []
+}

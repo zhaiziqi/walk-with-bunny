@@ -1,0 +1,18 @@
+PASS: stationary mount has no reflection, encounter or night trail
+PASS: actual approach starts a visible mirror and gradually frees it
+PASS: shore travel leaves a delayed reflection instead of pinning it under the visitor
+PASS: when the player stops the reflection swims visibly onward and then rests
+PASS: a turn retains velocity before the reflected swimmer follows the new direction
+PASS: different shoreline gestures produce visibly different night trails
+PASS: leaving the bank remasks the night and a later real approach can play again
+PASS: reading freezes all motion and trail age exactly
+PASS: map relocation clears the swimmer and history without painting a cross-map line
+PASS: background or invalid timing cannot advance the toy
+PASS: body and rabbit ears stay inside the painted water on every bank
+PASS: long play keeps target history and painted traces bounded
+PASS: 30, 60 and 120 Hz keep the same delay, coast and final position
+PASS: moving again after a long rest starts another playful response
+
+14/14 pond dream checks passed.
+
+--- stderr ---

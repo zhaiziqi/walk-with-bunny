@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="90" viewBox="0 0 400 90">
+  <defs>
+    <radialGradient cx="50%" cy="50%" r="50%" id="soft"><stop offset="0" stop-color="#304323" stop-opacity=".42"/><stop offset=".4" stop-color="#405030" stop-opacity=".29"/><stop offset=".76" stop-color="#54633a" stop-opacity=".13"/><stop offset="1" stop-color="#607347" stop-opacity="0"/></radialGradient>
+    <radialGradient cx="50%" cy="50%" r="50%" id="core"><stop offset="0" stop-color="#233522" stop-opacity=".52"/><stop offset=".45" stop-color="#35462b" stop-opacity=".32"/><stop offset="1" stop-color="#536640" stop-opacity="0"/></radialGradient>
+    <filter id="blur" x="-.2" y="-.5" width="1.4" height="2"><feGaussianBlur stdDeviation="2.2"/></filter>
+  </defs>
+  <g filter="url(#blur)">
+    <ellipse cx="197" cy="49" rx="193" ry="32" fill="url(#soft)"/>
+    <ellipse cx="221" cy="51" rx="125" ry="21" fill="url(#soft)"/>
+    <path d="M57 47C88 29 125 39 154 30C182 20 219 31 247 32C276 30 338 44 345 52C335 68 288 62 255 66C222 69 198 61 176 64C135 67 81 60 57 47Z" fill="url(#soft)"/>
+    <ellipse cx="200" cy="46" rx="88" ry="14" fill="url(#core)"/>
+  </g>
+</svg>

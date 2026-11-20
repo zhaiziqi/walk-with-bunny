@@ -1,0 +1,80 @@
+{
+  "checks": [
+    {
+      "name": "Guide meets a continuously walking player",
+      "passed": true
+    },
+    {
+      "name": "Guide does not require the player to pause",
+      "passed": true
+    },
+    {
+      "name": "Chime paper leads the bell",
+      "passed": true
+    },
+    {
+      "name": "Natural chime response schedules one note",
+      "passed": true
+    },
+    {
+      "name": "Chime settles after its finite response",
+      "passed": true
+    },
+    {
+      "name": "Reading freezes chime",
+      "passed": true
+    },
+    {
+      "name": "Reduced motion freezes chime",
+      "passed": true
+    },
+    {
+      "name": "Closing reading restores chime position",
+      "passed": true,
+      "basis": "Compare to the pre-panel capture. The camera intentionally reframes the music panel while reading."
+    },
+    {
+      "name": "Pond secret reaches full visibility after stillness",
+      "passed": true
+    },
+    {
+      "name": "Pond secret finishes and settles",
+      "passed": true
+    },
+    {
+      "name": "Pond reading freezes exact state",
+      "passed": true
+    },
+    {
+      "name": "Pond reduced motion freezes exact state",
+      "passed": true
+    },
+    {
+      "name": "Returning from reduced motion retains location",
+      "passed": true
+    },
+    {
+      "name": "Walking dissolves the emerging ears",
+      "passed": true
+    },
+    {
+      "name": "Interrupted reveal can be seen later",
+      "passed": true
+    },
+    {
+      "name": "Captured browser errors and warnings empty",
+      "passed": true
+    },
+    {
+      "name": "Packaged production files match dist",
+      "passed": true
+    },
+    {
+      "name": "Business configuration unchanged",
+      "passed": true
+    }
+  ],
+  "passed": 18,
+  "total": 18,
+  "packagedFiles": 52
+}

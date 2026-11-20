@@ -1,0 +1,22 @@
+Tool: built-in image_gen
+Purpose: static composition concept, not a runtime screenshot
+Selected version: 2
+Reference 1: public/assets/garden/quiet-garden.webp (approved watercolor art direction)
+Reference 2: generated first draft (layout only)
+
+Revise the storyboard using the TWO attached images with strict priority.
+Image 1 is the APPROVED ART DIRECTION. Match its pale airy watercolor, extremely soft pigment shapes, near-empty atmospheric areas, low-detail painted meadow and modest pink flowers. It is the mandatory visual reference.
+Image 2 is ONLY a layout and scene-sequence reference. Its photographic grass, realistic rabbit, many details, rocky walls, lakes, architecture and cinematic realism are wrong and must all be removed/repainted.
+
+Deliver ONE portrait sheet of THREE equal 16:9 landscape panels stacked with very narrow ivory caption gutters. A desktop website scene concept, simple, quiet, spacious and mysterious. The desired result is a TWO-DIMENSIONAL HAND-PAINTED ILLUSTRATION close to image 1, not a 3D render, realistic scene, matte painting or landscape photograph. Use broad flat shapes and translucent paint washes. All objects must have the same simple brush language. Do NOT meticulously render individual grasses, rocks, fur or foliage. Plain large watercolor masses should occupy most of each panel. Strong composition through shaped negative space, a near-edge shadow wash, a middle clearing and soft overlapping distance.
+
+Keep the SAME original rabbit in all three scenes: a tiny stylized cream-white round character, small dot eyes, short plump body, long soft ears with pink inside and one bent tip, small feet, subtle blush. A charming gently surreal illustrated character, NOT a realistic animal. About 7 percent of panel height. Its feet are anchored with a softly painted shadow.
+
+Panel 1: luminous ivory and pale powder-blue entrance, illustrated as in image 1. One broad sage meadow slope curves like a crescent around an open clearing. A simple pale path curves behind the slope; a few pink cosmos only near the left lower edge. Tiny rabbit in the clearing, listening towards the hidden path. A soft blue-green brush silhouette at the near lower edge, softly overlapping pale hills in the distance. Keep the upper half almost entirely airy pale washes. A small pearl moon. Small refined serif text upper left "A little way into wonder." Caption in narrow gutter "01 / A quiet beginning".
+
+Panel 2: a little further along that same path, muted lilac shade mixes into the pale blue and cream. A broad grassy bank partially conceals the destination. Tiny rabbit pauses by ONE pink flower and ONE ivory butterfly. A short loose willow twig at the upper right, not a large tree canopy. Through the opening beyond the bank, one tiny amber glow. Airborne light suggested by only a few delicate translucent specks. Clear shaped blank areas around the rabbit. Simple painted planes, no exposed rock wall. Caption "02 / Beyond the bend".
+
+Panel 3: same path entering a small clearing in soft misty lavender-blue twilight. ONE very simple small garden lantern, slender stem, softly painted warm amber light. Its warm wash touches the grass and the little rabbit resting to its left. Two or three pink flowers near its foot. Butterfly perched on a flower. Near edge is a muted blue brush silhouette; distant world disappears into airy soft pale lavender pigment. Preserve generous breathing room. Tiny serif hint beside lantern "Listen". Caption "03 / A small light remembers".
+
+Color and detail must stay restrained and close to image 1 across ALL panels. Panel 3 is slightly cooler, not a dark dramatic night scene. Aesthetic character is soft, naive, poetic and quietly playful. The composition should still work if all detail is removed. No realistic fur, no dense tiny flowers, no detailed grass carpet, no castles, no buildings, no lake, no mountains with hard peaks, no stone wall, no extensive forest, no rim-lit photographic leaves, no bokeh, no fantasy-game illustration, no ornamental UI, no big characters, no text paragraphs.
+

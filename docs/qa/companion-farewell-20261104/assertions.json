@@ -1,0 +1,18 @@
+{
+  "floof starts neutral, reaches response, settles": true,
+  "response does not move actor": true,
+  "reading freezes the response": true,
+  "closing reading returns exact actor and camera": true,
+  "static response snapshot freezes": true,
+  "static mode preserves actor and camera": true,
+  "natural final bird landing waits for approach": true,
+  "approach starts and finishes finite farewell": true,
+  "farewell includes visible bow": true,
+  "farewell includes single-wing gesture": true,
+  "bird stays planted during farewell": true,
+  "gift remains protected by the lock": true,
+  "lock close restores exact actor and camera": true,
+  "static bird snapshot matches settled pose and freezes": true,
+  "revisit does not replay farewell": true,
+  "no captured runtime errors or warnings": true
+}

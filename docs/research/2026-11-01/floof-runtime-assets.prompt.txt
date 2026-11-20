@@ -1,0 +1,17 @@
+Generated with the built-in image_gen tool, not CLI. Date: 2026-11-01.
+Reference: floof-clearing-concept-v1.png, the user-approved original concept.
+Both selected outputs are copied into the project; original generated files preserved.
+
+ASSET 1: public/art/floof/painted-leaf-bank-v1.png
+Transparent background: true.
+Original output: /Users/admin/.codex/generated_images/01a182b7-7195-7990-a8f7-341d47cc8041/exec-ab47f4b1-b7a3-4cb4-a6f4-f8abbfd7498c.png
+Prompt:
+Use case: background-extraction / illustration-story. Input image is an approved original game art reference. Create a standalone transparent PNG game sprite of ONLY a loose bank of painted blue leaves matching the lower-left foliage of the reference. Preserve the distinctive rough opaque dry-gouache brushwork, dusty midnight blue, desaturated teal blue, visible lavender and periwinkle scraped brush patches. 7 to 10 broad organic leaves, varied sizes and slants, rounded/tapered irregular tips, overlapping loosely, emerging from different stem bases in a low asymmetric bank. Thin stems, NOT cactus paddles, NOT an agave fan, NOT identical ovals. Foliage takes whole central canvas with 5% transparent margin; base at 94% height. Wider than tall, ~3:2. Each leaf has rich blocky paint and imperfect brushy edges. Keep pure transparent background around and between leaves, no ground, no grass lawn, no sky, no rabbit, no flowers, no text, no shadows, no frame. This will be a live wind-deformed foreground sprite, not a complete landscape.
+
+ASSET 2: public/art/floof/painted-ground-material-v1.png
+Transparent background: false.
+Original output: /Users/admin/.codex/generated_images/01a182b7-7195-7990-a8f7-341d47cc8041/exec-2683b676-e674-4f57-b206-b33eab211b3d.png
+Prompt:
+Use case: precise-object-edit. Use the attached approved game painting as a material/style reference. Produce a seamless, edge-to-edge, TOP-DOWN flat GROUND MATERIAL TEXTURE for a realtime 3D terrain. Preserve its wonderful dry gouache scumbling and broken paint, chalky opaque irregular brush strokes. ONLY abstract painted pigment: mostly muted celadon sage green with irregular desaturated teal patches and occasional pale warm cream dry brush flecks, understated periwinkle underpainting in sparse places. Medium scale painterly rough brush marks visible throughout, not photorealistic grass, not tiny noisy paper. No sky, no horizon, no shadows, no paths or rivers, no objects, no shrubs, no leaves, no flowers, no creature, no border, no text. Flat evenly lit orthographic material sample, not a complete perspective landscape. Wide 3:2 image. This is a material that will deform with an interactive sloping world mesh; it must not have baked perspective or a central composition. Keep low contrast broad pigments calm but retain crisp irregular brush stroke edges and rich gouache texture.
+
+Runtime notes: Original files are preserved. WebGL creates a muted sage leaf variant on canvas, preserving alpha; wind deforms the leaf mesh. Ground is a world-space material with 4-offset seam crossfade and authored slope colours. Neither asset is used as a fixed whole-screen scene.

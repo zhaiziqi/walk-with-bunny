@@ -1,0 +1,6 @@
+{
+  "restStayed": true,
+  "returnExact": true,
+  "movingAfterClose": "false",
+  "version": "soft-turn-stop-v3"
+}

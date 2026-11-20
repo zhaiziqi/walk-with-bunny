@@ -1,0 +1,12 @@
+PASS: a midway discovery is independent, immutable and repeatable without extra progress
+PASS: finding the mask neither opens the last gift nor supplies the password
+PASS: the optional rest view opens its parcel without granting any progress
+PASS: the last gift remains reachable when the optional rest stop was missed
+PASS: older saves restore final unlock without inventing a midway discovery
+PASS: only an explicit current-schema boolean is a saved discovery
+PASS: refresh preserves discovery while transient cover and route fields stay out of storage
+PASS: cross-tab merging keeps either discovered gift and converges without relocking
+PASS: a temporary playthrough saves the discovery only inside its own run
+9 trail gift progress checks passed.
+
+--- stderr ---

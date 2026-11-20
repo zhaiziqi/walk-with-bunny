@@ -1,0 +1,10 @@
+{
+  "src/App.tsx": true,
+  "src/scene/depthWorld.ts": true,
+  "src/scene/floofSceneryData.ts": true,
+  "src/scene/FloofTerrain.tsx": true,
+  "src/scene/FloofStatic.tsx": true,
+  "src/scene/ExplorationScene.tsx": true,
+  "src/scene/moonClearing.ts": true,
+  "dist/index.html": true
+}

@@ -1,0 +1,13 @@
+import assert from 'node:assert/strict';
+const {atlasEncounterSites,emptyAtlasInteraction,advanceAtlasInteraction,petalFlight,flockFlight}=await import('../src/scene/atlasInteraction.ts');
+let checks=0;
+function check(name,fn){fn();checks++;console.log(`PASS: ${name}`);}
+const site=atlasEncounterSites.find(s=>s.id==='orchard');
+check('proximity activates once and boundary hysteresis prevents repeated firing',()=>{let s=advanceAtlasInteraction(emptyAtlasInteraction(),site,200,.05,true,false);assert.equal(s.activations,1);for(let i=0;i<40;i++)s=advanceAtlasInteraction(s,site,site.radius+30,.05,true,false);assert.equal(s.activations,1);});
+check('leaving a site rearms its response',()=>{let s=advanceAtlasInteraction(emptyAtlasInteraction(),site,200,.05,true,false);s=advanceAtlasInteraction(s,site,1000,.05,true,false);s=advanceAtlasInteraction(s,site,200,.05,true,false);assert.equal(s.activations,2);});
+check('manual actions can replay a response once per serial and only nearby',()=>{let s=advanceAtlasInteraction(emptyAtlasInteraction(),site,1000,.05,true,false,{id:'orchard',serial:1});assert.equal(s.activations,0);s=advanceAtlasInteraction(s,site,200,.05,true,false,{id:'orchard',serial:1});assert.equal(s.activations,1);s=advanceAtlasInteraction(s,site,200,.05,true,false,{id:'orchard',serial:1});assert.equal(s.activations,1);s=advanceAtlasInteraction(s,site,200,.05,true,false,{id:'orchard',serial:2});assert.equal(s.activations,2);});
+check('reading freezes age, dwell and queued actions',()=>{const s=advanceAtlasInteraction(emptyAtlasInteraction(),site,200,.05,true,false);assert.equal(advanceAtlasInteraction(s,site,200,1,false,true,{id:'orchard',serial:4}),s);});
+check('stillness is required for quiet places and movement resets the timer',()=>{const quiet=atlasEncounterSites.find(s=>s.id==='arch');let s=emptyAtlasInteraction();for(let i=0;i<40;i++)s=advanceAtlasInteraction(s,quiet,100,.05,true,false);assert.equal(s.activations,0);for(let i=0;i<40;i++)s=advanceAtlasInteraction(s,quiet,100,.05,false,false);assert.equal(s.activations,1);});
+check('long frames do not skip encounter timing',()=>{const quiet=atlasEncounterSites.find(s=>s.id==='moon');const s=advanceAtlasInteraction(emptyAtlasInteraction(),quiet,100,50,false,false);assert.equal(s.activations,0);assert.equal(s.dwell,.05);});
+check('petals and birds have bounded, grounded flight endpoints',()=>{for(let i=0;i<16;i++){const p=petalFlight(30,i);assert.ok(p.z>=0&&p.z<20);assert.ok(Number.isFinite(p.x));}for(let i=0;i<5;i++){const b=flockFlight(30,i);assert.ok(b.landed);assert.ok(Math.abs(b.z-24)<1e-6);}});
+console.log(`${checks} atlas interaction checks passed.`);

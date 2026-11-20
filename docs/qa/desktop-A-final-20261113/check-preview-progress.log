@@ -1,0 +1,16 @@
+PASS: only explicit development preview links select temporary progress
+PASS: fresh hook never reads or writes a completed normal save
+PASS: refresh resumes temporary partial answers and the completed envelope
+PASS: preview still requires the original code and preserves unlock only in its run
+PASS: different runs and different tab stores do not inherit a prior playthrough
+PASS: normal storage events cannot grant answers or unlock a mounted preview
+PASS: session storage getter failures remain isolated and playable in memory
+PASS: session read or quota errors do not fall back to the saved game
+PASS: a failed session read cannot overwrite an unreadable previous temporary save
+PASS: malformed run URLs remain temporary and corrupted data restores blank
+PASS: normal development pages retain the saved game and cross-tab updates
+PASS: production builds ignore preview URL flags and never access session storage
+
+12 preview progress checks passed.
+
+--- stderr ---

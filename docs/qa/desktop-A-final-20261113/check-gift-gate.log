@@ -1,0 +1,9 @@
+PASS: the world size preserves the supplied PNG aspect and its measured ground anchor
+PASS: painted and fallback thresholds project to the same ground point in both rendering conventions
+PASS: the full threshold and both jambs lie on the existing level terrain
+PASS: nearby approaches retain the whole door above the controls on standard and wide desktops
+PASS: the reading camera retains the complete door and leaves the right-hand gift panel clear
+PASS: the moonlight field covers the door and approaching visitor and ends before earlier regions
+6 gift-gate geometry checks passed.
+
+--- stderr ---

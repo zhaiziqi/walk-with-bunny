@@ -1,0 +1,39 @@
+{
+  "build": [
+    "/assets/index-CiMauPUm.js"
+  ],
+  "fresh": {
+    "actorX": "0.000000",
+    "actorY": "-1800.000000",
+    "artVersion": "floof-clearing-v1",
+    "atlasPulse": "",
+    "cameraX": "0.000000",
+    "cameraY": "-1580.000000",
+    "cameraZoom": "1.000000",
+    "discovered": "",
+    "entered": "false",
+    "envelopeStored": "false",
+    "giftUnlocked": "false",
+    "headingX": "0.000000",
+    "headingY": "-1.000000",
+    "lastDrawId": "",
+    "lastSongId": "",
+    "motionVersion": "point-to-walk-v1",
+    "moving": "false",
+    "progressMode": "walk",
+    "puzzleSolved": "false",
+    "puzzleVersion": "computer-knowledge-v1",
+    "questionsSolved": "0",
+    "region": "entry",
+    "renderer": "webgl",
+    "sleepMaskFound": "false",
+    "sound": "off",
+    "storageStatus": "saved",
+    "view": "overview",
+    "visited": "entry",
+    "walkId": "5028e2d6-aa1f-4db1-af0b-097bb0713458",
+    "worldEvents": ""
+  },
+  "completedConsole": [],
+  "freshConsole": []
+}

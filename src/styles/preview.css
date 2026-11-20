@@ -1,0 +1,31 @@
+.preview-tools {
+  position: fixed;
+  right: 18px;
+  bottom: 15px;
+  z-index: 45;
+  display: grid;
+  gap: 5px;
+  max-width: 330px;
+  padding: 10px 13px;
+  border: 1px solid rgba(82, 104, 91, .17);
+  border-radius: 5px;
+  background: rgba(248, 246, 236, .92);
+  color: #506357;
+  font: 11px/1.5 Arial, sans-serif;
+  letter-spacing: .01em;
+}
+.preview-tools-status { color: #6e7a70; }
+.preview-tools-links { display: flex; flex-wrap: wrap; gap: 8px 18px; }
+.preview-tools a { color: inherit; text-underline-offset: 3px; }
+.preview-tools small { font: inherit; font-size: 10px; color: #6e7a70; }
+.preview-tools a:focus-visible { outline: 2px solid #516c5e; outline-offset: 3px; }
+.preview-tools.in-panel {
+  position: static;
+  max-width: none;
+  margin-top: 26px;
+  padding: 14px 0 0;
+  border: 0;
+  border-top: 1px dashed rgba(82, 104, 91, .23);
+  border-radius: 0;
+  background: none;
+}

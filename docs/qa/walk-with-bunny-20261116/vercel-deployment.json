@@ -1,0 +1,34 @@
+{
+  "status": "ok",
+  "deployment": {
+    "id": "dpl_H4PxxjD57Cah1pUUBvLYLwkGYvh4",
+    "url": "https://walk-with-bunny-7bucjk8b8-2242836389-1057.vercel.app",
+    "productionUrl": "https://walk-with-bunny.vercel.app",
+    "inspectorUrl": "https://vercel.com/2242836389-1057/walk-with-bunny/H4PxxjD57Cah1pUUBvLYLwkGYvh4",
+    "readyState": "READY",
+    "target": "production",
+    "environment": "production",
+    "deploymentApiUrl": "https://api.vercel.com/v13/deployments/dpl_H4PxxjD57Cah1pUUBvLYLwkGYvh4",
+    "buildMachine": {
+      "cores": 2,
+      "memory": 8192,
+      "machine": "basic",
+      "selectionType": "fixed",
+      "selectionSource": "plan-default"
+    },
+    "deploymentProtection": [
+      "vercel_authentication"
+    ]
+  },
+  "message": "Deployment walk-with-bunny-7bucjk8b8-2242836389-1057.vercel.app ready. Production URL: https://walk-with-bunny.vercel.app",
+  "next": [
+    {
+      "command": "vercel curl https://walk-with-bunny.vercel.app",
+      "when": "Verify deployment, including when Deployment Protection is enabled"
+    },
+    {
+      "command": "vercel inspect walk-with-bunny-7bucjk8b8-2242836389-1057.vercel.app --scope team_fndi0vSypp5CWWkJy2TIV7s9",
+      "when": "Inspect deployment"
+    }
+  ]
+}

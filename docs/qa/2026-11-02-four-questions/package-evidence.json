@@ -1,0 +1,32 @@
+{
+  "archive": "/Users/admin/Desktop/birthday-garden/releases/birthday-garden-desktop-preview-20261102.tar.gz",
+  "bytes": 17665177,
+  "sha256": "9a0a48e72f5dc751b9121b9dee74bcb66a948c104f1ea4c618d97e630b42a609",
+  "packageInfo": {
+    "kind": "birthday-garden-desktop-preview",
+    "builtAt": "2026-11-02T06:48:11.458Z",
+    "contentSha256": "8f1bbf94702be2b87dd588b7df46e460ec26b454de6519ec8762f0ff3c9bfd3b",
+    "status": "Desktop rehearsal build; see pending content below. Not a final gift delivery.",
+    "puzzleKind": "computer-knowledge-v1",
+    "progressVersion": 2,
+    "pendingSongIds": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "giftPlaceholder": false,
+    "giftName": "A passport holder & a sleep mask",
+    "giftReasonProvided": false,
+    "giftPhotoProvided": false,
+    "recipientNamePending": true,
+    "senderNamePending": true,
+    "note": "Original references, development source, dependencies and QA records are not included. The complete built local assets are retained."
+  },
+  "builtIndexMatchesPackage": true
+}
